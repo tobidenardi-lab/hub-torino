@@ -1,0 +1,40 @@
+{
+  "letterboxd_user": "tobi_2117",
+  "site_title": "Torino Culturale",
+  "include_extra_province_cinemas": false,
+  "mymovies": {
+    "base": "https://www.mymovies.it",
+    "cinemas": {
+      "Baretti": "6441",
+      "Centrale": "5132",
+      "Agnelli": "6098",
+      "Classico": "5070",
+      "Due Giardini": "5133",
+      "Eliseo": "5134",
+      "Esedra": "6273",
+      "Fratelli Marx": "5285",
+      "Greenwich Village": "6864",
+      "Ideal Cityplex": "5071",
+      "Massaua Cityplex": "5875",
+      "Massimo (MNC)": "20133",
+      "Movie Planet Lux": "4953",
+      "Nazionale": "4954",
+      "Reposi": "4956",
+      "Romano": "4957",
+      "Teatro Monterosa": "6465",
+      "The Space Torino": "5884",
+      "UCI Lingotto": "5410"
+    }
+  },
+  "massimo_calendar": "https://www.cinemamassimotorino.it/calendario-completo/",
+  "event_pages": [
+    {"name": "arte.it (mese corrente)", "url": "https://www.arte.it/calendario-arte/torino/{yyyy}/{mm}/", "months_ahead": 2},
+    {"name": "CAMERA", "url": "https://camera.to/mostre/"},
+    {"name": "Museo Nazionale del Cinema", "url": "https://www.museocinema.it/"},
+    {"name": "Turismo Torino - agenda", "url": "https://www.turismotorino.org/it/vivere/eventi/agenda"}
+  ],
+  "llm": {
+    "endpoint": "https://models.github.ai/inference/chat/completions",
+    "model": "openai/gpt-4.1-mini"
+  }
+}

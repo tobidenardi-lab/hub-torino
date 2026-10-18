@@ -1,0 +1,8 @@
+{
+  "_nota": "Correzioni manuali. Chiave = titolo italiano normalizzato (minuscolo, senza accenti) oppure slug MYmovies; valore = id TMDB del film. Si compila solo se un film non viene riconosciuto.",
+  "tmdb_by_title": {
+    "palestina 36 quando tutto ebbe inizio": 0,
+    "la citta dei vivi": 0
+  },
+  "ignora_titoli": []
+}

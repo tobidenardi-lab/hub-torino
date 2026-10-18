@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Torino Culturale</title>
+<style>
+:root{--bg:#f6f4ef;--card:#fff;--ink:#1d1d1f;--mute:#6b6b70;--line:#e3e0d8;--acc:#b5342b;--ok:#2e7d4f;--warn:#b26a00}
+@media (prefers-color-scheme:dark){:root{--bg:#141416;--card:#1e1e21;--ink:#ececee;--mute:#9a9aa1;--line:#323238;--acc:#e5675c;--ok:#5cc489;--warn:#e0a030}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 system-ui,sans-serif}
+header{padding:18px 24px 0;max-width:1100px;margin:auto}h1{margin:0;font-size:22px}
+.sub{color:var(--mute);font-size:12px}
+nav{display:flex;gap:4px;margin-top:12px;border-bottom:1px solid var(--line)}
+nav button{background:none;border:0;padding:9px 14px;font:inherit;color:var(--mute);cursor:pointer;border-bottom:2px solid transparent}
+nav button.on{color:var(--ink);border-color:var(--acc);font-weight:600}
+main{max-width:1100px;margin:auto;padding:16px 24px 60px}
+.bar{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:14px;align-items:center}
+.bar select,.bar input[type=search]{padding:6px 8px;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--ink);font:inherit}
+.bar label{font-size:13px;display:flex;gap:4px;align-items:center;color:var(--mute)}
+.warn{background:#fff3dc;color:#6a4400;border:1px solid #f0cf8a;padding:8px 12px;border-radius:8px;margin-bottom:12px;font-size:13px}
+@media (prefers-color-scheme:dark){.warn{background:#3a2e12;color:#f0d9a0;border-color:#6b5420}}
+.film{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px;margin-bottom:10px}
+.film h3{margin:0;font-size:16px}.film h3 small{color:var(--mute);font-weight:400}
+.badge{font-size:11px;padding:1px 7px;border-radius:10px;margin-left:6px;vertical-align:middle;color:#fff;background:var(--acc)}
+.badge.seen{background:var(--ok)}.badge.note{background:var(--warn)}
+.cin{margin-top:6px;font-size:13px}.cin b{display:inline-block;min-width:130px}
+.t{display:inline-block;padding:0 6px;margin:0 3px 2px 0;border:1px solid var(--line);border-radius:5px;font-variant-numeric:tabular-nums}
+.t.vo{border-color:var(--acc);color:var(--acc)}
+.friends{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}
+.fr{display:flex;align-items:center;gap:6px;cursor:pointer;background:var(--bg);border-radius:20px;padding:2px 10px 2px 2px;font-size:12px}
+.av{width:26px;height:26px;border-radius:50%;object-fit:cover;background:var(--mute);color:#fff;display:inline-flex;align-items:center;justify-content:center;font-size:11px;font-weight:600}
+.rev{margin:6px 0 0 4px;padding:8px 10px;border-left:3px solid var(--line);font-size:13px;white-space:pre-wrap;display:none}
+.rev.open{display:block}.star{color:var(--acc)}
+.ev{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 14px;margin-bottom:8px}
+.ev h3{margin:0;font-size:15px}.ev .m{color:var(--mute);font-size:12px}
+a{color:inherit}.mute{color:var(--mute)}
+</style>
+</head>
+<body>
+<header>
+<h1 id="ttl">Torino Culturale</h1>
+<div class="sub" id="gen"></div>
+<nav id="tabs"></nav>
+</header>
+<main id="main"></main>
+<script src="data.js"></script>
+<script>
+const H = window.HUB || {films:[],events:[],friends:[],health:{}};
+const $ = (s,e=document)=>e.querySelector(s);
+const esc = s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const stars = r=>r?("★".repeat(Math.floor(r))+(r%1?"½":"")):"";
+const fdate = d=>d?new Date(d+"T12:00").toLocaleDateString("it-IT",{day:"numeric",month:"short"}):"";
+const fmap = Object.fromEntries((H.friends||[]).map(f=>[f.user,f]));
+const st = {tab:"cinema", day:H.today, cin:"", q:"", wl:false, fr:false, hideSeen:false, tag:"", sort:"end"};
+try{Object.assign(st, JSON.parse(localStorage.getItem("hubst")||"{}"), {day:H.today});}catch(e){}
+const save=()=>{try{localStorage.setItem("hubst",JSON.stringify({...st,day:null}))}catch(e){}};
+
+function avatar(u){
+  const f=fmap[u]||{user:u,name:u};
+  return f.avatar?`<img class="av" src="${esc(f.avatar)}" alt="">`
+    :`<span class="av">${esc((f.name||u).slice(0,2).toUpperCase())}</span>`;
+}
+function health(){
+  const bad=Object.entries(H.health||{}).filter(([k,v])=>!v.ok);
+  return bad.length?`<div class="warn">⚠ Fonti non aggiornate: ${bad.map(([k,v])=>esc(k)+(v.last_ok?` (ultimo ok ${esc(v.last_ok)})`:"")).join(" · ")}</div>`:"";
+}
+function cinemaView(){
+  const days=[...new Set(H.films.flatMap(f=>f.showings.map(s=>s.date)))].sort();
+  const cins=[...new Set(H.films.flatMap(f=>f.showings.map(s=>s.cinema)))].sort();
+  if(!days.includes(st.day)) st.day=days.includes(H.today)?H.today:(days[0]||H.today);
+  let list=H.films.map(f=>({...f,sh:f.showings.filter(s=>s.date===st.day&&(!st.cin||s.cinema===st.cin))})).filter(f=>f.sh.length);
+  if(st.q) list=list.filter(f=>(f.title+" "+(f.director||"")).toLowerCase().includes(st.q.toLowerCase()));
+  if(st.wl) list=list.filter(f=>f.watchlist);
+  if(st.fr) list=list.filter(f=>f.seen_by.length);
+  if(st.hideSeen) list=list.filter(f=>!f.i_seen);
+  list.sort((a,b)=>(b.watchlist-a.watchlist)||(b.seen_by.length-a.seen_by.length)||a.title.localeCompare(b.title));
+  const bar=`<div class="bar">
+   <select id="day">${days.map(d=>`<option value="${d}" ${d===st.day?"selected":""}>${d===H.today?"Oggi":fdate(d)}</option>`).join("")}</select>
+   <select id="cin"><option value="">Tutti i cinema</option>${cins.map(c=>`<option ${c===st.cin?"selected":""}>${esc(c)}</option>`).join("")}</select>
+   <input type="search" id="q" placeholder="Cerca titolo o regista" value="${esc(st.q)}">
+   <label><input type="checkbox" id="wl" ${st.wl?"checked":""}>Watchlist</label>
+   <label><input type="checkbox" id="fr" ${st.fr?"checked":""}>Visti dai seguiti</label>
+   <label><input type="checkbox" id="hs" ${st.hideSeen?"checked":""}>Nascondi già visti</label>
+   <span class="mute">${list.length} film</span></div>`;
+  const cards=list.map((f,i)=>{
+    const byc={};f.sh.forEach(s=>(byc[s.cinema]=byc[s.cinema]||[]).push(s));
+    const cl=Object.entries(byc).map(([c,ss])=>`<div class="cin"><b>${esc(c)}</b>${ss.map(s=>s.times.map(t=>`<span class="t ${t.vo?"vo":""}" title="${t.vo?"versione originale":""}">${t.t}</span>`).join("")+(s.room?`<span class="mute">${esc(s.room)}</span>`:"")).join("")}</div>`).join("");
+    const fr=f.seen_by.map((s,j)=>`<div><div class="fr" data-r="r${i}_${j}">${avatar(s.user)}<span>${esc((fmap[s.user]||{}).name||s.user)}</span><span class="star">${stars(s.rating)}</span>${s.like?"♥":""}${s.review?" 💬":""}</div>
+      <div class="rev" id="r${i}_${j}">${s.review?esc(s.review):"<i>Nessuna recensione</i>"} ${s.url?`<br><a href="${esc(s.url)}" target="_blank" rel="noopener">su Letterboxd</a>`:""}</div></div>`).join("");
+    return `<div class="film"><h3>${esc(f.title)} <small>${f.year||""}${f.director?" · "+esc(f.director):""}</small>
+      ${f.watchlist?'<span class="badge">watchlist</span>':""}${f.i_seen?'<span class="badge seen">visto</span>':""}</h3>
+      ${f.notes.length?`<div class="cin"><span class="badge note">speciale</span> ${esc(f.notes.join(" · "))}</div>`:""}
+      ${cl}${fr?`<div class="friends">${fr}</div>`:""}
+      ${f.lb_url?`<div class="cin"><a class="mute" href="${esc(f.lb_url)}" target="_blank" rel="noopener">Letterboxd ↗</a></div>`:""}</div>`;
+  }).join("");
+  return bar+(cards||'<p class="mute">Nessun film con questi filtri.</p>');
+}
+function eventsView(kind){
+  const tags=kind==="mostre"?null:null;
+  let ev=H.events.filter(e=>kind==="mostre"?e.kind==="mostra":e.kind!=="mostra");
+  if(st.tag) ev=ev.filter(e=>e.tag===st.tag);
+  ev=ev.filter(e=>!e.end||e.end>=H.today);
+  ev.sort((a,b)=>(a.end||"9999").localeCompare(b.end||"9999"));
+  const bar=`<div class="bar"><select id="tag"><option value="">Tutti i temi</option>${["cinema","fotografia","arte","altro"].map(t=>`<option ${t===st.tag?"selected":""}>${t}</option>`).join("")}</select><span class="mute">${ev.length} risultati, in ordine di scadenza</span></div>`;
+  const days=e=>{if(!e.end)return"";const d=Math.round((new Date(e.end)-new Date(H.today))/864e5);return d<=0?"ultimo giorno":d<=14?`finisce tra ${d} giorni`:""};
+  return bar+ev.map(e=>`<div class="ev"><h3>${e.url?`<a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a>`:esc(e.title)}
+    <span class="badge note">${esc(e.tag||"")}</span></h3>
+    <div class="m">${esc(e.venue||"")} · ${e.start?fdate(e.start):"?"} → ${e.end?fdate(e.end):"?"} ${days(e)?`· <b style="color:var(--acc)">${days(e)}</b>`:""} · ${esc(e.kind||"")}</div>
+    ${e.desc?`<div>${esc(e.desc)}</div>`:""}</div>`).join("")||'<p class="mute">Niente da mostrare.</p>';
+}
+function render(){
+  $("#ttl").textContent=H.title||"Torino Culturale";
+  $("#gen").textContent=H.generated?("Aggiornato il "+H.generated):"Nessun dato ancora";
+  $("#tabs").innerHTML=[["cinema","Cinema"],["mostre","Mostre"],["eventi","Eventi e conferenze"]].map(([k,l])=>`<button data-t="${k}" class="${st.tab===k?"on":""}">${l}</button>`).join("");
+  $("#main").innerHTML=health()+(st.tab==="cinema"?cinemaView():eventsView(st.tab));
+  bind();
+}
+function bind(){
+  document.querySelectorAll("#tabs button").forEach(b=>b.onclick=()=>{st.tab=b.dataset.t;save();render()});
+  const on=(id,fn)=>{const e=$(id);if(e)e.onchange=()=>{fn(e);save();render()}};
+  on("#day",e=>st.day=e.value);on("#cin",e=>st.cin=e.value);on("#tag",e=>st.tag=e.value);
+  on("#wl",e=>st.wl=e.checked);on("#fr",e=>st.fr=e.checked);on("#hs",e=>st.hideSeen=e.checked);
+  const q=$("#q");if(q)q.oninput=()=>{st.q=q.value;const p=q.selectionStart;render();const n=$("#q");n.focus();n.setSelectionRange(p,p)};
+  document.querySelectorAll(".fr").forEach(f=>f.onclick=()=>$("#"+f.dataset.r).classList.toggle("open"));
+}
+render();
+</script>
+</body>
+</html>
