@@ -1,31 +1,6 @@
 {
  "shows": [
   {
-   "date": "2026-10-16",
-   "times": [
-    "16:00",
-    "21:00"
-   ],
-   "title": "Fatherland",
-   "director": "P. Pawlikowski",
-   "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-10-16",
-   "times": [
-    "16:00",
-    "18:15",
-    "20:30"
-   ],
-   "title": "Fatherland",
-   "director": "P. Pawlikowski",
-   "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
    "date": "2026-10-19",
    "times": [
     "16:00"
@@ -97,19 +72,6 @@
    "date": "2026-10-21",
    "times": [
     "16:00",
-    "18:00",
-    "20:30"
-   ],
-   "title": "Balcanica",
-   "director": "N. Sorcinelli",
-   "year": 2026,
-   "room": "Sala 2",
-   "note": ""
-  },
-  {
-   "date": "2026-10-21",
-   "times": [
-    "16:00",
     "18:15",
     "20:45"
    ],
@@ -141,105 +103,6 @@
    "year": 1996,
    "room": null,
    "note": "Il film è introdotto da Carlo Brosio"
-  },
-  {
-   "date": "2026-10-16",
-   "times": [
-    "16:30"
-   ],
-   "title": "I vivi e i morti",
-   "director": "R. Corman",
-   "year": 1960,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-10-16",
-   "times": [
-    "18:30"
-   ],
-   "title": "L’odio esplode a Dallas",
-   "director": "R. Corman",
-   "year": 1964,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-10-16",
-   "times": [
-    "20:30"
-   ],
-   "title": "Il cinema secondo Corman",
-   "director": "Giulio Laroni",
-   "year": 2025,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-10-17",
-   "times": [
-    "16:30"
-   ],
-   "title": "I vivi e i morti",
-   "director": "R. Corman",
-   "year": 1960,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-10-17",
-   "times": [
-    "18:30"
-   ],
-   "title": "La maschera della morte rossa",
-   "director": "R. Corman",
-   "year": 1964,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-10-17",
-   "times": [
-    "20:30"
-   ],
-   "title": "L’uomo dagli occhi ai raggi X",
-   "director": "R. Corman",
-   "year": 1963,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-10-18",
-   "times": [
-    "16:30"
-   ],
-   "title": "Il massacro del giorno di San Valentino",
-   "director": "R. Gorman",
-   "year": 1967,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-10-18",
-   "times": [
-    "18:30"
-   ],
-   "title": "I selvaggi",
-   "director": "R. Corman",
-   "year": 1966,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-10-18",
-   "times": [
-    "20:30"
-   ],
-   "title": "La legge del mitra",
-   "director": "R. Corman",
-   "year": 1958,
-   "room": null,
-   "note": ""
   },
   {
    "date": "2026-10-19",
@@ -306,28 +169,6 @@
    "year": 2025,
    "room": null,
    "note": "Il film è introdotto da Florencia Santucho"
-  },
-  {
-   "date": "2026-10-21",
-   "times": [
-    "18:00"
-   ],
-   "title": "M – Il mostro di Düsseldorf",
-   "director": "F. Lang",
-   "year": 1931,
-   "room": "Sala 1",
-   "note": "Il film è introdotto da Paola Valentini"
-  },
-  {
-   "date": "2026-10-21",
-   "times": [
-    "21:00"
-   ],
-   "title": "Crash",
-   "director": "D. Cronenberg",
-   "year": 1996,
-   "room": "Sala 2",
-   "note": "Il film è introdotto da Carlo Brosio"
   },
   {
    "date": "2026-10-26",
