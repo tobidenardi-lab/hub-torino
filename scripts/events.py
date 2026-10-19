@@ -21,7 +21,7 @@ Usa tag "fotografia" per mostre di fotografia, "cinema" per tutto ciò che rigua
 Escludi eventi già finiti. Non inventare date: se non sono nel testo usa null."""
 
 
-def page_text(html_text, limit=60000):
+def page_text(html_text, limit=30000):
     soup = BeautifulSoup(html_text, "html.parser")
     for t in soup(["script", "style", "nav", "footer", "header", "form", "noscript"]):
         t.decompose()
@@ -35,9 +35,21 @@ def page_text(html_text, limit=60000):
     return text[:limit]
 
 
-def _chunks(text, size=14000):
+def _chunks(text, size=15000):
     for i in range(0, len(text), size):
         yield text[i:i + size]
+
+
+def _parse_json(text):
+    text = (text or "").strip()
+    text = re.sub(r"^```(?:json)?|```$", "", text, flags=re.M).strip()
+    try:
+        return json.loads(text)
+    except Exception:
+        m = re.search(r"\{.*\}", text, re.S)
+        if m:
+            return json.loads(m.group(0))
+        raise ValueError("risposta non JSON: " + text[:120].replace("\n", " "))
 
 
 def llm_extract(text, cfg, token):
@@ -48,13 +60,18 @@ def llm_extract(text, cfg, token):
             "messages": [{"role": "system", "content": PROMPT.format(today=dt.date.today().isoformat())},
                          {"role": "user", "content": chunk}],
             "temperature": 0,
-            "response_format": {"type": "json_object"},
         }
         r = requests.post(cfg["llm"]["endpoint"], json=body, timeout=120,
-                          headers={"Authorization": f"Bearer {token}", "User-Agent": UA})
-        r.raise_for_status()
-        data = json.loads(r.json()["choices"][0]["message"]["content"])
-        items += data.get("items", [])
+                          headers={"Authorization": f"Bearer {token}", "User-Agent": UA,
+                                   "Accept": "application/json", "X-GitHub-Api-Version": "2022-11-28"})
+        if r.status_code != 200:
+            raise RuntimeError(f"LLM HTTP {r.status_code}: {r.text[:150]}")
+        try:
+            content = r.json()["choices"][0]["message"]["content"]
+        except Exception:
+            raise RuntimeError("LLM risposta anomala: " + r.text[:150].replace("\n", " "))
+        data = _parse_json(content)
+        items += data.get("items", []) if isinstance(data, dict) else []
     return items
 
 

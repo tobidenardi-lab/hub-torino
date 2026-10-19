@@ -23,6 +23,8 @@ def parse_cinema_page(html_text):
             if m and len(title) > 1 and title.lower() not in ("scheda", "scheda film", "trailer", "leggi tutto"):
                 if cur and cur["slug"] == m.group(2):
                     continue
+                if title.isupper() and len(title) > 3:
+                    title = re.sub(r"(?<=\w)'(S)\b", "'s", title.title())
                 cur = {"title": title, "year": int(m.group(1)), "slug": m.group(2), "times": []}
                 films.append(cur)
                 vo = False

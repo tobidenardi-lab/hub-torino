@@ -81,16 +81,23 @@ def parse_following(html_text):
 
 
 def fetch_following(user):
+    """Pagina 1 obbligatoria; le pagine successive sono facoltative (se falliscono teniamo quanto già letto)."""
     people, page = {}, 1
     while page <= 6:
         url = f"{BASE}/{user}/following/" + (f"page/{page}/" if page > 1 else "")
-        r = get(url)
-        found = parse_following(r.text)
+        try:
+            found = parse_following(get(url).text)
+        except Exception:
+            if page == 1:
+                raise
+            break
         new = [p for p in found if p["user"] not in people and p["user"] != user]
         if not new:
             break
         for p in new:
             people[p["user"]] = p
+        if len(found) < 20:  # pagina non piena: era l'ultima
+            break
         page += 1
     return list(people.values())
 
