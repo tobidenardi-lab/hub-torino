@@ -3,63 +3,70 @@
   "ok": true,
   "count": 47,
   "note": "",
-  "checked": "2026-10-19 00:33 UTC",
+  "checked": "2026-10-19 00:53 UTC",
   "last_ok": "2026-10-19"
  },
  "massimo_calendario": {
   "ok": true,
   "count": 46,
   "note": "",
-  "checked": "2026-10-19 00:33 UTC",
+  "checked": "2026-10-19 00:53 UTC",
   "last_ok": "2026-10-19"
  },
  "letterboxd_seguiti": {
-  "ok": false,
-  "count": 0,
-  "note": "HTTP 403 su https://letterboxd.com/tobi_2117/following/page/2/",
-  "checked": "2026-10-19 00:33 UTC",
-  "last_ok": ""
+  "ok": true,
+  "count": 24,
+  "note": "",
+  "checked": "2026-10-19 00:53 UTC",
+  "last_ok": "2026-10-19"
  },
  "letterboxd_diari": {
   "ok": true,
-  "count": 1,
+  "count": 25,
   "note": "",
-  "checked": "2026-10-19 00:33 UTC",
+  "checked": "2026-10-19 00:54 UTC",
   "last_ok": "2026-10-19"
  },
  "letterboxd_watchlist": {
   "ok": true,
   "count": 162,
   "note": "",
-  "checked": "2026-10-19 00:33 UTC",
+  "checked": "2026-10-19 00:54 UTC",
   "last_ok": "2026-10-19"
  },
  "eventi: arte.it (mese corrente)": {
   "ok": false,
   "count": 0,
-  "note": "Expecting value: line 1 column 1 (char 0)",
-  "checked": "2026-10-19 00:33 UTC",
+  "note": "LLM risposta anomala: OK\r ",
+  "checked": "2026-10-19 00:54 UTC",
   "last_ok": ""
  },
  "eventi: CAMERA": {
   "ok": false,
   "count": 0,
-  "note": "HTTP 404 su https://camera.to/mostre/",
-  "checked": "2026-10-19 00:34 UTC",
+  "note": "LLM risposta anomala: OK\r ",
+  "checked": "2026-10-19 00:54 UTC",
   "last_ok": ""
  },
  "eventi: Museo Nazionale del Cinema": {
   "ok": false,
   "count": 0,
-  "note": "Expecting value: line 1 column 1 (char 0)",
-  "checked": "2026-10-19 00:34 UTC",
+  "note": "LLM risposta anomala: OK\r ",
+  "checked": "2026-10-19 00:54 UTC",
   "last_ok": ""
  },
  "eventi: Turismo Torino - agenda": {
   "ok": false,
   "count": 0,
-  "note": "HTTP 404 su https://www.turismotorino.org/it/vivere/eventi/agenda",
-  "checked": "2026-10-19 00:34 UTC",
+  "note": "LLM risposta anomala: OK\r ",
+  "checked": "2026-10-19 00:54 UTC",
+  "last_ok": ""
+ },
+ "eventi: CAMERA - agenda": {
+  "ok": false,
+  "count": 0,
+  "note": "LLM risposta anomala: OK\r ",
+  "checked": "2026-10-19 00:54 UTC",
   "last_ok": ""
  }
 }
