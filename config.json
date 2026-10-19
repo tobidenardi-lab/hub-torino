@@ -29,9 +29,10 @@
   "massimo_calendar": "https://www.cinemamassimotorino.it/calendario-completo/",
   "event_pages": [
     {"name": "arte.it (mese corrente)", "url": "https://www.arte.it/calendario-arte/torino/{yyyy}/{mm}/", "months_ahead": 2},
-    {"name": "CAMERA", "url": "https://camera.to/mostre/"},
+    {"name": "CAMERA", "url": "https://camera.to/contenuti-mostre/"},
     {"name": "Museo Nazionale del Cinema", "url": "https://www.museocinema.it/"},
-    {"name": "Turismo Torino - agenda", "url": "https://www.turismotorino.org/it/vivere/eventi/agenda"}
+    {"name": "CAMERA - agenda", "url": "https://camera.to/agenda/"},
+    {"name": "Turismo Torino - agenda", "url": "https://turismotorino.org/it/visita/eventi/agenda"}
   ],
   "llm": {
     "endpoint": "https://models.github.ai/inference/chat/completions",
