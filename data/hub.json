@@ -1,0 +1,2133 @@
+{
+ "generated": "19/10/2026 00:34 UTC",
+ "today": "2026-10-19",
+ "title": "Torino Culturale",
+ "me": "tobi_2117",
+ "friends": [],
+ "films": [
+  {
+   "title": "Balcanica",
+   "year": 2026,
+   "slug": null,
+   "director": "N. Sorcinelli",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-21",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      },
+      {
+       "t": "18:00",
+       "vo": false
+      },
+      {
+       "t": "20:30",
+       "vo": false
+      }
+     ],
+     "room": "Sala 2"
+    }
+   ],
+   "notes": [],
+   "tmdb": 1702462,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1702462/"
+  },
+  {
+   "title": "Ballata Femmenella",
+   "year": 2026,
+   "slug": null,
+   "director": "E.R. Melucci/G. B. Origo",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "20:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1640468,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1640468/"
+  },
+  {
+   "title": "LA BAMBOLA",
+   "year": 2026,
+   "slug": "la-bambola",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Centrale",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "15:30",
+       "vo": false
+      },
+      {
+       "t": "16:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1309396,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1309396/"
+  },
+  {
+   "title": "THE BIBI FILES",
+   "year": 2024,
+   "slug": "the-bibi-files",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Centrale",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "17:00",
+       "vo": true
+      },
+      {
+       "t": "17:30",
+       "vo": true
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1353263,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1353263/"
+  },
+  {
+   "title": "CALLE MALAGA",
+   "year": 2025,
+   "slug": "calle-malaga",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Classico",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "15:30",
+       "vo": false
+      },
+      {
+       "t": "18:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1399462,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1399462/"
+  },
+  {
+   "title": "CARLO ACUTIS - IL GIOVANE SANTO",
+   "year": 2026,
+   "slug": "carlo-acutis-il-giovane-santo",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Reposi",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "15:30",
+       "vo": false
+      },
+      {
+       "t": "20:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Teatro Monterosa",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "21:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1634864,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1634864/"
+  },
+  {
+   "title": "Il cinema secondo Corman",
+   "year": 2025,
+   "slug": null,
+   "director": "Giulio Laroni",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-16",
+     "times": [
+      {
+       "t": "20:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1565774,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1565774/"
+  },
+  {
+   "title": "LA CITTÀ DEI VIVI",
+   "year": 2026,
+   "slug": "la-citta-dei-vivi",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Reposi",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "17:40",
+       "vo": false
+      },
+      {
+       "t": "19:50",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1632103,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1632103/"
+  },
+  {
+   "title": "Il clan dei Barker",
+   "year": 1970,
+   "slug": null,
+   "director": "R. Corman",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "16:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 31581,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/31581/"
+  },
+  {
+   "title": "Cous Cous",
+   "year": 2007,
+   "slug": null,
+   "director": "A. Kechiche",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-27",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-29",
+     "times": [
+      {
+       "t": "15:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 8280,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/8280/"
+  },
+  {
+   "title": "Crash",
+   "year": 1996,
+   "slug": null,
+   "director": "D. Cronenberg",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-21",
+     "times": [
+      {
+       "t": "21:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-21",
+     "times": [
+      {
+       "t": "21:00",
+       "vo": false
+      }
+     ],
+     "room": "Sala 2"
+    }
+   ],
+   "notes": [
+    "Il film è introdotto da Carlo Brosio"
+   ],
+   "tmdb": 884,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/884/"
+  },
+  {
+   "title": "I diavoli",
+   "year": 1971,
+   "slug": null,
+   "director": "K. Russell",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-21",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      },
+      {
+       "t": "18:15",
+       "vo": false
+      },
+      {
+       "t": "20:45",
+       "vo": false
+      }
+     ],
+     "room": "Sala 2"
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-21",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      },
+      {
+       "t": "18:15",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 31767,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/31767/"
+  },
+  {
+   "title": "DIGGER",
+   "year": 2026,
+   "slug": "digger-1",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Eliseo",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      },
+      {
+       "t": "16:45",
+       "vo": false
+      },
+      {
+       "t": "18:30",
+       "vo": false
+      },
+      {
+       "t": "19:15",
+       "vo": false
+      },
+      {
+       "t": "21:00",
+       "vo": false
+      },
+      {
+       "t": "21:45",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Greenwich Village",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "15:30",
+       "vo": false
+      },
+      {
+       "t": "18:00",
+       "vo": true
+      },
+      {
+       "t": "20:45",
+       "vo": true
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Nazionale",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "17:15",
+       "vo": true
+      },
+      {
+       "t": "19:15",
+       "vo": false
+      },
+      {
+       "t": "21:30",
+       "vo": true
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1248832,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1248832/"
+  },
+  {
+   "title": "ERA MEGLIO DOMANI",
+   "year": 2025,
+   "slug": "era-meglio-domani",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Romano",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "17:15",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1284496,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1284496/"
+  },
+  {
+   "title": "L'ESTRANEA",
+   "year": 2026,
+   "slug": "lestranea",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Fratelli Marx",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      },
+      {
+       "t": "18:30",
+       "vo": false
+      },
+      {
+       "t": "20:45",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Nazionale",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      },
+      {
+       "t": "18:30",
+       "vo": false
+      },
+      {
+       "t": "21:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Reposi",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "15:30",
+       "vo": false
+      },
+      {
+       "t": "17:40",
+       "vo": false
+      },
+      {
+       "t": "19:50",
+       "vo": false
+      },
+      {
+       "t": "22:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1412795,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": true,
+   "lb_url": "https://letterboxd.com/tmdb/1412795/"
+  },
+  {
+   "title": "Fatherland",
+   "year": 2026,
+   "slug": "fatherland",
+   "director": "P. Pawlikowski",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-16",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      },
+      {
+       "t": "21:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-16",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      },
+      {
+       "t": "18:15",
+       "vo": false
+      },
+      {
+       "t": "20:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Nazionale",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "15:15",
+       "vo": false
+      },
+      {
+       "t": "17:30",
+       "vo": true
+      },
+      {
+       "t": "19:45",
+       "vo": false
+      },
+      {
+       "t": "21:45",
+       "vo": true
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-20",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      },
+      {
+       "t": "18:15",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-21",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      },
+      {
+       "t": "20:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1437696,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1437696/"
+  },
+  {
+   "title": "I FIGLI DELLA SCIMMIA",
+   "year": 2026,
+   "slug": "i-figli-della-scimmia",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Agnelli",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "18:00",
+       "vo": false
+      },
+      {
+       "t": "21:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1554129,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1554129/"
+  },
+  {
+   "title": "HEART OF THE BEAST - NEL PROFONDO SELVAGGIO",
+   "year": 2026,
+   "slug": "heart-of-the-beast",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Reposi",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "15:30",
+       "vo": false
+      },
+      {
+       "t": "17:40",
+       "vo": false
+      },
+      {
+       "t": "22:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1263337,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1263337/"
+  },
+  {
+   "title": "Identidad",
+   "year": 2025,
+   "slug": null,
+   "director": "F. Santucho e R. Vásquez-Salessi",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-20",
+     "times": [
+      {
+       "t": "21:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [
+    "Il film è introdotto da Florencia Santucho"
+   ],
+   "tmdb": 1546843,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1546843/"
+  },
+  {
+   "title": "THE INVITE - IL PIACERE È TUTTO NOSTRO",
+   "year": 2026,
+   "slug": "the-invite",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Eliseo",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      },
+      {
+       "t": "21:35",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 950028,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/950028/"
+  },
+  {
+   "title": "JE SO' PAZZO",
+   "year": 2026,
+   "slug": "je-so-pazzo",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Eliseo",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "16:30",
+       "vo": false
+      },
+      {
+       "t": "19:30",
+       "vo": false
+      },
+      {
+       "t": "21:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Greenwich Village",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      },
+      {
+       "t": "18:15",
+       "vo": false
+      },
+      {
+       "t": "20:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Reposi",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "15:30",
+       "vo": false
+      },
+      {
+       "t": "15:31",
+       "vo": false
+      },
+      {
+       "t": "17:40",
+       "vo": false
+      },
+      {
+       "t": "19:50",
+       "vo": false
+      },
+      {
+       "t": "22:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Romano",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "15:30",
+       "vo": false
+      },
+      {
+       "t": "17:30",
+       "vo": false
+      },
+      {
+       "t": "19:30",
+       "vo": false
+      },
+      {
+       "t": "21:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1438966,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1438966/"
+  },
+  {
+   "title": "La legge del mitra",
+   "year": 1958,
+   "slug": null,
+   "director": "R. Corman",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-18",
+     "times": [
+      {
+       "t": "20:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 43119,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/43119/"
+  },
+  {
+   "title": "L’odio esplode a Dallas",
+   "year": 1964,
+   "slug": null,
+   "director": "R. Corman",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-16",
+     "times": [
+      {
+       "t": "18:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": null,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": null
+  },
+  {
+   "title": "L’uomo dagli occhi ai raggi X",
+   "year": 1963,
+   "slug": null,
+   "director": "R. Corman",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-17",
+     "times": [
+      {
+       "t": "20:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": null,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": null
+  },
+  {
+   "title": "M – Il mostro di Dusseldorf",
+   "year": 1931,
+   "slug": null,
+   "director": "F. Lang",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-21",
+     "times": [
+      {
+       "t": "18:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-21",
+     "times": [
+      {
+       "t": "18:00",
+       "vo": false
+      }
+     ],
+     "room": "Sala 1"
+    }
+   ],
+   "notes": [
+    "Il film è introdotto da Paola Valentini"
+   ],
+   "tmdb": 832,
+   "seen_by": [],
+   "watchlist": true,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/832/"
+  },
+  {
+   "title": "La maschera della morte rossa",
+   "year": 1964,
+   "slug": null,
+   "director": "R. Corman",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-17",
+     "times": [
+      {
+       "t": "18:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 25319,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/25319/"
+  },
+  {
+   "title": "Il massacro del giorno di San Valentino",
+   "year": 1967,
+   "slug": null,
+   "director": "R. Gorman",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-18",
+     "times": [
+      {
+       "t": "16:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-20",
+     "times": [
+      {
+       "t": "18:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 42702,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/42702/"
+  },
+  {
+   "title": "Mektoub. My Love – Canto Due",
+   "year": 2025,
+   "slug": null,
+   "director": "A. Kechiche",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-30",
+     "times": [
+      {
+       "t": "20:45",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 661568,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/661568/"
+  },
+  {
+   "title": "Mektub, My Love – Canto Uno",
+   "year": 2017,
+   "slug": null,
+   "director": "A. Kechiche",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-28",
+     "times": [
+      {
+       "t": "20:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": null,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": null
+  },
+  {
+   "title": "NAZA",
+   "year": 2026,
+   "slug": "naza",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Agnelli",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "19:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Centrale",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "13:30",
+       "vo": true
+      },
+      {
+       "t": "19:00",
+       "vo": true
+      },
+      {
+       "t": "21:15",
+       "vo": true
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Eliseo",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "15:15",
+       "vo": false
+      },
+      {
+       "t": "18:15",
+       "vo": false
+      },
+      {
+       "t": "20:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Fratelli Marx",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "16:15",
+       "vo": false
+      },
+      {
+       "t": "18:00",
+       "vo": false
+      },
+      {
+       "t": "19:45",
+       "vo": false
+      },
+      {
+       "t": "21:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Nazionale",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "15:45",
+       "vo": false
+      },
+      {
+       "t": "18:15",
+       "vo": false
+      },
+      {
+       "t": "20:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1755291,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1755291/"
+  },
+  {
+   "title": "NESSUN DOLORE",
+   "year": 2026,
+   "slug": "nessun-dolore",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Romano",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "15:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1594043,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1594043/"
+  },
+  {
+   "title": "Ocean Film Festival",
+   "year": null,
+   "slug": null,
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "20:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": null,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": null
+  },
+  {
+   "title": "PALESTINA 36 - QUANDO TUTTO EBBE INIZIO",
+   "year": 2025,
+   "slug": "palestina-36",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Greenwich Village",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "15:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1432596,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1432596/"
+  },
+  {
+   "title": "UN PO' DI LUCE",
+   "year": 2026,
+   "slug": "un-po-di-luce",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Baretti",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "10:30",
+       "vo": false
+      },
+      {
+       "t": "18:00",
+       "vo": false
+      },
+      {
+       "t": "21:00",
+       "vo": true
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1736490,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1736490/"
+  },
+  {
+   "title": "Il pozzo e il pendolo",
+   "year": 1961,
+   "slug": null,
+   "director": "R.Corman",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "18:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 28501,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/28501/"
+  },
+  {
+   "title": "PRIMETIME",
+   "year": 2026,
+   "slug": "primetime",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Centrale",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "19:00",
+       "vo": true
+      },
+      {
+       "t": "21:15",
+       "vo": true
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Greenwich Village",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      },
+      {
+       "t": "18:30",
+       "vo": true
+      },
+      {
+       "t": "21:00",
+       "vo": true
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1375441,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1375441/"
+  },
+  {
+   "title": "Recensione ❯",
+   "year": 2026,
+   "slug": "the-social-il-prezzo-della-verita",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Greenwich Village",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "21:00",
+       "vo": true
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": null,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": null
+  },
+  {
+   "title": "The Rocky Horror Picture Show",
+   "year": 1975,
+   "slug": null,
+   "director": "J. Sharman",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-26",
+     "times": [
+      {
+       "t": "15:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-29",
+     "times": [
+      {
+       "t": "18:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-30",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-31",
+     "times": [
+      {
+       "t": "20:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 36685,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/36685/"
+  },
+  {
+   "title": "Sala – Due I fratelli segreto",
+   "year": 2025,
+   "slug": null,
+   "director": "F. Ferrone, M. Manzolini",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-27",
+     "times": [
+      {
+       "t": "20:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [
+    "Al termine incontro con Federico Ferrone, Michele Manzolini"
+   ],
+   "tmdb": null,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": null
+  },
+  {
+   "title": "La schivata",
+   "year": 2003,
+   "slug": null,
+   "director": "A. Kechiche",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-26",
+     "times": [
+      {
+       "t": "20:45",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1549,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1549/"
+  },
+  {
+   "title": "SE AMI QUALCUNO DILLO",
+   "year": 2026,
+   "slug": "se-ami-qualcuno-dillo",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Fratelli Marx",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "16:30",
+       "vo": false
+      },
+      {
+       "t": "18:45",
+       "vo": false
+      },
+      {
+       "t": "21:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1713935,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1713935/"
+  },
+  {
+   "title": "I selvaggi",
+   "year": 1966,
+   "slug": null,
+   "director": "R. Corman",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-18",
+     "times": [
+      {
+       "t": "18:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-20",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 42725,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/42725/"
+  },
+  {
+   "title": "Sentieri selvaggi",
+   "year": 1956,
+   "slug": null,
+   "director": "J. Ford",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-28",
+     "times": [
+      {
+       "t": "18:00",
+       "vo": false
+      }
+     ],
+     "room": "Sala 1"
+    }
+   ],
+   "notes": [
+    "Il film è introdotto da Giaime Alonge"
+   ],
+   "tmdb": 3114,
+   "seen_by": [],
+   "watchlist": true,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/3114/"
+  },
+  {
+   "title": "SERPENTI",
+   "year": 2026,
+   "slug": "serpenti",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Romano",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "19:20",
+       "vo": false
+      },
+      {
+       "t": "21:15",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1645164,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1645164/"
+  },
+  {
+   "title": "SILENT FRIEND",
+   "year": 2025,
+   "slug": "silent-friend",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Greenwich Village",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "18:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1168719,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1168719/"
+  },
+  {
+   "title": "SOTTO A CHI TOCCA",
+   "year": 2026,
+   "slug": "sotto-a-chi-tocca",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Reposi",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "22:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1725719,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1725719/"
+  },
+  {
+   "title": "Strange Journey: The Story of Rocky Horror",
+   "year": 2025,
+   "slug": null,
+   "director": "L. O’Brian",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-29",
+     "times": [
+      {
+       "t": "20:45",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1422600,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1422600/"
+  },
+  {
+   "title": "IL TEMPO DI ANNE",
+   "year": 2026,
+   "slug": "il-tempo-di-anne",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Romano",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "16:30",
+       "vo": false
+      },
+      {
+       "t": "18:30",
+       "vo": false
+      },
+      {
+       "t": "20:45",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1477170,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1477170/"
+  },
+  {
+   "title": "TOHorror Film Festival",
+   "year": null,
+   "slug": null,
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-20",
+     "times": [
+      {
+       "t": "21:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": null,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": null
+  },
+  {
+   "title": "TRAINSPOTTING",
+   "year": 1996,
+   "slug": "trainspotting",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Classico",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "20:30",
+       "vo": true
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Nazionale",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "17:00",
+       "vo": false
+      },
+      {
+       "t": "19:15",
+       "vo": false
+      },
+      {
+       "t": "21:00",
+       "vo": true
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Reposi",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "20:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 627,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/627/"
+  },
+  {
+   "title": "Tutta colpa di Voltaire",
+   "year": 2000,
+   "slug": null,
+   "director": "A. Kechiche",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-26",
+     "times": [
+      {
+       "t": "18:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-30",
+     "times": [
+      {
+       "t": "18:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 72480,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/72480/"
+  },
+  {
+   "title": "Venere nera",
+   "year": 2010,
+   "slug": null,
+   "director": "A. Kechiche",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-27",
+     "times": [
+      {
+       "t": "19:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 56405,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/56405/"
+  },
+  {
+   "title": "La vita di Adele",
+   "year": 2013,
+   "slug": null,
+   "director": "A. Kechiche",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-28",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-31",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 152584,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/152584/"
+  },
+  {
+   "title": "I vivi e i morti",
+   "year": 1960,
+   "slug": null,
+   "director": "R. Corman",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-16",
+     "times": [
+      {
+       "t": "16:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-17",
+     "times": [
+      {
+       "t": "16:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 23439,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/23439/"
+  },
+  {
+   "title": "WHALEFALL - NELLA BALENA",
+   "year": 2026,
+   "slug": "whalefall",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Reposi",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "15:30",
+       "vo": false
+      },
+      {
+       "t": "17:40",
+       "vo": false
+      },
+      {
+       "t": "19:50",
+       "vo": false
+      },
+      {
+       "t": "22:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1255833,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1255833/"
+  },
+  {
+   "title": "ZUSTISSIA",
+   "year": 2026,
+   "slug": "zustissia",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Nazionale",
+     "date": "2026-10-19",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      },
+      {
+       "t": "21:45",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1639616,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1639616/"
+  }
+ ],
+ "events": [],
+ "health": {
+  "mymovies_cinema": {
+   "ok": true,
+   "count": 47,
+   "note": "",
+   "checked": "2026-10-19 00:33 UTC",
+   "last_ok": "2026-10-19"
+  },
+  "massimo_calendario": {
+   "ok": true,
+   "count": 46,
+   "note": "",
+   "checked": "2026-10-19 00:33 UTC",
+   "last_ok": "2026-10-19"
+  },
+  "letterboxd_seguiti": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 403 su https://letterboxd.com/tobi_2117/following/page/2/",
+   "checked": "2026-10-19 00:33 UTC",
+   "last_ok": ""
+  },
+  "letterboxd_diari": {
+   "ok": true,
+   "count": 1,
+   "note": "",
+   "checked": "2026-10-19 00:33 UTC",
+   "last_ok": "2026-10-19"
+  },
+  "letterboxd_watchlist": {
+   "ok": true,
+   "count": 162,
+   "note": "",
+   "checked": "2026-10-19 00:33 UTC",
+   "last_ok": "2026-10-19"
+  },
+  "eventi: arte.it (mese corrente)": {
+   "ok": false,
+   "count": 0,
+   "note": "Expecting value: line 1 column 1 (char 0)",
+   "checked": "2026-10-19 00:33 UTC",
+   "last_ok": ""
+  },
+  "eventi: CAMERA": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 404 su https://camera.to/mostre/",
+   "checked": "2026-10-19 00:34 UTC",
+   "last_ok": ""
+  },
+  "eventi: Museo Nazionale del Cinema": {
+   "ok": false,
+   "count": 0,
+   "note": "Expecting value: line 1 column 1 (char 0)",
+   "checked": "2026-10-19 00:34 UTC",
+   "last_ok": ""
+  },
+  "eventi: Turismo Torino - agenda": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 404 su https://www.turismotorino.org/it/vivere/eventi/agenda",
+   "checked": "2026-10-19 00:34 UTC",
+   "last_ok": ""
+  }
+ }
+}

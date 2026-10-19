@@ -1,0 +1,888 @@
+{
+ "date": "2026-10-19",
+ "showings": [
+  {
+   "title": "UN PO' DI LUCE",
+   "year": 2026,
+   "slug": "un-po-di-luce",
+   "times": [
+    {
+     "t": "10:30",
+     "vo": false
+    },
+    {
+     "t": "18:00",
+     "vo": false
+    },
+    {
+     "t": "21:00",
+     "vo": true
+    }
+   ],
+   "cinema": "Baretti",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "PRIMETIME",
+   "year": 2026,
+   "slug": "primetime",
+   "times": [
+    {
+     "t": "19:00",
+     "vo": true
+    },
+    {
+     "t": "21:15",
+     "vo": true
+    }
+   ],
+   "cinema": "Centrale",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "LA BAMBOLA",
+   "year": 2026,
+   "slug": "la-bambola",
+   "times": [
+    {
+     "t": "15:30",
+     "vo": false
+    },
+    {
+     "t": "16:00",
+     "vo": false
+    }
+   ],
+   "cinema": "Centrale",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "NAZA",
+   "year": 2026,
+   "slug": "naza",
+   "times": [
+    {
+     "t": "13:30",
+     "vo": true
+    },
+    {
+     "t": "19:00",
+     "vo": true
+    },
+    {
+     "t": "21:15",
+     "vo": true
+    }
+   ],
+   "cinema": "Centrale",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "THE BIBI FILES",
+   "year": 2024,
+   "slug": "the-bibi-files",
+   "times": [
+    {
+     "t": "17:00",
+     "vo": true
+    },
+    {
+     "t": "17:30",
+     "vo": true
+    }
+   ],
+   "cinema": "Centrale",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "NAZA",
+   "year": 2026,
+   "slug": "naza",
+   "times": [
+    {
+     "t": "19:00",
+     "vo": false
+    }
+   ],
+   "cinema": "Agnelli",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "I FIGLI DELLA SCIMMIA",
+   "year": 2026,
+   "slug": "i-figli-della-scimmia",
+   "times": [
+    {
+     "t": "18:00",
+     "vo": false
+    },
+    {
+     "t": "21:00",
+     "vo": false
+    }
+   ],
+   "cinema": "Agnelli",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "TRAINSPOTTING",
+   "year": 1996,
+   "slug": "trainspotting",
+   "times": [
+    {
+     "t": "20:30",
+     "vo": true
+    }
+   ],
+   "cinema": "Classico",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "CALLE MALAGA",
+   "year": 2025,
+   "slug": "calle-malaga",
+   "times": [
+    {
+     "t": "15:30",
+     "vo": false
+    },
+    {
+     "t": "18:00",
+     "vo": false
+    }
+   ],
+   "cinema": "Classico",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "NAZA",
+   "year": 2026,
+   "slug": "naza",
+   "times": [
+    {
+     "t": "15:15",
+     "vo": false
+    },
+    {
+     "t": "18:15",
+     "vo": false
+    },
+    {
+     "t": "20:00",
+     "vo": false
+    }
+   ],
+   "cinema": "Eliseo",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "JE SO' PAZZO",
+   "year": 2026,
+   "slug": "je-so-pazzo",
+   "times": [
+    {
+     "t": "16:30",
+     "vo": false
+    },
+    {
+     "t": "19:30",
+     "vo": false
+    },
+    {
+     "t": "21:30",
+     "vo": false
+    }
+   ],
+   "cinema": "Eliseo",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "DIGGER",
+   "year": 2026,
+   "slug": "digger-1",
+   "times": [
+    {
+     "t": "16:00",
+     "vo": false
+    },
+    {
+     "t": "16:45",
+     "vo": false
+    },
+    {
+     "t": "18:30",
+     "vo": false
+    },
+    {
+     "t": "19:15",
+     "vo": false
+    },
+    {
+     "t": "21:00",
+     "vo": false
+    },
+    {
+     "t": "21:45",
+     "vo": false
+    }
+   ],
+   "cinema": "Eliseo",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "THE INVITE - IL PIACERE È TUTTO NOSTRO",
+   "year": 2026,
+   "slug": "the-invite",
+   "times": [
+    {
+     "t": "16:00",
+     "vo": false
+    },
+    {
+     "t": "21:35",
+     "vo": false
+    }
+   ],
+   "cinema": "Eliseo",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "SE AMI QUALCUNO DILLO",
+   "year": 2026,
+   "slug": "se-ami-qualcuno-dillo",
+   "times": [
+    {
+     "t": "16:30",
+     "vo": false
+    },
+    {
+     "t": "18:45",
+     "vo": false
+    },
+    {
+     "t": "21:00",
+     "vo": false
+    }
+   ],
+   "cinema": "Fratelli Marx",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "L'ESTRANEA",
+   "year": 2026,
+   "slug": "lestranea",
+   "times": [
+    {
+     "t": "16:00",
+     "vo": false
+    },
+    {
+     "t": "18:30",
+     "vo": false
+    },
+    {
+     "t": "20:45",
+     "vo": false
+    }
+   ],
+   "cinema": "Fratelli Marx",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "NAZA",
+   "year": 2026,
+   "slug": "naza",
+   "times": [
+    {
+     "t": "16:15",
+     "vo": false
+    },
+    {
+     "t": "18:00",
+     "vo": false
+    },
+    {
+     "t": "19:45",
+     "vo": false
+    },
+    {
+     "t": "21:30",
+     "vo": false
+    }
+   ],
+   "cinema": "Fratelli Marx",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "PRIMETIME",
+   "year": 2026,
+   "slug": "primetime",
+   "times": [
+    {
+     "t": "16:00",
+     "vo": false
+    },
+    {
+     "t": "18:30",
+     "vo": true
+    },
+    {
+     "t": "21:00",
+     "vo": true
+    }
+   ],
+   "cinema": "Greenwich Village",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "JE SO' PAZZO",
+   "year": 2026,
+   "slug": "je-so-pazzo",
+   "times": [
+    {
+     "t": "16:00",
+     "vo": false
+    },
+    {
+     "t": "18:15",
+     "vo": false
+    },
+    {
+     "t": "20:30",
+     "vo": false
+    }
+   ],
+   "cinema": "Greenwich Village",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "DIGGER",
+   "year": 2026,
+   "slug": "digger-1",
+   "times": [
+    {
+     "t": "15:30",
+     "vo": false
+    },
+    {
+     "t": "18:00",
+     "vo": true
+    },
+    {
+     "t": "20:45",
+     "vo": true
+    }
+   ],
+   "cinema": "Greenwich Village",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "Recensione ❯",
+   "year": 2026,
+   "slug": "the-social-il-prezzo-della-verita",
+   "times": [
+    {
+     "t": "21:00",
+     "vo": true
+    }
+   ],
+   "cinema": "Greenwich Village",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "PALESTINA 36 - QUANDO TUTTO EBBE INIZIO",
+   "year": 2025,
+   "slug": "palestina-36",
+   "times": [
+    {
+     "t": "15:30",
+     "vo": false
+    }
+   ],
+   "cinema": "Greenwich Village",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "SILENT FRIEND",
+   "year": 2025,
+   "slug": "silent-friend",
+   "times": [
+    {
+     "t": "18:00",
+     "vo": false
+    }
+   ],
+   "cinema": "Greenwich Village",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "FATHERLAND",
+   "year": 2026,
+   "slug": "fatherland",
+   "times": [
+    {
+     "t": "16:00",
+     "vo": true
+    },
+    {
+     "t": "18:15",
+     "vo": true
+    },
+    {
+     "t": "20:30",
+     "vo": true
+    }
+   ],
+   "cinema": "Massimo (MNC)",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "I DIAVOLI",
+   "year": 1970,
+   "slug": "i-diavoli",
+   "times": [
+    {
+     "t": "16:00",
+     "vo": true
+    },
+    {
+     "t": "18:15",
+     "vo": true
+    },
+    {
+     "t": "20:45",
+     "vo": true
+    }
+   ],
+   "cinema": "Massimo (MNC)",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "IL POZZO E IL PENDOLO",
+   "year": 1961,
+   "slug": "ilpozzoeilpendolo",
+   "times": [
+    {
+     "t": "18:30",
+     "vo": true
+    }
+   ],
+   "cinema": "Massimo (MNC)",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "IL CLAN DEI BARKER",
+   "year": 1970,
+   "slug": "il-clan-dei-barker",
+   "times": [
+    {
+     "t": "16:30",
+     "vo": true
+    }
+   ],
+   "cinema": "Massimo (MNC)",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "BALLATA FEMMENELLA",
+   "year": 2026,
+   "slug": "ballata-femmenella",
+   "times": [
+    {
+     "t": "20:30",
+     "vo": false
+    }
+   ],
+   "cinema": "Massimo (MNC)",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "FATHERLAND",
+   "year": 2026,
+   "slug": "fatherland",
+   "times": [
+    {
+     "t": "15:15",
+     "vo": false
+    },
+    {
+     "t": "17:30",
+     "vo": true
+    },
+    {
+     "t": "19:45",
+     "vo": false
+    },
+    {
+     "t": "21:45",
+     "vo": true
+    }
+   ],
+   "cinema": "Nazionale",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "L'ESTRANEA",
+   "year": 2026,
+   "slug": "lestranea",
+   "times": [
+    {
+     "t": "16:00",
+     "vo": false
+    },
+    {
+     "t": "18:30",
+     "vo": false
+    },
+    {
+     "t": "21:00",
+     "vo": false
+    }
+   ],
+   "cinema": "Nazionale",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "NAZA",
+   "year": 2026,
+   "slug": "naza",
+   "times": [
+    {
+     "t": "15:45",
+     "vo": false
+    },
+    {
+     "t": "18:15",
+     "vo": false
+    },
+    {
+     "t": "20:00",
+     "vo": false
+    }
+   ],
+   "cinema": "Nazionale",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "ZUSTISSIA",
+   "year": 2026,
+   "slug": "zustissia",
+   "times": [
+    {
+     "t": "16:00",
+     "vo": false
+    },
+    {
+     "t": "21:45",
+     "vo": false
+    }
+   ],
+   "cinema": "Nazionale",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "DIGGER",
+   "year": 2026,
+   "slug": "digger-1",
+   "times": [
+    {
+     "t": "17:15",
+     "vo": true
+    },
+    {
+     "t": "19:15",
+     "vo": false
+    },
+    {
+     "t": "21:30",
+     "vo": true
+    }
+   ],
+   "cinema": "Nazionale",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "TRAINSPOTTING",
+   "year": 1996,
+   "slug": "trainspotting",
+   "times": [
+    {
+     "t": "17:00",
+     "vo": false
+    },
+    {
+     "t": "19:15",
+     "vo": false
+    },
+    {
+     "t": "21:00",
+     "vo": true
+    }
+   ],
+   "cinema": "Nazionale",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "L'ESTRANEA",
+   "year": 2026,
+   "slug": "lestranea",
+   "times": [
+    {
+     "t": "15:30",
+     "vo": false
+    },
+    {
+     "t": "17:40",
+     "vo": false
+    },
+    {
+     "t": "19:50",
+     "vo": false
+    },
+    {
+     "t": "22:00",
+     "vo": false
+    }
+   ],
+   "cinema": "Reposi",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "JE SO' PAZZO",
+   "year": 2026,
+   "slug": "je-so-pazzo",
+   "times": [
+    {
+     "t": "15:30",
+     "vo": false
+    },
+    {
+     "t": "15:31",
+     "vo": false
+    },
+    {
+     "t": "17:40",
+     "vo": false
+    },
+    {
+     "t": "19:50",
+     "vo": false
+    },
+    {
+     "t": "22:00",
+     "vo": false
+    }
+   ],
+   "cinema": "Reposi",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "WHALEFALL - NELLA BALENA",
+   "year": 2026,
+   "slug": "whalefall",
+   "times": [
+    {
+     "t": "15:30",
+     "vo": false
+    },
+    {
+     "t": "17:40",
+     "vo": false
+    },
+    {
+     "t": "19:50",
+     "vo": false
+    },
+    {
+     "t": "22:00",
+     "vo": false
+    }
+   ],
+   "cinema": "Reposi",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "HEART OF THE BEAST - NEL PROFONDO SELVAGGIO",
+   "year": 2026,
+   "slug": "heart-of-the-beast",
+   "times": [
+    {
+     "t": "15:30",
+     "vo": false
+    },
+    {
+     "t": "17:40",
+     "vo": false
+    },
+    {
+     "t": "22:00",
+     "vo": false
+    }
+   ],
+   "cinema": "Reposi",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "CARLO ACUTIS - IL GIOVANE SANTO",
+   "year": 2026,
+   "slug": "carlo-acutis-il-giovane-santo",
+   "times": [
+    {
+     "t": "15:30",
+     "vo": false
+    },
+    {
+     "t": "20:00",
+     "vo": false
+    }
+   ],
+   "cinema": "Reposi",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "LA CITTÀ DEI VIVI",
+   "year": 2026,
+   "slug": "la-citta-dei-vivi",
+   "times": [
+    {
+     "t": "17:40",
+     "vo": false
+    },
+    {
+     "t": "19:50",
+     "vo": false
+    }
+   ],
+   "cinema": "Reposi",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "SOTTO A CHI TOCCA",
+   "year": 2026,
+   "slug": "sotto-a-chi-tocca",
+   "times": [
+    {
+     "t": "22:00",
+     "vo": false
+    }
+   ],
+   "cinema": "Reposi",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "TRAINSPOTTING",
+   "year": 1996,
+   "slug": "trainspotting",
+   "times": [
+    {
+     "t": "20:00",
+     "vo": false
+    }
+   ],
+   "cinema": "Reposi",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "IL TEMPO DI ANNE",
+   "year": 2026,
+   "slug": "il-tempo-di-anne",
+   "times": [
+    {
+     "t": "16:30",
+     "vo": false
+    },
+    {
+     "t": "18:30",
+     "vo": false
+    },
+    {
+     "t": "20:45",
+     "vo": false
+    }
+   ],
+   "cinema": "Romano",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "JE SO' PAZZO",
+   "year": 2026,
+   "slug": "je-so-pazzo",
+   "times": [
+    {
+     "t": "15:30",
+     "vo": false
+    },
+    {
+     "t": "17:30",
+     "vo": false
+    },
+    {
+     "t": "19:30",
+     "vo": false
+    },
+    {
+     "t": "21:30",
+     "vo": false
+    }
+   ],
+   "cinema": "Romano",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "ERA MEGLIO DOMANI",
+   "year": 2025,
+   "slug": "era-meglio-domani",
+   "times": [
+    {
+     "t": "17:15",
+     "vo": false
+    }
+   ],
+   "cinema": "Romano",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "SERPENTI",
+   "year": 2026,
+   "slug": "serpenti",
+   "times": [
+    {
+     "t": "19:20",
+     "vo": false
+    },
+    {
+     "t": "21:15",
+     "vo": false
+    }
+   ],
+   "cinema": "Romano",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "NESSUN DOLORE",
+   "year": 2026,
+   "slug": "nessun-dolore",
+   "times": [
+    {
+     "t": "15:30",
+     "vo": false
+    }
+   ],
+   "cinema": "Romano",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "CARLO ACUTIS - IL GIOVANE SANTO",
+   "year": 2026,
+   "slug": "carlo-acutis-il-giovane-santo",
+   "times": [
+    {
+     "t": "21:00",
+     "vo": false
+    }
+   ],
+   "cinema": "Teatro Monterosa",
+   "date": "2026-10-19"
+  }
+ ]
+}

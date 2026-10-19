@@ -1,0 +1,521 @@
+{
+ "shows": [
+  {
+   "date": "2026-10-16",
+   "times": [
+    "16:00",
+    "21:00"
+   ],
+   "title": "Fatherland",
+   "director": "P. Pawlikowski",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-16",
+   "times": [
+    "16:00",
+    "18:15",
+    "20:30"
+   ],
+   "title": "Fatherland",
+   "director": "P. Pawlikowski",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-19",
+   "times": [
+    "16:00"
+   ],
+   "title": "Fatherland",
+   "director": "P. Pawlikowski",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-19",
+   "times": [
+    "20:00"
+   ],
+   "title": "Ocean Film Festival",
+   "director": "",
+   "year": null,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-20",
+   "times": [
+    "16:00",
+    "18:15"
+   ],
+   "title": "Fatherland",
+   "director": "P. Pawlikowski",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-20",
+   "times": [
+    "21:00"
+   ],
+   "title": "TOHorror Film Festival",
+   "director": "",
+   "year": null,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-21",
+   "times": [
+    "16:00",
+    "20:30"
+   ],
+   "title": "Fatherland",
+   "director": "P. Pawlikowski",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-21",
+   "times": [
+    "18:00"
+   ],
+   "title": "M – Il mostro di Dusseldorf",
+   "director": "F. Lang",
+   "year": 1931,
+   "room": null,
+   "note": "Il film è introdotto da Paola Valentini"
+  },
+  {
+   "date": "2026-10-21",
+   "times": [
+    "16:00",
+    "18:00",
+    "20:30"
+   ],
+   "title": "Balcanica",
+   "director": "N. Sorcinelli",
+   "year": 2026,
+   "room": "Sala 2",
+   "note": ""
+  },
+  {
+   "date": "2026-10-21",
+   "times": [
+    "16:00",
+    "18:15",
+    "20:45"
+   ],
+   "title": "I diavoli",
+   "director": "K. Russell",
+   "year": 1971,
+   "room": "Sala 2",
+   "note": ""
+  },
+  {
+   "date": "2026-10-21",
+   "times": [
+    "16:00",
+    "18:15"
+   ],
+   "title": "I diavoli",
+   "director": "K. Russell",
+   "year": 1971,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-21",
+   "times": [
+    "21:00"
+   ],
+   "title": "Crash",
+   "director": "D. Cronenberg",
+   "year": 1996,
+   "room": null,
+   "note": "Il film è introdotto da Carlo Brosio"
+  },
+  {
+   "date": "2026-10-16",
+   "times": [
+    "16:30"
+   ],
+   "title": "I vivi e i morti",
+   "director": "R. Corman",
+   "year": 1960,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-16",
+   "times": [
+    "18:30"
+   ],
+   "title": "L’odio esplode a Dallas",
+   "director": "R. Corman",
+   "year": 1964,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-16",
+   "times": [
+    "20:30"
+   ],
+   "title": "Il cinema secondo Corman",
+   "director": "Giulio Laroni",
+   "year": 2025,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-17",
+   "times": [
+    "16:30"
+   ],
+   "title": "I vivi e i morti",
+   "director": "R. Corman",
+   "year": 1960,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-17",
+   "times": [
+    "18:30"
+   ],
+   "title": "La maschera della morte rossa",
+   "director": "R. Corman",
+   "year": 1964,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-17",
+   "times": [
+    "20:30"
+   ],
+   "title": "L’uomo dagli occhi ai raggi X",
+   "director": "R. Corman",
+   "year": 1963,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-18",
+   "times": [
+    "16:30"
+   ],
+   "title": "Il massacro del giorno di San Valentino",
+   "director": "R. Gorman",
+   "year": 1967,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-18",
+   "times": [
+    "18:30"
+   ],
+   "title": "I selvaggi",
+   "director": "R. Corman",
+   "year": 1966,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-18",
+   "times": [
+    "20:30"
+   ],
+   "title": "La legge del mitra",
+   "director": "R. Corman",
+   "year": 1958,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-19",
+   "times": [
+    "16:30"
+   ],
+   "title": "Il clan dei Barker",
+   "director": "R. Corman",
+   "year": 1970,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-19",
+   "times": [
+    "18:30"
+   ],
+   "title": "Il pozzo e il pendolo",
+   "director": "R.Corman",
+   "year": 1961,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-19",
+   "times": [
+    "20:30"
+   ],
+   "title": "Ballata Femmenella",
+   "director": "E.R. Melucci/G. B. Origo",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-20",
+   "times": [
+    "16:00"
+   ],
+   "title": "I selvaggi",
+   "director": "R. Corman",
+   "year": 1966,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-20",
+   "times": [
+    "18:30"
+   ],
+   "title": "Il massacro del giorno di San Valentino",
+   "director": "R. Gorman",
+   "year": 1967,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-20",
+   "times": [
+    "21:00"
+   ],
+   "title": "Identidad",
+   "director": "F. Santucho e R. Vásquez-Salessi",
+   "year": 2025,
+   "room": null,
+   "note": "Il film è introdotto da Florencia Santucho"
+  },
+  {
+   "date": "2026-10-21",
+   "times": [
+    "18:00"
+   ],
+   "title": "M – Il mostro di Düsseldorf",
+   "director": "F. Lang",
+   "year": 1931,
+   "room": "Sala 1",
+   "note": "Il film è introdotto da Paola Valentini"
+  },
+  {
+   "date": "2026-10-21",
+   "times": [
+    "21:00"
+   ],
+   "title": "Crash",
+   "director": "D. Cronenberg",
+   "year": 1996,
+   "room": "Sala 2",
+   "note": "Il film è introdotto da Carlo Brosio"
+  },
+  {
+   "date": "2026-10-26",
+   "times": [
+    "15:30"
+   ],
+   "title": "The Rocky Horror Picture Show",
+   "director": "J. Sharman",
+   "year": 1975,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-26",
+   "times": [
+    "18:00"
+   ],
+   "title": "Tutta colpa di Voltaire",
+   "director": "A. Kechiche",
+   "year": 2000,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-26",
+   "times": [
+    "20:45"
+   ],
+   "title": "La schivata",
+   "director": "A. Kechiche",
+   "year": 2003,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-27",
+   "times": [
+    "16:00"
+   ],
+   "title": "Cous Cous",
+   "director": "A. Kechiche",
+   "year": 2007,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-27",
+   "times": [
+    "19:30"
+   ],
+   "title": "Venere nera",
+   "director": "A. Kechiche",
+   "year": 2010,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-27",
+   "times": [
+    "20:30"
+   ],
+   "title": "Sala – Due I fratelli segreto",
+   "director": "F. Ferrone, M. Manzolini",
+   "year": 2025,
+   "room": null,
+   "note": "Al termine incontro con Federico Ferrone, Michele Manzolini"
+  },
+  {
+   "date": "2026-10-28",
+   "times": [
+    "16:00"
+   ],
+   "title": "La vita di Adele",
+   "director": "A. Kechiche",
+   "year": 2013,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-28",
+   "times": [
+    "20:00"
+   ],
+   "title": "Mektub, My Love – Canto Uno",
+   "director": "A. Kechiche",
+   "year": 2017,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-28",
+   "times": [
+    "18:00"
+   ],
+   "title": "Sentieri selvaggi",
+   "director": "J. Ford",
+   "year": 1956,
+   "room": "Sala 1",
+   "note": "Il film è introdotto da Giaime Alonge"
+  },
+  {
+   "date": "2026-10-29",
+   "times": [
+    "15:30"
+   ],
+   "title": "Cous Cous",
+   "director": "A. Kechiche",
+   "year": 2007,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-29",
+   "times": [
+    "18:30"
+   ],
+   "title": "The Rocky Horror Picture Show",
+   "director": "J. Sharman",
+   "year": 1975,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-29",
+   "times": [
+    "20:45"
+   ],
+   "title": "Strange Journey: The Story of Rocky Horror",
+   "director": "L. O’Brian",
+   "year": 2025,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-30",
+   "times": [
+    "16:00"
+   ],
+   "title": "The Rocky Horror Picture Show",
+   "director": "J. Sharman",
+   "year": 1975,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-30",
+   "times": [
+    "18:00"
+   ],
+   "title": "Tutta colpa di Voltaire",
+   "director": "A. Kechiche",
+   "year": 2000,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-30",
+   "times": [
+    "20:45"
+   ],
+   "title": "Mektoub. My Love – Canto Due",
+   "director": "A. Kechiche",
+   "year": 2025,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-31",
+   "times": [
+    "16:00"
+   ],
+   "title": "La vita di Adele",
+   "director": "A. Kechiche",
+   "year": 2013,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-31",
+   "times": [
+    "20:30"
+   ],
+   "title": "The Rocky Horror Picture Show",
+   "director": "J. Sharman",
+   "year": 1975,
+   "room": null,
+   "note": ""
+  }
+ ],
+ "festivals": []
+}

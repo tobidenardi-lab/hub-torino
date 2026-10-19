@@ -1,0 +1,812 @@
+[
+ {
+  "slug": "wildwood-2026",
+  "title": "Wildwood",
+  "year": 2026
+ },
+ {
+  "slug": "you-can-see-everything",
+  "title": "You Can See Everything",
+  "year": 2026
+ },
+ {
+  "slug": "requiem-for-a-dream",
+  "title": "Requiem for a Dream",
+  "year": 2000
+ },
+ {
+  "slug": "call-me-by-your-name",
+  "title": "Call Me by Your Name",
+  "year": 2017
+ },
+ {
+  "slug": "the-round-up-1966",
+  "title": "The Round-Up",
+  "year": 1966
+ },
+ {
+  "slug": "once-upon-a-time-in-the-west",
+  "title": "Once Upon a Time in the West",
+  "year": 1968
+ },
+ {
+  "slug": "east-of-eden",
+  "title": "East of Eden",
+  "year": 1955
+ },
+ {
+  "slug": "the-color-purple",
+  "title": "The Color Purple",
+  "year": 1985
+ },
+ {
+  "slug": "autumn-sonata",
+  "title": "Autumn Sonata",
+  "year": 1978
+ },
+ {
+  "slug": "m",
+  "title": "M",
+  "year": 1931
+ },
+ {
+  "slug": "unforgiven",
+  "title": "Unforgiven",
+  "year": 1992
+ },
+ {
+  "slug": "the-deer-hunter",
+  "title": "The Deer Hunter",
+  "year": 1978
+ },
+ {
+  "slug": "lawrence-of-arabia",
+  "title": "Lawrence of Arabia",
+  "year": 1962
+ },
+ {
+  "slug": "moulin-rouge-2001",
+  "title": "Moulin Rouge!",
+  "year": 2001
+ },
+ {
+  "slug": "mad-max-fury-road",
+  "title": "Mad Max: Fury Road",
+  "year": 2015
+ },
+ {
+  "slug": "neon-genesis-evangelion-the-end-of-evangelion",
+  "title": "Neon Genesis Evangelion: The End of Evangelion",
+  "year": 1997
+ },
+ {
+  "slug": "vampire-hunter-d-bloodlust",
+  "title": "Vampire Hunter D: Bloodlust",
+  "year": 2000
+ },
+ {
+  "slug": "train-to-busan",
+  "title": "Train to Busan",
+  "year": 2016
+ },
+ {
+  "slug": "bram-stokers-dracula",
+  "title": "Bram Stoker's Dracula",
+  "year": 1992
+ },
+ {
+  "slug": "lost-highway",
+  "title": "Lost Highway",
+  "year": 1997
+ },
+ {
+  "slug": "batman-1989",
+  "title": "Batman",
+  "year": 1989
+ },
+ {
+  "slug": "batman-returns",
+  "title": "Batman Returns",
+  "year": 1992
+ },
+ {
+  "slug": "batman-under-the-red-hood",
+  "title": "Batman: Under the Red Hood",
+  "year": 2010
+ },
+ {
+  "slug": "throne-of-blood",
+  "title": "Throne of Blood",
+  "year": 1957
+ },
+ {
+  "slug": "sicario-2015",
+  "title": "Sicario",
+  "year": 2015
+ },
+ {
+  "slug": "enemy",
+  "title": "Enemy",
+  "year": 2013
+ },
+ {
+  "slug": "the-searchers",
+  "title": "The Searchers",
+  "year": 1956
+ },
+ {
+  "slug": "the-end-of-oak-street",
+  "title": "The End of Oak Street",
+  "year": 2026
+ },
+ {
+  "slug": "the-scopone-game",
+  "title": "The Scopone Game",
+  "year": 1972
+ },
+ {
+  "slug": "red-rooms",
+  "title": "Red Rooms",
+  "year": 2023
+ },
+ {
+  "slug": "the-beatles-get-back",
+  "title": "The Beatles: Get Back",
+  "year": 2021
+ },
+ {
+  "slug": "offside",
+  "title": "Offside",
+  "year": 2006
+ },
+ {
+  "slug": "pi",
+  "title": "Pi",
+  "year": 1998
+ },
+ {
+  "slug": "lost-in-translation",
+  "title": "Lost in Translation",
+  "year": 2003
+ },
+ {
+  "slug": "boy-a",
+  "title": "Boy A",
+  "year": 2007
+ },
+ {
+  "slug": "tyrannosaur",
+  "title": "Tyrannosaur",
+  "year": 2011
+ },
+ {
+  "slug": "71",
+  "title": "'71",
+  "year": 2014
+ },
+ {
+  "slug": "normal-people-2020",
+  "title": "Normal People",
+  "year": 2020
+ },
+ {
+  "slug": "the-fabelmans",
+  "title": "The Fabelmans",
+  "year": 2022
+ },
+ {
+  "slug": "the-terminal",
+  "title": "The Terminal",
+  "year": 2004
+ },
+ {
+  "slug": "minority-report",
+  "title": "Minority Report",
+  "year": 2002
+ },
+ {
+  "slug": "ai-artificial-intelligence",
+  "title": "A.I. Artificial Intelligence",
+  "year": 2001
+ },
+ {
+  "slug": "la-dolce-vita",
+  "title": "La Dolce Vita",
+  "year": 1960
+ },
+ {
+  "slug": "amarcord",
+  "title": "Amarcord",
+  "year": 1973
+ },
+ {
+  "slug": "midsommar",
+  "title": "Midsommar",
+  "year": 2019
+ },
+ {
+  "slug": "the-lobster",
+  "title": "The Lobster",
+  "year": 2015
+ },
+ {
+  "slug": "uncut-gems",
+  "title": "Uncut Gems",
+  "year": 2019
+ },
+ {
+  "slug": "mystic-river",
+  "title": "Mystic River",
+  "year": 2003
+ },
+ {
+  "slug": "little-fish-2020",
+  "title": "Little Fish",
+  "year": 2020
+ },
+ {
+  "slug": "vivre-sa-vie",
+  "title": "Vivre Sa Vie",
+  "year": 1962
+ },
+ {
+  "slug": "black-swan",
+  "title": "Black Swan",
+  "year": 2010
+ },
+ {
+  "slug": "donnie-brasco",
+  "title": "Donnie Brasco",
+  "year": 1997
+ },
+ {
+  "slug": "hope-2026",
+  "title": "Hope",
+  "year": 2026
+ },
+ {
+  "slug": "in-the-mood-for-love",
+  "title": "In the Mood for Love",
+  "year": 2000
+ },
+ {
+  "slug": "millennium-actress",
+  "title": "Millennium Actress",
+  "year": 2001
+ },
+ {
+  "slug": "manhattan",
+  "title": "Manhattan",
+  "year": 1979
+ },
+ {
+  "slug": "ad-astra-2019",
+  "title": "Ad Astra",
+  "year": 2019
+ },
+ {
+  "slug": "son-of-saul",
+  "title": "Son of Saul",
+  "year": 2015
+ },
+ {
+  "slug": "scarface-1983",
+  "title": "Scarface",
+  "year": 1983
+ },
+ {
+  "slug": "come-and-see",
+  "title": "Come and See",
+  "year": 1985
+ },
+ {
+  "slug": "silence",
+  "title": "Silence",
+  "year": 2016
+ },
+ {
+  "slug": "pink-floyd-the-wall",
+  "title": "Pink Floyd: The Wall",
+  "year": 1982
+ },
+ {
+  "slug": "magnolia",
+  "title": "Magnolia",
+  "year": 1999
+ },
+ {
+  "slug": "time-masters",
+  "title": "Time Masters",
+  "year": 1982
+ },
+ {
+  "slug": "heroic-times",
+  "title": "Heroic Times",
+  "year": 1983
+ },
+ {
+  "slug": "son-of-the-white-mare",
+  "title": "Son of the White Mare",
+  "year": 1981
+ },
+ {
+  "slug": "the-summit-of-the-gods",
+  "title": "The Summit of the Gods",
+  "year": 2021
+ },
+ {
+  "slug": "the-tale-of-the-princess-kaguya",
+  "title": "The Tale of The Princess Kaguya",
+  "year": 2013
+ },
+ {
+  "slug": "thief",
+  "title": "Thief",
+  "year": 1981
+ },
+ {
+  "slug": "batman-mr-freeze-subzero",
+  "title": "Batman & Mr. Freeze: SubZero",
+  "year": 1998
+ },
+ {
+  "slug": "the-seventh-seal",
+  "title": "The Seventh Seal",
+  "year": 1957
+ },
+ {
+  "slug": "the-godfather-part-ii",
+  "title": "The Godfather Part II",
+  "year": 1974
+ },
+ {
+  "slug": "vampire-hunter-d",
+  "title": "Vampire Hunter D",
+  "year": 1985
+ },
+ {
+  "slug": "rocco-and-his-brothers",
+  "title": "Rocco and His Brothers",
+  "year": 1960
+ },
+ {
+  "slug": "le-samourai",
+  "title": "Le Samouraï",
+  "year": 1967
+ },
+ {
+  "slug": "in-the-darkness-of-time",
+  "title": "In the Darkness of Time",
+  "year": 2002
+ },
+ {
+  "slug": "nouvelle-vague-2025",
+  "title": "Nouvelle Vague",
+  "year": 2025
+ },
+ {
+  "slug": "pulse-2001",
+  "title": "Pulse",
+  "year": 2001
+ },
+ {
+  "slug": "cure",
+  "title": "Cure",
+  "year": 1997
+ },
+ {
+  "slug": "breathless",
+  "title": "Breathless",
+  "year": 1960
+ },
+ {
+  "slug": "pierrot-le-fou",
+  "title": "Pierrot le Fou",
+  "year": 1965
+ },
+ {
+  "slug": "a-ghost-story-2017",
+  "title": "A Ghost Story",
+  "year": 2017
+ },
+ {
+  "slug": "the-farthest",
+  "title": "The Farthest",
+  "year": 2017
+ },
+ {
+  "slug": "oldboy",
+  "title": "Oldboy",
+  "year": 2003
+ },
+ {
+  "slug": "searching-for-sugar-man",
+  "title": "Searching for Sugar Man",
+  "year": 2012
+ },
+ {
+  "slug": "dark-days",
+  "title": "Dark Days",
+  "year": 2000
+ },
+ {
+  "slug": "hostiles-2017",
+  "title": "Hostiles",
+  "year": 2017
+ },
+ {
+  "slug": "wuthering-heights-2026",
+  "title": "Wuthering Heights",
+  "year": 2026
+ },
+ {
+  "slug": "werwulf",
+  "title": "Werwulf",
+  "year": 2026
+ },
+ {
+  "slug": "pans-labyrinth",
+  "title": "Pan's Labyrinth",
+  "year": 2006
+ },
+ {
+  "slug": "moon",
+  "title": "Moon",
+  "year": 2009
+ },
+ {
+  "slug": "persona",
+  "title": "Persona",
+  "year": 1966
+ },
+ {
+  "slug": "blue-velvet",
+  "title": "Blue Velvet",
+  "year": 1986
+ },
+ {
+  "slug": "incendies",
+  "title": "Incendies",
+  "year": 2010
+ },
+ {
+  "slug": "following",
+  "title": "Following",
+  "year": 1998
+ },
+ {
+  "slug": "insomnia-2002",
+  "title": "Insomnia",
+  "year": 2002
+ },
+ {
+  "slug": "us-2019",
+  "title": "Us",
+  "year": 2019
+ },
+ {
+  "slug": "nope",
+  "title": "Nope",
+  "year": 2022
+ },
+ {
+  "slug": "8-half",
+  "title": "8½",
+  "year": 1963
+ },
+ {
+  "slug": "eyes-wide-shut",
+  "title": "Eyes Wide Shut",
+  "year": 1999
+ },
+ {
+  "slug": "dallas-buyers-club",
+  "title": "Dallas Buyers Club",
+  "year": 2013
+ },
+ {
+  "slug": "the-prince-of-egypt",
+  "title": "The Prince of Egypt",
+  "year": 1998
+ },
+ {
+  "slug": "whisper-of-the-heart",
+  "title": "Whisper of the Heart",
+  "year": 1995
+ },
+ {
+  "slug": "flow-2024",
+  "title": "Flow",
+  "year": 2024
+ },
+ {
+  "slug": "soul-2020",
+  "title": "Soul",
+  "year": 2020
+ },
+ {
+  "slug": "alien",
+  "title": "Alien",
+  "year": 1979
+ },
+ {
+  "slug": "the-elephant-man",
+  "title": "The Elephant Man",
+  "year": 1980
+ },
+ {
+  "slug": "the-english-patient",
+  "title": "The English Patient",
+  "year": 1996
+ },
+ {
+  "slug": "all-quiet-on-the-western-front-2022",
+  "title": "All Quiet on the Western Front",
+  "year": 2022
+ },
+ {
+  "slug": "gone-girl",
+  "title": "Gone Girl",
+  "year": 2014
+ },
+ {
+  "slug": "the-conversation",
+  "title": "The Conversation",
+  "year": 1974
+ },
+ {
+  "slug": "andrei-rublev",
+  "title": "Andrei Rublev",
+  "year": 1966
+ },
+ {
+  "slug": "mirror",
+  "title": "Mirror",
+  "year": 1975
+ },
+ {
+  "slug": "solaris",
+  "title": "Solaris",
+  "year": 1972
+ },
+ {
+  "slug": "high-and-low",
+  "title": "High and Low",
+  "year": 1963
+ },
+ {
+  "slug": "ran",
+  "title": "Ran",
+  "year": 1985
+ },
+ {
+  "slug": "ikiru",
+  "title": "Ikiru",
+  "year": 1952
+ },
+ {
+  "slug": "barry-lyndon",
+  "title": "Barry Lyndon",
+  "year": 1975
+ },
+ {
+  "slug": "stalker",
+  "title": "Stalker",
+  "year": 1979
+ },
+ {
+  "slug": "the-pianist",
+  "title": "The Pianist",
+  "year": 2002
+ },
+ {
+  "slug": "brokeback-mountain",
+  "title": "Brokeback Mountain",
+  "year": 2005
+ },
+ {
+  "slug": "a-clockwork-orange",
+  "title": "A Clockwork Orange",
+  "year": 1971
+ },
+ {
+  "slug": "there-will-be-blood",
+  "title": "There Will Be Blood",
+  "year": 2007
+ },
+ {
+  "slug": "city-of-god",
+  "title": "City of God",
+  "year": 2002
+ },
+ {
+  "slug": "harakiri",
+  "title": "Harakiri",
+  "year": 1962
+ },
+ {
+  "slug": "leclisse",
+  "title": "L'Eclisse",
+  "year": 1962
+ },
+ {
+  "slug": "thelma-louise",
+  "title": "Thelma & Louise",
+  "year": 1991
+ },
+ {
+  "slug": "shutter-island",
+  "title": "Shutter Island",
+  "year": 2010
+ },
+ {
+  "slug": "once-upon-a-time-in-hollywood",
+  "title": "Once Upon a Time... in Hollywood",
+  "year": 2019
+ },
+ {
+  "slug": "memories-of-murder",
+  "title": "Memories of Murder",
+  "year": 2003
+ },
+ {
+  "slug": "the-lighthouse-2019",
+  "title": "The Lighthouse",
+  "year": 2019
+ },
+ {
+  "slug": "chinatown",
+  "title": "Chinatown",
+  "year": 1974
+ },
+ {
+  "slug": "casablanca",
+  "title": "Casablanca",
+  "year": 1942
+ },
+ {
+  "slug": "seven-samurai",
+  "title": "Seven Samurai",
+  "year": 1954
+ },
+ {
+  "slug": "the-green-mile",
+  "title": "The Green Mile",
+  "year": 1999
+ },
+ {
+  "slug": "the-irishman-2019",
+  "title": "The Irishman",
+  "year": 2019
+ },
+ {
+  "slug": "tales-from-earthsea",
+  "title": "Tales from Earthsea",
+  "year": 2006
+ },
+ {
+  "slug": "howls-moving-castle",
+  "title": "Howl's Moving Castle",
+  "year": 2004
+ },
+ {
+  "slug": "dunkirk-2017",
+  "title": "Dunkirk",
+  "year": 2017
+ },
+ {
+  "slug": "argo",
+  "title": "Argo",
+  "year": 2012
+ },
+ {
+  "slug": "a-complete-unknown",
+  "title": "A Complete Unknown",
+  "year": 2024
+ },
+ {
+  "slug": "blade-runner",
+  "title": "Blade Runner",
+  "year": 1982
+ },
+ {
+  "slug": "black-narcissus",
+  "title": "Black Narcissus",
+  "year": 1947
+ },
+ {
+  "slug": "the-shining",
+  "title": "The Shining",
+  "year": 1980
+ },
+ {
+  "slug": "the-silence-of-the-lambs",
+  "title": "The Silence of the Lambs",
+  "year": 1991
+ },
+ {
+  "slug": "capote",
+  "title": "Capote",
+  "year": 2005
+ },
+ {
+  "slug": "castle-in-the-sky",
+  "title": "Castle in the Sky",
+  "year": 1986
+ },
+ {
+  "slug": "mary-and-the-witchs-flower",
+  "title": "Mary and The Witch's Flower",
+  "year": 2017
+ },
+ {
+  "slug": "from-up-on-poppy-hill",
+  "title": "From Up on Poppy Hill",
+  "year": 2011
+ },
+ {
+  "slug": "the-penguin-2024",
+  "title": "The Penguin",
+  "year": 2024
+ },
+ {
+  "slug": "the-aviator",
+  "title": "The Aviator",
+  "year": 2004
+ },
+ {
+  "slug": "hugo",
+  "title": "Hugo",
+  "year": 2011
+ },
+ {
+  "slug": "the-departed",
+  "title": "The Departed",
+  "year": 2006
+ },
+ {
+  "slug": "men-in-black",
+  "title": "Men in Black",
+  "year": 1997
+ },
+ {
+  "slug": "hearts-of-darkness-a-filmmakers-apocalypse",
+  "title": "Hearts of Darkness: A Filmmaker's Apocalypse",
+  "year": 1991
+ },
+ {
+  "slug": "the-godfather-part-iii",
+  "title": "The Godfather Part III",
+  "year": 1990
+ },
+ {
+  "slug": "the-thing",
+  "title": "The Thing",
+  "year": 1982
+ },
+ {
+  "slug": "apocalypse-now",
+  "title": "Apocalypse Now",
+  "year": 1979
+ },
+ {
+  "slug": "everything-everywhere-all-at-once",
+  "title": "Everything Everywhere All at Once",
+  "year": 2022
+ },
+ {
+  "slug": "scavengers-reign",
+  "title": "Scavengers Reign",
+  "year": 2023
+ },
+ {
+  "slug": "napoleon-2023",
+  "title": "Napoleon",
+  "year": 2023
+ },
+ {
+  "slug": "asteroid-city",
+  "title": "Asteroid City",
+  "year": 2023
+ }
+]
