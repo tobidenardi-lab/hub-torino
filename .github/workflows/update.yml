@@ -1,0 +1,38 @@
+name: Aggiorna hub
+
+on:
+  schedule:
+    - cron: "30 4 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  models: read
+
+concurrency: hub-update
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Aggiorna dati
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+        run: |
+          if [ "$(date -u +%u)" = "1" ]; then python -m scripts.run_all --digest; else python -m scripts.run_all; fi
+      - name: Pubblica
+        run: |
+          git config user.name "hub-bot"
+          git config user.email "hub-bot@users.noreply.github.com"
+          git add -A data docs
+          git diff --cached --quiet || (git commit -m "Aggiornamento automatico" && git push)
