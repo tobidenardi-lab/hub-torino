@@ -1,0 +1,135 @@
+obre 2026</span>
+
+		</div>
+	</div>
+	<div class="menu-wrapper clearfix">
+		<div class="menu-inner-wrapper">
+			<ul class="main-menu">
+				<li class="">
+					<a class="lato-bold" href="/?force_home"><span class="menu-icon-home">&nbsp;</span>Home</a>
+				</li>
+				<li class="">
+					<a class="lato-bold" href="/notizie/" id="link-menu-notizie"><span class="menu-icon-notizie"></span>Notizie</a>
+				</li>
+				<li class="">
+					<a class="lato-bold" href="/guida-arte/" id="link-menu-guide"><span class="menu-icon-guide"></span>Guide</a>
+				</li>
+				<li class="mostre-bg">
+					<a class="lato-bold" href="/calendario-arte/" id="link-menu-mostre"><span class="menu-icon-mostre"></span>Mostre</a>
+				</li>
+				<li class="">
+					<a class="lato-bold" href="/multimedia/"><span class="menu-icon-foto"></span>Foto</a>
+				</li>
+				<li class="">
+					<a class="lato-bold" href="/video/"><span class="menu-icon-video"></span>Video</a>
+				</li>
+				<li class="">
+					<a class="lato-bold" href="/raffaello/"><span class="menu-icon-speciali"></span>Speciali</a>
+				</li>
+				<li class=" no_margin_right">
+					<a class="lato-bold" href="/cerca/"><span class="menu-icon-archivio"></span>Archivio</a>
+				</li>
+			</ul>
+			<div class="right-menu">
+								<div class="cont_src_header">
+					<form name="search_engine" action="/ricerca.php" method="get" id="headsrcform">
+						<input type="hidden" id="current_lang" value="it" />
+						<input type="text" class="cerca-sito" autocomplete="off" value="Cerca" name="q" style="" class="cerca-sito" onfocus="if(this.value=='Cerca')this.value='';" onblur="if(this.value == '') this.value='Cerca';" />
+						<input type="image" src="/public/img/search_btn.png" alt="search btn" value="cerca" title="Cerca" class="serach_btn" />
+					</form>
+				</div>
+
+				
+			</div>
+		</div>
+	</div>
+	</div>
+			<div class="main-content clearfix">
+
+				<div class="breadcrumb_cont"><div class="breadcrumbs clearfix">
+	<ul>
+		<li><a class="lato" href="/" title="Home">home</a></li>
+						<li><span class="lato">></span></li>
+				<li><a class="lato" href="/calendario-arte/" title="Mostre">Mostre</a></li>
+						</ul>
+</div>
+</div>
+
+								<div class="primary-column mostre">
+					
+											<h2 class="francois-one portal-title">
+							Tutte le <span class="mostre-portal-big">Mostre</span> di Dicembre 2026 a Torino						</h2>
+						<ul class="event-list">
+							<li class="clearfix">
+	    <a href="/calendario-arte/torino/mostra-letizia-battaglia-l-opera-1970-2020-davide-tranchina-lightyears-away-104142" class="link_mostre_list">
+    	<span class="thumb"><img src="https://www.arte.it/foto/138x138/2d/160880-02_Letizia_Battaglia_Pier_Paolo_Pasolini_al_Circolo_Turati_Milano_1972_Archivio_Letizia_Battaglia.jpg"  alt="LETIZIA BATTAGLIA. L’OPERA, 1970 – 2020 / DAVIDE TRANCHINA. LIGHTYEARS AWAY" /></span>
+        <span class="cont_txt">
+			<span class="data">Dal 17 Ottobre 2026 al 7 Febbraio 2027</span>             <span class="occhiello">
+            	<span class="citta">Torino</span>				 | 				CAMERA - Centro Italiano per la Fotografia            </span>
+            <span class="title">
+				<h2>LETIZIA BATTAGLIA. L’OPERA, 1970 – 2020 / DAVIDE TRANCHINA. LIGHTYEARS AWAY</h2>
+			</span>            <span class="sommario">Una grande retrospettiva dedicata a Letizia Battaglia, tra le figure pi&ugrave; importanti della fotografia del Novecento, e una mostra personale di D...</span>
+            <span class="l_tutto">&nbsp;</span>
+        </span>
+    </a>
+    
+</li>
+<li class="clearfix">
+	    <a href="/calendario-arte/torino/mostra-il-corpo-della-città-moda-e-arti-tra-liberty-e-modernità-1884-1961-104572" class="link_mostre_list">
+    	<span class="thumb"><img src="https://www.arte.it/foto/138x138/b1/161459-unnamed_1_.jpg"  alt="Il corpo della città. Moda e arti tra Liberty e modernità 1884 – 1961" /></span>
+        <span class="cont_txt">
+			<span class="data">Dal 15 Ottobre 2026 al 22 Febbraio 2027</span>             <span class="occhiello">
+            	<span class="citta">Torino</span>				 | 				Palazzo Madama            </span>
+            <span class="title">
+				<h2>Il corpo della città. Moda e arti tra Liberty e modernità 1884 – 1961</h2>
+			</span>            <span class="sommario">Torino &egrave; una citt&agrave; che ha saputo reinventarsi pi&ugrave; volte nel corso della sua storia. Dopo la perdita del ruolo di capitale del Reg...</span>
+            <span class="l_tutto">&nbsp;</span>
+        </span>
+    </a>
+    
+</li>
+<li class="clearfix">
+	    <a href="/calendario-arte/torino/mostra-art-site-fest-xii-edizione-104636" class="link_mostre_list">
+    	<span class="thumb"><img src="https://www.arte.it/foto/138x138/71/161551-black_1_.jpg"  alt="ART· SITE· FEST. XII EDIZIONE" /></span>
+        <span class="cont_txt">
+			<span class="data">Dal 14 Ottobre 2026 al 20 Novembre 2026</span>             <span class="occhiello">
+            	<span class="citta">Torino</span>				 | 				Sedi varie            </span>
+            <span class="title">
+				<h2>ART· SITE· FEST. XII EDIZIONE</h2>
+			</span>            <span class="sommario">Dal 14 ottobre al 20 novembre, Torino ospita la dodicesima edizione della rassegna Art Site Fest con il titolo Fare Storie Fare Mondi, ideato e dirett...</span>
+            <span class="l_tutto">&nbsp;</span>
+        </span>
+    </a>
+    
+</li>
+<li class="clearfix">
+	    <a href="/calendario-arte/torino/mostra-grazia-toderi-teatro-terra-104267" class="link_mostre_list">
+    	<span class="thumb"><img src="https://www.arte.it/foto/138x138/d9/161015-unnamed.jpg"  alt="Grazia Toderi. Teatro Terra" /></span>
+        <span class="cont_txt">
+			<span class="data">Dal 10 Ottobre 2026 al 8 Dicembre 2026</span>             <span class="occhiello">
+            	<span class="citta">San Secondo di Pinerolo</span>				 | 				Castello di Miradolo            </span>
+            <span class="title">
+				<h2>Grazia Toderi. Teatro Terra</h2>
+			</span>            <span class="sommario">Dal 10 ottobre all&rsquo;8 dicembre 2026 la Fondazione Cosso presenta la mostra&nbsp;Grazia Toderi.&nbsp;Teatro Terra.&nbsp;&nbsp;Per il Castello di M...</span>
+            <span class="l_tutto">&nbsp;</span>
+        </span>
+    </a>
+    
+</li>
+<li class="clearfix">
+	    <a href="/calendario-arte/torino/mostra-still-image-fotografie-di-jessica-lange-104134" class="link_mostre_list">
+    	<span class="thumb"><img src="https://www.arte.it/foto/138x138/1a/160855-01_Jessica-Lange-1920x1279.jpg"  alt="STILL IMAGE. Fotografie di Jessica Lange" /></span>
+        <span class="cont_txt">
+			<span class="data">Dal 7 Ottobre 2026 al 7 Febbraio 2027</span>             <span class="occhiello">
+            	<span class="citta">Torino</span>				 | 				Musei Reali di Torino - Sale Chiablese            </span>
+            <span class="title">
+				<h2>STILL IMAGE. Fotografie di Jessica Lange</h2>
+			</span>            <span class="sommario">Le Sale Chiablese dei Musei Reali di Torino ospitano dal 7 ottobre 2026 al 7 febbraio 2027 la mostra STILL IMAGE. Fotografie di Jessica Lange, a cura ...</span>
+            <span class="l_tutto">&nbsp;</span>
+        </span>
+    </a>
+    
+</li>
+<li class="clearfix">
+	    <a href="/calendario-arte/torino/mostra-atelier-dei-moderni-matisse-braque-picasso-bacon-104556" class="link_mostre_list">
+    	<span class="thumb"><img src="https://www.arte.it/foto/138x138/f5/161411-atelier-dei-moderni_015_ph_andrea_guermani.jpg"  alt="Atelier
