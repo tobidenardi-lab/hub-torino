@@ -610,5 +610,17 @@
   "tmdb": 14836,
   "url": "https://letterboxd.com/georgecarmi/film/coraline/",
   "review": "fallin', dreamin', talkin' in your sleep\ni know you want to cry all night, all night"
+ },
+ "letterboxd-review-1546330428": {
+  "guid": "letterboxd-review-1546330428",
+  "title": "Wildwood",
+  "year": 2026,
+  "rating": 4.5,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-10-19",
+  "tmdb": 791523,
+  "url": "https://letterboxd.com/georgecarmi/film/wildwood-2026/",
+  "review": "désolé, mon amour. I'm trying my best."
  }
 }

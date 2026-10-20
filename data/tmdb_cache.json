@@ -389,5 +389,62 @@
   "titles": [
    "verity"
   ]
+ },
+ "alberi erranti|2026": {
+  "id": 1123892,
+  "titles": [
+   "alberi erranti",
+   "wandering trees"
+  ]
+ },
+ "fratelli segreto|2025": {
+  "id": 1233249,
+  "titles": [
+   "fratelli segreto"
+  ]
+ },
+ "giornata maledettamente buona|2026": null,
+ "labirinto|2026": {
+  "id": 1417,
+  "titles": [
+   "el laberinto del fauno",
+   "labirinto",
+   "labirinto del fauno",
+   "pan s labyrinth"
+  ]
+ },
+ "no good men|2026": {
+  "id": 1241574,
+  "titles": [
+   "kabul jan",
+   "no good men"
+  ]
+ },
+ "odissea|2026": {
+  "id": 1368337,
+  "titles": [
+   "odissea",
+   "odyssey"
+  ]
+ },
+ "possible love|2026": {
+  "id": 1483525,
+  "titles": [
+   "",
+   "possible love"
+  ]
+ },
+ "ragione e sentimento|2026": {
+  "id": 1503762,
+  "titles": [
+   "ragione e sentimento",
+   "sense and sensibility"
+  ]
+ },
+ "resident evil|2026": {
+  "id": 1423191,
+  "titles": [
+   "resident evil"
+  ]
  }
 }

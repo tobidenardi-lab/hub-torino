@@ -1,18 +1,18 @@
 {
- "date": "2026-10-19",
+ "date": "2026-10-20",
  "showings": [
   {
-   "title": "Un Po' Di Luce",
+   "title": "Il Labirinto",
    "year": 2026,
-   "slug": "un-po-di-luce",
+   "slug": "il-labirinto",
    "times": [
     {
-     "t": "10:30",
+     "t": "21:00",
      "vo": false
     }
    ],
    "cinema": "Baretti",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Primetime",
@@ -20,12 +20,12 @@
    "slug": "primetime",
    "times": [
     {
-     "t": "19:00",
-     "vo": true
+     "t": "21:15",
+     "vo": false
     }
    ],
    "cinema": "Centrale",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "La Bambola",
@@ -38,7 +38,7 @@
     }
    ],
    "cinema": "Centrale",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Naza",
@@ -46,12 +46,12 @@
    "slug": "naza",
    "times": [
     {
-     "t": "21:15",
+     "t": "17:45",
      "vo": true
     }
    ],
    "cinema": "Centrale",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "The Bibi Files",
@@ -59,12 +59,12 @@
    "slug": "the-bibi-files",
    "times": [
     {
-     "t": "17:30",
+     "t": "19:30",
      "vo": true
     }
    ],
    "cinema": "Centrale",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Naza",
@@ -77,7 +77,7 @@
     }
    ],
    "cinema": "Agnelli",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "I Figli Della Scimmia",
@@ -90,7 +90,7 @@
     }
    ],
    "cinema": "Agnelli",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Trainspotting",
@@ -103,7 +103,7 @@
     }
    ],
    "cinema": "Classico",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Calle Malaga",
@@ -120,7 +120,58 @@
     }
    ],
    "cinema": "Classico",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
+  },
+  {
+   "title": "Primetime",
+   "year": 2026,
+   "slug": "primetime",
+   "times": [
+    {
+     "t": "16:45",
+     "vo": false
+    },
+    {
+     "t": "19:00",
+     "vo": false
+    },
+    {
+     "t": "21:15",
+     "vo": false
+    }
+   ],
+   "cinema": "Due Giardini",
+   "date": "2026-10-20"
+  },
+  {
+   "title": "L'Estranea",
+   "year": 2026,
+   "slug": "lestranea",
+   "times": [
+    {
+     "t": "18:30",
+     "vo": false
+    }
+   ],
+   "cinema": "Due Giardini",
+   "date": "2026-10-20"
+  },
+  {
+   "title": "Trainspotting",
+   "year": 1996,
+   "slug": "trainspotting",
+   "times": [
+    {
+     "t": "16:30",
+     "vo": false
+    },
+    {
+     "t": "21:00",
+     "vo": true
+    }
+   ],
+   "cinema": "Due Giardini",
+   "date": "2026-10-20"
   },
   {
    "title": "Naza",
@@ -137,7 +188,7 @@
     }
    ],
    "cinema": "Eliseo",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Je So' Pazzo",
@@ -158,7 +209,7 @@
     }
    ],
    "cinema": "Eliseo",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Digger",
@@ -179,7 +230,7 @@
     }
    ],
    "cinema": "Eliseo",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "The Invite - Il Piacere È Tutto Nostro",
@@ -196,7 +247,7 @@
     }
    ],
    "cinema": "Eliseo",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Se Ami Qualcuno Dillo",
@@ -217,7 +268,7 @@
     }
    ],
    "cinema": "Fratelli Marx",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "L'Estranea",
@@ -234,7 +285,7 @@
     }
    ],
    "cinema": "Fratelli Marx",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Naza",
@@ -259,7 +310,7 @@
     }
    ],
    "cinema": "Fratelli Marx",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Primetime",
@@ -280,7 +331,7 @@
     }
    ],
    "cinema": "Greenwich Village",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Je So' Pazzo",
@@ -301,7 +352,7 @@
     }
    ],
    "cinema": "Greenwich Village",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Digger",
@@ -322,7 +373,7 @@
     }
    ],
    "cinema": "Greenwich Village",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Recensione ❯",
@@ -335,7 +386,7 @@
     }
    ],
    "cinema": "Greenwich Village",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Palestina 36 - Quando Tutto Ebbe Inizio",
@@ -348,7 +399,7 @@
     }
    ],
    "cinema": "Greenwich Village",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Silent Friend",
@@ -361,7 +412,7 @@
     }
    ],
    "cinema": "Greenwich Village",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Primetime",
@@ -378,7 +429,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Se Ami Qualcuno Dillo",
@@ -395,7 +446,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Naza",
@@ -408,7 +459,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Mammina",
@@ -425,7 +476,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Zustissia",
@@ -442,7 +493,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Je So' Pazzo",
@@ -463,7 +514,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Whalefall - Nella Balena",
@@ -484,7 +535,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Frankie E Le Creature Dimenticate",
@@ -497,7 +548,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Heart Of The Beast - Nel Profondo Selvaggio",
@@ -510,7 +561,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Digger",
@@ -523,7 +574,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Street Fighter",
@@ -540,7 +591,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Primetime",
@@ -557,7 +608,7 @@
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Se Ami Qualcuno Dillo",
@@ -570,7 +621,7 @@
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "L'Estranea",
@@ -587,7 +638,7 @@
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Naza",
@@ -600,7 +651,7 @@
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Mammina",
@@ -617,7 +668,7 @@
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Whalefall - Nella Balena",
@@ -634,7 +685,7 @@
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Verity",
@@ -647,7 +698,7 @@
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Carlo Acutis - Il Giovane Santo",
@@ -664,7 +715,7 @@
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Street Fighter",
@@ -681,7 +732,7 @@
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Trainspotting",
@@ -694,7 +745,7 @@
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Fatherland",
@@ -704,10 +755,14 @@
     {
      "t": "16:00",
      "vo": true
+    },
+    {
+     "t": "18:15",
+     "vo": true
     }
    ],
    "cinema": "Massimo (MNC)",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "I Diavoli",
@@ -728,46 +783,46 @@
     }
    ],
    "cinema": "Massimo (MNC)",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
-   "title": "Il Pozzo E Il Pendolo",
-   "year": 1961,
-   "slug": "ilpozzoeilpendolo",
+   "title": "I Selvaggi",
+   "year": 1966,
+   "slug": "i-selvaggi",
+   "times": [
+    {
+     "t": "16:00",
+     "vo": true
+    }
+   ],
+   "cinema": "Massimo (MNC)",
+   "date": "2026-10-20"
+  },
+  {
+   "title": "Il Massacro Del Giorno Di San Valentino",
+   "year": 1967,
+   "slug": "il-massacro-del-giorno-di-san-valentino",
    "times": [
     {
      "t": "18:30",
-     "vo": true
-    }
-   ],
-   "cinema": "Massimo (MNC)",
-   "date": "2026-10-19"
-  },
-  {
-   "title": "Il Clan Dei Barker",
-   "year": 1970,
-   "slug": "il-clan-dei-barker",
-   "times": [
-    {
-     "t": "16:30",
-     "vo": true
-    }
-   ],
-   "cinema": "Massimo (MNC)",
-   "date": "2026-10-19"
-  },
-  {
-   "title": "Ballata Femmenella",
-   "year": 2026,
-   "slug": "ballata-femmenella",
-   "times": [
-    {
-     "t": "20:30",
      "vo": false
     }
    ],
    "cinema": "Massimo (MNC)",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
+  },
+  {
+   "title": "Identitad",
+   "year": 2025,
+   "slug": "identitad",
+   "times": [
+    {
+     "t": "21:00",
+     "vo": true
+    }
+   ],
+   "cinema": "Massimo (MNC)",
+   "date": "2026-10-20"
   },
   {
    "title": "Primetime",
@@ -777,18 +832,10 @@
     {
      "t": "18:30",
      "vo": false
-    },
-    {
-     "t": "21:10",
-     "vo": true
-    },
-    {
-     "t": "21:15",
-     "vo": false
     }
    ],
    "cinema": "Movie Planet Lux",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Naza",
@@ -801,7 +848,7 @@
     }
    ],
    "cinema": "Movie Planet Lux",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Verity",
@@ -814,7 +861,7 @@
     }
    ],
    "cinema": "Movie Planet Lux",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "The Invite - Il Piacere È Tutto Nostro",
@@ -824,10 +871,27 @@
     {
      "t": "18:30",
      "vo": false
+    },
+    {
+     "t": "21:00",
+     "vo": false
     }
    ],
    "cinema": "Movie Planet Lux",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
+  },
+  {
+   "title": "Una Giornata Maledettamente Buona",
+   "year": 2026,
+   "slug": "una-giornata-maledettamente-buona",
+   "times": [
+    {
+     "t": "21:00",
+     "vo": false
+    }
+   ],
+   "cinema": "Movie Planet Lux",
+   "date": "2026-10-20"
   },
   {
    "title": "Fatherland",
@@ -848,7 +912,7 @@
     }
    ],
    "cinema": "Nazionale",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "L'Estranea",
@@ -869,7 +933,7 @@
     }
    ],
    "cinema": "Nazionale",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Naza",
@@ -890,7 +954,7 @@
     }
    ],
    "cinema": "Nazionale",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Zustissia",
@@ -907,7 +971,7 @@
     }
    ],
    "cinema": "Nazionale",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Digger",
@@ -920,7 +984,7 @@
     }
    ],
    "cinema": "Nazionale",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Trainspotting",
@@ -941,7 +1005,7 @@
     }
    ],
    "cinema": "Nazionale",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "L'Estranea",
@@ -966,7 +1030,7 @@
     }
    ],
    "cinema": "Reposi",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Je So' Pazzo",
@@ -991,17 +1055,13 @@
     }
    ],
    "cinema": "Reposi",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Whalefall - Nella Balena",
    "year": 2026,
    "slug": "whalefall",
    "times": [
-    {
-     "t": "15:30",
-     "vo": false
-    },
     {
      "t": "17:40",
      "vo": false
@@ -1012,7 +1072,7 @@
     }
    ],
    "cinema": "Reposi",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Heart Of The Beast - Nel Profondo Selvaggio",
@@ -1033,7 +1093,7 @@
     }
    ],
    "cinema": "Reposi",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Carlo Acutis - Il Giovane Santo",
@@ -1050,37 +1110,7 @@
     }
    ],
    "cinema": "Reposi",
-   "date": "2026-10-19"
-  },
-  {
-   "title": "La Città Dei Vivi",
-   "year": 2026,
-   "slug": "la-citta-dei-vivi",
-   "times": [
-    {
-     "t": "17:40",
-     "vo": false
-    },
-    {
-     "t": "19:50",
-     "vo": false
-    }
-   ],
-   "cinema": "Reposi",
-   "date": "2026-10-19"
-  },
-  {
-   "title": "Sotto A Chi Tocca",
-   "year": 2026,
-   "slug": "sotto-a-chi-tocca",
-   "times": [
-    {
-     "t": "22:00",
-     "vo": false
-    }
-   ],
-   "cinema": "Reposi",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Trainspotting",
@@ -1093,7 +1123,7 @@
     }
    ],
    "cinema": "Reposi",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Il Tempo Di Anne",
@@ -1114,7 +1144,7 @@
     }
    ],
    "cinema": "Romano",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Je So' Pazzo",
@@ -1139,7 +1169,7 @@
     }
    ],
    "cinema": "Romano",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Era Meglio Domani",
@@ -1152,7 +1182,7 @@
     }
    ],
    "cinema": "Romano",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Serpenti",
@@ -1169,7 +1199,7 @@
     }
    ],
    "cinema": "Romano",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Nessun Dolore",
@@ -1182,20 +1212,7 @@
     }
    ],
    "cinema": "Romano",
-   "date": "2026-10-19"
-  },
-  {
-   "title": "Carlo Acutis - Il Giovane Santo",
-   "year": 2026,
-   "slug": "carlo-acutis-il-giovane-santo",
-   "times": [
-    {
-     "t": "21:00",
-     "vo": false
-    }
-   ],
-   "cinema": "Teatro Monterosa",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Primetime",
@@ -1207,20 +1224,20 @@
      "vo": false
     },
     {
-     "t": "17:25",
-     "vo": false
-    },
-    {
-     "t": "19:45",
+     "t": "17:10",
      "vo": false
     },
     {
      "t": "21:50",
      "vo": false
+    },
+    {
+     "t": "22:20",
+     "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "L'Estranea",
@@ -1228,16 +1245,16 @@
    "slug": "lestranea",
    "times": [
     {
-     "t": "16:50",
+     "t": "16:45",
      "vo": false
     },
     {
-     "t": "22:10",
+     "t": "22:05",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Naza",
@@ -1245,16 +1262,20 @@
    "slug": "naza",
    "times": [
     {
+     "t": "14:35",
+     "vo": false
+    },
+    {
      "t": "19:40",
      "vo": false
     },
     {
-     "t": "20:30",
+     "t": "20:35",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Mammina",
@@ -1262,11 +1283,11 @@
    "slug": "other-mommy",
    "times": [
     {
-     "t": "14:15",
+     "t": "14:10",
      "vo": false
     },
     {
-     "t": "16:40",
+     "t": "16:45",
      "vo": false
     },
     {
@@ -1274,7 +1295,7 @@
      "vo": false
     },
     {
-     "t": "20:05",
+     "t": "20:00",
      "vo": false
     },
     {
@@ -1282,12 +1303,12 @@
      "vo": false
     },
     {
-     "t": "22:40",
+     "t": "22:35",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Zustissia",
@@ -1295,12 +1316,12 @@
    "slug": "zustissia",
    "times": [
     {
-     "t": "19:00",
+     "t": "19:50",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Je So' Pazzo",
@@ -1308,11 +1329,7 @@
    "slug": "je-so-pazzo",
    "times": [
     {
-     "t": "15:35",
-     "vo": false
-    },
-    {
-     "t": "17:05",
+     "t": "15:50",
      "vo": false
     },
     {
@@ -1320,16 +1337,20 @@
      "vo": false
     },
     {
+     "t": "19:50",
+     "vo": false
+    },
+    {
      "t": "21:00",
      "vo": false
     },
     {
-     "t": "22:25",
+     "t": "22:20",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Whalefall - Nella Balena",
@@ -1337,11 +1358,11 @@
    "slug": "whalefall",
    "times": [
     {
-     "t": "14:05",
+     "t": "14:20",
      "vo": false
     },
     {
-     "t": "16:20",
+     "t": "18:00",
      "vo": false
     },
     {
@@ -1350,7 +1371,7 @@
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Heart Of The Beast - Nel Profondo Selvaggio",
@@ -1358,12 +1379,16 @@
    "slug": "heart-of-the-beast",
    "times": [
     {
-     "t": "15:50",
+     "t": "14:25",
+     "vo": false
+    },
+    {
+     "t": "17:00",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Carlo Acutis - Il Giovane Santo",
@@ -1371,12 +1396,12 @@
    "slug": "carlo-acutis-il-giovane-santo",
    "times": [
     {
-     "t": "18:10",
+     "t": "17:35",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Street Fighter",
@@ -1384,16 +1409,16 @@
    "slug": "street-fighter",
    "times": [
     {
-     "t": "16:30",
+     "t": "15:05",
      "vo": false
     },
     {
-     "t": "21:40",
+     "t": "17:10",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Trainspotting",
@@ -1406,7 +1431,7 @@
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "L'Isola Dei Ricordi",
@@ -1414,12 +1439,12 @@
    "slug": "lisola-dei-ricordi",
    "times": [
     {
-     "t": "14:40",
+     "t": "14:55",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Primetime",
@@ -1433,14 +1458,10 @@
     {
      "t": "19:10",
      "vo": false
-    },
-    {
-     "t": "21:20",
-     "vo": false
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Se Ami Qualcuno Dillo",
@@ -1448,11 +1469,11 @@
    "slug": "se-ami-qualcuno-dillo",
    "times": [
     {
-     "t": "15:40",
+     "t": "14:00",
      "vo": false
     },
     {
-     "t": "17:30",
+     "t": "18:10",
      "vo": false
     },
     {
@@ -1461,7 +1482,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Fatherland",
@@ -1474,7 +1495,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "L'Estranea",
@@ -1482,33 +1503,12 @@
    "slug": "lestranea",
    "times": [
     {
-     "t": "18:10",
+     "t": "16:30",
      "vo": false
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-10-19"
-  },
-  {
-   "title": "Mammina",
-   "year": 2026,
-   "slug": "other-mommy",
-   "times": [
-    {
-     "t": "16:00",
-     "vo": false
-    },
-    {
-     "t": "19:10",
-     "vo": false
-    },
-    {
-     "t": "22:20",
-     "vo": false
-    }
-   ],
-   "cinema": "UCI Lingotto",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Zustissia",
@@ -1521,17 +1521,13 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Je So' Pazzo",
    "year": 2026,
    "slug": "je-so-pazzo",
    "times": [
-    {
-     "t": "14:10",
-     "vo": false
-    },
     {
      "t": "16:40",
      "vo": false
@@ -1546,7 +1542,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Whalefall - Nella Balena",
@@ -1567,7 +1563,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Frankie E Le Creature Dimenticate",
@@ -1584,7 +1580,20 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
+  },
+  {
+   "title": "Heart Of The Beast - Nel Profondo Selvaggio",
+   "year": 2026,
+   "slug": "heart-of-the-beast",
+   "times": [
+    {
+     "t": "20:50",
+     "vo": false
+    }
+   ],
+   "cinema": "UCI Lingotto",
+   "date": "2026-10-20"
   },
   {
    "title": "Digger",
@@ -1597,7 +1606,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Verity",
@@ -1605,12 +1614,12 @@
    "slug": "verity",
    "times": [
     {
-     "t": "21:40",
+     "t": "22:00",
      "vo": false
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Carlo Acutis - Il Giovane Santo",
@@ -1623,13 +1632,17 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Street Fighter",
    "year": 2026,
    "slug": "street-fighter",
    "times": [
+    {
+     "t": "17:10",
+     "vo": false
+    },
     {
      "t": "19:20",
      "vo": false
@@ -1640,7 +1653,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
    "title": "Jumbo",
@@ -1657,7 +1670,46 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
+  },
+  {
+   "title": "Odissea",
+   "year": 2026,
+   "slug": "odissea",
+   "times": [
+    {
+     "t": "14:20",
+     "vo": false
+    }
+   ],
+   "cinema": "UCI Lingotto",
+   "date": "2026-10-20"
+  },
+  {
+   "title": "The Invite - Il Piacere È Tutto Nostro",
+   "year": 2026,
+   "slug": "the-invite",
+   "times": [
+    {
+     "t": "21:20",
+     "vo": false
+    }
+   ],
+   "cinema": "UCI Lingotto",
+   "date": "2026-10-20"
+  },
+  {
+   "title": "Resident Evil",
+   "year": 2026,
+   "slug": "resident-evil",
+   "times": [
+    {
+     "t": "22:20",
+     "vo": false
+    }
+   ],
+   "cinema": "UCI Lingotto",
+   "date": "2026-10-20"
   },
   {
    "title": "Trainspotting",
@@ -1674,33 +1726,20 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   },
   {
-   "title": "Serpenti",
+   "title": "Ragione E Sentimento",
    "year": 2026,
-   "slug": "serpenti",
+   "slug": "ragione-e-sentimento",
    "times": [
     {
-     "t": "21:00",
+     "t": "20:31",
      "vo": false
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-10-19"
-  },
-  {
-   "title": "Insidious - Fuori Dall'Altrove",
-   "year": 2026,
-   "slug": "insidious-fuori-dallaltrove",
-   "times": [
-    {
-     "t": "22:00",
-     "vo": false
-    }
-   ],
-   "cinema": "UCI Lingotto",
-   "date": "2026-10-19"
+   "date": "2026-10-20"
   }
  ]
 }

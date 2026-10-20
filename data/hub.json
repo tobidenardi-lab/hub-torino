@@ -1,6 +1,6 @@
 {
- "generated": "19/10/2026 10:10 UTC",
- "today": "2026-10-19",
+ "generated": "20/10/2026 09:36 UTC",
+ "today": "2026-10-20",
  "title": "Torino Culturale",
  "me": "tobi_2117",
  "friends": [
@@ -85,7 +85,7 @@
   {
    "user": "ceciliabsqdr",
    "name": "ceciliabsqdr",
-   "avatar_url": "https://a.ltrbxd.com/resized/avatar/upload/2/3/2/3/9/8/7/8/shard/avtr-0-80-0-80-crop.jpg?v=879c22a74a",
+   "avatar_url": "https://a.ltrbxd.com/resized/avatar/upload/2/3/2/3/9/8/7/8/shard/avtr-0-80-0-80-crop.jpg?v=0f62568f78",
    "avatar": "avatars/ceciliabsqdr.jpg"
   },
   {
@@ -151,29 +151,31 @@
  ],
  "films": [
   {
-   "title": "Ballata Femmenella",
+   "title": "Alberi erranti",
    "year": 2026,
    "slug": null,
-   "director": "E.R. Melucci/G. B. Origo",
+   "director": "S. Mereu",
    "showings": [
     {
      "cinema": "Massimo (MNC)",
-     "date": "2026-10-19",
+     "date": "2026-10-28",
      "times": [
       {
-       "t": "20:30",
+       "t": "20:00",
        "vo": false
       }
      ],
      "room": null
     }
    ],
-   "notes": [],
-   "tmdb": 1640468,
+   "notes": [
+    "Al termine incontro con il regista"
+   ],
+   "tmdb": 1123892,
    "seen_by": [],
    "watchlist": false,
    "i_seen": false,
-   "lb_url": "https://letterboxd.com/tmdb/1640468/"
+   "lb_url": "https://letterboxd.com/tmdb/1123892/"
   },
   {
    "title": "La Bambola",
@@ -183,7 +185,7 @@
    "showings": [
     {
      "cinema": "Centrale",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "16:00",
@@ -208,10 +210,10 @@
    "showings": [
     {
      "cinema": "Centrale",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
-       "t": "17:30",
+       "t": "19:30",
        "vo": true
       }
      ],
@@ -233,7 +235,7 @@
    "showings": [
     {
      "cinema": "Classico",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "15:30",
@@ -262,7 +264,7 @@
    "showings": [
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "16:45",
@@ -277,7 +279,7 @@
     },
     {
      "cinema": "Reposi",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "15:30",
@@ -291,22 +293,11 @@
      "room": null
     },
     {
-     "cinema": "Teatro Monterosa",
-     "date": "2026-10-19",
-     "times": [
-      {
-       "t": "21:00",
-       "vo": false
-      }
-     ],
-     "room": null
-    },
-    {
      "cinema": "The Space Torino",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
-       "t": "18:10",
+       "t": "17:35",
        "vo": false
       }
      ],
@@ -314,7 +305,7 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "18:45",
@@ -330,77 +321,6 @@
    "watchlist": false,
    "i_seen": false,
    "lb_url": "https://letterboxd.com/tmdb/1634864/"
-  },
-  {
-   "title": "La Città Dei Vivi",
-   "year": 2026,
-   "slug": "la-citta-dei-vivi",
-   "director": "",
-   "showings": [
-    {
-     "cinema": "Reposi",
-     "date": "2026-10-19",
-     "times": [
-      {
-       "t": "17:40",
-       "vo": false
-      },
-      {
-       "t": "19:50",
-       "vo": false
-      }
-     ],
-     "room": null
-    }
-   ],
-   "notes": [],
-   "tmdb": 1632103,
-   "seen_by": [
-    {
-     "user": "marcodenardi",
-     "rating": 4.0,
-     "review": "",
-     "like": true,
-     "url": "https://letterboxd.com/marcodenardi/film/the-city-of-the-living/",
-     "watched": "2026-10-01"
-    },
-    {
-     "user": "annuzzaemarcuzz",
-     "rating": 3.5,
-     "review": "",
-     "like": false,
-     "url": "https://letterboxd.com/annuzzaemarcuzz/film/the-city-of-the-living/",
-     "watched": "2026-10-03"
-    }
-   ],
-   "watchlist": false,
-   "i_seen": false,
-   "lb_url": "https://letterboxd.com/tmdb/1632103/"
-  },
-  {
-   "title": "Il clan dei Barker",
-   "year": 1970,
-   "slug": null,
-   "director": "R. Corman",
-   "showings": [
-    {
-     "cinema": "Massimo (MNC)",
-     "date": "2026-10-19",
-     "times": [
-      {
-       "t": "16:30",
-       "vo": false
-      }
-     ],
-     "room": null
-    }
-   ],
-   "notes": [],
-   "tmdb": 31581,
-   "seen_by": [],
-   "watchlist": false,
-   "i_seen": false,
-   "lb_url": "https://letterboxd.com/tmdb/31581/"
   },
   {
    "title": "Cous Cous",
@@ -473,7 +393,7 @@
    "showings": [
     {
      "cinema": "Massimo (MNC)",
-     "date": "2026-10-21",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "16:00",
@@ -488,7 +408,7 @@
        "vo": false
       }
      ],
-     "room": "Sala 2"
+     "room": null
     },
     {
      "cinema": "Massimo (MNC)",
@@ -496,10 +416,6 @@
      "times": [
       {
        "t": "16:00",
-       "vo": false
-      },
-      {
-       "t": "18:15",
        "vo": false
       }
      ],
@@ -530,7 +446,7 @@
    "showings": [
     {
      "cinema": "Eliseo",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "16:00",
@@ -549,7 +465,7 @@
     },
     {
      "cinema": "Greenwich Village",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "15:30",
@@ -568,7 +484,7 @@
     },
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "19:05",
@@ -579,7 +495,7 @@
     },
     {
      "cinema": "Nazionale",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "19:15",
@@ -590,7 +506,7 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "15:10",
@@ -648,7 +564,7 @@
    "showings": [
     {
      "cinema": "Romano",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "17:15",
@@ -672,8 +588,19 @@
    "director": "",
    "showings": [
     {
+     "cinema": "Due Giardini",
+     "date": "2026-10-20",
+     "times": [
+      {
+       "t": "18:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
      "cinema": "Fratelli Marx",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "16:00",
@@ -688,7 +615,7 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "16:50",
@@ -703,7 +630,7 @@
     },
     {
      "cinema": "Nazionale",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "16:00",
@@ -722,7 +649,7 @@
     },
     {
      "cinema": "Reposi",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "15:30",
@@ -745,14 +672,14 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
-       "t": "16:50",
+       "t": "16:45",
        "vo": false
       },
       {
-       "t": "22:10",
+       "t": "22:05",
        "vo": false
       }
      ],
@@ -760,10 +687,10 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
-       "t": "18:10",
+       "t": "16:30",
        "vo": false
       }
      ],
@@ -802,10 +729,14 @@
    "showings": [
     {
      "cinema": "Massimo (MNC)",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "16:00",
+       "vo": false
+      },
+      {
+       "t": "18:15",
        "vo": false
       }
      ],
@@ -813,7 +744,7 @@
     },
     {
      "cinema": "Nazionale",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "15:15",
@@ -832,25 +763,10 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-19",
-     "times": [
-      {
-       "t": "19:40",
-       "vo": false
-      }
-     ],
-     "room": null
-    },
-    {
-     "cinema": "Massimo (MNC)",
      "date": "2026-10-20",
      "times": [
       {
-       "t": "16:00",
-       "vo": false
-      },
-      {
-       "t": "18:15",
+       "t": "19:40",
        "vo": false
       }
      ],
@@ -866,6 +782,55 @@
       },
       {
        "t": "20:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-21",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      },
+      {
+       "t": "21:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-26",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      },
+      {
+       "t": "18:00",
+       "vo": false
+      },
+      {
+       "t": "21:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-28",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      },
+      {
+       "t": "21:00",
        "vo": false
       }
      ],
@@ -887,7 +852,7 @@
    "showings": [
     {
      "cinema": "Agnelli",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "21:00",
@@ -912,7 +877,7 @@
    "showings": [
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "15:00",
@@ -923,7 +888,7 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "14:40",
@@ -945,6 +910,58 @@
    "lb_url": "https://letterboxd.com/tmdb/1214130/"
   },
   {
+   "title": "I fratelli Segreto",
+   "year": 2025,
+   "slug": null,
+   "director": "F. Ferrone/M. Manzolini",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-27",
+     "times": [
+      {
+       "t": "20:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [
+    "Al termine incontro con i registi"
+   ],
+   "tmdb": 1233249,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1233249/"
+  },
+  {
+   "title": "Una Giornata Maledettamente Buona",
+   "year": 2026,
+   "slug": "una-giornata-maledettamente-buona",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Movie Planet Lux",
+     "date": "2026-10-20",
+     "times": [
+      {
+       "t": "21:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": null,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": null
+  },
+  {
    "title": "Heart Of The Beast - Nel Profondo Selvaggio",
    "year": 2026,
    "slug": "heart-of-the-beast",
@@ -952,7 +969,7 @@
    "showings": [
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "15:20",
@@ -963,7 +980,7 @@
     },
     {
      "cinema": "Reposi",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "15:30",
@@ -982,10 +999,25 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
-       "t": "15:50",
+       "t": "14:25",
+       "vo": false
+      },
+      {
+       "t": "17:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "UCI Lingotto",
+     "date": "2026-10-20",
+     "times": [
+      {
+       "t": "20:50",
        "vo": false
       }
      ],
@@ -1044,31 +1076,6 @@
    "lb_url": "https://letterboxd.com/tmdb/1546843/"
   },
   {
-   "title": "Insidious - Fuori Dall'Altrove",
-   "year": 2026,
-   "slug": "insidious-fuori-dallaltrove",
-   "director": "",
-   "showings": [
-    {
-     "cinema": "UCI Lingotto",
-     "date": "2026-10-19",
-     "times": [
-      {
-       "t": "22:00",
-       "vo": false
-      }
-     ],
-     "room": null
-    }
-   ],
-   "notes": [],
-   "tmdb": 1291595,
-   "seen_by": [],
-   "watchlist": false,
-   "i_seen": false,
-   "lb_url": "https://letterboxd.com/tmdb/1291595/"
-  },
-  {
    "title": "The Invite - Il Piacere È Tutto Nostro",
    "year": 2026,
    "slug": "the-invite",
@@ -1076,7 +1083,7 @@
    "showings": [
     {
      "cinema": "Eliseo",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "16:00",
@@ -1091,10 +1098,25 @@
     },
     {
      "cinema": "Movie Planet Lux",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "18:30",
+       "vo": false
+      },
+      {
+       "t": "21:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "UCI Lingotto",
+     "date": "2026-10-20",
+     "times": [
+      {
+       "t": "21:20",
        "vo": false
       }
      ],
@@ -1149,10 +1171,10 @@
    "showings": [
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
-       "t": "14:40",
+       "t": "14:55",
        "vo": false
       }
      ],
@@ -1174,7 +1196,7 @@
    "showings": [
     {
      "cinema": "Eliseo",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "16:30",
@@ -1193,7 +1215,7 @@
     },
     {
      "cinema": "Greenwich Village",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "16:00",
@@ -1212,7 +1234,7 @@
     },
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "17:20",
@@ -1231,7 +1253,7 @@
     },
     {
      "cinema": "Reposi",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "15:30",
@@ -1254,7 +1276,7 @@
     },
     {
      "cinema": "Romano",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "15:30",
@@ -1277,14 +1299,10 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
-       "t": "15:35",
-       "vo": false
-      },
-      {
-       "t": "17:05",
+       "t": "15:50",
        "vo": false
       },
       {
@@ -1292,11 +1310,15 @@
        "vo": false
       },
       {
+       "t": "19:50",
+       "vo": false
+      },
+      {
        "t": "21:00",
        "vo": false
       },
       {
-       "t": "22:25",
+       "t": "22:20",
        "vo": false
       }
      ],
@@ -1304,12 +1326,8 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
-      {
-       "t": "14:10",
-       "vo": false
-      },
       {
        "t": "16:40",
        "vo": false
@@ -1341,7 +1359,7 @@
    "showings": [
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "14:30",
@@ -1361,6 +1379,40 @@
    "watchlist": false,
    "i_seen": false,
    "lb_url": "https://letterboxd.com/tmdb/1049082/"
+  },
+  {
+   "title": "Il Labirinto",
+   "year": 2026,
+   "slug": "il-labirinto",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Baretti",
+     "date": "2026-10-20",
+     "times": [
+      {
+       "t": "21:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1417,
+   "seen_by": [
+    {
+     "user": "benjisdiary",
+     "rating": 5.0,
+     "review": "She is the bravest girl everr\n\nFaun’s and Pale man’s designs are so insaneee😫😫\nLove it love it love it\nLove the whole movie,\nSo fire\n\nDIEZ\n/10",
+     "like": false,
+     "url": "https://letterboxd.com/benjisdiary/film/pans-labyrinth/1/",
+     "watched": "2026-07-15"
+    }
+   ],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1417/"
   },
   {
    "title": "M – Il mostro di Dusseldorf",
@@ -1397,7 +1449,7 @@
    "showings": [
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "15:20",
@@ -1412,7 +1464,7 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "18:20",
@@ -1427,14 +1479,14 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
-       "t": "14:15",
+       "t": "14:10",
        "vo": false
       },
       {
-       "t": "16:40",
+       "t": "16:45",
        "vo": false
       },
       {
@@ -1442,7 +1494,7 @@
        "vo": false
       },
       {
-       "t": "20:05",
+       "t": "20:00",
        "vo": false
       },
       {
@@ -1450,26 +1502,7 @@
        "vo": false
       },
       {
-       "t": "22:40",
-       "vo": false
-      }
-     ],
-     "room": null
-    },
-    {
-     "cinema": "UCI Lingotto",
-     "date": "2026-10-19",
-     "times": [
-      {
-       "t": "16:00",
-       "vo": false
-      },
-      {
-       "t": "19:10",
-       "vo": false
-      },
-      {
-       "t": "22:20",
+       "t": "22:35",
        "vo": false
       }
      ],
@@ -1566,7 +1599,7 @@
    "showings": [
     {
      "cinema": "Agnelli",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "19:00",
@@ -1577,10 +1610,10 @@
     },
     {
      "cinema": "Centrale",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
-       "t": "21:15",
+       "t": "17:45",
        "vo": true
       }
      ],
@@ -1588,7 +1621,7 @@
     },
     {
      "cinema": "Eliseo",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "18:15",
@@ -1603,7 +1636,7 @@
     },
     {
      "cinema": "Fratelli Marx",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "16:15",
@@ -1626,7 +1659,7 @@
     },
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "19:50",
@@ -1637,7 +1670,7 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "20:00",
@@ -1648,7 +1681,7 @@
     },
     {
      "cinema": "Movie Planet Lux",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "18:30",
@@ -1659,7 +1692,7 @@
     },
     {
      "cinema": "Nazionale",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "15:45",
@@ -1678,14 +1711,18 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
+      {
+       "t": "14:35",
+       "vo": false
+      },
       {
        "t": "19:40",
        "vo": false
       },
       {
-       "t": "20:30",
+       "t": "20:35",
        "vo": false
       }
      ],
@@ -1724,7 +1761,7 @@
    "showings": [
     {
      "cinema": "Romano",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "15:30",
@@ -1742,15 +1779,23 @@
    "lb_url": "https://letterboxd.com/tmdb/1594043/"
   },
   {
-   "title": "Ocean Film Festival",
-   "year": null,
+   "title": "No Good Men",
+   "year": 2026,
    "slug": null,
-   "director": "",
+   "director": "S. Sadat",
    "showings": [
     {
      "cinema": "Massimo (MNC)",
-     "date": "2026-10-19",
+     "date": "2026-10-27",
      "times": [
+      {
+       "t": "15:00",
+       "vo": false
+      },
+      {
+       "t": "17:30",
+       "vo": false
+      },
       {
        "t": "20:00",
        "vo": false
@@ -1760,11 +1805,126 @@
     }
    ],
    "notes": [],
-   "tmdb": null,
-   "seen_by": [],
+   "tmdb": 1241574,
+   "seen_by": [
+    {
+     "user": "ceciliabsqdr",
+     "rating": 3.5,
+     "review": "",
+     "like": false,
+     "url": "https://letterboxd.com/ceciliabsqdr/film/no-good-men-2026/",
+     "watched": "2026-06-12"
+    }
+   ],
    "watchlist": false,
    "i_seen": false,
-   "lb_url": null
+   "lb_url": "https://letterboxd.com/tmdb/1241574/"
+  },
+  {
+   "title": "Odissea",
+   "year": 2026,
+   "slug": "odissea",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "UCI Lingotto",
+     "date": "2026-10-20",
+     "times": [
+      {
+       "t": "14:20",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1368337,
+   "seen_by": [
+    {
+     "user": "helmy2005",
+     "rating": 5.0,
+     "review": "",
+     "like": true,
+     "url": "https://letterboxd.com/helmy2005/film/the-odyssey-2026/",
+     "watched": "2026-07-16"
+    },
+    {
+     "user": "camillocueto",
+     "rating": 5.0,
+     "review": "",
+     "like": true,
+     "url": "https://letterboxd.com/camillocueto/film/the-odyssey-2026/",
+     "watched": "2026-07-20"
+    },
+    {
+     "user": "ceciliabsqdr",
+     "rating": 5.0,
+     "review": "Finito di vederlo nemmeno 4 ore fa e vorrei già riguardarlo…d’altronde parliamo di Nolan🙇🏻‍♀️\n⭐️LOVE IT⭐️",
+     "like": true,
+     "url": "https://letterboxd.com/ceciliabsqdr/film/the-odyssey-2026/",
+     "watched": "2026-07-18"
+    },
+    {
+     "user": "dedecxz",
+     "rating": 5.0,
+     "review": "",
+     "like": false,
+     "url": "https://letterboxd.com/dedecxz/film/the-odyssey-2026/",
+     "watched": "2026-07-18"
+    },
+    {
+     "user": "pippega",
+     "rating": 4.5,
+     "review": "",
+     "like": false,
+     "url": "https://letterboxd.com/pippega/film/the-odyssey-2026/",
+     "watched": "2026-07-18"
+    },
+    {
+     "user": "benjisdiary",
+     "rating": 4.5,
+     "review": "I kept waiting travis to yell\n”ITS LIT!”\n\nI could ride an essay about this. This was unbelievable experience. Seeing this in 70mm (no imax) was surreal.\nIt felt so different, much more different, and raw and real..\n\nThis might be the greatest made film ever. cinema brother,\nabsolute cinema\n\nI kept contemplating whether to give this 10/10 or 9.?/10, the way this has been on my mind in such an admirable way makes this so hard. I even saw a dream about this movie.\nI need to see this one more time before im giving this\n10/10\n\nRobert Pattinson really is one of the if not the greatest working actors atm. Ive become such a fan of his.\n\nLanguage choice, brilliant\nCostume design, amazing. Agamemnon looked MADDDDD wosh.\nGate opening scene with Agamemnon was AURA DEFINING moment\n\nThis made me emotional, this had me in full-body, enormous goosebumps. My scalp was tingling\n\nMovies made like this, pure passion towards cinema, inspires me so much.\nMasterclass movie making… thank you god,\n\nIma see this again soon, on\nIMAX\n\n9.8/10",
+     "like": false,
+     "url": "https://letterboxd.com/benjisdiary/film/the-odyssey-2026/",
+     "watched": "2026-07-19"
+    },
+    {
+     "user": "giuliabissi",
+     "rating": 4.5,
+     "review": "",
+     "like": false,
+     "url": "https://letterboxd.com/giuliabissi/film/the-odyssey-2026/",
+     "watched": "2026-07-20"
+    },
+    {
+     "user": "aleraffellini",
+     "rating": 4.5,
+     "review": "",
+     "like": false,
+     "url": "https://letterboxd.com/aleraffellini/film/the-odyssey-2026/",
+     "watched": "2026-07-25"
+    },
+    {
+     "user": "francescocauto",
+     "rating": 3.5,
+     "review": "",
+     "like": false,
+     "url": "https://letterboxd.com/francescocauto/film/the-odyssey-2026/",
+     "watched": "2026-08-23"
+    },
+    {
+     "user": "watchedbyadrien",
+     "rating": 3.0,
+     "review": "This review may contain spoilers.\n\nthere’s a reason early reviews either need to be completely ignored. or taken with a massive grain of salt.\nwhether it’s people calling something a masterpiece or the worst film ever made, the reality usually lies somewhere in between. the odyssey is no exception. there’s a lot to admire here, and there’s a lot that doesn’t work. let’s get into it.\n\nfirst, the good news. all of the worries of the trailer. all of the “historical inaccuracies” (costumes, ship design, casting, geography etc..) otherwise known very famously as the “zoel issues” are a complete non issue.\nthe costumes are great and feel authentic (that’s why one must never look at screen grabs from google images, and always look at things within their proper context, with the proper lighting). the production design is great as well. the locations are real. the sets feel tangible. everything feels lived in.\nunder any other director, this would’ve been a cgi slop fest, but nolan’s commitment to practical filmmaking is once again the film’s greatest strength.\n\nthe writing, unfortunately, is where everything starts to fall apart. (this is not an issue with the particularly translation nolan chose to adapt, which I actually found quite fascinating. it’s how he executed on it)\n\nthe opening is overloaded with exposition, the dialogue swings wildly between genuinely compelling and painfully theatrical, at the cost of feeling redundant (hey, have you heard of Zeus’ law? they don’t mention it enough in the film)\nand because every character is underdeveloped, because none of them are given enough room to become actual people, it makes a lot of sense that some of the delivery would feel flat or hollow.\n\nyes, homer’s characters are archetypal, but I still cared more about them on the page than i did on the screen. because nolan gives us just enough information to understand who these people are, but almost never enough time to actually care about them.\n\nthat’s what keeps happening throughout the film.\n\ncirce is cool. calypso is lovely. athena is a breath of fresh air. the cyclop is beautifully designed. scylla is effectively economical in how she’s portrayed. even the giants look great. and the underworld sequence is probably one of my favorites.\n\nbut every sequence arrives, and then disappears just as quickly, before it has time to emotionally settle. the same is true of the human moments. we never really get to properly sit with odysseus and his family, or odysseus and his crew (and I’m not talking about being visually with them during the storm) I’m saying that we never actually explore or fully understand their camaraderie, their friendships, or what each loss actually means to the people left behind.\nthe film rarely lingers long enough on these moments for any of them to become truly immersive or memorable.\n\nthis is where I think the comparison with dunkirk becomes interesting.\ndunkirk is also an emotionally restrained film built largely on mood, texture and experience. but dunkirk never promises you an emotional anchor. this does.\nthe opening immediately establishes odysseus, his wife and his son. the music tells you this family is going to be the emotional center of the film. everything points toward that reunion. you are supposed to feel emotionally invested in his journey and feeling the dread that he may never come back home.\nso as opposed to dunkirk, the film does have the ambition to be emotional. but unfortunately never really delivers on that promise.\n\nanother thing i kept hearing before watching was how terrifying some of the monster sequences supposedly were. especially the cyclop sequence.\nthey aren’t.\nthey’re well crafted. beautifully designed. but I never once felt genuine fear, dread or horror. and i think that comes back to the exact same issue we’re having.\nhorror requires patience. tension requires scenes to breathe. and as we’ve established, this film is constantly moving from one event to the next without any proper payoff.\n\nthe cinematography is similarly inconsistent.\n\nsometimes it’s absolutely gorgeous, motivated, and artful. particularly when we’re onboard the ships experiencing the voyage almost through odysseus’ eyes. that’s where the handheld work really shines.\nbeing physically present with these characters, surrounded by real landscapes, is where the film is visually at its strongest.\nother times, the camera moves feel random and lazy, especially during the jason bourne fight sequence at the end.\n\nthe score follows a similar pattern.\n\nwhenever it’s focused on the family, it’s wonderful. simple melodies that immediately communicate warmth, longing and intimacy.\nduring much of the action, though, it falls back on fairly generic percussion that simply accelerates alongside the editing without adding any emotional texture. i’d heard people calling this ludwig göransson’s masterpiece. it’s far from it.\noppenheimer wins that conversation by a mile.\n\nnow unto the performances…\nI’m afraid to say matt damon is still… matt damon. and he’s still… just there. I kept hearing about his special and transformative performance. I never saw it.\nhe gives a perfectly good matt damon performance.\nI just don’t think he possesses the gravitas the character of odysseus actually requires.\n\nanne hathaway is excellent and easily gives the strongest performance in the film.\n\ntom holland actually surprised me. i wouldn’t call it extraordinary, but he absolutely holds his own and makes the most of the material he’s given.\n\nrobert pattinson, unfortunately, didn’t convince me at all. perhaps it’s partly because the character is written as a one-note antagonist, but the performance often drifted into caricature.\n\nzendaya and eliott page were great (especially in the underworld)\n\neveryone else ranges somewhere between good, very good, and forgettable.\n\nthematically, the film touches on war, imperialism, identity, guilt and the gradual loss of self. and for the most part it’s all there, but the anti-war messaging itself never goes much beyond mere ideas we’ve seen explored many times before and often with far greater depth.\n\nand now here’s the contradiction. the very thing that kept me emotionally distant is also ironically one of the things i admired the most: the editing and structure.\n\nyes, I found it jarring and frustrating. as I said, we constantly jump from one event to another without much transition or reflection. however, it also does something I’ve never really seen before.\n\nthe film is edited like its source material. every scene feels like a poetic verse and every shot feels like a stanza.\nit’s nolan translating not just the story of an epic poem but its rhythm and structure into a fascinating cinematic language. an exploration of form and texture. a formidable exercise in style, executed quasi flawlessly.\n\nso all in all, this isn’t a masterpiece. far from it. it doesn’t come remotely close to oppenheimer, interstellar, or even any of nolan’s strongest film.\nbut also here’s the thing, the odyssey is in many ways, an impossible work to adapt. arguably unfilmable. so the fact that nolan did so, with this level of creativity, originality, dedication to the sheer craft of filmmaking while maintaining the absolute epicness of it all, is something I can’t help but celebrate and applaud. and it’s enough for me to recommend the odyssey.\n\nPS: the dune 3 clip that was shown before the movie started, was out of this world!\n\nPSS: the overt glaze or overt hate for any new big release is an actual issue in film discourse today (but that’s a problem we’ll have to tackle at another time)",
+     "like": false,
+     "url": "https://letterboxd.com/watchedbyadrien/film/the-odyssey-2026/",
+     "watched": "2026-07-22"
+    }
+   ],
+   "watchlist": false,
+   "i_seen": true,
+   "lb_url": "https://letterboxd.com/tmdb/1368337/"
   },
   {
    "title": "Palestina 36 - Quando Tutto Ebbe Inizio",
@@ -1774,7 +1934,7 @@
    "showings": [
     {
      "cinema": "Greenwich Village",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "15:30",
@@ -1809,42 +1969,65 @@
    "lb_url": "https://letterboxd.com/tmdb/1432596/"
   },
   {
-   "title": "Un Po' Di Luce",
+   "title": "Possible Love",
    "year": 2026,
-   "slug": "un-po-di-luce",
-   "director": "",
-   "showings": [
-    {
-     "cinema": "Baretti",
-     "date": "2026-10-19",
-     "times": [
-      {
-       "t": "10:30",
-       "vo": false
-      }
-     ],
-     "room": null
-    }
-   ],
-   "notes": [],
-   "tmdb": 1736490,
-   "seen_by": [],
-   "watchlist": false,
-   "i_seen": false,
-   "lb_url": "https://letterboxd.com/tmdb/1736490/"
-  },
-  {
-   "title": "Il pozzo e il pendolo",
-   "year": 1961,
    "slug": null,
-   "director": "R.Corman",
+   "director": "L. Chang-dong",
    "showings": [
     {
      "cinema": "Massimo (MNC)",
-     "date": "2026-10-19",
+     "date": "2026-10-21",
      "times": [
       {
-       "t": "18:30",
+       "t": "18:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-21",
+     "times": [
+      {
+       "t": "18:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-26",
+     "times": [
+      {
+       "t": "16:30",
+       "vo": false
+      },
+      {
+       "t": "20:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-27",
+     "times": [
+      {
+       "t": "16:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-28",
+     "times": [
+      {
+       "t": "16:30",
        "vo": false
       }
      ],
@@ -1852,11 +2035,20 @@
     }
    ],
    "notes": [],
-   "tmdb": 28501,
-   "seen_by": [],
+   "tmdb": 1483525,
+   "seen_by": [
+    {
+     "user": "georgecarmi",
+     "rating": null,
+     "review": "11 hour movie.",
+     "like": false,
+     "url": "https://letterboxd.com/georgecarmi/film/possible-love/",
+     "watched": "2026-09-27"
+    }
+   ],
    "watchlist": false,
    "i_seen": false,
-   "lb_url": "https://letterboxd.com/tmdb/28501/"
+   "lb_url": "https://letterboxd.com/tmdb/1483525/"
   },
   {
    "title": "Primetime",
@@ -1866,18 +2058,37 @@
    "showings": [
     {
      "cinema": "Centrale",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
+       "t": "21:15",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Due Giardini",
+     "date": "2026-10-20",
+     "times": [
+      {
+       "t": "16:45",
+       "vo": false
+      },
+      {
        "t": "19:00",
-       "vo": true
+       "vo": false
+      },
+      {
+       "t": "21:15",
+       "vo": false
       }
      ],
      "room": null
     },
     {
      "cinema": "Greenwich Village",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "16:00",
@@ -1896,7 +2107,7 @@
     },
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "17:10",
@@ -1911,7 +2122,7 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "17:00",
@@ -1926,18 +2137,10 @@
     },
     {
      "cinema": "Movie Planet Lux",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "18:30",
-       "vo": false
-      },
-      {
-       "t": "21:10",
-       "vo": true
-      },
-      {
-       "t": "21:15",
        "vo": false
       }
      ],
@@ -1945,22 +2148,22 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "14:25",
        "vo": false
       },
       {
-       "t": "17:25",
-       "vo": false
-      },
-      {
-       "t": "19:45",
+       "t": "17:10",
        "vo": false
       },
       {
        "t": "21:50",
+       "vo": false
+      },
+      {
+       "t": "22:20",
        "vo": false
       }
      ],
@@ -1968,7 +2171,7 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "16:10",
@@ -1976,10 +2179,6 @@
       },
       {
        "t": "19:10",
-       "vo": false
-      },
-      {
-       "t": "21:20",
        "vo": false
       }
      ],
@@ -2006,25 +2205,50 @@
      "watched": "2026-10-11"
     },
     {
-     "user": "giuliabissi",
-     "rating": 3.5,
-     "review": "",
-     "like": false,
-     "url": "https://letterboxd.com/giuliabissi/film/primetime-2026/",
-     "watched": "2026-10-17"
-    },
-    {
      "user": "watchedbyadrien",
      "rating": 3.0,
      "review": "first and foremost, anyone who thinks this film is excusing or sympathizing with predators, or that it’s some kind of hit piece on chris hansen, or anything of that nature, you’re officially an idiot and you do not deserve this art form. actually, any art form for that matter. you should probably refrain from consuming art altogether. it’s okay, it doesn’t have to be for everyone. clearly it’s not for you.\n\nso that’s first of all.\n\nnow, as for the film itself, the first half was wonderful. visually, structurally, the way we’re immersed into the world and into the mind of hansen, who’s immediately established as multifaceted. and more importantly, the film superbly sets up a premise that was fascinating.\n\nthere’s that moment in the NBC offices where hansen is essentially presented with the possibility of becoming the biggest show in the network’s history. and i thought, okay, we’re really going to explore what it means to do the right thing. what happens when someone genuinely believes they’re doing good, but that good is being first pursued for profit, for fame, for ambition, and potentially at the expense of justice itself. what happens when the pursuit of justice becomes entertainment, and what are the consequences of that.\n\nthe problem is that the film never really explores it.\n\nthere’s sort of an attempt to do so, but it remains far too shallow, and the screenplay never quite knows what to do with the questions it raises. the whole subplot with his mistress and his wife doesn’t really work, and it’s not particularly interesting. and even the final sequence with the predator isn’t nearly enough to make that exploration satisfying.\n\nnow, I did still enjoy it. I liked being in hansen’s psyche. but a huge part of that is because pattinson was incredible.\nand this is coming from someone who has never been fully sold on pattinson. very good in the lighthouse and the batman, but he’s never particularly blown me away. here, he actually did.\n\nthe choices he makes are thoughtful. his mannerisms, his diction, the way he pauses to think about what he’s going to say or do next, and all the little nuances that make you believe in this man who’s genuinely convinced of the importance of his mission, while simultaneously becoming consumed by his own ambition. even as his mental state begins to deteriorate, there’s something very convincing about the way pattinson carries those contradictions.\nhe takes real risks with the performance, and they work. even when the screenplay isn’t giving him nearly enough to work with.\n\ngisondo is very good too, and merritt wever is fantastic. there’s a lot to appreciate in the performances throughout, which makes the shortcomings of the writing even more frustrating.\n\nvisually, the film remains excellent from beginning to end. and that’s also one of the main aspects that kept me engaged till the end.\n\nso i didn’t dislike it. there’s a lot to admire in it.\nbut unfortunately, it slowly exhausts itself as it goes, and by the end i was left thinking about how much better it could have been. because those first 40 minutes promised something genuinely awesome. a film that was going to dig into all kinds of moral contradictions.\n\nalas, primetime doesn’t live up to its own premise.",
      "like": false,
      "url": "https://letterboxd.com/watchedbyadrien/film/primetime-2026/",
      "watched": "2026-10-09"
+    },
+    {
+     "user": "giuliabissi",
+     "rating": 3.0,
+     "review": "",
+     "like": false,
+     "url": "https://letterboxd.com/giuliabissi/film/primetime-2026/",
+     "watched": "2026-10-17"
     }
    ],
    "watchlist": false,
    "i_seen": false,
    "lb_url": "https://letterboxd.com/tmdb/1375441/"
+  },
+  {
+   "title": "Ragione E Sentimento",
+   "year": 2026,
+   "slug": "ragione-e-sentimento",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "UCI Lingotto",
+     "date": "2026-10-20",
+     "times": [
+      {
+       "t": "20:31",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1503762,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1503762/"
   },
   {
    "title": "Recensione ❯",
@@ -2034,7 +2258,7 @@
    "showings": [
     {
      "cinema": "Greenwich Village",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "21:00",
@@ -2050,6 +2274,64 @@
    "watchlist": false,
    "i_seen": false,
    "lb_url": null
+  },
+  {
+   "title": "Resident Evil",
+   "year": 2026,
+   "slug": "resident-evil",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "UCI Lingotto",
+     "date": "2026-10-20",
+     "times": [
+      {
+       "t": "22:20",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1423191,
+   "seen_by": [
+    {
+     "user": "helmy2005",
+     "rating": 4.0,
+     "review": "",
+     "like": false,
+     "url": "https://letterboxd.com/helmy2005/film/resident-evil-2026/",
+     "watched": "2026-09-20"
+    },
+    {
+     "user": "sethsreviews",
+     "rating": 4.0,
+     "review": "Silly one-liners, exaggerated slimy monstrosities, and a strong emphasis on unskilled vulnerability. Something that switches from terrified POV images as our guy cautiously enters a room or turns a corner to deafeningly loud intrusions of complete freaks in a blink. Like the games, there are a ton of ridiculous obstacles in this - I have also tried to shoot off my fair share of locks as Ethan Winters. Austin Abrams nails it as the perfect everyman, he is remarkably funny. Plays out with many of the strongest elements from the games: the anxiousness of re2, the survival roots of re7, and one-liners similar to those Leon would say in re4. I can't even begin to express how hilarious I thought it was, even when the ideas are subtly undermined by its own absurdity. One of the funniest things I’ve seen in years.",
+     "like": false,
+     "url": "https://letterboxd.com/sethsreviews/film/resident-evil-2026/",
+     "watched": "2026-09-16"
+    },
+    {
+     "user": "georgecarmi",
+     "rating": 4.0,
+     "review": "zach creggers\nafter hours\nand it is so👏fucking👏fun👏",
+     "like": true,
+     "url": "https://letterboxd.com/georgecarmi/film/resident-evil-2026/1/",
+     "watched": "2026-09-21"
+    },
+    {
+     "user": "watchedbyadrien",
+     "rating": 3.5,
+     "review": "some of you were wondering, especially when spider-man: brand new day came out, if I still knew how to have fun when watching movies.\n\nand my response was that it was impossible to have fun during most of these films, and especially bnd as it was an awful film from A to Z.\n\nif your characters aren’t interesting, your villain is underwhelming, the writing is sloppy, the world isn’t compelling and if nothing happening on that screen makes you care emotionally or intellectually, then i’m not going to have fun just because the movie tells me i’m supposed to.\n\nladies and gentlemen, RE is what competent fun looks like.\nthe perfect example that fun does not come at the expense of good writing or good craft.\n\nRE has great writing. believable dialogue. witty humor. natural banter. no telling, all showing. it respects its audience! trusts them that they can understand something without having it explained to them. creates a world you actually want to be in and most importantly, gives us a character we actually want to follow.\n\nI knew this was going to be special the second bryan hit that first zombie with his car.\n\nbecause you know exactly what would happen in any other zombie movie. he gets out. slowly approaches the body. gets a little too close. zombie jumps up. jump scare.\n\ninstead, he walks over, picks the fucking thing up and puts it in his car.\n\nit’s believable. it’s hilarious. it’s fresh. it’s smart. I’m in.\n\naustin abrams is fantastic because bryan is exactly how we would be in this scenario, or how we would look like playing this game for the first time.\n\nhe’s the perfect everyday guy. he isn’t inexplicably great at anything. the way he progresses with the gunplay almost feels like the way we would progress through a difficult shooter. he learns. he adapts. he gets just a little better.\n\neven when he sees those two creatures connecting through their ligaments and basically goes, “that’s interesting.”\n\nyeah. that’s exactly what I would say. it’s not just hilarious, it’s relatable.\n\nand that grounding is so important because it protects the suspension of disbelief. that was one of my biggest problems with barbarian. characters would make decisions that felt so obviously stupid that i stopped believing in the reality of what i was watching.\n\nRE almost never does that.\n\nand then there’s the way cregger translates the language of video games into cinema.\n\nwe’re practically introduced to bryan from behind, following him while he’s making a delivery, like we just picked up the controller in a third-person game.\n\nthen throughout the film you have the subtle first-person shooter perspectives. the pans left and right that are timed perfectly. the way bryan moves through spaces. the locks! even those tiny pauses when opening doors that immediately puts us back into the gameplay of the last of us.\n\nthe attention to detail is precise and staggering and it’s execution is at times jaw dropping.\n\ncregger clearly understands the medium he’s paying homage to, but he never panders to it. he doesn’t need to rely on the recognizable heroes of the games or constantly point at the source material and wait for us to clap.\n\nhe takes the cinematic language that players know instinctively and builds something innately fresh out of it.\n\nthe environments are wonderful as well. every new location feels like entering another level of a banger video game.\nit has its own visual identity, its own obstacles, its own creatures, and, most importantly, it feels lived in! we constantly have the feeling that something happened there before we arrived.\n\neven the “NPCs” have backstories.\nthere are photographs on walls. objects in houses. little pieces of production design that tell you who these people were without stopping the movie to explain any of it.\n\nthat entire opening with the husband, the wife and the dog is such a great example. all these little details eventually connect, come full circle, and all of it suddenly feels so much bigger than what it appears.\n\nthat’s impeccable world-building.\n\nand cregger keeps renewing the film like that till the end.\nnew environment. new situation. new visual ideas.\n\nthe elevator sequence is great. the creature design is fantastic. the jump scares mostly work. the production design is really effective. there are some genuinely great shots. and even some of the stranger details that aren’t completely explained never bothered me because they almost feel like easter eggs. little pieces of this world that maybe mean something, maybe don’t, maybe become clearer the further you dig into it.\n\nexactly like in a video game.\n\nit’s as inventive in its progression as the best games know how to be, which is why it basically never drags.\n\nof course, not every section is equally strong. i liked the maxine sequence, but it was definitely one of the weaker ones. the relationship between bryan and his girlfriend also starts much stronger than it ends, and the voice note toward the end doesn’t fully hit.\n\nthere are little lags here and there. moments that could have been better. but that’s really all they are.\n\nand i love the way it ends. reminiscent of the phenomenal ending of cabin in the woods (although this one was not exactly at that level)\n\nthere’s also something else that makes me really happy, which is just seeing zach cregger get better.\n\ni’ve always really liked the guy as a human being. i love listening to him in interviews. i love his passion. i love how much he clearly cares about filmmaking and the craft.\n\nbut i’ve never fully connected with his films until now. (even though he always takes big swings)\n\nbarbarian wasn’t good. weapons was better. and resident evil is even better than weapons.\n\nhe just keeps progressing. and that’s really inspiring.\n\nbecause none of what works feels accidental. you can feel how much thought went into the writing, the environments, the camera moves, the creatures, the jokes, the character behavior, the production design, the tiny fucking pause before somebody walks through a door.\n\nthat’s where the fun comes from.\n\nnot from lowering your standards because something isn’t trying to be profound.\n\nthis has absolutely no pretension to be anything other than what it is.\n\nbut it executes the shit out of what it is.\nand that’s the difference.\n\nit creates a character i want to follow, puts him in a world i want to explore, respects me enough not to explain every tiny thing, understands the medium it’s borrowing from and then uses actual filmmaking craft to turn all of that into a thrilling experience.\n\nit’s not a masterpiece.\n\nbut it’s a really, really, really solid film.\n\nand so much fucking fun!",
+     "like": false,
+     "url": "https://letterboxd.com/watchedbyadrien/film/resident-evil-2026/",
+     "watched": "2026-09-23"
+    }
+   ],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1423191/"
   },
   {
    "title": "The Rocky Horror Picture Show",
@@ -2169,7 +2451,7 @@
    "showings": [
     {
      "cinema": "Fratelli Marx",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "16:30",
@@ -2188,7 +2470,7 @@
     },
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "17:10",
@@ -2203,7 +2485,7 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "19:00",
@@ -2214,14 +2496,14 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
-       "t": "15:40",
+       "t": "14:00",
        "vo": false
       },
       {
-       "t": "17:30",
+       "t": "18:10",
        "vo": false
       },
       {
@@ -2279,6 +2561,17 @@
        "vo": false
       }
      ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-28",
+     "times": [
+      {
+       "t": "18:00",
+       "vo": false
+      }
+     ],
      "room": "Sala 1"
     }
    ],
@@ -2299,7 +2592,7 @@
    "showings": [
     {
      "cinema": "Romano",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "19:20",
@@ -2307,17 +2600,6 @@
       },
       {
        "t": "21:15",
-       "vo": false
-      }
-     ],
-     "room": null
-    },
-    {
-     "cinema": "UCI Lingotto",
-     "date": "2026-10-19",
-     "times": [
-      {
-       "t": "21:00",
        "vo": false
       }
      ],
@@ -2339,7 +2621,7 @@
    "showings": [
     {
      "cinema": "Greenwich Village",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "18:00",
@@ -2374,31 +2656,6 @@
    "lb_url": "https://letterboxd.com/tmdb/1168719/"
   },
   {
-   "title": "Sotto A Chi Tocca",
-   "year": 2026,
-   "slug": "sotto-a-chi-tocca",
-   "director": "",
-   "showings": [
-    {
-     "cinema": "Reposi",
-     "date": "2026-10-19",
-     "times": [
-      {
-       "t": "22:00",
-       "vo": false
-      }
-     ],
-     "room": null
-    }
-   ],
-   "notes": [],
-   "tmdb": 1725719,
-   "seen_by": [],
-   "watchlist": false,
-   "i_seen": false,
-   "lb_url": "https://letterboxd.com/tmdb/1725719/"
-  },
-  {
    "title": "Strange Journey: The Story of Rocky Horror",
    "year": 2025,
    "slug": null,
@@ -2431,7 +2688,7 @@
    "showings": [
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "16:50",
@@ -2446,7 +2703,7 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "17:00",
@@ -2461,14 +2718,14 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
-       "t": "16:30",
+       "t": "15:05",
        "vo": false
       },
       {
-       "t": "21:40",
+       "t": "17:10",
        "vo": false
       }
      ],
@@ -2476,8 +2733,12 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
+      {
+       "t": "17:10",
+       "vo": false
+      },
       {
        "t": "19:20",
        "vo": false
@@ -2514,7 +2775,7 @@
    "showings": [
     {
      "cinema": "Romano",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "16:30",
@@ -2572,7 +2833,7 @@
    "showings": [
     {
      "cinema": "Classico",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "20:30",
@@ -2582,8 +2843,23 @@
      "room": null
     },
     {
+     "cinema": "Due Giardini",
+     "date": "2026-10-20",
+     "times": [
+      {
+       "t": "16:30",
+       "vo": false
+      },
+      {
+       "t": "21:00",
+       "vo": true
+      }
+     ],
+     "room": null
+    },
+    {
      "cinema": "Massaua Cityplex",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "21:30",
@@ -2594,7 +2870,7 @@
     },
     {
      "cinema": "Nazionale",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "17:00",
@@ -2613,7 +2889,7 @@
     },
     {
      "cinema": "Reposi",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "20:00",
@@ -2624,7 +2900,7 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "19:30",
@@ -2635,7 +2911,7 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "18:50",
@@ -2734,7 +3010,7 @@
    "showings": [
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "19:00",
@@ -2745,7 +3021,7 @@
     },
     {
      "cinema": "Movie Planet Lux",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "21:00",
@@ -2756,10 +3032,10 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
-       "t": "21:40",
+       "t": "22:00",
        "vo": false
       }
      ],
@@ -2817,7 +3093,7 @@
    "showings": [
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "15:40",
@@ -2836,7 +3112,7 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "16:50",
@@ -2851,12 +3127,8 @@
     },
     {
      "cinema": "Reposi",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
-      {
-       "t": "15:30",
-       "vo": false
-      },
       {
        "t": "17:40",
        "vo": false
@@ -2870,14 +3142,14 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
-       "t": "14:05",
+       "t": "14:20",
        "vo": false
       },
       {
-       "t": "16:20",
+       "t": "18:00",
        "vo": false
       },
       {
@@ -2889,7 +3161,7 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "16:20",
@@ -2922,7 +3194,7 @@
    "showings": [
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "15:00",
@@ -2937,7 +3209,7 @@
     },
     {
      "cinema": "Nazionale",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "16:00",
@@ -2952,10 +3224,10 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
-       "t": "19:00",
+       "t": "19:50",
        "vo": false
       }
      ],
@@ -2963,7 +3235,7 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-19",
+     "date": "2026-10-20",
      "times": [
       {
        "t": "15:50",
@@ -2985,72 +3257,72 @@
  "health": {
   "mymovies_cinema": {
    "ok": true,
-   "count": 101,
+   "count": 104,
    "note": "",
-   "checked": "2026-10-19 10:09 UTC",
-   "last_ok": "2026-10-19"
+   "checked": "2026-10-20 09:35 UTC",
+   "last_ok": "2026-10-20"
   },
   "massimo_calendario": {
    "ok": true,
-   "count": 32,
+   "count": 39,
    "note": "",
-   "checked": "2026-10-19 10:09 UTC",
-   "last_ok": "2026-10-19"
+   "checked": "2026-10-20 09:35 UTC",
+   "last_ok": "2026-10-20"
   },
   "letterboxd_seguiti": {
    "ok": true,
    "count": 24,
    "note": "",
-   "checked": "2026-10-19 10:09 UTC",
-   "last_ok": "2026-10-19"
+   "checked": "2026-10-20 09:35 UTC",
+   "last_ok": "2026-10-20"
   },
   "letterboxd_diari": {
    "ok": true,
    "count": 25,
    "note": "",
-   "checked": "2026-10-19 10:09 UTC",
-   "last_ok": "2026-10-19"
+   "checked": "2026-10-20 09:36 UTC",
+   "last_ok": "2026-10-20"
   },
   "letterboxd_watchlist": {
    "ok": true,
    "count": 162,
    "note": "",
-   "checked": "2026-10-19 10:10 UTC",
-   "last_ok": "2026-10-19"
+   "checked": "2026-10-20 09:36 UTC",
+   "last_ok": "2026-10-20"
   },
   "eventi: arte.it (mese corrente)": {
    "ok": false,
    "count": 0,
    "note": "LLM risposta anomala: OK\r ",
-   "checked": "2026-10-19 10:10 UTC",
+   "checked": "2026-10-20 09:36 UTC",
    "last_ok": ""
   },
   "eventi: CAMERA": {
    "ok": false,
    "count": 0,
    "note": "LLM risposta anomala: OK\r ",
-   "checked": "2026-10-19 10:10 UTC",
+   "checked": "2026-10-20 09:36 UTC",
    "last_ok": ""
   },
   "eventi: Museo Nazionale del Cinema": {
    "ok": false,
    "count": 0,
    "note": "LLM risposta anomala: OK\r ",
-   "checked": "2026-10-19 10:10 UTC",
+   "checked": "2026-10-20 09:36 UTC",
    "last_ok": ""
   },
   "eventi: Turismo Torino - agenda": {
    "ok": false,
    "count": 0,
    "note": "LLM risposta anomala: OK\r ",
-   "checked": "2026-10-19 10:10 UTC",
+   "checked": "2026-10-20 09:36 UTC",
    "last_ok": ""
   },
   "eventi: CAMERA - agenda": {
    "ok": false,
    "count": 0,
    "note": "LLM risposta anomala: OK\r ",
-   "checked": "2026-10-19 10:10 UTC",
+   "checked": "2026-10-20 09:36 UTC",
    "last_ok": ""
   }
  }
