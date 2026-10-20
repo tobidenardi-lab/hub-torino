@@ -204,7 +204,7 @@ def parse_films_grid(html_text):
     return out
 
 
-HIST_PAGES_PER_RUN = 10
+HIST_PAGES_PER_RUN = 4
 
 
 def backfill_history(user):
@@ -213,14 +213,15 @@ def backfill_history(user):
     state = load("history_state.json", {})
     st = state.get(user, {"next": 1, "done": False})
     if st["done"]:
-        return 0
+        return 0, False
     store = load(f"diary_{user}.json", {})
-    n = 0
+    n, blocked = 0, False
     for _ in range(HIST_PAGES_PER_RUN):
         url = f"{BASE}/{user}/films/" + (f"page/{st['next']}/" if st["next"] > 1 else "")
         try:
-            films = parse_films_grid(get(url, delay=1.0).text)
+            films = parse_films_grid(get(url, delay=2.5).text)
         except Exception:
+            blocked = True
             break
         if not films:
             st["done"] = True
@@ -238,7 +239,7 @@ def backfill_history(user):
     state[user] = st
     save("history_state.json", state)
     save(f"diary_{user}.json", store)
-    return n
+    return n, blocked
 
 
 def parse_review_page(html_text):
@@ -303,10 +304,16 @@ def run():
     set_health("letterboxd_diari", ok > 0 and fail <= max(2, len(people) // 4), ok,
                f"{fail} falliti" if fail else "")
     # 2b) storico dei film visti (a blocchi, riprende ogni giorno finché è completo)
-    imported = sum(backfill_history(u) for u in [me] + [p["user"] for p in people])
+    imported, blocked = 0, False
+    for u in [me] + [p["user"] for p in people]:
+        n, blocked = backfill_history(u)
+        imported += n
+        if blocked:  # Letterboxd ci sta rifiutando: ci fermiamo e riproviamo domani
+            break
     st = load("history_state.json", {})
-    set_health("letterboxd_storico", True, sum(1 for v in st.values() if v["done"]),
-               f"{imported} film importati oggi; completi {sum(1 for v in st.values() if v['done'])}/{len(st)}")
+    done = sum(1 for v in st.values() if v["done"])
+    set_health("letterboxd_storico", imported > 0 or done > 0 or not blocked, done,
+               f"{imported} film importati oggi; completi {done}/{len(people) + 1}" + ("; Letterboxd ha rifiutato richieste, riprovo domani" if blocked else ""))
     # 3) watchlist
     wl = fetch_watchlist(me)
     if wl:

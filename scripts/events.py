@@ -37,6 +37,9 @@ def guess_tag(*texts):
     return "arte"
 
 
+RANGE_RE = re.compile(r"(\d{1,2})(?:\s+([A-Za-zàèéìòù]+))?(?:\s+(\d{4}))?\s*[–—-]\s*(\d{1,2})\s+([A-Za-zàèéìòù]+)\s+(\d{4})")
+
+
 def date_range(text):
     """Primo intervallo di date trovato: 'Dal 3 ottobre 2026 al 8 dicembre 2026', '17 ottobre 2026 – 7 febbraio 2027',
     '10/09/2026 to 31/01/2027', '12 – 20 settembre 2026'. -> (start, end) oppure (None, None)."""
@@ -45,6 +48,13 @@ def date_range(text):
         d1 = dt.date(int(s[0][2]), int(s[0][1]), int(s[0][0])).isoformat()
         d2 = dt.date(int(s[1][2]), int(s[1][1]), int(s[1][0])).isoformat() if len(s) > 1 else d1
         return d1, d2
+    for m in RANGE_RE.finditer(text):
+        m2 = m.group(5).lower()
+        m1 = (m.group(2) or m2).lower()
+        if m2 in MONTHS and m1 in MONTHS:
+            y2 = int(m.group(6))
+            y1 = int(m.group(3)) if m.group(3) else (y2 if MONTHS[m1] <= MONTHS[m2] else y2 - 1)
+            return _d(m.group(1), m1, y1), _d(m.group(4), m2, y2)
     ms = [m for m in DATE_RE.finditer(text) if m.group(2).lower() in MONTHS]
     full = [(m.group(1), m.group(2), m.group(3)) for m in ms]
     if full:
@@ -64,34 +74,42 @@ def _item(title, venue, start, end, kind, tag, url, source, desc=""):
 # ---------- arte.it ----------
 def parse_arte(html_text, source):
     soup = BeautifulSoup(html_text, "html.parser")
-    out = []
+    out, seen = [], set()
     for a in soup.select('a[href*="/calendario-arte/"]'):
         href = a.get("href", "")
-        if not re.search(r"/(mostra|evento)-", href):
+        if not re.search(r"/(mostra|evento)-", href) or href in seen:
             continue
-        text = re.sub(r"\s+", " ", a.get_text(" ", strip=True))
-        m = re.search(r"^(.*?)\s*\bDal\s+(?:" + D + r")(?:\s+al\s+(?:" + D + r"))?(.*)$", text, re.I)
-        if not m:
+        box = a
+        while box is not None and not re.search(r"\bDal\s+" + D, box.get_text(" ", strip=True), re.I):
+            box = box.parent if box.parent is not None and box.parent.name not in ("body", "html") else None
+        if box is None:
             continue
-        title = m.group(1)
-        start = _d(*m.group(2, 3, 4))
-        end = _d(*m.group(5, 6, 7)) if m.group(5) else start
-        rest = m.group(8).strip()
+        text = re.sub(r"\s+", " ", box.get_text(" ", strip=True))
+        dm = re.search(r"\bDal\s+" + D + r"(?:\s+al\s+" + D + r")?", text, re.I)
+        start = _d(*dm.group(1, 2, 3))
+        end = _d(*dm.group(4, 5, 6)) if dm.group(4) else None
+        if dm.group(4) is None:
+            end = None
+        title = a.get_text(" ", strip=True)
+        title = re.split(r"\s*\bDal\s+\d", title, 1, flags=re.I)[0].strip()
+        if len(title) < 4:
+            title = text[:dm.start()].strip()
         venue = ""
-        for line in a.get_text("\n", strip=True).split("\n"):
-            if "|" in line and len(line) < 120:
+        for line in box.get_text("\n", strip=True).split("\n"):
+            if "|" in line and len(line) < 120 and not re.search(r"\bDal\s+\d", line, re.I):
                 city, _, place = line.partition("|")
                 venue = f"{city.strip()} – {place.strip()}"
                 break
         if not venue:
-            v = re.match(r"([^|]{2,40})\|\s*(.{3,70})", rest)
+            v = re.search(r"([^|]{2,40})\|\s*(.{3,70})", text[dm.end():])
             if v:
                 venue = f"{v.group(1).strip()} – {v.group(2).strip()}"
-        if not start:
+        if not start or len(title) < 4:
             continue
+        seen.add(href)
         url = href if href.startswith("http") else "https://www.arte.it" + href
-        kind = "mostra" if "/mostra-" in href else "evento"
-        out.append(_item(title, venue, start, end, kind, guess_tag(title, venue), url, source, rest[-150:]))
+        out.append(_item(title, venue, start, end, "mostra" if "/mostra-" in href else "evento",
+                         guess_tag(title, venue), url, source, text[dm.end():][-150:]))
     return out
 
 
@@ -99,11 +117,10 @@ def parse_arte(html_text, source):
 def parse_camera(html_text, source, kind):
     soup = BeautifulSoup(html_text, "html.parser")
     out = []
-    pat = "/mostre/" if kind == "mostra" else "/"
     for a in soup.find_all("a", href=True):
         href = a["href"]
         title = a.get_text(" ", strip=True)
-        if not re.search(r"camera\.to/(mostre|agenda|incontri|eventi|contenuti-incontri)/[^/]+/?$", href) or len(title) < 4:
+        if not re.search(r"camera\.to/(mostre|incontri)/[^/]+/?$", href) or len(title) < 4:
             continue
         head = a.find_parent(["h1", "h2", "h3", "h4", "h5"]) or a
         text = ""
@@ -114,11 +131,15 @@ def parse_camera(html_text, source, kind):
         start, end = date_range(text)
         if not start and not end:
             continue
+        pre = re.split(r"\d", text.strip(), 1)[0]
+        if "/mostre/" in href:  # CAMERA elenca anche mostre in altre città: teniamo solo Torino
+            if pre.strip(" |-,") and not re.search(r"camera|torino|project room|bagni|aurora|barriera|dorado", pre, re.I):
+                continue
         venue = "CAMERA"
         vm = re.match(r"\s*-?\s*([^|\d]{3,60})\|", text)
-        if vm:
+        if vm and "/mostre/" in href and not re.match(r"\s*(incontro|letti)", vm.group(1), re.I):
             venue = vm.group(1).strip()
-        out.append(_item(title, venue, start, end, "mostra" if "/mostre/" in href else "evento", "fotografia",
+        out.append(_item(title, venue, start, end, "mostra" if "/mostre/" in href else "conferenza", "fotografia",
                          href, source))
     return out
 
@@ -143,8 +164,11 @@ def parse_museo(html_text, source):
         if di is None or di + 1 >= len(lines):
             continue
         start, end = date_range(lines[di])
-        title = lines[di + 1]
-        venue = lines[di + 2] if di + 2 < len(lines) and lines[di + 2] != "Vai alla pagina" else "Museo Nazionale del Cinema"
+        j = di + 1
+        while j < len(lines) - 1 and re.match(r"^(ore\s*)?\d{1,2}[:.]\d{2}", lines[j], re.I):
+            j += 1
+        title = lines[j]
+        venue = lines[j + 1] if j + 1 < len(lines) and lines[j + 1] != "Vai alla pagina" else "Museo Nazionale del Cinema"
         url = href if href.startswith("http") else "https://www.museocinema.it" + href
         if url in seen or not start:
             continue
@@ -185,7 +209,7 @@ def parse_turismo(html_text, source):
 
 
 PARSERS = {"arte": lambda h, n, u: parse_arte(h, n), "camera_mostre": lambda h, n, u: parse_camera(h, n, "mostra"),
-           "camera_agenda": lambda h, n, u: parse_camera(h, n, "evento"), "museo": lambda h, n, u: parse_museo(h, n),
+           "camera_incontri": lambda h, n, u: parse_camera(h, n, "incontro"), "museo": lambda h, n, u: parse_museo(h, n),
            "turismo": lambda h, n, u: parse_turismo(h, n)}
 
 
@@ -196,6 +220,9 @@ def _valid(i, today):
 def run():
     cfg = config()
     today = dt.date.today()
+    names = {x["name"] for x in cfg["event_pages"]}
+    h = load("health.json", {})
+    save("health.json", {k: v for k, v in h.items() if not k.startswith("eventi:") or k[len("eventi: "):] in names})
     urls = []
     for src in cfg["event_pages"]:
         if "{yyyy}" in src["url"]:
@@ -205,11 +232,17 @@ def run():
         else:
             urls.append((src, src["url"]))
     allitems, failed_sources = {}, set()
-    per_source = {}
+    per_source, diag = {}, {}
     for src, url in urls:
         name = src["name"]
         try:
-            items = PARSERS[src["parser"]](get(url, delay=2).text, name, url)
+            html_text = get(url, delay=2).text
+            items = PARSERS[src["parser"]](html_text, name, url)
+            if not items:
+                sp = BeautifulSoup(html_text, "html.parser")
+                diag[name] = (f"{len(html_text)} byte; titolo: {(sp.title.string or '')[:50] if sp.title else '-'}; "
+                              f"link totali: {len(sp.find_all('a'))}; link mostra/evento: "
+                              f"{len(sp.select('a[href*=\"/mostra-\"], a[href*=\"/evento-\"], a[href*=\"/attivita/\"], a[href*=\"/eventi/\"]'))}")
             items = [i for i in items if _valid(i, today.isoformat())]
             per_source[name] = per_source.get(name, 0) + len(items)
             for i in items:
@@ -220,7 +253,7 @@ def run():
             failed_sources.add(name)
     for name, n in per_source.items():
         if name not in failed_sources:
-            set_health(f"eventi: {name}", n > 0, n, "" if n else "pagina letta ma nessun evento riconosciuto (formato cambiato?)")
+            set_health(f"eventi: {name}", n > 0, n, "" if n else "nessun evento riconosciuto. " + diag.get(name, ""))
     old = load("events.json", [])
     bad = failed_sources | {n for n, c in per_source.items() if c == 0}
     keep = [o for o in old if o.get("source") in bad and _valid(o, today.isoformat())]
