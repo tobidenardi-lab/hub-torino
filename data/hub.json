@@ -1,5 +1,5 @@
 {
- "generated": "20/10/2026 22:39 UTC",
+ "generated": "20/10/2026 22:54 UTC",
  "today": "2026-10-20",
  "title": "Torino Culturale",
  "me": "tobi_2117",
@@ -1073,7 +1073,7 @@
      "watched": "2026-08-26"
     }
    ],
-   "watchlist": false,
+   "watchlist": true,
    "i_seen": false,
    "lb_url": "https://letterboxd.com/tmdb/950028/"
   },
@@ -2420,39 +2420,6 @@
  ],
  "events": [
   {
-   "title": "mercoledì 21 ottobre 2026 Home Notizie Guide Mostre Foto Video Speciali Archivio home > Mostre Tutte le Mostre di Ottobre 2026 a Torino",
-   "venue": " – CAMERA - Centro Italiano per la Fotografia",
-   "start": "2026-10-17",
-   "end": "2027-02-07",
-   "kind": "mostra",
-   "tag": "fotografia",
-   "desc": "gistro della Stampa presso il Tribunale di Roma al n. 292/2012 | Direttore Responsabile Luca Muscarà | © 2026 ARTE.it | Tutti i diritti sono riservati",
-   "url": "https://www.arte.it/calendario-arte/torino/mostra-atelier-dei-moderni-matisse-braque-picasso-bacon-104556",
-   "source": "arte.it"
-  },
-  {
-   "title": "mercoledì 21 ottobre 2026 Home Notizie Guide Mostre Foto Video Speciali Archivio home > Mostre Tutte le Mostre di Novembre 2026 a Torino",
-   "venue": " – CAMERA - Centro Italiano per la Fotografia",
-   "start": "2026-10-17",
-   "end": "2027-02-07",
-   "kind": "mostra",
-   "tag": "fotografia",
-   "desc": "gistro della Stampa presso il Tribunale di Roma al n. 292/2012 | Direttore Responsabile Luca Muscarà | © 2026 ARTE.it | Tutti i diritti sono riservati",
-   "url": "https://www.arte.it/calendario-arte/torino/mostra-atelier-dei-moderni-matisse-braque-picasso-bacon-104556",
-   "source": "arte.it"
-  },
-  {
-   "title": "mercoledì 21 ottobre 2026 Home Notizie Guide Mostre Foto Video Speciali Archivio home > Mostre Tutte le Mostre di Dicembre 2026 a Torino",
-   "venue": " – CAMERA - Centro Italiano per la Fotografia",
-   "start": "2026-10-17",
-   "end": "2027-02-07",
-   "kind": "mostra",
-   "tag": "fotografia",
-   "desc": "gistro della Stampa presso il Tribunale di Roma al n. 292/2012 | Direttore Responsabile Luca Muscarà | © 2026 ARTE.it | Tutti i diritti sono riservati",
-   "url": "https://www.arte.it/calendario-arte/torino/mostra-atelier-dei-moderni-matisse-braque-picasso-bacon-104556",
-   "source": "arte.it"
-  },
-  {
    "title": "Letizia Battaglia. L’opera 1970-2020",
    "venue": "CAMERA",
    "start": "2026-10-17",
@@ -2649,6 +2616,39 @@
    "desc": "",
    "url": "https://turismotorino.org/it/visita/eventi/pecetto-in-musica-2026",
    "source": "Turismo Torino"
+  },
+  {
+   "title": "mercoledì 21 ottobre 2026 Home Notizie Guide Mostre Foto Video Speciali Archivio home > Mostre Tutte le Mostre di Ottobre 2026 a Torino",
+   "venue": " – CAMERA - Centro Italiano per la Fotografia",
+   "start": "2026-10-17",
+   "end": "2027-02-07",
+   "kind": "mostra",
+   "tag": "fotografia",
+   "desc": "gistro della Stampa presso il Tribunale di Roma al n. 292/2012 | Direttore Responsabile Luca Muscarà | © 2026 ARTE.it | Tutti i diritti sono riservati",
+   "url": "https://www.arte.it/calendario-arte/torino/mostra-atelier-dei-moderni-matisse-braque-picasso-bacon-104556",
+   "source": "arte.it"
+  },
+  {
+   "title": "mercoledì 21 ottobre 2026 Home Notizie Guide Mostre Foto Video Speciali Archivio home > Mostre Tutte le Mostre di Novembre 2026 a Torino",
+   "venue": " – CAMERA - Centro Italiano per la Fotografia",
+   "start": "2026-10-17",
+   "end": "2027-02-07",
+   "kind": "mostra",
+   "tag": "fotografia",
+   "desc": "gistro della Stampa presso il Tribunale di Roma al n. 292/2012 | Direttore Responsabile Luca Muscarà | © 2026 ARTE.it | Tutti i diritti sono riservati",
+   "url": "https://www.arte.it/calendario-arte/torino/mostra-atelier-dei-moderni-matisse-braque-picasso-bacon-104556",
+   "source": "arte.it"
+  },
+  {
+   "title": "mercoledì 21 ottobre 2026 Home Notizie Guide Mostre Foto Video Speciali Archivio home > Mostre Tutte le Mostre di Dicembre 2026 a Torino",
+   "venue": " – CAMERA - Centro Italiano per la Fotografia",
+   "start": "2026-10-17",
+   "end": "2027-02-07",
+   "kind": "mostra",
+   "tag": "fotografia",
+   "desc": "gistro della Stampa presso il Tribunale di Roma al n. 292/2012 | Direttore Responsabile Luca Muscarà | © 2026 ARTE.it | Tutti i diritti sono riservati",
+   "url": "https://www.arte.it/calendario-arte/torino/mostra-atelier-dei-moderni-matisse-braque-picasso-bacon-104556",
+   "source": "arte.it"
   }
  ],
  "health": {
@@ -2656,77 +2656,77 @@
    "ok": true,
    "count": 58,
    "note": "",
-   "checked": "2026-10-20 22:38 UTC",
+   "checked": "2026-10-20 22:53 UTC",
    "last_ok": "2026-10-20"
   },
   "massimo_calendario": {
    "ok": true,
    "count": 39,
    "note": "",
-   "checked": "2026-10-20 22:38 UTC",
+   "checked": "2026-10-20 22:53 UTC",
    "last_ok": "2026-10-20"
   },
   "letterboxd_seguiti": {
    "ok": true,
    "count": 24,
    "note": "",
-   "checked": "2026-10-20 22:38 UTC",
+   "checked": "2026-10-20 22:53 UTC",
    "last_ok": "2026-10-20"
   },
   "letterboxd_diari": {
    "ok": true,
    "count": 25,
    "note": "",
-   "checked": "2026-10-20 22:39 UTC",
+   "checked": "2026-10-20 22:53 UTC",
    "last_ok": "2026-10-20"
   },
   "letterboxd_watchlist": {
    "ok": true,
-   "count": 162,
+   "count": 163,
    "note": "",
-   "checked": "2026-10-20 22:39 UTC",
+   "checked": "2026-10-20 22:54 UTC",
    "last_ok": "2026-10-20"
   },
   "eventi: Museo Nazionale del Cinema": {
    "ok": true,
    "count": 6,
    "note": "",
-   "checked": "2026-10-20 22:39 UTC",
+   "checked": "2026-10-20 22:54 UTC",
    "last_ok": "2026-10-20"
   },
   "eventi: CAMERA - agenda": {
    "ok": false,
    "count": 0,
    "note": "'camera_agenda'",
-   "checked": "2026-10-20 22:39 UTC",
+   "checked": "2026-10-20 22:54 UTC",
    "last_ok": ""
   },
   "letterboxd_storico": {
    "ok": true,
    "count": 5,
    "note": "0 film importati oggi; completi 5/25; Letterboxd ha rifiutato richieste, riprovo domani",
-   "checked": "2026-10-20 22:39 UTC",
+   "checked": "2026-10-20 22:53 UTC",
    "last_ok": "2026-10-20"
   },
   "eventi: arte.it": {
-   "ok": true,
-   "count": 9,
-   "note": "",
-   "checked": "2026-10-20 22:39 UTC",
+   "ok": false,
+   "count": 0,
+   "note": "nessun evento riconosciuto. 66212 byte; titolo: Mostre d'arte - Torino - Eventi d'arte - Esposizio; link totali: 101; link mostra/evento: 22",
+   "checked": "2026-10-20 22:54 UTC",
    "last_ok": "2026-10-20"
   },
   "eventi: CAMERA - mostre": {
    "ok": true,
    "count": 3,
    "note": "",
-   "checked": "2026-10-20 22:39 UTC",
+   "checked": "2026-10-20 22:54 UTC",
    "last_ok": "2026-10-20"
   },
   "eventi: Turismo Torino": {
    "ok": true,
    "count": 14,
    "note": "",
-   "checked": "2026-10-20 22:39 UTC",
+   "checked": "2026-10-20 22:54 UTC",
    "last_ok": "2026-10-20"
   }
  }
