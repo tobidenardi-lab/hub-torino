@@ -8,7 +8,7 @@ import re
 
 from bs4 import BeautifulSoup
 
-from .common import get, load, save, set_health, config, norm
+from .common import DATA, get, load, save, set_health, config, norm
 from .massimo import MONTHS
 
 D = r"(\d{1,2})\s+([A-Za-zàèéìòù]+)\s+(\d{4})"
@@ -215,6 +215,16 @@ PARSERS = {"arte": lambda h, n, u: parse_arte(h, n), "camera_mostre": lambda h, 
            "turismo": lambda h, n, u: parse_turismo(h, n)}
 
 
+# Le fonti sono definite qui (non in config.json): meno file da tenere allineati.
+SOURCES = [
+    {"name": "arte.it", "url": "https://www.arte.it/calendario-arte/torino/{yyyy}/{mm}/", "months_ahead": 2, "parser": "arte"},
+    {"name": "CAMERA - mostre", "url": "https://camera.to/contenuti-mostre/", "parser": "camera_mostre"},
+    {"name": "CAMERA - incontri", "url": "https://camera.to/contenuti-incontri/", "parser": "camera_incontri"},
+    {"name": "Museo Nazionale del Cinema", "url": "https://www.museocinema.it/calendario-mostre-e-attivita", "parser": "museo"},
+    {"name": "Turismo Torino", "url": "https://turismotorino.org/it/visita/eventi/agenda", "parser": "turismo"},
+]
+
+
 def _valid(i, today):
     return bool(i.get("title")) and not (i.get("end") and i["end"] < today)
 
@@ -222,11 +232,11 @@ def _valid(i, today):
 def run():
     cfg = config()
     today = dt.date.today()
-    names = {x["name"] for x in cfg["event_pages"]}
+    names = {x["name"] for x in SOURCES}
     h = load("health.json", {})
     save("health.json", {k: v for k, v in h.items() if not k.startswith("eventi:") or k[len("eventi: "):] in names})
     urls = []
-    for src in cfg["event_pages"]:
+    for src in SOURCES:
         if "{yyyy}" in src["url"]:
             for k in range(src.get("months_ahead", 0) + 1):
                 m = today.month - 1 + k
@@ -241,6 +251,12 @@ def run():
             html_text = get(url, delay=2).text
             items = PARSERS[src["parser"]](html_text, name, url)
             if not items:
+                i = html_text.find("/mostra-")
+                if i < 0:
+                    i = len(html_text) // 3
+                (DATA / "debug").mkdir(exist_ok=True)
+                (DATA / "debug" / (re.sub(r"\W+", "_", name) + ".txt")).write_text(html_text[max(0, i - 2500):i + 5000],
+                                                                                   encoding="utf-8")
                 sp = BeautifulSoup(html_text, "html.parser")
                 diag[name] = (f"{len(html_text)} byte; titolo: {(sp.title.string or '')[:50] if sp.title else '-'}; "
                               f"link totali: {len(sp.find_all('a'))}; link mostra/evento: "
