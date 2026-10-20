@@ -28,14 +28,31 @@
   },
   "massimo_calendar": "https://www.cinemamassimotorino.it/calendario-completo/",
   "event_pages": [
-    {"name": "arte.it (mese corrente)", "url": "https://www.arte.it/calendario-arte/torino/{yyyy}/{mm}/", "months_ahead": 2},
-    {"name": "CAMERA", "url": "https://camera.to/contenuti-mostre/"},
-    {"name": "Museo Nazionale del Cinema", "url": "https://www.museocinema.it/"},
-    {"name": "CAMERA - agenda", "url": "https://camera.to/agenda/"},
-    {"name": "Turismo Torino - agenda", "url": "https://turismotorino.org/it/visita/eventi/agenda"}
-  ],
-  "llm": {
-    "endpoint": "https://models.github.ai/inference/chat/completions",
-    "model": "openai/gpt-4.1-mini"
-  }
+    {
+      "name": "arte.it",
+      "url": "https://www.arte.it/calendario-arte/torino/{yyyy}/{mm}/",
+      "months_ahead": 2,
+      "parser": "arte"
+    },
+    {
+      "name": "CAMERA - mostre",
+      "url": "https://camera.to/contenuti-mostre/",
+      "parser": "camera_mostre"
+    },
+    {
+      "name": "CAMERA - agenda",
+      "url": "https://camera.to/agenda/",
+      "parser": "camera_agenda"
+    },
+    {
+      "name": "Museo Nazionale del Cinema",
+      "url": "https://www.museocinema.it/calendario-mostre-e-attivita",
+      "parser": "museo"
+    },
+    {
+      "name": "Turismo Torino",
+      "url": "https://turismotorino.org/it/visita/eventi/agenda",
+      "parser": "turismo"
+    }
+  ]
 }
