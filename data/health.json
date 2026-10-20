@@ -1,72 +1,79 @@
 {
  "mymovies_cinema": {
   "ok": true,
-  "count": 104,
+  "count": 78,
   "note": "",
-  "checked": "2026-10-20 09:35 UTC",
+  "checked": "2026-10-20 22:11 UTC",
   "last_ok": "2026-10-20"
  },
  "massimo_calendario": {
   "ok": true,
   "count": 39,
   "note": "",
-  "checked": "2026-10-20 09:35 UTC",
+  "checked": "2026-10-20 22:11 UTC",
   "last_ok": "2026-10-20"
  },
  "letterboxd_seguiti": {
   "ok": true,
   "count": 24,
   "note": "",
-  "checked": "2026-10-20 09:35 UTC",
+  "checked": "2026-10-20 22:11 UTC",
   "last_ok": "2026-10-20"
  },
  "letterboxd_diari": {
   "ok": true,
   "count": 25,
   "note": "",
-  "checked": "2026-10-20 09:36 UTC",
+  "checked": "2026-10-20 22:11 UTC",
   "last_ok": "2026-10-20"
  },
  "letterboxd_watchlist": {
   "ok": true,
   "count": 162,
   "note": "",
-  "checked": "2026-10-20 09:36 UTC",
+  "checked": "2026-10-20 22:14 UTC",
   "last_ok": "2026-10-20"
  },
  "eventi: arte.it (mese corrente)": {
   "ok": false,
   "count": 0,
   "note": "LLM risposta anomala: OK\r ",
-  "checked": "2026-10-20 09:36 UTC",
+  "checked": "2026-10-20 22:14 UTC",
   "last_ok": ""
  },
  "eventi: CAMERA": {
   "ok": false,
   "count": 0,
   "note": "LLM risposta anomala: OK\r ",
-  "checked": "2026-10-20 09:36 UTC",
+  "checked": "2026-10-20 22:14 UTC",
   "last_ok": ""
  },
  "eventi: Museo Nazionale del Cinema": {
   "ok": false,
   "count": 0,
   "note": "LLM risposta anomala: OK\r ",
-  "checked": "2026-10-20 09:36 UTC",
+  "checked": "2026-10-20 22:14 UTC",
   "last_ok": ""
  },
  "eventi: Turismo Torino - agenda": {
   "ok": false,
   "count": 0,
   "note": "LLM risposta anomala: OK\r ",
-  "checked": "2026-10-20 09:36 UTC",
+  "checked": "2026-10-20 22:14 UTC",
   "last_ok": ""
  },
  "eventi: CAMERA - agenda": {
   "ok": false,
   "count": 0,
   "note": "LLM risposta anomala: OK\r ",
-  "checked": "2026-10-20 09:36 UTC",
+  "checked": "2026-10-20 22:14 UTC",
   "last_ok": ""
+ },
+ "letterboxd_storico": {
+  "ok": true,
+  "count": 5,
+  "note": "1540 film importati oggi; completi 5/25",
+  "checked": "2026-10-20 22:14 UTC",
+  "last_ok": "2026-10-20"
  }
 }

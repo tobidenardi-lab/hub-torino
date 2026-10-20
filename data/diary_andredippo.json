@@ -10,5 +10,31 @@
   "tmdb": 13223,
   "url": "https://letterboxd.com/andredippo/film/gran-torino/",
   "review": ""
+ },
+ "hist-gran-torino": {
+  "guid": "hist-gran-torino",
+  "title": "Gran Torino",
+  "year": 2008,
+  "rating": 4.5,
+  "like": true,
+  "rewatch": false,
+  "watched": null,
+  "tmdb": null,
+  "slug": "gran-torino",
+  "url": "https://letterboxd.com/andredippo/film/gran-torino/",
+  "review": ""
+ },
+ "hist-a-beautiful-mind": {
+  "guid": "hist-a-beautiful-mind",
+  "title": "A Beautiful Mind",
+  "year": 2001,
+  "rating": 3.5,
+  "like": true,
+  "rewatch": false,
+  "watched": null,
+  "tmdb": null,
+  "slug": "a-beautiful-mind",
+  "url": "https://letterboxd.com/andredippo/film/a-beautiful-mind/",
+  "review": ""
  }
 }
