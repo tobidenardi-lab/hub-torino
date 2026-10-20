@@ -1,0 +1,58 @@
+{
+  "letterboxd_user": "tobi_2117",
+  "site_title": "Torino Culturale",
+  "include_extra_province_cinemas": false,
+  "mymovies": {
+    "base": "https://www.mymovies.it",
+    "cinemas": {
+      "Baretti": "6441",
+      "Centrale": "5132",
+      "Agnelli": "6098",
+      "Classico": "5070",
+      "Due Giardini": "5133",
+      "Eliseo": "5134",
+      "Esedra": "6273",
+      "Fratelli Marx": "5285",
+      "Greenwich Village": "6864",
+      "Ideal Cityplex": "5071",
+      "Massaua Cityplex": "5875",
+      "Massimo (MNC)": "20133",
+      "Movie Planet Lux": "4953",
+      "Nazionale": "4954",
+      "Reposi": "4956",
+      "Romano": "4957",
+      "Teatro Monterosa": "6465",
+      "The Space Torino": "5884",
+      "UCI Lingotto": "5410"
+    }
+  },
+  "massimo_calendar": "https://www.cinemamassimotorino.it/calendario-completo/",
+  "event_pages": [
+    {
+      "name": "arte.it",
+      "url": "https://www.arte.it/calendario-arte/torino/{yyyy}/{mm}/",
+      "months_ahead": 2,
+      "parser": "arte"
+    },
+    {
+      "name": "CAMERA - mostre",
+      "url": "https://camera.to/contenuti-mostre/",
+      "parser": "camera_mostre"
+    },
+    {
+      "name": "CAMERA - incontri",
+      "url": "https://camera.to/contenuti-incontri/",
+      "parser": "camera_incontri"
+    },
+    {
+      "name": "Museo Nazionale del Cinema",
+      "url": "https://www.museocinema.it/calendario-mostre-e-attivita",
+      "parser": "museo"
+    },
+    {
+      "name": "Turismo Torino",
+      "url": "https://turismotorino.org/it/visita/eventi/agenda",
+      "parser": "turismo"
+    }
+  ]
+}
