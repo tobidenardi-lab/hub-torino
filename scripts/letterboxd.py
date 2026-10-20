@@ -181,6 +181,98 @@ def download_avatars(people):
             pass
 
 
+def parse_films_grid(html_text):
+    """Pagina /<utente>/films/: locandine con slug, titolo, anno, voto (classe rated-N = N/2 stelle) e cuore."""
+    soup = BeautifulSoup(html_text, "html.parser")
+    out = []
+    for f in parse_watchlist(html_text):
+        out.append(f)
+    # voto e cuore: risalgo dal contenitore della locandina
+    by_slug = {}
+    for d in soup.select("[data-film-slug], [data-item-slug]"):
+        slug = d.get("data-film-slug") or d.get("data-item-slug")
+        box = d.find_parent("li") or d.parent
+        rating = None
+        r = box.find(class_=re.compile(r"^rated-\d+$")) if box else None
+        if r:
+            m = re.search(r"rated-(\d+)", " ".join(r.get("class", [])))
+            rating = int(m.group(1)) / 2 if m else None
+        like = bool(box and box.select_one(".like, .icon-liked, [class*=liked]"))
+        by_slug[slug] = (rating, like)
+    for f in out:
+        f["rating"], f["like"] = by_slug.get(f["slug"], (None, False))
+    return out
+
+
+HIST_PAGES_PER_RUN = 10
+
+
+def backfill_history(user):
+    """Importa a blocchi lo storico dei film visti (pagine /films/): serve per sapere chi ha visto cosa
+    oltre agli ultimi ~50 dell'RSS. Riprende dal punto raggiunto alla volta successiva."""
+    state = load("history_state.json", {})
+    st = state.get(user, {"next": 1, "done": False})
+    if st["done"]:
+        return 0
+    store = load(f"diary_{user}.json", {})
+    n = 0
+    for _ in range(HIST_PAGES_PER_RUN):
+        url = f"{BASE}/{user}/films/" + (f"page/{st['next']}/" if st["next"] > 1 else "")
+        try:
+            films = parse_films_grid(get(url, delay=1.0).text)
+        except Exception:
+            break
+        if not films:
+            st["done"] = True
+            break
+        for f in films:
+            store.setdefault("hist-" + f["slug"], {
+                "guid": "hist-" + f["slug"], "title": f["title"], "year": f["year"], "rating": f["rating"],
+                "like": f["like"], "rewatch": False, "watched": None, "tmdb": None, "slug": f["slug"],
+                "url": f"{BASE}/{user}/film/{f['slug']}/", "review": ""})
+            n += 1
+        st["next"] += 1
+        if len(films) < 60:  # pagina non piena: ultima
+            st["done"] = True
+            break
+    state[user] = st
+    save("history_state.json", state)
+    save(f"diary_{user}.json", store)
+    return n
+
+
+def parse_review_page(html_text):
+    soup = BeautifulSoup(html_text, "html.parser")
+    for sel in ("[itemprop=reviewBody]", ".js-review-body", ".review .body-text", ".body-text"):
+        el = soup.select_one(sel)
+        if el:
+            t = "\n\n".join(p.get_text(" ", strip=True) for p in el.find_all("p")) or el.get_text(" ", strip=True)
+            if t.strip():
+                return t.strip()
+    return ""
+
+
+def enrich_reviews(hub, limit=40):
+    """Per i film in sala visti dai seguiti senza recensione nota, legge la pagina del loro voto (una volta)."""
+    cache = load("reviews.json", {})
+    todo = []
+    for f in hub["films"]:
+        for sb in f["seen_by"]:
+            key = f"{sb['user']}/{sb.get('slug')}"
+            if sb.get("slug") and not sb["review"] and key not in cache:
+                todo.append((key, sb["user"], sb["slug"]))
+    done = 0
+    for key, user, slug in todo[:limit]:
+        try:
+            cache[key] = {"text": parse_review_page(get(f"{BASE}/{user}/film/{slug}/", delay=1.0).text)}
+            done += 1
+        except Exception:
+            pass
+    if done:
+        save("reviews.json", cache)
+    return done
+
+
 def run():
     cfg = config()
     me = cfg["letterboxd_user"]
@@ -210,6 +302,11 @@ def run():
             fail += 1
     set_health("letterboxd_diari", ok > 0 and fail <= max(2, len(people) // 4), ok,
                f"{fail} falliti" if fail else "")
+    # 2b) storico dei film visti (a blocchi, riprende ogni giorno finché è completo)
+    imported = sum(backfill_history(u) for u in [me] + [p["user"] for p in people])
+    st = load("history_state.json", {})
+    set_health("letterboxd_storico", True, sum(1 for v in st.values() if v["done"]),
+               f"{imported} film importati oggi; completi {sum(1 for v in st.values() if v['done'])}/{len(st)}")
     # 3) watchlist
     wl = fetch_watchlist(me)
     if wl:

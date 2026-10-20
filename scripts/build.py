@@ -1,6 +1,7 @@
 """Unisce programmazione, Letterboxd ed eventi in docs/data.js (letto da docs/index.html)."""
 import datetime as dt
 import json
+import re
 
 from .common import DOCS, load, save, norm, config, ROOT
 from . import tmdb
@@ -48,6 +49,7 @@ def build(today=None):
     diaries = {p["user"]: load(f"diary_{p['user']}.json", {}) for p in friends}
     mine = list(load(f"diary_{me}.json", {}).values()) + load_export_watched()
     watchlist = load("watchlist.json", [])
+    revs = load("reviews.json", {})
     key = None
     out_films = []
     for k, f in sorted(films.items()):
@@ -58,14 +60,23 @@ def build(today=None):
             cands = [e for e in diaries[p["user"]].values() if _match_entry(e, res, k, f["year"])]
             if cands:
                 e = max(cands, key=lambda e: (bool(e["review"]), e["watched"] or ""))
-                seen_by.append({"user": p["user"], "rating": e["rating"], "review": e["review"],
+                slug = e.get("slug") or (re.search(r"/film/([^/]+)/", e["url"] or "") or [None, None])[1]
+                review = e["review"] or revs.get(f"{p['user']}/{slug}", {}).get("text", "")
+                seen_by.append({"user": p["user"], "rating": e["rating"], "review": review, "slug": slug,
                                 "like": e["like"], "url": e["url"], "watched": e["watched"]})
         f["seen_by"] = sorted(seen_by, key=lambda x: -(x["rating"] or 0))
         f["watchlist"] = any(_match_entry({"title": w["title"], "year": w["year"], "tmdb": None}, res, k, f["year"])
                              for w in watchlist)
         f["i_seen"] = any(_match_entry(e, res, k, f["year"]) for e in mine)
         f["lb_url"] = f"https://letterboxd.com/tmdb/{f['tmdb']}/" if f["tmdb"] else None
-        f["showings"].sort(key=lambda s: (s["date"], s["cinema"]))
+        merged = {}
+        for s in f["showings"]:  # unisce righe doppie (stesso cinema, giorno, sala) e toglie orari ripetuti
+            m = merged.setdefault((s["date"], s["cinema"], s.get("room")), {**s, "times": []})
+            have = {t["t"] for t in m["times"]}
+            m["times"] += [t for t in s["times"] if t["t"] not in have and not have.add(t["t"])]
+        f["showings"] = sorted(merged.values(), key=lambda s: (s["date"], s["cinema"], s.get("room") or ""))
+        for s in f["showings"]:
+            s["times"].sort(key=lambda t: t["t"])
         out_films.append(f)
 
     events = load("events.json", [])

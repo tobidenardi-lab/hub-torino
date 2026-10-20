@@ -15,6 +15,11 @@ def main():
             traceback.print_exc()
             set_health(f"errore:{name}", False, 0, "eccezione non gestita, vedi log")
     hub = build.build()
+    try:
+        if letterboxd.enrich_reviews(hub):
+            hub = build.build()
+    except Exception:
+        traceback.print_exc()
     if "--digest" in sys.argv:
         digest.send(hub)
     bad = [k for k, v in hub["health"].items() if not v["ok"]]
