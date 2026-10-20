@@ -79,10 +79,12 @@ def parse_arte(html_text, source):
         href = a.get("href", "")
         if not re.search(r"/(mostra|evento)-", href) or href in seen:
             continue
+        if len(a.get_text(" ", strip=True)) < 4:  # link della sola immagine: il titolo è in un altro link uguale
+            continue
         box = a
         while box is not None and not re.search(r"\bDal\s+" + D, box.get_text(" ", strip=True), re.I):
             box = box.parent if box.parent is not None and box.parent.name not in ("body", "html") else None
-        if box is None:
+        if box is None or len(box.get_text(" ", strip=True)) > 700:  # contenitore troppo grande: più voci mischiate
             continue
         text = re.sub(r"\s+", " ", box.get_text(" ", strip=True))
         dm = re.search(r"\bDal\s+" + D + r"(?:\s+al\s+" + D + r")?", text, re.I)
@@ -109,7 +111,7 @@ def parse_arte(html_text, source):
         seen.add(href)
         url = href if href.startswith("http") else "https://www.arte.it" + href
         out.append(_item(title, venue, start, end, "mostra" if "/mostra-" in href else "evento",
-                         guess_tag(title, venue), url, source, text[dm.end():][-150:]))
+                         guess_tag(title, venue), url, source, text[dm.end():dm.end() + 150]))
     return out
 
 
