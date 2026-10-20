@@ -1,5 +1,5 @@
 {
- "generated": "20/10/2026 22:27 UTC",
+ "generated": "20/10/2026 22:39 UTC",
  "today": "2026-10-20",
  "title": "Torino Culturale",
  "me": "tobi_2117",
@@ -2420,6 +2420,39 @@
  ],
  "events": [
   {
+   "title": "mercoledì 21 ottobre 2026 Home Notizie Guide Mostre Foto Video Speciali Archivio home > Mostre Tutte le Mostre di Ottobre 2026 a Torino",
+   "venue": " – CAMERA - Centro Italiano per la Fotografia",
+   "start": "2026-10-17",
+   "end": "2027-02-07",
+   "kind": "mostra",
+   "tag": "fotografia",
+   "desc": "gistro della Stampa presso il Tribunale di Roma al n. 292/2012 | Direttore Responsabile Luca Muscarà | © 2026 ARTE.it | Tutti i diritti sono riservati",
+   "url": "https://www.arte.it/calendario-arte/torino/mostra-atelier-dei-moderni-matisse-braque-picasso-bacon-104556",
+   "source": "arte.it"
+  },
+  {
+   "title": "mercoledì 21 ottobre 2026 Home Notizie Guide Mostre Foto Video Speciali Archivio home > Mostre Tutte le Mostre di Novembre 2026 a Torino",
+   "venue": " – CAMERA - Centro Italiano per la Fotografia",
+   "start": "2026-10-17",
+   "end": "2027-02-07",
+   "kind": "mostra",
+   "tag": "fotografia",
+   "desc": "gistro della Stampa presso il Tribunale di Roma al n. 292/2012 | Direttore Responsabile Luca Muscarà | © 2026 ARTE.it | Tutti i diritti sono riservati",
+   "url": "https://www.arte.it/calendario-arte/torino/mostra-atelier-dei-moderni-matisse-braque-picasso-bacon-104556",
+   "source": "arte.it"
+  },
+  {
+   "title": "mercoledì 21 ottobre 2026 Home Notizie Guide Mostre Foto Video Speciali Archivio home > Mostre Tutte le Mostre di Dicembre 2026 a Torino",
+   "venue": " – CAMERA - Centro Italiano per la Fotografia",
+   "start": "2026-10-17",
+   "end": "2027-02-07",
+   "kind": "mostra",
+   "tag": "fotografia",
+   "desc": "gistro della Stampa presso il Tribunale di Roma al n. 292/2012 | Direttore Responsabile Luca Muscarà | © 2026 ARTE.it | Tutti i diritti sono riservati",
+   "url": "https://www.arte.it/calendario-arte/torino/mostra-atelier-dei-moderni-matisse-braque-picasso-bacon-104556",
+   "source": "arte.it"
+  },
+  {
    "title": "Letizia Battaglia. L’opera 1970-2020",
    "venue": "CAMERA",
    "start": "2026-10-17",
@@ -2442,28 +2475,6 @@
    "source": "CAMERA - mostre"
   },
   {
-   "title": "Alfred Eisenstaedt. La fotografia era nell’aria",
-   "venue": "CAMERA",
-   "start": "2026-09-20",
-   "end": "2026-11-22",
-   "kind": "mostra",
-   "tag": "fotografia",
-   "desc": "",
-   "url": "https://camera.to/mostre/alfred-eisenstaedt-la-fotografia-era-nellaria/",
-   "source": "CAMERA - mostre"
-  },
-  {
-   "title": "Dorothea Lange a Verona",
-   "venue": "Centro Internazionale di Fotografia Scavi Scaligeri",
-   "start": "2026-11-01",
-   "end": "2026-11-01",
-   "kind": "mostra",
-   "tag": "fotografia",
-   "desc": "",
-   "url": "https://camera.to/mostre/dorothea-lange-a-verona/",
-   "source": "CAMERA - mostre"
-  },
-  {
    "title": "Foto album da Aurora e Barriera",
    "venue": "Bagni Pubblici di via Agliè, CAMERA, Dorado",
    "start": "2026-09-25",
@@ -2475,19 +2486,8 @@
    "source": "CAMERA - mostre"
   },
   {
-   "title": "Lee Miller a Forlì",
-   "venue": "Museo Civico San Domenico",
-   "start": "2026-10-10",
-   "end": "2027-01-10",
-   "kind": "mostra",
-   "tag": "fotografia",
-   "desc": "",
-   "url": "https://camera.to/mostre/lee-miller-a-forli/",
-   "source": "CAMERA - mostre"
-  },
-  {
-   "title": "09:00 - 19:00",
-   "venue": "Effetto VR!",
+   "title": "Effetto VR!",
+   "venue": "Il Cinema in Virtual Reality",
    "start": "2026-10-22",
    "end": "2026-10-22",
    "kind": "evento",
@@ -2656,98 +2656,77 @@
    "ok": true,
    "count": 58,
    "note": "",
-   "checked": "2026-10-20 22:24 UTC",
+   "checked": "2026-10-20 22:38 UTC",
    "last_ok": "2026-10-20"
   },
   "massimo_calendario": {
    "ok": true,
    "count": 39,
    "note": "",
-   "checked": "2026-10-20 22:24 UTC",
+   "checked": "2026-10-20 22:38 UTC",
    "last_ok": "2026-10-20"
   },
   "letterboxd_seguiti": {
    "ok": true,
    "count": 24,
    "note": "",
-   "checked": "2026-10-20 22:24 UTC",
+   "checked": "2026-10-20 22:38 UTC",
    "last_ok": "2026-10-20"
   },
   "letterboxd_diari": {
    "ok": true,
    "count": 25,
    "note": "",
-   "checked": "2026-10-20 22:25 UTC",
+   "checked": "2026-10-20 22:39 UTC",
    "last_ok": "2026-10-20"
   },
   "letterboxd_watchlist": {
    "ok": true,
    "count": 162,
    "note": "",
-   "checked": "2026-10-20 22:27 UTC",
+   "checked": "2026-10-20 22:39 UTC",
    "last_ok": "2026-10-20"
-  },
-  "eventi: arte.it (mese corrente)": {
-   "ok": false,
-   "count": 0,
-   "note": "LLM risposta anomala: OK\r ",
-   "checked": "2026-10-20 22:14 UTC",
-   "last_ok": ""
-  },
-  "eventi: CAMERA": {
-   "ok": false,
-   "count": 0,
-   "note": "LLM risposta anomala: OK\r ",
-   "checked": "2026-10-20 22:14 UTC",
-   "last_ok": ""
   },
   "eventi: Museo Nazionale del Cinema": {
    "ok": true,
    "count": 6,
    "note": "",
-   "checked": "2026-10-20 22:27 UTC",
+   "checked": "2026-10-20 22:39 UTC",
    "last_ok": "2026-10-20"
-  },
-  "eventi: Turismo Torino - agenda": {
-   "ok": false,
-   "count": 0,
-   "note": "LLM risposta anomala: OK\r ",
-   "checked": "2026-10-20 22:14 UTC",
-   "last_ok": ""
   },
   "eventi: CAMERA - agenda": {
    "ok": false,
    "count": 0,
-   "note": "pagina letta ma nessun evento riconosciuto (formato cambiato?)",
-   "checked": "2026-10-20 22:27 UTC",
+   "note": "'camera_agenda'",
+   "checked": "2026-10-20 22:39 UTC",
    "last_ok": ""
   },
   "letterboxd_storico": {
    "ok": true,
    "count": 5,
-   "note": "0 film importati oggi; completi 5/25",
-   "checked": "2026-10-20 22:27 UTC",
+   "note": "0 film importati oggi; completi 5/25; Letterboxd ha rifiutato richieste, riprovo domani",
+   "checked": "2026-10-20 22:39 UTC",
    "last_ok": "2026-10-20"
   },
   "eventi: arte.it": {
-   "ok": false,
-   "count": 0,
-   "note": "pagina letta ma nessun evento riconosciuto (formato cambiato?)",
-   "checked": "2026-10-20 22:27 UTC",
-   "last_ok": ""
+   "ok": true,
+   "count": 9,
+   "note": "",
+   "checked": "2026-10-20 22:39 UTC",
+   "last_ok": "2026-10-20"
   },
   "eventi: CAMERA - mostre": {
    "ok": true,
-   "count": 6,
+   "count": 3,
    "note": "",
-   "checked": "2026-10-20 22:27 UTC",
+   "checked": "2026-10-20 22:39 UTC",
    "last_ok": "2026-10-20"
   },
   "eventi: Turismo Torino": {
    "ok": true,
    "count": 14,
    "note": "",
-   "checked": "2026-10-20 22:27 UTC",
+   "checked": "2026-10-20 22:39 UTC",
    "last_ok": "2026-10-20"
   }
  }
