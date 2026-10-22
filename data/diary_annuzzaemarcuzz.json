@@ -948,5 +948,53 @@
   "slug": "the-scopone-game",
   "url": "https://letterboxd.com/annuzzaemarcuzz/film/the-scopone-game/",
   "review": ""
+ },
+ "letterboxd-watch-1548581238": {
+  "guid": "letterboxd-watch-1548581238",
+  "title": "The Zone of Interest",
+  "year": 2023,
+  "rating": 5.0,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-10-21",
+  "tmdb": 467244,
+  "url": "https://letterboxd.com/annuzzaemarcuzz/film/the-zone-of-interest/",
+  "review": ""
+ },
+ "letterboxd-watch-1548579648": {
+  "guid": "letterboxd-watch-1548579648",
+  "title": "Anatomy of a Fall",
+  "year": 2023,
+  "rating": 5.0,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-10-21",
+  "tmdb": 915935,
+  "url": "https://letterboxd.com/annuzzaemarcuzz/film/anatomy-of-a-fall/",
+  "review": ""
+ },
+ "letterboxd-watch-1548576982": {
+  "guid": "letterboxd-watch-1548576982",
+  "title": "Rust and Bone",
+  "year": 2012,
+  "rating": 4.0,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-10-21",
+  "tmdb": 97365,
+  "url": "https://letterboxd.com/annuzzaemarcuzz/film/rust-and-bone/",
+  "review": ""
+ },
+ "letterboxd-watch-1548156971": {
+  "guid": "letterboxd-watch-1548156971",
+  "title": "To Leslie",
+  "year": 2022,
+  "rating": 3.5,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-10-21",
+  "tmdb": 823147,
+  "url": "https://letterboxd.com/annuzzaemarcuzz/film/to-leslie/",
+  "review": ""
  }
 }

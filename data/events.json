@@ -112,13 +112,24 @@
  {
   "title": "Effetto VR!",
   "venue": "Il Cinema in Virtual Reality",
-  "start": "2026-10-23",
-  "end": "2026-10-23",
+  "start": "2026-10-24",
+  "end": "2026-10-24",
   "kind": "evento",
   "tag": "cinema",
   "desc": "",
   "url": "https://www.museocinema.it/it/attivita/alla-scoperta-del-museo",
   "source": "Museo Nazionale del Cinema"
+ },
+ {
+  "title": "Diffusissima 2026",
+  "venue": "Torino",
+  "start": "2026-10-19",
+  "end": "2026-11-01",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/diffusissima-2026",
+  "source": "Turismo Torino"
  },
  {
   "title": "Saetta McQueen al Museo",
@@ -129,6 +140,17 @@
   "tag": "cinema",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/saetta-mc-queen-al-museo",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Banksy. Street is the Museum",
+  "venue": "Torino",
+  "start": "2026-10-22",
+  "end": "2027-01-31",
+  "kind": "mostra",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/banksy-street-is-the-museum",
   "source": "Turismo Torino"
  },
  {
@@ -151,6 +173,17 @@
   "tag": "arte",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/balla-torino-social-dance-2026",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Still image. Fotografie di Jessica Lange",
+  "venue": "Torino",
+  "start": "2026-10-07",
+  "end": "2027-02-07",
+  "kind": "evento",
+  "tag": "fotografia",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/still-image-fotografie-di-jessica-lange",
   "source": "Turismo Torino"
  },
  {
@@ -187,6 +220,50 @@
   "source": "Turismo Torino"
  },
  {
+  "title": "Di padre in figlio. L'universo grafico di Giambattista e Giandomenico Tiepolo",
+  "venue": "Torino",
+  "start": "2026-10-15",
+  "end": "2027-01-17",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/di-padre-in-figlio-l-universo-grafico-di-giambattista-e-giandomenico-tiepolo",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Festival Internazionale dell'Economia 2026",
+  "venue": "Torino",
+  "start": "2026-10-22",
+  "end": "2026-10-25",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/festival-internazionale-dell-economia-2026",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Art Site Fest 2026",
+  "venue": "Torino",
+  "start": "2026-10-14",
+  "end": "2026-11-20",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/art-site-fest-2026",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Una delle ultime sere di carnovale",
+  "venue": "Torino",
+  "start": "2026-10-19",
+  "end": "2026-10-25",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/una-delle-ultime-sere-di-carnovale",
+  "source": "Turismo Torino"
+ },
+ {
   "title": "Teatro Incontro - Stagione 2026/2027",
   "venue": "Torino",
   "start": "2026-10-17",
@@ -206,72 +283,6 @@
   "tag": "cinema",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/piff-pinerolo-film-festival-2026",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Socialità in Festival 2026",
-  "venue": "Torino",
-  "start": "2026-10-21",
-  "end": "2026-10-21",
-  "kind": "evento",
-  "tag": "cinema",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/socialita-in-festival-2026",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Popoli in movimento",
-  "venue": "Torino",
-  "start": "2026-10-11",
-  "end": "2026-10-31",
-  "kind": "evento",
-  "tag": "fotografia",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/popoli-in-movimento",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Le donne della Repubblica. 80 anni di conquiste nelle cronache dell’Ansa",
-  "venue": "Torino",
-  "start": "2026-10-10",
-  "end": "2026-11-30",
-  "kind": "mostra",
-  "tag": "fotografia",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/le-donne-della-repubblica-80-anni-di-conquiste-nelle-cronache-dell-ansa",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Alfredo Billetto. La percettibile morbidezza del colore",
-  "venue": "Torino",
-  "start": "2026-10-03",
-  "end": "2026-10-24",
-  "kind": "mostra",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/alfredo-billetto-la-percettibile-morbidezza-del-colore",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Libri in Orbita. Sfoglia l'Universo, parla con gli autori",
-  "venue": "Torino",
-  "start": "2026-10-10",
-  "end": "2026-12-12",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/libri-in-orbita-sfoglia-l-universo-parla-con-gli-autori",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Aldo Brovarone: la matita di Pininfarina",
-  "venue": "Torino",
-  "start": "2026-10-07",
-  "end": "2027-03-07",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/aldo-brovarone-la-matita-di-pininfarina",
   "source": "Turismo Torino"
  },
  {

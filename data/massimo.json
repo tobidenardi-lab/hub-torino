@@ -1,75 +1,6 @@
 {
  "shows": [
   {
-   "date": "2026-10-20",
-   "times": [
-    "16:00",
-    "18:15"
-   ],
-   "title": "Fatherland",
-   "director": "P. Pawlikowski",
-   "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-10-20",
-   "times": [
-    "21:00"
-   ],
-   "title": "TOHorror Film Festival",
-   "director": "",
-   "year": null,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-10-21",
-   "times": [
-    "16:00",
-    "20:30"
-   ],
-   "title": "Fatherland",
-   "director": "P. Pawlikowski",
-   "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-10-21",
-   "times": [
-    "18:00"
-   ],
-   "title": "M – Il mostro di Dusseldorf",
-   "director": "F. Lang",
-   "year": 1931,
-   "room": null,
-   "note": "Il film è introdotto da Paola Valentini"
-  },
-  {
-   "date": "2026-10-21",
-   "times": [
-    "16:00",
-    "21:00"
-   ],
-   "title": "Fatherland",
-   "director": "P. Pawlikowski",
-   "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-10-21",
-   "times": [
-    "18:00"
-   ],
-   "title": "Possible Love",
-   "director": "L. Chang-dong",
-   "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
    "date": "2026-10-26",
    "times": [
     "16:00",
@@ -117,52 +48,6 @@
    "year": 1956,
    "room": null,
    "note": "Il film è introdotto da Giaime Alonge"
-  },
-  {
-   "date": "2026-10-20",
-   "times": [
-    "16:00",
-    "18:15",
-    "20:45"
-   ],
-   "title": "I diavoli",
-   "director": "K. Russell",
-   "year": 1971,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-10-21",
-   "times": [
-    "16:00"
-   ],
-   "title": "I diavoli",
-   "director": "K. Russell",
-   "year": 1971,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-10-21",
-   "times": [
-    "18:00"
-   ],
-   "title": "Possible love",
-   "director": "Lee Chang-dong",
-   "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-10-21",
-   "times": [
-    "21:00"
-   ],
-   "title": "Crash",
-   "director": "D. Cronenberg",
-   "year": 1996,
-   "room": null,
-   "note": "Il film è introdotto da Carlo Brosio"
   },
   {
    "date": "2026-10-26",
@@ -221,39 +106,6 @@
    "note": "Al termine incontro con il regista"
   },
   {
-   "date": "2026-10-20",
-   "times": [
-    "16:00"
-   ],
-   "title": "I selvaggi",
-   "director": "R. Corman",
-   "year": 1966,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-10-20",
-   "times": [
-    "18:30"
-   ],
-   "title": "Il massacro del giorno di San Valentino",
-   "director": "R. Gorman",
-   "year": 1967,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-10-20",
-   "times": [
-    "21:00"
-   ],
-   "title": "Identidad",
-   "director": "F. Santucho e R. Vásquez-Salessi",
-   "year": 2025,
-   "room": null,
-   "note": "Il film è introdotto da Florencia Santucho"
-  },
-  {
    "date": "2026-10-26",
    "times": [
     "15:30"
@@ -309,17 +161,6 @@
    "note": ""
   },
   {
-   "date": "2026-10-27",
-   "times": [
-    "20:30"
-   ],
-   "title": "Sala – Due I fratelli segreto",
-   "director": "F. Ferrone, M. Manzolini",
-   "year": 2025,
-   "room": null,
-   "note": "Al termine incontro con Federico Ferrone, Michele Manzolini"
-  },
-  {
    "date": "2026-10-28",
    "times": [
     "16:00"
@@ -340,17 +181,6 @@
    "year": 2017,
    "room": null,
    "note": ""
-  },
-  {
-   "date": "2026-10-28",
-   "times": [
-    "18:00"
-   ],
-   "title": "Sentieri selvaggi",
-   "director": "J. Ford",
-   "year": 1956,
-   "room": "Sala 1",
-   "note": "Il film è introdotto da Giaime Alonge"
   },
   {
    "date": "2026-10-29",

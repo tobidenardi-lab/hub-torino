@@ -61,6 +61,20 @@ obre 2026</span>
 							Tutte le <span class="mostre-portal-big">Mostre</span> di Dicembre 2026 a Torino						</h2>
 						<ul class="event-list">
 							<li class="clearfix">
+	    <a href="/calendario-arte/torino/mostra-banksy-street-is-the-museum-104585" class="link_mostre_list">
+    	<span class="thumb"><img src="https://www.arte.it/foto/138x138/d8/161481-image002.jpg"  alt="Banksy – Street is the Museum" /></span>
+        <span class="cont_txt">
+			<span class="data">Dal 22 Ottobre 2026 al 31 Gennaio 2027</span>             <span class="occhiello">
+            	<span class="citta">Torino</span>				 | 				Palazzo Faletti di Barolo            </span>
+            <span class="title">
+				<h2>Banksy – Street is the Museum</h2>
+			</span>            <span class="sommario">Dopo aver conquistato oltre 3,5 milioni di visitatori nel mondo e aver fatto tappa nelle principali citt&agrave; europee e internazionali,&nbsp;il pro...</span>
+            <span class="l_tutto">&nbsp;</span>
+        </span>
+    </a>
+    
+</li>
+<li class="clearfix">
 	    <a href="/calendario-arte/torino/mostra-letizia-battaglia-l-opera-1970-2020-davide-tranchina-lightyears-away-104142" class="link_mostre_list">
     	<span class="thumb"><img src="https://www.arte.it/foto/138x138/2d/160880-02_Letizia_Battaglia_Pier_Paolo_Pasolini_al_Circolo_Turati_Milano_1972_Archivio_Letizia_Battaglia.jpg"  alt="LETIZIA BATTAGLIA. L’OPERA, 1970 – 2020 / DAVIDE TRANCHINA. LIGHTYEARS AWAY" /></span>
         <span class="cont_txt">
@@ -120,16 +134,4 @@ obre 2026</span>
 	    <a href="/calendario-arte/torino/mostra-still-image-fotografie-di-jessica-lange-104134" class="link_mostre_list">
     	<span class="thumb"><img src="https://www.arte.it/foto/138x138/1a/160855-01_Jessica-Lange-1920x1279.jpg"  alt="STILL IMAGE. Fotografie di Jessica Lange" /></span>
         <span class="cont_txt">
-			<span class="data">Dal 7 Ottobre 2026 al 7 Febbraio 2027</span>             <span class="occhiello">
-            	<span class="citta">Torino</span>				 | 				Musei Reali di Torino - Sale Chiablese            </span>
-            <span class="title">
-				<h2>STILL IMAGE. Fotografie di Jessica Lange</h2>
-			</span>            <span class="sommario">Le Sale Chiablese dei Musei Reali di Torino ospitano dal 7 ottobre 2026 al 7 febbraio 2027 la mostra STILL IMAGE. Fotografie di Jessica Lange, a cura ...</span>
-            <span class="l_tutto">&nbsp;</span>
-        </span>
-    </a>
-    
-</li>
-<li class="clearfix">
-	    <a href="/calendario-arte/torino/mostra-atelier-dei-moderni-matisse-braque-picasso-bacon-104556" class="link_mostre_list">
-    	<span class="thumb"><img src="https://www.arte.it/foto/138x138/f5/161411-atelier-dei-moderni_015_ph_andrea_guermani.jpg"  alt="Atelier
+			<span cla
