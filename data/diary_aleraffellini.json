@@ -3,7 +3,7 @@
   "guid": "letterboxd-watch-1542102925",
   "title": "Unabomber",
   "year": 2026,
-  "rating": 3.0,
+  "rating": 2.5,
   "like": false,
   "rewatch": false,
   "watched": "2026-10-17",
@@ -1533,6 +1533,18 @@
   "tmdb": null,
   "slug": "elvis-2022",
   "url": "https://letterboxd.com/aleraffellini/film/elvis-2022/",
+  "review": ""
+ },
+ "letterboxd-watch-1549919472": {
+  "guid": "letterboxd-watch-1549919472",
+  "title": "Digger",
+  "year": 2026,
+  "rating": 4.0,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-10-22",
+  "tmdb": 1248832,
+  "url": "https://letterboxd.com/aleraffellini/film/digger-2026/",
   "review": ""
  }
 }

@@ -1,6 +1,6 @@
 {
- "generated": "22/10/2026 09:35 UTC",
- "today": "2026-10-22",
+ "generated": "23/10/2026 09:30 UTC",
+ "today": "2026-10-23",
  "title": "Torino Culturale",
  "me": "tobi_2117",
  "friends": [
@@ -185,7 +185,7 @@
    "showings": [
     {
      "cinema": "Fratelli Marx",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "16:45",
@@ -204,10 +204,10 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
-       "t": "19:15",
+       "t": "19:30",
        "vo": false
       }
      ],
@@ -215,7 +215,7 @@
     },
     {
      "cinema": "Reposi",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "15:30",
@@ -238,30 +238,34 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
-       "t": "14:20",
+       "t": "14:40",
        "vo": false
       },
       {
-       "t": "16:55",
+       "t": "15:55",
        "vo": false
       },
       {
-       "t": "18:50",
+       "t": "18:30",
        "vo": false
       },
       {
-       "t": "19:30",
+       "t": "19:50",
        "vo": false
       },
       {
-       "t": "21:30",
+       "t": "21:05",
        "vo": false
       },
       {
-       "t": "22:05",
+       "t": "22:25",
+       "vo": false
+      },
+      {
+       "t": "23:40",
        "vo": false
       }
      ],
@@ -269,7 +273,7 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "16:00",
@@ -295,31 +299,6 @@
    "lb_url": "https://letterboxd.com/tmdb/1713924/"
   },
   {
-   "title": "La Bambola",
-   "year": 2026,
-   "slug": "la-bambola",
-   "director": "",
-   "showings": [
-    {
-     "cinema": "Centrale",
-     "date": "2026-10-22",
-     "times": [
-      {
-       "t": "15:30",
-       "vo": false
-      }
-     ],
-     "room": null
-    }
-   ],
-   "notes": [],
-   "tmdb": 1309396,
-   "seen_by": [],
-   "watchlist": false,
-   "i_seen": false,
-   "lb_url": "https://letterboxd.com/tmdb/1309396/"
-  },
-  {
    "title": "Calle Malaga",
    "year": 2025,
    "slug": "calle-malaga",
@@ -327,7 +306,7 @@
    "showings": [
     {
      "cinema": "Greenwich Village",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "15:30",
@@ -356,7 +335,7 @@
    "showings": [
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "16:20",
@@ -381,7 +360,7 @@
    "showings": [
     {
      "cinema": "Nazionale",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "17:30",
@@ -400,7 +379,7 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "15:20",
@@ -429,7 +408,7 @@
    "showings": [
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "17:10",
@@ -448,18 +427,14 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
-       "t": "17:00",
+       "t": "20:10",
        "vo": false
       },
       {
-       "t": "19:30",
-       "vo": false
-      },
-      {
-       "t": "21:30",
+       "t": "22:15",
        "vo": false
       }
      ],
@@ -467,14 +442,14 @@
     },
     {
      "cinema": "Movie Planet Lux",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
-       "t": "18:15",
+       "t": "17:15",
        "vo": false
       },
       {
-       "t": "21:00",
+       "t": "22:15",
        "vo": false
       }
      ],
@@ -482,26 +457,18 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
-       "t": "14:00",
-       "vo": false
-      },
-      {
-       "t": "18:20",
-       "vo": false
-      },
-      {
-       "t": "19:35",
-       "vo": false
-      },
-      {
-       "t": "21:00",
+       "t": "18:05",
        "vo": false
       },
       {
        "t": "22:00",
+       "vo": false
+      },
+      {
+       "t": "23:20",
        "vo": false
       }
      ],
@@ -509,14 +476,18 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
+      {
+       "t": "17:20",
+       "vo": false
+      },
       {
        "t": "18:50",
        "vo": true
       },
       {
-       "t": "20:00",
+       "t": "19:50",
        "vo": false
       },
       {
@@ -524,7 +495,7 @@
        "vo": false
       },
       {
-       "t": "22:40",
+       "t": "22:30",
        "vo": false
       }
      ],
@@ -533,7 +504,17 @@
    ],
    "notes": [],
    "tmdb": 1400940,
-   "seen_by": [],
+   "seen_by": [
+    {
+     "user": "georgecarmi",
+     "rating": 3.0,
+     "review": "shit happens.",
+     "slug": "clayface",
+     "like": false,
+     "url": "https://letterboxd.com/georgecarmi/film/clayface/",
+     "watched": "2026-10-22"
+    }
+   ],
    "watchlist": false,
    "i_seen": false,
    "lb_url": "https://letterboxd.com/tmdb/1400940/"
@@ -582,7 +563,7 @@
    "showings": [
     {
      "cinema": "Eliseo",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "16:15",
@@ -601,7 +582,7 @@
     },
     {
      "cinema": "Greenwich Village",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "15:30",
@@ -620,7 +601,7 @@
     },
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "17:40",
@@ -631,7 +612,7 @@
     },
     {
      "cinema": "Nazionale",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "17:05",
@@ -667,6 +648,15 @@
      "watched": "2026-10-18"
     },
     {
+     "user": "aleraffellini",
+     "rating": 4.0,
+     "review": "There is no review for this diary entry. Add a review?",
+     "slug": "digger-2026",
+     "like": false,
+     "url": "https://letterboxd.com/aleraffellini/film/digger-2026/",
+     "watched": "2026-10-22"
+    },
+    {
      "user": "georgecarmi",
      "rating": 4.0,
      "review": "mother nature, she looooooves to win.",
@@ -697,7 +687,7 @@
    "showings": [
     {
      "cinema": "Due Giardini",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "16:15",
@@ -716,7 +706,7 @@
     },
     {
      "cinema": "Fratelli Marx",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "16:00",
@@ -735,10 +725,10 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
-       "t": "16:50",
+       "t": "16:40",
        "vo": false
       },
       {
@@ -750,7 +740,7 @@
     },
     {
      "cinema": "Nazionale",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "16:30",
@@ -769,7 +759,7 @@
     },
     {
      "cinema": "Reposi",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "15:30",
@@ -792,14 +782,14 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
-       "t": "15:00",
+       "t": "15:20",
        "vo": false
       },
       {
-       "t": "16:40",
+       "t": "21:25",
        "vo": false
       }
      ],
@@ -807,14 +797,14 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "14:30",
        "vo": false
       },
       {
-       "t": "20:10",
+       "t": "20:00",
        "vo": false
       }
      ],
@@ -841,6 +831,15 @@
      "like": false,
      "url": "https://letterboxd.com/giuliabissi/film/the-spiral-2026/",
      "watched": "2026-10-18"
+    },
+    {
+     "user": "camillocueto",
+     "rating": 4.5,
+     "review": "There is no review for this diary entry. Add a review?",
+     "slug": "the-spiral-2026",
+     "like": true,
+     "url": "https://letterboxd.com/camillocueto/film/the-spiral-2026/",
+     "watched": "2026-10-22"
     }
    ],
    "watchlist": false,
@@ -855,7 +854,7 @@
    "showings": [
     {
      "cinema": "Nazionale",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "15:45",
@@ -936,10 +935,10 @@
    "showings": [
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
-       "t": "14:05",
+       "t": "14:00",
        "vo": false
       }
      ],
@@ -947,7 +946,7 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "17:45",
@@ -992,31 +991,6 @@
    "lb_url": "https://letterboxd.com/tmdb/1233249/"
   },
   {
-   "title": "La Grande Scommessa",
-   "year": 2015,
-   "slug": "thebigshort",
-   "director": "",
-   "showings": [
-    {
-     "cinema": "Centrale",
-     "date": "2026-10-22",
-     "times": [
-      {
-       "t": "21:00",
-       "vo": false
-      }
-     ],
-     "room": null
-    }
-   ],
-   "notes": [],
-   "tmdb": 318846,
-   "seen_by": [],
-   "watchlist": false,
-   "i_seen": false,
-   "lb_url": "https://letterboxd.com/tmdb/318846/"
-  },
-  {
    "title": "Heart Of The Beast - Nel Profondo Selvaggio",
    "year": 2026,
    "slug": "heart-of-the-beast",
@@ -1024,7 +998,7 @@
    "showings": [
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "19:00",
@@ -1035,7 +1009,7 @@
     },
     {
      "cinema": "Reposi",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "17:45",
@@ -1050,10 +1024,10 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
-       "t": "14:25",
+       "t": "18:50",
        "vo": false
       }
      ],
@@ -1061,10 +1035,10 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
-       "t": "22:20",
+       "t": "21:40",
        "vo": false
       }
      ],
@@ -1105,7 +1079,7 @@
    "showings": [
     {
      "cinema": "Eliseo",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "16:00",
@@ -1120,10 +1094,14 @@
     },
     {
      "cinema": "Movie Planet Lux",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
-       "t": "21:00",
+       "t": "20:00",
+       "vo": false
+      },
+      {
+       "t": "22:15",
        "vo": false
       }
      ],
@@ -1191,7 +1169,7 @@
    "showings": [
     {
      "cinema": "Eliseo",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "16:30",
@@ -1210,7 +1188,7 @@
     },
     {
      "cinema": "Greenwich Village",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "16:00",
@@ -1229,7 +1207,7 @@
     },
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "17:20",
@@ -1248,7 +1226,7 @@
     },
     {
      "cinema": "Reposi",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "15:30",
@@ -1271,7 +1249,7 @@
     },
     {
      "cinema": "Romano",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "15:30",
@@ -1290,10 +1268,14 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
-       "t": "17:00",
+       "t": "15:10",
+       "vo": false
+      },
+      {
+       "t": "17:15",
        "vo": false
       },
       {
@@ -1301,7 +1283,7 @@
        "vo": false
       },
       {
-       "t": "21:25",
+       "t": "20:45",
        "vo": false
       }
      ],
@@ -1309,10 +1291,10 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
-       "t": "14:00",
+       "t": "14:40",
        "vo": false
       },
       {
@@ -1320,7 +1302,11 @@
        "vo": false
       },
       {
-       "t": "19:15",
+       "t": "20:00",
+       "vo": false
+      },
+      {
+       "t": "21:50",
        "vo": false
       }
      ],
@@ -1352,7 +1338,7 @@
    "showings": [
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "14:20",
@@ -1377,7 +1363,7 @@
    "showings": [
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "17:05",
@@ -1388,10 +1374,10 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
-       "t": "19:30",
+       "t": "20:20",
        "vo": false
       }
      ],
@@ -1399,7 +1385,7 @@
     },
     {
      "cinema": "Reposi",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "15:30",
@@ -1410,10 +1396,10 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
-       "t": "19:25",
+       "t": "18:50",
        "vo": false
       }
      ],
@@ -1421,18 +1407,14 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "16:50",
        "vo": false
       },
       {
-       "t": "19:20",
-       "vo": false
-      },
-      {
-       "t": "21:50",
+       "t": "19:30",
        "vo": false
       }
      ],
@@ -1454,7 +1436,7 @@
    "showings": [
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "21:30",
@@ -1465,10 +1447,10 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
-       "t": "21:40",
+       "t": "22:30",
        "vo": false
       }
      ],
@@ -1476,18 +1458,37 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
-       "t": "15:55",
+       "t": "14:00",
        "vo": false
       },
       {
-       "t": "19:05",
+       "t": "16:50",
        "vo": false
       },
       {
-       "t": "22:15",
+       "t": "22:20",
+       "vo": false
+      },
+      {
+       "t": "23:55",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "UCI Lingotto",
+     "date": "2026-10-23",
+     "times": [
+      {
+       "t": "19:15",
+       "vo": false
+      },
+      {
+       "t": "22:40",
        "vo": false
       }
      ],
@@ -1558,19 +1559,8 @@
    "director": "",
    "showings": [
     {
-     "cinema": "Centrale",
-     "date": "2026-10-22",
-     "times": [
-      {
-       "t": "17:00",
-       "vo": true
-      }
-     ],
-     "room": null
-    },
-    {
      "cinema": "Eliseo",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "18:15",
@@ -1585,7 +1575,7 @@
     },
     {
      "cinema": "Fratelli Marx",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "15:45",
@@ -1604,7 +1594,7 @@
     },
     {
      "cinema": "Nazionale",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "15:30",
@@ -1684,6 +1674,56 @@
    "lb_url": "https://letterboxd.com/tmdb/1241574/"
   },
   {
+   "title": "The Old Oak",
+   "year": 2023,
+   "slug": "the-old-oak",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Centrale",
+     "date": "2026-10-23",
+     "times": [
+      {
+       "t": "18:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 970348,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/970348/"
+  },
+  {
+   "title": "Un Po' Di Luce",
+   "year": 2026,
+   "slug": "un-po-di-luce",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Baretti",
+     "date": "2026-10-23",
+     "times": [
+      {
+       "t": "10:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1736490,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1736490/"
+  },
+  {
    "title": "Possible Love",
    "year": 2026,
    "slug": null,
@@ -1752,7 +1792,7 @@
    "showings": [
     {
      "cinema": "Greenwich Village",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "16:00",
@@ -1771,7 +1811,7 @@
     },
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "15:00",
@@ -1786,10 +1826,10 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
-       "t": "19:15",
+       "t": "19:10",
        "vo": false
       }
      ],
@@ -1797,10 +1837,14 @@
     },
     {
      "cinema": "Movie Planet Lux",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
-       "t": "18:30",
+       "t": "17:15",
+       "vo": false
+      },
+      {
+       "t": "20:00",
        "vo": false
       }
      ],
@@ -1808,10 +1852,10 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
-       "t": "22:05",
+       "t": "21:40",
        "vo": false
       }
      ],
@@ -1819,7 +1863,7 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "16:30",
@@ -1885,7 +1929,7 @@
    "showings": [
     {
      "cinema": "Classico",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "15:30",
@@ -1904,7 +1948,7 @@
     },
     {
      "cinema": "Due Giardini",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "15:45",
@@ -1923,14 +1967,14 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "16:50",
        "vo": false
       },
       {
-       "t": "21:15",
+       "t": "21:30",
        "vo": false
       }
      ],
@@ -1938,14 +1982,18 @@
     },
     {
      "cinema": "Movie Planet Lux",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
-       "t": "18:30",
+       "t": "17:00",
        "vo": false
       },
       {
-       "t": "21:15",
+       "t": "19:40",
+       "vo": false
+      },
+      {
+       "t": "22:10",
        "vo": false
       }
      ],
@@ -1953,7 +2001,7 @@
     },
     {
      "cinema": "Romano",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "15:45",
@@ -1972,7 +2020,7 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "20:50",
@@ -1983,14 +2031,14 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
-       "t": "16:10",
+       "t": "15:20",
        "vo": false
       },
       {
-       "t": "19:10",
+       "t": "18:30",
        "vo": false
       },
       {
@@ -2007,6 +2055,68 @@
    "watchlist": false,
    "i_seen": false,
    "lb_url": "https://letterboxd.com/tmdb/1503762/"
+  },
+  {
+   "title": "Resident Evil",
+   "year": 2026,
+   "slug": "resident-evil",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "UCI Lingotto",
+     "date": "2026-10-23",
+     "times": [
+      {
+       "t": "22:50",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1423191,
+   "seen_by": [
+    {
+     "user": "helmy2005",
+     "rating": 4.0,
+     "review": "There is no review for this diary entry. Add a review?",
+     "slug": "resident-evil-2026",
+     "like": false,
+     "url": "https://letterboxd.com/helmy2005/film/resident-evil-2026/",
+     "watched": "2026-09-20"
+    },
+    {
+     "user": "sethsreviews",
+     "rating": 4.0,
+     "review": "Silly one-liners, exaggerated slimy monstrosities, and a strong emphasis on unskilled vulnerability. Something that switches from terrified POV images as our guy cautiously enters a room or turns a corner to deafeningly loud intrusions of complete freaks in a blink. Like the games, there are a ton of ridiculous obstacles in this - I have also tried to shoot off my fair share of locks as Ethan Winters. Austin Abrams nails it as the perfect everyman, he is remarkably funny. Plays out with many of the strongest elements from the games: the anxiousness of re2, the survival roots of re7, and one-liners similar to those Leon would say in re4. I can't even begin to express how hilarious I thought it was, even when the ideas are subtly undermined by its own absurdity. One of the funniest things I’ve seen in years.",
+     "slug": "resident-evil-2026",
+     "like": false,
+     "url": "https://letterboxd.com/sethsreviews/film/resident-evil-2026/",
+     "watched": "2026-09-16"
+    },
+    {
+     "user": "georgecarmi",
+     "rating": 4.0,
+     "review": "zach creggers\nafter hours\nand it is so👏fucking👏fun👏",
+     "slug": "resident-evil-2026",
+     "like": true,
+     "url": "https://letterboxd.com/georgecarmi/film/resident-evil-2026/1/",
+     "watched": "2026-09-21"
+    },
+    {
+     "user": "watchedbyadrien",
+     "rating": 3.5,
+     "review": "some of you were wondering, especially when spider-man: brand new day came out, if I still knew how to have fun when watching movies.\n\nand my response was that it was impossible to have fun during most of these films, and especially bnd as it was an awful film from A to Z.\n\nif your characters aren’t interesting, your villain is underwhelming, the writing is sloppy, the world isn’t compelling and if nothing happening on that screen makes you care emotionally or intellectually, then i’m not going to have fun just because the movie tells me i’m supposed to.\n\nladies and gentlemen, RE is what competent fun looks like.\nthe perfect example that fun does not come at the expense of good writing or good craft.\n\nRE has great writing. believable dialogue. witty humor. natural banter. no telling, all showing. it respects its audience! trusts them that they can understand something without having it explained to them. creates a world you actually want to be in and most importantly, gives us a character we actually want to follow.\n\nI knew this was going to be special the second bryan hit that first zombie with his car.\n\nbecause you know exactly what would happen in any other zombie movie. he gets out. slowly approaches the body. gets a little too close. zombie jumps up. jump scare.\n\ninstead, he walks over, picks the fucking thing up and puts it in his car.\n\nit’s believable. it’s hilarious. it’s fresh. it’s smart. I’m in.\n\naustin abrams is fantastic because bryan is exactly how we would be in this scenario, or how we would look like playing this game for the first time.\n\nhe’s the perfect everyday guy. he isn’t inexplicably great at anything. the way he progresses with the gunplay almost feels like the way we would progress through a difficult shooter. he learns. he adapts. he gets just a little better.\n\neven when he sees those two creatures connecting through their ligaments and basically goes, “that’s interesting.”\n\nyeah. that’s exactly what I would say. it’s not just hilarious, it’s relatable.\n\nand that grounding is so important because it protects the suspension of disbelief. that was one of my biggest problems with barbarian. characters would make decisions that felt so obviously stupid that i stopped believing in the reality of what i was watching.\n\nRE almost never does that.\n\nand then there’s the way cregger translates the language of video games into cinema.\n\nwe’re practically introduced to bryan from behind, following him while he’s making a delivery, like we just picked up the controller in a third-person game.\n\nthen throughout the film you have the subtle first-person shooter perspectives. the pans left and right that are timed perfectly. the way bryan moves through spaces. the locks! even those tiny pauses when opening doors that immediately puts us back into the gameplay of the last of us.\n\nthe attention to detail is precise and staggering and it’s execution is at times jaw dropping.\n\ncregger clearly understands the medium he’s paying homage to, but he never panders to it. he doesn’t need to rely on the recognizable heroes of the games or constantly point at the source material and wait for us to clap.\n\nhe takes the cinematic language that players know instinctively and builds something innately fresh out of it.\n\nthe environments are wonderful as well. every new location feels like entering another level of a banger video game.\nit has its own visual identity, its own obstacles, its own creatures, and, most importantly, it feels lived in! we constantly have the feeling that something happened there before we arrived.\n\neven the “NPCs” have backstories.\nthere are photographs on walls. objects in houses. little pieces of production design that tell you who these people were without stopping the movie to explain any of it.\n\nthat entire opening with the husband, the wife and the dog is such a great example. all these little details eventually connect, come full circle, and all of it suddenly feels so much bigger than what it appears.\n\nthat’s impeccable world-building.\n\nand cregger keeps renewing the film like that till the end.\nnew environment. new situation. new visual ideas.\n\nthe elevator sequence is great. the creature design is fantastic. the jump scares mostly work. the production design is really effective. there are some genuinely great shots. and even some of the stranger details that aren’t completely explained never bothered me because they almost feel like easter eggs. little pieces of this world that maybe mean something, maybe don’t, maybe become clearer the further you dig into it.\n\nexactly like in a video game.\n\nit’s as inventive in its progression as the best games know how to be, which is why it basically never drags.\n\nof course, not every section is equally strong. i liked the maxine sequence, but it was definitely one of the weaker ones. the relationship between bryan and his girlfriend also starts much stronger than it ends, and the voice note toward the end doesn’t fully hit.\n\nthere are little lags here and there. moments that could have been better. but that’s really all they are.\n\nand i love the way it ends. reminiscent of the phenomenal ending of cabin in the woods (although this one was not exactly at that level)\n\nthere’s also something else that makes me really happy, which is just seeing zach cregger get better.\n\ni’ve always really liked the guy as a human being. i love listening to him in interviews. i love his passion. i love how much he clearly cares about filmmaking and the craft.\n\nbut i’ve never fully connected with his films until now. (even though he always takes big swings)\n\nbarbarian wasn’t good. weapons was better. and resident evil is even better than weapons.\n\nhe just keeps progressing. and that’s really inspiring.\n\nbecause none of what works feels accidental. you can feel how much thought went into the writing, the environments, the camera moves, the creatures, the jokes, the character behavior, the production design, the tiny fucking pause before somebody walks through a door.\n\nthat’s where the fun comes from.\n\nnot from lowering your standards because something isn’t trying to be profound.\n\nthis has absolutely no pretension to be anything other than what it is.\n\nbut it executes the shit out of what it is.\nand that’s the difference.\n\nit creates a character i want to follow, puts him in a world i want to explore, respects me enough not to explain every tiny thing, understands the medium it’s borrowing from and then uses actual filmmaking craft to turn all of that into a thrilling experience.\n\nit’s not a masterpiece.\n\nbut it’s a really, really, really solid film.\n\nand so much fucking fun!",
+     "slug": "resident-evil-2026",
+     "like": false,
+     "url": "https://letterboxd.com/watchedbyadrien/film/resident-evil-2026/",
+     "watched": "2026-09-23"
+    }
+   ],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1423191/"
   },
   {
    "title": "The Rocky Horror Picture Show",
@@ -2067,6 +2177,42 @@
    "lb_url": "https://letterboxd.com/tmdb/36685/"
   },
   {
+   "title": "Santiago - Un Cammino Per Ricominciare",
+   "year": 2026,
+   "slug": "santiago-un-cammino-per-ricominciare",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Esedra",
+     "date": "2026-10-23",
+     "times": [
+      {
+       "t": "21:15",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Teatro Monterosa",
+     "date": "2026-10-23",
+     "times": [
+      {
+       "t": "21:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1404604,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1404604/"
+  },
+  {
    "title": "La schivata",
    "year": 2003,
    "slug": null,
@@ -2099,7 +2245,7 @@
    "showings": [
     {
      "cinema": "Fratelli Marx",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "17:30",
@@ -2110,7 +2256,7 @@
     },
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "19:20",
@@ -2121,7 +2267,7 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "17:00",
@@ -2173,7 +2319,7 @@
    "showings": [
     {
      "cinema": "Romano",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "17:30",
@@ -2227,7 +2373,7 @@
    "showings": [
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "15:00",
@@ -2238,10 +2384,10 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
-       "t": "16:30",
+       "t": "16:25",
        "vo": false
       }
      ],
@@ -2249,7 +2395,7 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "15:00",
@@ -2288,7 +2434,7 @@
    "showings": [
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "15:20",
@@ -2302,11 +2448,22 @@
      "room": null
     },
     {
-     "cinema": "The Space Torino",
-     "date": "2026-10-22",
+     "cinema": "Massaua Cityplex",
+     "date": "2026-10-23",
      "times": [
       {
-       "t": "14:00",
+       "t": "16:15",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "The Space Torino",
+     "date": "2026-10-23",
+     "times": [
+      {
+       "t": "16:25",
        "vo": false
       }
      ],
@@ -2314,7 +2471,7 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "14:10",
@@ -2343,7 +2500,7 @@
    "showings": [
     {
      "cinema": "Romano",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "15:30",
@@ -2412,11 +2569,11 @@
    "showings": [
     {
      "cinema": "Centrale",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
-       "t": "18:30",
-       "vo": true
+       "t": "16:00",
+       "vo": false
       }
      ],
      "room": null
@@ -2428,6 +2585,31 @@
    "watchlist": false,
    "i_seen": false,
    "lb_url": "https://letterboxd.com/tmdb/1283320/"
+  },
+  {
+   "title": "Va' Sentiero",
+   "year": 2026,
+   "slug": "va-sentiero",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Centrale",
+     "date": "2026-10-23",
+     "times": [
+      {
+       "t": "21:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": null,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": null
   },
   {
    "title": "Venere nera",
@@ -2453,6 +2635,31 @@
    "watchlist": false,
    "i_seen": false,
    "lb_url": "https://letterboxd.com/tmdb/56405/"
+  },
+  {
+   "title": "Verity",
+   "year": 2026,
+   "slug": "verity",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Massaua Cityplex",
+     "date": "2026-10-23",
+     "times": [
+      {
+       "t": "18:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1283515,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1283515/"
   },
   {
    "title": "La vita di Adele",
@@ -2498,7 +2705,7 @@
    "showings": [
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "15:05",
@@ -2509,7 +2716,7 @@
     },
     {
      "cinema": "Reposi",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "22:00",
@@ -2520,10 +2727,10 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
-       "t": "16:25",
+       "t": "14:10",
        "vo": false
       }
      ],
@@ -2531,7 +2738,7 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "22:10",
@@ -2556,7 +2763,7 @@
    "showings": [
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "15:10",
@@ -2571,10 +2778,10 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
-       "t": "17:10",
+       "t": "18:00",
        "vo": false
       },
       {
@@ -2586,7 +2793,7 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "15:45",
@@ -2595,13 +2802,17 @@
       {
        "t": "17:45",
        "vo": false
+      },
+      {
+       "t": "19:15",
+       "vo": false
       }
      ],
      "room": null
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "14:00",
@@ -2657,7 +2868,7 @@
    "showings": [
     {
      "cinema": "Greenwich Village",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "20:45",
@@ -2668,7 +2879,7 @@
     },
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "19:20",
@@ -2679,7 +2890,7 @@
     },
     {
      "cinema": "Nazionale",
-     "date": "2026-10-22",
+     "date": "2026-10-23",
      "times": [
       {
        "t": "15:15",
@@ -2815,12 +3026,12 @@
   {
    "title": "Effetto VR!",
    "venue": "Il Cinema in Virtual Reality",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
+   "start": "2026-10-25",
+   "end": "2026-10-25",
    "kind": "evento",
    "tag": "cinema",
    "desc": "",
-   "url": "https://www.museocinema.it/it/attivita/alla-scoperta-del-museo",
+   "url": "https://www.museocinema.it/it/attivita/sotto-il-segno-di-gemelli",
    "source": "Museo Nazionale del Cinema"
   },
   {
@@ -3025,80 +3236,80 @@
  "health": {
   "mymovies_cinema": {
    "ok": true,
-   "count": 94,
+   "count": 100,
    "note": "",
-   "checked": "2026-10-22 09:34 UTC",
-   "last_ok": "2026-10-22"
+   "checked": "2026-10-23 09:29 UTC",
+   "last_ok": "2026-10-23"
   },
   "massimo_calendario": {
    "ok": true,
    "count": 24,
    "note": "",
-   "checked": "2026-10-22 09:34 UTC",
-   "last_ok": "2026-10-22"
+   "checked": "2026-10-23 09:29 UTC",
+   "last_ok": "2026-10-23"
   },
   "letterboxd_seguiti": {
    "ok": true,
    "count": 24,
    "note": "",
-   "checked": "2026-10-22 09:34 UTC",
-   "last_ok": "2026-10-22"
+   "checked": "2026-10-23 09:29 UTC",
+   "last_ok": "2026-10-23"
   },
   "letterboxd_diari": {
    "ok": true,
    "count": 25,
    "note": "",
-   "checked": "2026-10-22 09:34 UTC",
-   "last_ok": "2026-10-22"
+   "checked": "2026-10-23 09:30 UTC",
+   "last_ok": "2026-10-23"
   },
   "letterboxd_watchlist": {
    "ok": true,
    "count": 163,
    "note": "",
-   "checked": "2026-10-22 09:35 UTC",
-   "last_ok": "2026-10-22"
+   "checked": "2026-10-23 09:30 UTC",
+   "last_ok": "2026-10-23"
   },
   "eventi: Museo Nazionale del Cinema": {
    "ok": true,
-   "count": 6,
+   "count": 8,
    "note": "",
-   "checked": "2026-10-22 09:35 UTC",
-   "last_ok": "2026-10-22"
+   "checked": "2026-10-23 09:30 UTC",
+   "last_ok": "2026-10-23"
   },
   "letterboxd_storico": {
    "ok": true,
    "count": 5,
    "note": "0 film importati oggi; completi 5/25; Letterboxd ha rifiutato richieste, riprovo domani",
-   "checked": "2026-10-22 09:34 UTC",
-   "last_ok": "2026-10-22"
+   "checked": "2026-10-23 09:30 UTC",
+   "last_ok": "2026-10-23"
   },
   "eventi: arte.it": {
    "ok": false,
    "count": 0,
-   "note": "nessun evento riconosciuto. 66419 byte; titolo: Mostre d'arte - Torino - Eventi d'arte - Esposizio; link totali: 102; link mostra/evento: 23",
-   "checked": "2026-10-22 09:35 UTC",
+   "note": "nessun evento riconosciuto. 67159 byte; titolo: Mostre d'arte - Torino - Eventi d'arte - Esposizio; link totali: 103; link mostra/evento: 24",
+   "checked": "2026-10-23 09:30 UTC",
    "last_ok": "2026-10-20"
   },
   "eventi: CAMERA - mostre": {
    "ok": true,
    "count": 3,
    "note": "",
-   "checked": "2026-10-22 09:35 UTC",
-   "last_ok": "2026-10-22"
+   "checked": "2026-10-23 09:30 UTC",
+   "last_ok": "2026-10-23"
   },
   "eventi: Turismo Torino": {
    "ok": true,
    "count": 15,
    "note": "",
-   "checked": "2026-10-22 09:35 UTC",
-   "last_ok": "2026-10-22"
+   "checked": "2026-10-23 09:30 UTC",
+   "last_ok": "2026-10-23"
   },
   "eventi: CAMERA - incontri": {
    "ok": true,
    "count": 7,
    "note": "",
-   "checked": "2026-10-22 09:35 UTC",
-   "last_ok": "2026-10-22"
+   "checked": "2026-10-23 09:30 UTC",
+   "last_ok": "2026-10-23"
   }
  }
 }

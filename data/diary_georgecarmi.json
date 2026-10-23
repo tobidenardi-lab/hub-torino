@@ -1594,5 +1594,29 @@
   "tmdb": 767,
   "url": "https://letterboxd.com/georgecarmi/film/harry-potter-and-the-half-blood-prince/3/",
   "review": "severus, please."
+ },
+ "letterboxd-review-1550189989": {
+  "guid": "letterboxd-review-1550189989",
+  "title": "Clayface",
+  "year": 2026,
+  "rating": 3.0,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-10-22",
+  "tmdb": 1400940,
+  "url": "https://letterboxd.com/georgecarmi/film/clayface/",
+  "review": "shit happens."
+ },
+ "letterboxd-review-1549809076": {
+  "guid": "letterboxd-review-1549809076",
+  "title": "Hostile",
+  "year": 2017,
+  "rating": 1.0,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-10-22",
+  "tmdb": 461992,
+  "url": "https://letterboxd.com/georgecarmi/film/hostile-2018/",
+  "review": "absolute buns."
  }
 }

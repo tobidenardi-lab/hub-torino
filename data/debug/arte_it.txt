@@ -61,6 +61,20 @@ obre 2026</span>
 							Tutte le <span class="mostre-portal-big">Mostre</span> di Dicembre 2026 a Torino						</h2>
 						<ul class="event-list">
 							<li class="clearfix">
+	    <a href="/calendario-arte/torino/mostra-song-dong-soul-out-104582" class="link_mostre_list">
+    	<span class="thumb"><img src="https://www.arte.it/foto/138x138/80/161473-unnamed.jpg"  alt="SONG DONG. SOUL OUT" /></span>
+        <span class="cont_txt">
+			<span class="data">Dal 23 Ottobre 2026 al 27 Giugno 2027</span>             <span class="occhiello">
+            	<span class="citta">Torino</span>				 | 				MAO Museo d’Arte Orientale            </span>
+            <span class="title">
+				<h2>SONG DONG. SOUL OUT</h2>
+			</span>            <span class="sommario">Dal 23 ottobre 2026 fino al 27 giugno 2027&nbsp;il&nbsp;MAO Museo d&rsquo;Arte Orientale di Torino&nbsp;presenta&nbsp;Song Dong. Soul Out, la&nbsp;pri...</span>
+            <span class="l_tutto">&nbsp;</span>
+        </span>
+    </a>
+    
+</li>
+<li class="clearfix">
 	    <a href="/calendario-arte/torino/mostra-banksy-street-is-the-museum-104585" class="link_mostre_list">
     	<span class="thumb"><img src="https://www.arte.it/foto/138x138/d8/161481-image002.jpg"  alt="Banksy – Street is the Museum" /></span>
         <span class="cont_txt">
@@ -120,18 +134,4 @@ obre 2026</span>
 	    <a href="/calendario-arte/torino/mostra-grazia-toderi-teatro-terra-104267" class="link_mostre_list">
     	<span class="thumb"><img src="https://www.arte.it/foto/138x138/d9/161015-unnamed.jpg"  alt="Grazia Toderi. Teatro Terra" /></span>
         <span class="cont_txt">
-			<span class="data">Dal 10 Ottobre 2026 al 8 Dicembre 2026</span>             <span class="occhiello">
-            	<span class="citta">San Secondo di Pinerolo</span>				 | 				Castello di Miradolo            </span>
-            <span class="title">
-				<h2>Grazia Toderi. Teatro Terra</h2>
-			</span>            <span class="sommario">Dal 10 ottobre all&rsquo;8 dicembre 2026 la Fondazione Cosso presenta la mostra&nbsp;Grazia Toderi.&nbsp;Teatro Terra.&nbsp;&nbsp;Per il Castello di M...</span>
-            <span class="l_tutto">&nbsp;</span>
-        </span>
-    </a>
-    
-</li>
-<li class="clearfix">
-	    <a href="/calendario-arte/torino/mostra-still-image-fotografie-di-jessica-lange-104134" class="link_mostre_list">
-    	<span class="thumb"><img src="https://www.arte.it/foto/138x138/1a/160855-01_Jessica-Lange-1920x1279.jpg"  alt="STILL IMAGE. Fotografie di Jessica Lange" /></span>
-        <span class="cont_txt">
-			<span cla
+			<span class="data">Dal 10 Ottobre 2026 al 8 Dicembre 2026</span>             <span class="
