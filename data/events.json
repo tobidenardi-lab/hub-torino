@@ -55,17 +55,6 @@
   "source": "CAMERA - incontri"
  },
  {
-  "title": "Euforia. Fotografia come terapia",
-  "venue": "CAMERA",
-  "start": "2026-11-05",
-  "end": "2026-11-05",
-  "kind": "conferenza",
-  "tag": "fotografia",
-  "desc": "",
-  "url": "https://camera.to/incontri/euforia-fotografia-come-terapia/",
-  "source": "CAMERA - incontri"
- },
- {
   "title": "Letizia Battaglia. L’eredità di uno sguardo",
   "venue": "CAMERA",
   "start": "2026-11-19",
@@ -112,8 +101,8 @@
  {
   "title": "Effetto VR!",
   "venue": "Il Cinema in Virtual Reality",
-  "start": "2026-10-25",
-  "end": "2026-10-25",
+  "start": "2026-10-26",
+  "end": "2026-10-26",
   "kind": "evento",
   "tag": "cinema",
   "desc": "",
@@ -173,6 +162,17 @@
   "tag": "arte",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/balla-torino-social-dance-2026",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Tennis in Città - 2026",
+  "venue": "Torino",
+  "start": "2026-10-23",
+  "end": "2026-10-25",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/tennis-in-citta-2026",
   "source": "Turismo Torino"
  },
  {
@@ -242,6 +242,17 @@
   "source": "Turismo Torino"
  },
  {
+  "title": "Luci d'Artista",
+  "venue": "Torino",
+  "start": "2026-10-23",
+  "end": "2027-01-10",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/luci-dartista",
+  "source": "Turismo Torino"
+ },
+ {
   "title": "Art Site Fest 2026",
   "venue": "Torino",
   "start": "2026-10-14",
@@ -253,36 +264,14 @@
   "source": "Turismo Torino"
  },
  {
-  "title": "Una delle ultime sere di carnovale",
+  "title": "Scena Aperta",
   "venue": "Torino",
-  "start": "2026-10-19",
-  "end": "2026-10-25",
+  "start": "2026-10-23",
+  "end": "2027-01-03",
   "kind": "evento",
   "tag": "arte",
   "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/una-delle-ultime-sere-di-carnovale",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Teatro Incontro - Stagione 2026/2027",
-  "venue": "Torino",
-  "start": "2026-10-17",
-  "end": "2027-05-08",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/teatro-incontro-stagione-2026-2027",
-  "source": "Turismo Torino"
- },
- {
-  "title": "PIFF - Pinerolo Film Festival 2026",
-  "venue": "Torino",
-  "start": "2026-10-21",
-  "end": "2026-10-25",
-  "kind": "evento",
-  "tag": "cinema",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/piff-pinerolo-film-festival-2026",
+  "url": "https://turismotorino.org/it/visita/eventi/scena-aperta",
   "source": "Turismo Torino"
  },
  {

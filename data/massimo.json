@@ -1,6 +1,53 @@
 {
  "shows": [
   {
+   "date": "2026-10-23",
+   "times": [
+    "16:00",
+    "21:00"
+   ],
+   "title": "Fatherland",
+   "director": "P. Pawlikowski",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-23",
+   "times": [
+    "18:00"
+   ],
+   "title": "Possible Love",
+   "director": "L. Chang-dong",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-23",
+   "times": [
+    "15:00"
+   ],
+   "title": "Possible Love",
+   "director": "L. Chang-dong",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-23",
+   "times": [
+    "18:15",
+    "20:00",
+    "21:45"
+   ],
+   "title": "Fatherland",
+   "director": "P. Pawlikowski",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
    "date": "2026-10-26",
    "times": [
     "16:00",
