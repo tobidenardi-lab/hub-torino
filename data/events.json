@@ -101,8 +101,8 @@
  {
   "title": "Effetto VR!",
   "venue": "Il Cinema in Virtual Reality",
-  "start": "2026-10-26",
-  "end": "2026-10-26",
+  "start": "2026-10-28",
+  "end": "2026-10-28",
   "kind": "evento",
   "tag": "cinema",
   "desc": "",
@@ -118,6 +118,17 @@
   "tag": "arte",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/diffusissima-2026",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Moncalieri Jazz Festival 2026",
+  "venue": "Torino",
+  "start": "2026-10-24",
+  "end": "2026-11-08",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/moncalieri-jazz-festival-2026",
   "source": "Turismo Torino"
  },
  {
@@ -239,39 +250,6 @@
   "tag": "arte",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/festival-internazionale-dell-economia-2026",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Luci d'Artista",
-  "venue": "Torino",
-  "start": "2026-10-23",
-  "end": "2027-01-10",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/luci-dartista",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Art Site Fest 2026",
-  "venue": "Torino",
-  "start": "2026-10-14",
-  "end": "2026-11-20",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/art-site-fest-2026",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Scena Aperta",
-  "venue": "Torino",
-  "start": "2026-10-23",
-  "end": "2027-01-03",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/scena-aperta",
   "source": "Turismo Torino"
  },
  {

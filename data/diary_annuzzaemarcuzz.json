@@ -996,5 +996,41 @@
   "tmdb": 823147,
   "url": "https://letterboxd.com/annuzzaemarcuzz/film/to-leslie/",
   "review": ""
+ },
+ "letterboxd-watch-1552833512": {
+  "guid": "letterboxd-watch-1552833512",
+  "title": "A History of Violence",
+  "year": 2005,
+  "rating": 4.0,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-10-25",
+  "tmdb": 59,
+  "url": "https://letterboxd.com/annuzzaemarcuzz/film/a-history-of-violence/",
+  "review": ""
+ },
+ "letterboxd-watch-1552828937": {
+  "guid": "letterboxd-watch-1552828937",
+  "title": "The French Lieutenant's Woman",
+  "year": 1981,
+  "rating": 4.0,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-10-24",
+  "tmdb": 12537,
+  "url": "https://letterboxd.com/annuzzaemarcuzz/film/the-french-lieutenants-woman/",
+  "review": ""
+ },
+ "letterboxd-watch-1552827622": {
+  "guid": "letterboxd-watch-1552827622",
+  "title": "Eastern Promises",
+  "year": 2007,
+  "rating": 3.5,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-10-24",
+  "tmdb": 2252,
+  "url": "https://letterboxd.com/annuzzaemarcuzz/film/eastern-promises/",
+  "review": ""
  }
 }

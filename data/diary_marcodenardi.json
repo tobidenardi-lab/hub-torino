@@ -1287,5 +1287,53 @@
   "slug": "the-housemaid",
   "url": "https://letterboxd.com/marcodenardi/film/the-housemaid/",
   "review": ""
+ },
+ "letterboxd-watch-1553622613": {
+  "guid": "letterboxd-watch-1553622613",
+  "title": "Drive My Car",
+  "year": 2021,
+  "rating": 4.0,
+  "like": true,
+  "rewatch": false,
+  "watched": "2025-10-25",
+  "tmdb": 758866,
+  "url": "https://letterboxd.com/marcodenardi/film/drive-my-car/",
+  "review": ""
+ },
+ "letterboxd-watch-1552825696": {
+  "guid": "letterboxd-watch-1552825696",
+  "title": "A History of Violence",
+  "year": 2005,
+  "rating": 5.0,
+  "like": true,
+  "rewatch": true,
+  "watched": "2026-10-24",
+  "tmdb": 59,
+  "url": "https://letterboxd.com/marcodenardi/film/a-history-of-violence/1/",
+  "review": ""
+ },
+ "letterboxd-watch-1552824416": {
+  "guid": "letterboxd-watch-1552824416",
+  "title": "Eastern Promises",
+  "year": 2007,
+  "rating": 4.5,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-10-24",
+  "tmdb": 2252,
+  "url": "https://letterboxd.com/marcodenardi/film/eastern-promises/",
+  "review": ""
+ },
+ "letterboxd-watch-1552551825": {
+  "guid": "letterboxd-watch-1552551825",
+  "title": "A House of Dynamite",
+  "year": 2025,
+  "rating": 4.5,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-10-24",
+  "tmdb": 1290159,
+  "url": "https://letterboxd.com/marcodenardi/film/a-house-of-dynamite/",
+  "review": ""
  }
 }

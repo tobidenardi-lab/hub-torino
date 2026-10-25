@@ -1546,5 +1546,17 @@
   "tmdb": 295964,
   "url": "https://letterboxd.com/pippega/film/burnt/",
   "review": ""
+ },
+ "letterboxd-watch-1552731276": {
+  "guid": "letterboxd-watch-1552731276",
+  "title": "A Time to Kill",
+  "year": 1996,
+  "rating": 4.5,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-10-24",
+  "tmdb": 1645,
+  "url": "https://letterboxd.com/pippega/film/a-time-to-kill-1996/",
+  "review": ""
  }
 }

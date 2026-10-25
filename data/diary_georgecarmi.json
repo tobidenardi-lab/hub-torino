@@ -1618,5 +1618,41 @@
   "tmdb": 461992,
   "url": "https://letterboxd.com/georgecarmi/film/hostile-2018/",
   "review": "absolute buns."
+ },
+ "letterboxd-review-1553198667": {
+  "guid": "letterboxd-review-1553198667",
+  "title": "The Fourth Kind",
+  "year": 2009,
+  "rating": 2.5,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-10-24",
+  "tmdb": 22824,
+  "url": "https://letterboxd.com/georgecarmi/film/the-fourth-kind/",
+  "review": "umm. yea, fuck it, sure why not."
+ },
+ "letterboxd-review-1552975512": {
+  "guid": "letterboxd-review-1552975512",
+  "title": "Memoir of a Snail",
+  "year": 2024,
+  "rating": 4.0,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-10-24",
+  "tmdb": 1064486,
+  "url": "https://letterboxd.com/georgecarmi/film/memoir-of-a-snail/",
+  "review": "and as certain it is evening 'at is now is not the time"
+ },
+ "letterboxd-review-1551981773": {
+  "guid": "letterboxd-review-1551981773",
+  "title": "Halloween II",
+  "year": 2009,
+  "rating": 5.0,
+  "like": true,
+  "rewatch": true,
+  "watched": "2026-10-23",
+  "tmdb": 24150,
+  "url": "https://letterboxd.com/georgecarmi/film/halloween-ii/5/",
+  "review": "you texted me at 2 o'clock in the morning, \"I feel like I'm fallin”"
  }
 }
