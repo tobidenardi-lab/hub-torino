@@ -1,18 +1,31 @@
 {
- "date": "2026-10-25",
+ "date": "2026-10-26",
  "showings": [
+  {
+   "title": "Con La Pioggia Dentro",
+   "year": 2026,
+   "slug": "con-la-pioggia-dentro",
+   "times": [
+    {
+     "t": "21:15",
+     "vo": false
+    }
+   ],
+   "cinema": "Baretti",
+   "date": "2026-10-26"
+  },
   {
    "title": "Primetime",
    "year": 2026,
    "slug": "primetime",
    "times": [
     {
-     "t": "13:30",
+     "t": "19:00",
      "vo": true
     }
    ],
    "cinema": "Centrale",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Urchin",
@@ -20,12 +33,16 @@
    "slug": "urchin",
    "times": [
     {
-     "t": "21:00",
+     "t": "15:30",
+     "vo": false
+    },
+    {
+     "t": "21:10",
      "vo": true
     }
    ],
    "cinema": "Centrale",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "La Bambola",
@@ -33,51 +50,12 @@
    "slug": "la-bambola",
    "times": [
     {
-     "t": "16:00",
-     "vo": false
+     "t": "17:25",
+     "vo": true
     }
    ],
    "cinema": "Centrale",
-   "date": "2026-10-25"
-  },
-  {
-   "title": "Va' Sentiero",
-   "year": 2026,
-   "slug": "va-sentiero",
-   "times": [
-    {
-     "t": "19:00",
-     "vo": false
-    }
-   ],
-   "cinema": "Centrale",
-   "date": "2026-10-25"
-  },
-  {
-   "title": "I Racconti Del Giardino Incantato",
-   "year": 2025,
-   "slug": "i-racconti-del-giardino-incantato",
-   "times": [
-    {
-     "t": "11:30",
-     "vo": false
-    }
-   ],
-   "cinema": "Centrale",
-   "date": "2026-10-25"
-  },
-  {
-   "title": "Oceania",
-   "year": 2026,
-   "slug": "oceania",
-   "times": [
-    {
-     "t": "15:30",
-     "vo": false
-    }
-   ],
-   "cinema": "Agnelli",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Calle Malaga",
@@ -85,16 +63,12 @@
    "slug": "calle-malaga",
    "times": [
     {
-     "t": "18:00",
-     "vo": false
-    },
-    {
      "t": "21:00",
      "vo": false
     }
    ],
    "cinema": "Agnelli",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Ragione E Sentimento",
@@ -115,49 +89,7 @@
     }
    ],
    "cinema": "Classico",
-   "date": "2026-10-25"
-  },
-  {
-   "title": "Ragione E Sentimento",
-   "year": 2026,
-   "slug": "ragione-e-sentimento",
-   "times": [
-    {
-     "t": "15:45",
-     "vo": false
-    },
-    {
-     "t": "18:15",
-     "vo": false
-    },
-    {
-     "t": "20:45",
-     "vo": false
-    }
-   ],
-   "cinema": "Due Giardini",
-   "date": "2026-10-25"
-  },
-  {
-   "title": "L'Estranea",
-   "year": 2026,
-   "slug": "lestranea",
-   "times": [
-    {
-     "t": "16:15",
-     "vo": false
-    },
-    {
-     "t": "18:30",
-     "vo": false
-    },
-    {
-     "t": "20:45",
-     "vo": false
-    }
-   ],
-   "cinema": "Due Giardini",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Je So' Pazzo",
@@ -178,7 +110,7 @@
     }
    ],
    "cinema": "Eliseo",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Naza",
@@ -195,7 +127,7 @@
     }
    ],
    "cinema": "Eliseo",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Digger",
@@ -216,7 +148,7 @@
     }
    ],
    "cinema": "Eliseo",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "The Invite - Il Piacere È Tutto Nostro",
@@ -226,44 +158,36 @@
     {
      "t": "16:00",
      "vo": false
-    },
-    {
-     "t": "21:35",
-     "vo": false
     }
    ],
    "cinema": "Eliseo",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
-   "title": "Naza",
-   "year": 2026,
-   "slug": "naza",
+   "title": "The Rocky Horror Picture Show",
+   "year": 1975,
+   "slug": "therockyhorrorpictureshow",
    "times": [
     {
-     "t": "18:15",
+     "t": "21:35",
+     "vo": true
+    }
+   ],
+   "cinema": "Eliseo",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "Matrix",
+   "year": 1999,
+   "slug": "matrix",
+   "times": [
+    {
+     "t": "20:30",
      "vo": false
     }
    ],
-   "cinema": "Esedra",
-   "date": "2026-10-25"
-  },
-  {
-   "title": "Santiago - Un Cammino Per Ricominciare",
-   "year": 2026,
-   "slug": "santiago-un-cammino-per-ricominciare",
-   "times": [
-    {
-     "t": "16:00",
-     "vo": false
-    },
-    {
-     "t": "21:15",
-     "vo": false
-    }
-   ],
-   "cinema": "Esedra",
-   "date": "2026-10-25"
+   "cinema": "Fratelli Marx",
+   "date": "2026-10-26"
   },
   {
    "title": "L'Assurda Storia Della Gialappa's Band",
@@ -271,20 +195,16 @@
    "slug": "lassurda-storia-della-gialappas-band",
    "times": [
     {
-     "t": "16:45",
+     "t": "16:15",
      "vo": false
     },
     {
-     "t": "19:00",
-     "vo": false
-    },
-    {
-     "t": "21:15",
+     "t": "18:15",
      "vo": false
     }
    ],
    "cinema": "Fratelli Marx",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "L'Estranea",
@@ -305,7 +225,7 @@
     }
    ],
    "cinema": "Fratelli Marx",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Naza",
@@ -313,20 +233,12 @@
    "slug": "naza",
    "times": [
     {
-     "t": "15:45",
-     "vo": false
-    },
-    {
      "t": "19:30",
-     "vo": false
-    },
-    {
-     "t": "21:15",
      "vo": false
     }
    ],
    "cinema": "Fratelli Marx",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Se Ami Qualcuno Dillo",
@@ -339,7 +251,24 @@
     }
    ],
    "cinema": "Fratelli Marx",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
+  },
+  {
+   "title": "Carla Lonzi - Dentro E Fuori Dal Mondo",
+   "year": 2026,
+   "slug": "carla-lonzi-dentro-e-fuori-dal-mondo",
+   "times": [
+    {
+     "t": "15:45",
+     "vo": false
+    },
+    {
+     "t": "21:15",
+     "vo": false
+    }
+   ],
+   "cinema": "Fratelli Marx",
+   "date": "2026-10-26"
   },
   {
    "title": "Primetime",
@@ -360,7 +289,7 @@
     }
    ],
    "cinema": "Greenwich Village",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Je So' Pazzo",
@@ -381,7 +310,7 @@
     }
    ],
    "cinema": "Greenwich Village",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Digger",
@@ -402,7 +331,7 @@
     }
    ],
    "cinema": "Greenwich Village",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Zustissia",
@@ -415,7 +344,7 @@
     }
    ],
    "cinema": "Greenwich Village",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Calle Malaga",
@@ -432,7 +361,7 @@
     }
    ],
    "cinema": "Greenwich Village",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Primetime",
@@ -449,7 +378,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Clayface",
@@ -470,7 +399,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Wildwood - I Segreti Del Bosco Proibito",
@@ -487,7 +416,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Je So' Pazzo",
@@ -508,7 +437,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Klara E Il Sole",
@@ -521,7 +450,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Se Ami Qualcuno Dillo",
@@ -534,7 +463,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Mammina",
@@ -547,7 +476,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Taddeo L'Esploratore E La Lampada Magica",
@@ -564,7 +493,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Digger",
@@ -577,7 +506,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Zustissia",
@@ -590,7 +519,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Whalefall - Nella Balena",
@@ -603,7 +532,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Street Fighter",
@@ -616,7 +545,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Ragione E Sentimento",
@@ -624,16 +553,33 @@
    "slug": "ragione-e-sentimento",
    "times": [
     {
-     "t": "16:10",
+     "t": "16:40",
      "vo": false
     },
     {
-     "t": "20:40",
+     "t": "21:15",
      "vo": false
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
+  },
+  {
+   "title": "Matrix",
+   "year": 1999,
+   "slug": "matrix",
+   "times": [
+    {
+     "t": "18:30",
+     "vo": false
+    },
+    {
+     "t": "21:00",
+     "vo": false
+    }
+   ],
+   "cinema": "Massaua Cityplex",
+   "date": "2026-10-26"
   },
   {
    "title": "Primetime",
@@ -641,12 +587,12 @@
    "slug": "primetime",
    "times": [
     {
-     "t": "20:10",
+     "t": "16:40",
      "vo": false
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Clayface",
@@ -654,16 +600,16 @@
    "slug": "clayface",
    "times": [
     {
-     "t": "18:10",
+     "t": "19:00",
      "vo": false
     },
     {
-     "t": "22:10",
+     "t": "21:30",
      "vo": false
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Wildwood - I Segreti Del Bosco Proibito",
@@ -671,16 +617,20 @@
    "slug": "wildwood-i-segreti-del-bosco-proibito",
    "times": [
     {
-     "t": "17:50",
+     "t": "16:40",
      "vo": false
     },
     {
-     "t": "20:30",
+     "t": "19:00",
+     "vo": false
+    },
+    {
+     "t": "21:00",
      "vo": false
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "L'Assurda Storia Della Gialappa's Band",
@@ -688,12 +638,12 @@
    "slug": "lassurda-storia-della-gialappas-band",
    "times": [
     {
-     "t": "18:30",
+     "t": "16:50",
      "vo": false
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Klara E Il Sole",
@@ -701,12 +651,12 @@
    "slug": "klara-e-il-sole",
    "times": [
     {
-     "t": "20:10",
+     "t": "19:00",
      "vo": false
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "L'Estranea",
@@ -714,16 +664,12 @@
    "slug": "lestranea",
    "times": [
     {
-     "t": "16:20",
-     "vo": false
-    },
-    {
-     "t": "20:45",
+     "t": "21:00",
      "vo": false
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Se Ami Qualcuno Dillo",
@@ -731,12 +677,12 @@
    "slug": "se-ami-qualcuno-dillo",
    "times": [
     {
-     "t": "16:10",
+     "t": "18:45",
      "vo": false
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Mammina",
@@ -744,107 +690,12 @@
    "slug": "other-mommy",
    "times": [
     {
-     "t": "14:30",
-     "vo": false
-    },
-    {
-     "t": "22:15",
+     "t": "16:50",
      "vo": false
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-10-25"
-  },
-  {
-   "title": "Carlo Acutis - Il Giovane Santo",
-   "year": 2026,
-   "slug": "carlo-acutis-il-giovane-santo",
-   "times": [
-    {
-     "t": "14:30",
-     "vo": false
-    }
-   ],
-   "cinema": "Massaua Cityplex",
-   "date": "2026-10-25"
-  },
-  {
-   "title": "Taddeo L'Esploratore E La Lampada Magica",
-   "year": 2026,
-   "slug": "taddeo-lesploratore-e-la-lampada-magica",
-   "times": [
-    {
-     "t": "16:05",
-     "vo": false
-    }
-   ],
-   "cinema": "Massaua Cityplex",
-   "date": "2026-10-25"
-  },
-  {
-   "title": "Heart Of The Beast - Nel Profondo Selvaggio",
-   "year": 2026,
-   "slug": "heart-of-the-beast",
-   "times": [
-    {
-     "t": "18:15",
-     "vo": false
-    }
-   ],
-   "cinema": "Massaua Cityplex",
-   "date": "2026-10-25"
-  },
-  {
-   "title": "Verity",
-   "year": 2026,
-   "slug": "verity",
-   "times": [
-    {
-     "t": "18:25",
-     "vo": false
-    }
-   ],
-   "cinema": "Massaua Cityplex",
-   "date": "2026-10-25"
-  },
-  {
-   "title": "Frankie E Le Creature Dimenticate",
-   "year": 2025,
-   "slug": "frankie-e-le-creature-dimenticate",
-   "times": [
-    {
-     "t": "14:30",
-     "vo": false
-    }
-   ],
-   "cinema": "Massaua Cityplex",
-   "date": "2026-10-25"
-  },
-  {
-   "title": "Coyote Vs. Acme",
-   "year": 2026,
-   "slug": "coyote-vs-acme",
-   "times": [
-    {
-     "t": "14:30",
-     "vo": false
-    }
-   ],
-   "cinema": "Massaua Cityplex",
-   "date": "2026-10-25"
-  },
-  {
-   "title": "Bts - World Tour Arirang",
-   "year": 2026,
-   "slug": "bts-world-tour-arirang",
-   "times": [
-    {
-     "t": "14:45",
-     "vo": false
-    }
-   ],
-   "cinema": "Massaua Cityplex",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Fatherland",
@@ -852,20 +703,59 @@
    "slug": "fatherland",
    "times": [
     {
-     "t": "18:15",
+     "t": "16:00",
      "vo": true
     },
     {
-     "t": "20:00",
+     "t": "18:00",
      "vo": true
     },
     {
-     "t": "21:45",
+     "t": "21:00",
      "vo": true
     }
    ],
    "cinema": "Massimo (MNC)",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
+  },
+  {
+   "title": "The Rocky Horror Picture Show",
+   "year": 1975,
+   "slug": "therockyhorrorpictureshow",
+   "times": [
+    {
+     "t": "15:30",
+     "vo": true
+    }
+   ],
+   "cinema": "Massimo (MNC)",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "La Schivata",
+   "year": 2003,
+   "slug": "la-schivata",
+   "times": [
+    {
+     "t": "20:45",
+     "vo": true
+    }
+   ],
+   "cinema": "Massimo (MNC)",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "Tutta Colpa Di Voltaire",
+   "year": 2000,
+   "slug": "tuttacolpadivoltaire",
+   "times": [
+    {
+     "t": "18:00",
+     "vo": true
+    }
+   ],
+   "cinema": "Massimo (MNC)",
+   "date": "2026-10-26"
   },
   {
    "title": "Possible Love",
@@ -873,12 +763,16 @@
    "slug": "possible-love",
    "times": [
     {
-     "t": "15:00",
+     "t": "16:30",
+     "vo": true
+    },
+    {
+     "t": "20:00",
      "vo": true
     }
    ],
    "cinema": "Massimo (MNC)",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Ragione E Sentimento",
@@ -886,20 +780,29 @@
    "slug": "ragione-e-sentimento",
    "times": [
     {
-     "t": "15:00",
+     "t": "18:30",
      "vo": false
     },
     {
-     "t": "17:30",
-     "vo": false
-    },
-    {
-     "t": "20:15",
+     "t": "21:15",
      "vo": false
     }
    ],
    "cinema": "Movie Planet Lux",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
+  },
+  {
+   "title": "Matrix",
+   "year": 1999,
+   "slug": "matrix",
+   "times": [
+    {
+     "t": "21:00",
+     "vo": false
+    }
+   ],
+   "cinema": "Movie Planet Lux",
+   "date": "2026-10-26"
   },
   {
    "title": "Primetime",
@@ -907,16 +810,12 @@
    "slug": "primetime",
    "times": [
     {
-     "t": "15:00",
-     "vo": false
-    },
-    {
-     "t": "20:00",
+     "t": "18:30",
      "vo": false
     }
    ],
    "cinema": "Movie Planet Lux",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Clayface",
@@ -924,33 +823,12 @@
    "slug": "clayface",
    "times": [
     {
-     "t": "17:30",
-     "vo": false
-    },
-    {
-     "t": "20:15",
+     "t": "18:15",
      "vo": false
     }
    ],
    "cinema": "Movie Planet Lux",
-   "date": "2026-10-25"
-  },
-  {
-   "title": "The Invite - Il Piacere È Tutto Nostro",
-   "year": 2026,
-   "slug": "the-invite",
-   "times": [
-    {
-     "t": "15:15",
-     "vo": false
-    },
-    {
-     "t": "17:20",
-     "vo": false
-    }
-   ],
-   "cinema": "Movie Planet Lux",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Caro Mondo Crudele",
@@ -971,7 +849,7 @@
     }
    ],
    "cinema": "Nazionale",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "L'Estranea",
@@ -992,7 +870,7 @@
     }
    ],
    "cinema": "Nazionale",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Naza",
@@ -1005,7 +883,7 @@
     }
    ],
    "cinema": "Nazionale",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Fatherland",
@@ -1030,7 +908,7 @@
     }
    ],
    "cinema": "Nazionale",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Digger",
@@ -1047,7 +925,7 @@
     }
    ],
    "cinema": "Nazionale",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Zustissia",
@@ -1064,7 +942,7 @@
     }
    ],
    "cinema": "Nazionale",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "L'Assurda Storia Della Gialappa's Band",
@@ -1085,7 +963,7 @@
     }
    ],
    "cinema": "Reposi",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Je So' Pazzo",
@@ -1110,7 +988,7 @@
     }
    ],
    "cinema": "Reposi",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Klara E Il Sole",
@@ -1123,7 +1001,7 @@
     }
    ],
    "cinema": "Reposi",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "L'Estranea",
@@ -1148,7 +1026,7 @@
     }
    ],
    "cinema": "Reposi",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Heart Of The Beast - Nel Profondo Selvaggio",
@@ -1169,7 +1047,7 @@
     }
    ],
    "cinema": "Reposi",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Whalefall - Nella Balena",
@@ -1182,7 +1060,7 @@
     }
    ],
    "cinema": "Reposi",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Ragione E Sentimento",
@@ -1203,7 +1081,7 @@
     }
    ],
    "cinema": "Romano",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Je So' Pazzo",
@@ -1224,7 +1102,7 @@
     }
    ],
    "cinema": "Romano",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Il Tempo Di Anne",
@@ -1238,14 +1116,10 @@
     {
      "t": "17:30",
      "vo": false
-    },
-    {
-     "t": "19:30",
-     "vo": false
     }
    ],
    "cinema": "Romano",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Serpenti",
@@ -1255,27 +1129,10 @@
     {
      "t": "17:30",
      "vo": false
-    },
-    {
-     "t": "21:30",
-     "vo": false
     }
    ],
    "cinema": "Romano",
-   "date": "2026-10-25"
-  },
-  {
-   "title": "Santiago - Un Cammino Per Ricominciare",
-   "year": 2026,
-   "slug": "santiago-un-cammino-per-ricominciare",
-   "times": [
-    {
-     "t": "16:00",
-     "vo": false
-    }
-   ],
-   "cinema": "Teatro Monterosa",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Era Meglio Domani",
@@ -1283,16 +1140,12 @@
    "slug": "era-meglio-domani",
    "times": [
     {
-     "t": "18:30",
-     "vo": false
-    },
-    {
      "t": "21:00",
      "vo": false
     }
    ],
    "cinema": "Teatro Monterosa",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Ragione E Sentimento",
@@ -1300,16 +1153,33 @@
    "slug": "ragione-e-sentimento",
    "times": [
     {
-     "t": "14:25",
+     "t": "15:00",
      "vo": false
     },
     {
-     "t": "21:05",
+     "t": "16:45",
+     "vo": false
+    },
+    {
+     "t": "20:50",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
+  },
+  {
+   "title": "Matrix",
+   "year": 1999,
+   "slug": "matrix",
+   "times": [
+    {
+     "t": "18:50",
+     "vo": false
+    }
+   ],
+   "cinema": "The Space Torino",
+   "date": "2026-10-26"
   },
   {
    "title": "Primetime",
@@ -1317,16 +1187,16 @@
    "slug": "primetime",
    "times": [
     {
-     "t": "11:45",
+     "t": "19:50",
      "vo": false
     },
     {
-     "t": "23:10",
+     "t": "22:20",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Clayface",
@@ -1334,19 +1204,15 @@
    "slug": "clayface",
    "times": [
     {
-     "t": "11:10",
+     "t": "14:05",
      "vo": false
     },
     {
-     "t": "12:05",
+     "t": "18:05",
      "vo": false
     },
     {
-     "t": "17:55",
-     "vo": false
-    },
-    {
-     "t": "20:15",
+     "t": "19:40",
      "vo": false
     },
     {
@@ -1355,7 +1221,7 @@
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Wildwood - I Segreti Del Bosco Proibito",
@@ -1363,28 +1229,24 @@
    "slug": "wildwood-i-segreti-del-bosco-proibito",
    "times": [
     {
-     "t": "11:40",
+     "t": "15:40",
      "vo": false
     },
     {
-     "t": "14:55",
+     "t": "17:45",
      "vo": false
     },
     {
-     "t": "18:00",
+     "t": "18:45",
      "vo": false
     },
     {
-     "t": "19:35",
-     "vo": false
-    },
-    {
-     "t": "21:35",
+     "t": "20:45",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "L'Assurda Storia Della Gialappa's Band",
@@ -1392,16 +1254,16 @@
    "slug": "lassurda-storia-della-gialappas-band",
    "times": [
     {
-     "t": "18:50",
+     "t": "16:15",
      "vo": false
     },
     {
-     "t": "21:15",
+     "t": "21:50",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Je So' Pazzo",
@@ -1409,24 +1271,24 @@
    "slug": "je-so-pazzo",
    "times": [
     {
-     "t": "17:00",
+     "t": "14:25",
      "vo": false
     },
     {
-     "t": "19:25",
+     "t": "17:05",
      "vo": false
     },
     {
-     "t": "20:35",
+     "t": "19:20",
      "vo": false
     },
     {
-     "t": "22:40",
+     "t": "21:25",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Klara E Il Sole",
@@ -1434,12 +1296,12 @@
    "slug": "klara-e-il-sole",
    "times": [
     {
-     "t": "16:00",
+     "t": "16:10",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "L'Estranea",
@@ -1447,12 +1309,12 @@
    "slug": "lestranea",
    "times": [
     {
-     "t": "17:30",
+     "t": "22:00",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Mammina",
@@ -1460,20 +1322,20 @@
    "slug": "other-mommy",
    "times": [
     {
-     "t": "13:35",
+     "t": "15:20",
      "vo": false
     },
     {
-     "t": "18:50",
+     "t": "19:00",
      "vo": false
     },
     {
-     "t": "22:40",
+     "t": "22:30",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
   },
   {
    "title": "Taddeo L'Esploratore E La Lampada Magica",
@@ -1481,20 +1343,276 @@
    "slug": "taddeo-lesploratore-e-la-lampada-magica",
    "times": [
     {
-     "t": "11:10",
-     "vo": false
-    },
-    {
-     "t": "14:25",
-     "vo": false
-    },
-    {
-     "t": "16:50",
+     "t": "14:00",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-10-25"
+   "date": "2026-10-26"
+  },
+  {
+   "title": "Street Fighter",
+   "year": 2026,
+   "slug": "street-fighter",
+   "times": [
+    {
+     "t": "16:30",
+     "vo": false
+    }
+   ],
+   "cinema": "The Space Torino",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "Ragione E Sentimento",
+   "year": 2026,
+   "slug": "ragione-e-sentimento",
+   "times": [
+    {
+     "t": "15:30",
+     "vo": false
+    },
+    {
+     "t": "18:40",
+     "vo": false
+    },
+    {
+     "t": "21:30",
+     "vo": false
+    }
+   ],
+   "cinema": "UCI Lingotto",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "Matrix",
+   "year": 1999,
+   "slug": "matrix",
+   "times": [
+    {
+     "t": "18:10",
+     "vo": false
+    },
+    {
+     "t": "21:10",
+     "vo": false
+    }
+   ],
+   "cinema": "UCI Lingotto",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "Caro Mondo Crudele",
+   "year": 2026,
+   "slug": "caro-mondo-crudele",
+   "times": [
+    {
+     "t": "15:30",
+     "vo": false
+    }
+   ],
+   "cinema": "UCI Lingotto",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "Primetime",
+   "year": 2026,
+   "slug": "primetime",
+   "times": [
+    {
+     "t": "16:30",
+     "vo": false
+    },
+    {
+     "t": "20:00",
+     "vo": false
+    }
+   ],
+   "cinema": "UCI Lingotto",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "Clayface",
+   "year": 2026,
+   "slug": "clayface",
+   "times": [
+    {
+     "t": "16:50",
+     "vo": false
+    },
+    {
+     "t": "18:50",
+     "vo": true
+    },
+    {
+     "t": "19:30",
+     "vo": false
+    },
+    {
+     "t": "22:00",
+     "vo": false
+    }
+   ],
+   "cinema": "UCI Lingotto",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "Wildwood - I Segreti Del Bosco Proibito",
+   "year": 2026,
+   "slug": "wildwood-i-segreti-del-bosco-proibito",
+   "times": [
+    {
+     "t": "14:00",
+     "vo": true
+    },
+    {
+     "t": "14:10",
+     "vo": false
+    },
+    {
+     "t": "17:10",
+     "vo": false
+    },
+    {
+     "t": "19:00",
+     "vo": false
+    }
+   ],
+   "cinema": "UCI Lingotto",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "L'Assurda Storia Della Gialappa's Band",
+   "year": 2026,
+   "slug": "lassurda-storia-della-gialappas-band",
+   "times": [
+    {
+     "t": "16:20",
+     "vo": false
+    },
+    {
+     "t": "19:15",
+     "vo": false
+    }
+   ],
+   "cinema": "UCI Lingotto",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "Je So' Pazzo",
+   "year": 2026,
+   "slug": "je-so-pazzo",
+   "times": [
+    {
+     "t": "14:20",
+     "vo": false
+    },
+    {
+     "t": "16:40",
+     "vo": false
+    }
+   ],
+   "cinema": "UCI Lingotto",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "Klara E Il Sole",
+   "year": 2026,
+   "slug": "klara-e-il-sole",
+   "times": [
+    {
+     "t": "18:30",
+     "vo": false
+    },
+    {
+     "t": "20:10",
+     "vo": false
+    }
+   ],
+   "cinema": "UCI Lingotto",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "L'Estranea",
+   "year": 2026,
+   "slug": "lestranea",
+   "times": [
+    {
+     "t": "21:45",
+     "vo": false
+    }
+   ],
+   "cinema": "UCI Lingotto",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "Mammina",
+   "year": 2026,
+   "slug": "other-mommy",
+   "times": [
+    {
+     "t": "22:30",
+     "vo": false
+    }
+   ],
+   "cinema": "UCI Lingotto",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "Carlo Acutis - Il Giovane Santo",
+   "year": 2026,
+   "slug": "carlo-acutis-il-giovane-santo",
+   "times": [
+    {
+     "t": "14:30",
+     "vo": false
+    }
+   ],
+   "cinema": "UCI Lingotto",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "Taddeo L'Esploratore E La Lampada Magica",
+   "year": 2026,
+   "slug": "taddeo-lesploratore-e-la-lampada-magica",
+   "times": [
+    {
+     "t": "15:10",
+     "vo": false
+    },
+    {
+     "t": "17:30",
+     "vo": false
+    }
+   ],
+   "cinema": "UCI Lingotto",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "Heart Of The Beast - Nel Profondo Selvaggio",
+   "year": 2026,
+   "slug": "heart-of-the-beast",
+   "times": [
+    {
+     "t": "16:00",
+     "vo": false
+    }
+   ],
+   "cinema": "UCI Lingotto",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "Resident Evil",
+   "year": 2026,
+   "slug": "resident-evil",
+   "times": [
+    {
+     "t": "21:50",
+     "vo": false
+    }
+   ],
+   "cinema": "UCI Lingotto",
+   "date": "2026-10-26"
   },
   {
    "title": "Whalefall - Nella Balena",
@@ -1502,68 +1620,64 @@
    "slug": "whalefall",
    "times": [
     {
-     "t": "22:55",
+     "t": "22:10",
      "vo": false
     }
    ],
-   "cinema": "The Space Torino",
-   "date": "2026-10-25"
+   "cinema": "UCI Lingotto",
+   "date": "2026-10-26"
   },
   {
-   "title": "Frankie E Le Creature Dimenticate",
-   "year": 2025,
-   "slug": "frankie-e-le-creature-dimenticate",
-   "times": [
-    {
-     "t": "14:35",
-     "vo": false
-    }
-   ],
-   "cinema": "The Space Torino",
-   "date": "2026-10-25"
-  },
-  {
-   "title": "Coco",
-   "year": 2017,
-   "slug": "coco",
-   "times": [
-    {
-     "t": "11:00",
-     "vo": false
-    }
-   ],
-   "cinema": "The Space Torino",
-   "date": "2026-10-25"
-  },
-  {
-   "title": "Michael",
+   "title": "Street Fighter",
    "year": 2026,
-   "slug": "michael",
+   "slug": "street-fighter",
    "times": [
     {
-     "t": "11:20",
+     "t": "14:00",
      "vo": false
     }
    ],
-   "cinema": "The Space Torino",
-   "date": "2026-10-25"
+   "cinema": "UCI Lingotto",
+   "date": "2026-10-26"
   },
   {
-   "title": "Bts World Tour Arirang In Busan - Live Viewing",
+   "title": "Tony - Diario Di Un Giovane Cuoco",
    "year": 2026,
-   "slug": "bts-world-tour-arirang-in-busan-live-viewing",
+   "slug": "tony-diario-di-un-giovane-cuoco",
    "times": [
     {
-     "t": "14:45",
-     "vo": true
-    },
-    {
-     "t": "18:30",
-     "vo": true
+     "t": "21:20",
+     "vo": false
     }
    ],
-   "cinema": "The Space Torino",
-   "date": "2026-10-25"
+   "cinema": "UCI Lingotto",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "Seventeen World Tour New",
+   "year": 2026,
+   "slug": "seventeen-world-tour-new",
+   "times": [
+    {
+     "t": "18:00",
+     "vo": false
+    }
+   ],
+   "cinema": "UCI Lingotto",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "Tomorrow X Together World Tour Act: Tomorrow",
+   "year": 2026,
+   "slug": "tomorrow-x-together-world-tour-act-tomorrow",
+   "times": [
+    {
+     "t": "20:30",
+     "vo": false
+    }
+   ],
+   "cinema": "UCI Lingotto",
+   "date": "2026-10-26"
   }
  ]
 }

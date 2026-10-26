@@ -1546,5 +1546,17 @@
   "tmdb": 1248832,
   "url": "https://letterboxd.com/aleraffellini/film/digger-2026/",
   "review": ""
+ },
+ "letterboxd-watch-1554678109": {
+  "guid": "letterboxd-watch-1554678109",
+  "title": "Fatherland",
+  "year": 2026,
+  "rating": 3.5,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-10-25",
+  "tmdb": 1437696,
+  "url": "https://letterboxd.com/aleraffellini/film/fatherland-2026/",
+  "review": ""
  }
 }

@@ -1654,5 +1654,29 @@
   "tmdb": 24150,
   "url": "https://letterboxd.com/georgecarmi/film/halloween-ii/5/",
   "review": "you texted me at 2 o'clock in the morning, \"I feel like I'm fallin”"
+ },
+ "letterboxd-review-1555112418": {
+  "guid": "letterboxd-review-1555112418",
+  "title": "The Hunger Games",
+  "year": 2012,
+  "rating": 3.0,
+  "like": false,
+  "rewatch": true,
+  "watched": "2026-10-25",
+  "tmdb": 70160,
+  "url": "https://letterboxd.com/georgecarmi/film/the-hunger-games/",
+  "review": "so cool."
+ },
+ "letterboxd-review-1554912220": {
+  "guid": "letterboxd-review-1554912220",
+  "title": "The Ruins",
+  "year": 2008,
+  "rating": 1.5,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-10-25",
+  "tmdb": 11152,
+  "url": "https://letterboxd.com/georgecarmi/film/the-ruins/",
+  "review": "goofy."
  }
 }
