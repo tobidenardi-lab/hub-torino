@@ -1,79 +1,79 @@
 {
  "mymovies_cinema": {
   "ok": true,
-  "count": 102,
+  "count": 105,
   "note": "",
-  "checked": "2026-10-26 10:24 UTC",
-  "last_ok": "2026-10-26"
+  "checked": "2026-10-27 09:58 UTC",
+  "last_ok": "2026-10-27"
  },
  "massimo_calendario": {
   "ok": true,
   "count": 24,
   "note": "",
-  "checked": "2026-10-26 10:24 UTC",
-  "last_ok": "2026-10-26"
+  "checked": "2026-10-27 09:58 UTC",
+  "last_ok": "2026-10-27"
  },
  "letterboxd_seguiti": {
   "ok": true,
   "count": 24,
   "note": "",
-  "checked": "2026-10-26 10:24 UTC",
-  "last_ok": "2026-10-26"
+  "checked": "2026-10-27 09:58 UTC",
+  "last_ok": "2026-10-27"
  },
  "letterboxd_diari": {
   "ok": true,
   "count": 25,
   "note": "",
-  "checked": "2026-10-26 10:24 UTC",
-  "last_ok": "2026-10-26"
+  "checked": "2026-10-27 09:59 UTC",
+  "last_ok": "2026-10-27"
  },
  "letterboxd_watchlist": {
   "ok": true,
   "count": 163,
   "note": "",
-  "checked": "2026-10-26 10:24 UTC",
-  "last_ok": "2026-10-26"
+  "checked": "2026-10-27 09:59 UTC",
+  "last_ok": "2026-10-27"
  },
  "eventi: Museo Nazionale del Cinema": {
   "ok": true,
-  "count": 6,
+  "count": 7,
   "note": "",
-  "checked": "2026-10-26 10:25 UTC",
-  "last_ok": "2026-10-26"
+  "checked": "2026-10-27 09:59 UTC",
+  "last_ok": "2026-10-27"
  },
  "letterboxd_storico": {
   "ok": true,
   "count": 5,
   "note": "0 film importati oggi; completi 5/25; Letterboxd ha rifiutato richieste, riprovo domani",
-  "checked": "2026-10-26 10:24 UTC",
-  "last_ok": "2026-10-26"
+  "checked": "2026-10-27 09:59 UTC",
+  "last_ok": "2026-10-27"
  },
  "eventi: arte.it": {
   "ok": false,
   "count": 0,
-  "note": "nessun evento riconosciuto. 67199 byte; titolo: Mostre d'arte - Torino - Eventi d'arte - Esposizio; link totali: 103; link mostra/evento: 24",
-  "checked": "2026-10-26 10:25 UTC",
+  "note": "nessun evento riconosciuto. 67214 byte; titolo: Mostre d'arte - Torino - Eventi d'arte - Esposizio; link totali: 103; link mostra/evento: 24",
+  "checked": "2026-10-27 09:59 UTC",
   "last_ok": "2026-10-20"
  },
  "eventi: CAMERA - mostre": {
   "ok": true,
   "count": 3,
   "note": "",
-  "checked": "2026-10-26 10:25 UTC",
-  "last_ok": "2026-10-26"
+  "checked": "2026-10-27 09:59 UTC",
+  "last_ok": "2026-10-27"
  },
  "eventi: Turismo Torino": {
   "ok": true,
-  "count": 10,
+  "count": 15,
   "note": "",
-  "checked": "2026-10-26 10:25 UTC",
-  "last_ok": "2026-10-26"
+  "checked": "2026-10-27 09:59 UTC",
+  "last_ok": "2026-10-27"
  },
  "eventi: CAMERA - incontri": {
   "ok": true,
-  "count": 6,
+  "count": 5,
   "note": "",
-  "checked": "2026-10-26 10:25 UTC",
-  "last_ok": "2026-10-26"
+  "checked": "2026-10-27 09:59 UTC",
+  "last_ok": "2026-10-27"
  }
 }
