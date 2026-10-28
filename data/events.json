@@ -90,8 +90,8 @@
  {
   "title": "Effetto VR!",
   "venue": "Il Cinema in Virtual Reality",
-  "start": "2026-10-29",
-  "end": "2026-10-29",
+  "start": "2026-10-30",
+  "end": "2026-10-30",
   "kind": "evento",
   "tag": "cinema",
   "desc": "",
@@ -132,6 +132,17 @@
   "source": "Turismo Torino"
  },
  {
+  "title": "Banksy. Street is the Museum",
+  "venue": "Torino",
+  "start": "2026-10-22",
+  "end": "2027-01-31",
+  "kind": "mostra",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/banksy-street-is-the-museum",
+  "source": "Turismo Torino"
+ },
+ {
   "title": "World Press Photo Exhibition 2026",
   "venue": "Torino",
   "start": "2026-09-18",
@@ -140,17 +151,6 @@
   "tag": "fotografia",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/world-press-photo-exhibition-2026",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Still image. Fotografie di Jessica Lange",
-  "venue": "Torino",
-  "start": "2026-10-07",
-  "end": "2027-02-07",
-  "kind": "evento",
-  "tag": "fotografia",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/still-image-fotografie-di-jessica-lange",
   "source": "Turismo Torino"
  },
  {
@@ -173,17 +173,6 @@
   "tag": "arte",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/estate-reale-2026-una-sera-al-museo",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Di padre in figlio. L'universo grafico di Giambattista e Giandomenico Tiepolo",
-  "venue": "Torino",
-  "start": "2026-10-15",
-  "end": "2027-01-17",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/di-padre-in-figlio-l-universo-grafico-di-giambattista-e-giandomenico-tiepolo",
   "source": "Turismo Torino"
  },
  {
@@ -239,6 +228,17 @@
   "tag": "arte",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/art-beat-l-elettrocardiogramma-dell-anima",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Le ultime lune",
+  "venue": "Torino",
+  "start": "2026-10-27",
+  "end": "2026-11-08",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/le-ultime-lune-1",
   "source": "Turismo Torino"
  },
  {
