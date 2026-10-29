@@ -90,12 +90,12 @@
  {
   "title": "Effetto VR!",
   "venue": "Il Cinema in Virtual Reality",
-  "start": "2026-10-30",
-  "end": "2026-10-30",
+  "start": "2026-10-31",
+  "end": "2026-10-31",
   "kind": "evento",
   "tag": "cinema",
   "desc": "",
-  "url": "https://www.museocinema.it/it/attivita/un-museo-da-paura-visita-guidata",
+  "url": "https://www.museocinema.it/it/attivita/alla-scoperta-del-museo",
   "source": "Museo Nazionale del Cinema"
  },
  {
@@ -107,6 +107,28 @@
   "tag": "arte",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/diffusissima-2026",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Una Notte a Paratissima // Art Week Opening Party",
+  "venue": "Torino",
+  "start": "2026-10-29",
+  "end": "2026-10-29",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/una-notte-a-paratissima-art-week-opening-party",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Diwali Festival 2026",
+  "venue": "Torino",
+  "start": "2026-10-25",
+  "end": "2026-10-29",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/diwali-festival-2026",
   "source": "Turismo Torino"
  },
  {
@@ -154,6 +176,28 @@
   "source": "Turismo Torino"
  },
  {
+  "title": "Flashback Art Fair 2026",
+  "venue": "Torino",
+  "start": "2026-10-29",
+  "end": "2026-11-01",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/flashback-art-fair-2026",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Still image. Fotografie di Jessica Lange",
+  "venue": "Torino",
+  "start": "2026-10-07",
+  "end": "2027-02-07",
+  "kind": "evento",
+  "tag": "fotografia",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/still-image-fotografie-di-jessica-lange",
+  "source": "Turismo Torino"
+ },
+ {
   "title": "Teatro Colosseo Stagione 2026/2027",
   "venue": "Torino",
   "start": "2026-10-03",
@@ -176,6 +220,28 @@
   "source": "Turismo Torino"
  },
  {
+  "title": "Club To Club — C2c Festival 2026",
+  "venue": "Torino",
+  "start": "2026-10-29",
+  "end": "2026-11-01",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/club-to-club-c2c-festival-2026",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Di padre in figlio. L'universo grafico di Giambattista e Giandomenico Tiepolo",
+  "venue": "Torino",
+  "start": "2026-10-15",
+  "end": "2027-01-17",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/di-padre-in-figlio-l-universo-grafico-di-giambattista-e-giandomenico-tiepolo",
+  "source": "Turismo Torino"
+ },
+ {
   "title": "Luci d'Artista",
   "venue": "Torino",
   "start": "2026-10-23",
@@ -187,80 +253,14 @@
   "source": "Turismo Torino"
  },
  {
-  "title": "Preshow",
+  "title": "Campionati Europei di Majorette",
   "venue": "Torino",
-  "start": "2026-10-09",
-  "end": "2027-01-03",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/preshow",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Lu Santo Jullàre Françesco",
-  "venue": "Torino",
-  "start": "2026-10-04",
+  "start": "2026-10-29",
   "end": "2026-11-01",
   "kind": "evento",
   "tag": "arte",
   "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/lu-santo-jullare-francesco-1",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Art Site Fest 2026",
-  "venue": "Torino",
-  "start": "2026-10-14",
-  "end": "2026-11-20",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/art-site-fest-2026",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Art beat. L’elettrocardiogramma dell’anima",
-  "venue": "Torino",
-  "start": "2026-10-24",
-  "end": "2026-11-14",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/art-beat-l-elettrocardiogramma-dell-anima",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Le ultime lune",
-  "venue": "Torino",
-  "start": "2026-10-27",
-  "end": "2026-11-08",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/le-ultime-lune-1",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Morenica_NET - Stagione Teatrale 2026/2027",
-  "venue": "Torino",
-  "start": "2026-10-03",
-  "end": "2027-05-31",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/morenica-net-stagione-teatrale-2026-2027",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Teatro Incontro - Stagione 2026/2027",
-  "venue": "Torino",
-  "start": "2026-10-17",
-  "end": "2027-05-08",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/teatro-incontro-stagione-2026-2027",
+  "url": "https://turismotorino.org/it/visita/eventi/campionati-europei-di-majorette",
   "source": "Turismo Torino"
  },
  {

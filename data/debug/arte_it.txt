@@ -61,6 +61,34 @@ obre 2026</span>
 							Tutte le <span class="mostre-portal-big">Mostre</span> di Dicembre 2026 a Torino						</h2>
 						<ul class="event-list">
 							<li class="clearfix">
+	    <a href="/calendario-arte/torino/mostra-marisa-merz-la-danza-delle-ore-104555" class="link_mostre_list">
+    	<span class="thumb"><img src="https://www.arte.it/foto/138x138/76/161412-Marisa-Merz-indossa-_Scarpette_-Galleria-L_Attico-1975_Photo-Abate-1.jpg"  alt="Marisa Merz. La danza delle ore" /></span>
+        <span class="cont_txt">
+			<span class="data">Dal 29 Ottobre 2026 al 4 Aprile 2027</span>             <span class="occhiello">
+            	<span class="citta">Rivoli</span>				 | 				Castello di Rivoli            </span>
+            <span class="title">
+				<h2>Marisa Merz. La danza delle ore</h2>
+			</span>            <span class="sommario">Castello di Rivoli Museo d&rsquo;Arte Contemporanea, Fondazione Merz, GAM &ndash; Galleria Civica d&rsquo;Arte Moderna e Contemporanea di Torino si un...</span>
+            <span class="l_tutto">&nbsp;</span>
+        </span>
+    </a>
+    
+</li>
+<li class="clearfix">
+	    <a href="/calendario-arte/torino/mostra-marisa-merz-la-danza-delle-ore-103931" class="link_mostre_list">
+    	<span class="thumb"><img src="https://www.arte.it/foto/138x138/fb/160538-6.jpg"  alt="Marisa Merz. La danza delle ore" /></span>
+        <span class="cont_txt">
+			<span class="data">Dal 29 Ottobre 2026 al 4 Aprile 2027</span>             <span class="occhiello">
+            	<span class="citta">Torino</span>				 | 				Sedi varie            </span>
+            <span class="title">
+				<h2>Marisa Merz. La danza delle ore</h2>
+			</span>            <span class="sommario">Castello di Rivoli Museo d&rsquo;Arte Contemporanea, Fondazione Merz, GAM &ndash; Galleria Civica d&rsquo;Arte Moderna e Contemporanea di Torino si un...</span>
+            <span class="l_tutto">&nbsp;</span>
+        </span>
+    </a>
+    
+</li>
+<li class="clearfix">
 	    <a href="/calendario-arte/torino/mostra-song-dong-soul-out-104582" class="link_mostre_list">
     	<span class="thumb"><img src="https://www.arte.it/foto/138x138/80/161473-unnamed.jpg"  alt="SONG DONG. SOUL OUT" /></span>
         <span class="cont_txt">
@@ -106,32 +134,4 @@ obre 2026</span>
 	    <a href="/calendario-arte/torino/mostra-il-corpo-della-città-moda-e-arti-tra-liberty-e-modernità-1884-1961-104572" class="link_mostre_list">
     	<span class="thumb"><img src="https://www.arte.it/foto/138x138/b1/161459-unnamed_1_.jpg"  alt="Il corpo della città. Moda e arti tra Liberty e modernità 1884 – 1961" /></span>
         <span class="cont_txt">
-			<span class="data">Dal 15 Ottobre 2026 al 22 Febbraio 2027</span>             <span class="occhiello">
-            	<span class="citta">Torino</span>				 | 				Palazzo Madama            </span>
-            <span class="title">
-				<h2>Il corpo della città. Moda e arti tra Liberty e modernità 1884 – 1961</h2>
-			</span>            <span class="sommario">Torino &egrave; una citt&agrave; che ha saputo reinventarsi pi&ugrave; volte nel corso della sua storia. Dopo la perdita del ruolo di capitale del Reg...</span>
-            <span class="l_tutto">&nbsp;</span>
-        </span>
-    </a>
-    
-</li>
-<li class="clearfix">
-	    <a href="/calendario-arte/torino/mostra-art-site-fest-xii-edizione-104636" class="link_mostre_list">
-    	<span class="thumb"><img src="https://www.arte.it/foto/138x138/71/161551-black_1_.jpg"  alt="ART· SITE· FEST. XII EDIZIONE" /></span>
-        <span class="cont_txt">
-			<span class="data">Dal 14 Ottobre 2026 al 20 Novembre 2026</span>             <span class="occhiello">
-            	<span class="citta">Torino</span>				 | 				Sedi varie            </span>
-            <span class="title">
-				<h2>ART· SITE· FEST. XII EDIZIONE</h2>
-			</span>            <span class="sommario">Dal 14 ottobre al 20 novembre, Torino ospita la dodicesima edizione della rassegna Art Site Fest con il titolo Fare Storie Fare Mondi, ideato e dirett...</span>
-            <span class="l_tutto">&nbsp;</span>
-        </span>
-    </a>
-    
-</li>
-<li class="clearfix">
-	    <a href="/calendario-arte/torino/mostra-grazia-toderi-teatro-terra-104267" class="link_mostre_list">
-    	<span class="thumb"><img src="https://www.arte.it/foto/138x138/d9/161015-unnamed.jpg"  alt="Grazia Toderi. Teatro Terra" /></span>
-        <span class="cont_txt">
-			<span class="data">Dal 10 Ottobre 2026 al 8 Dicembre 2026</span>             <span class="
+			<span class="data">Dal 15 Ottobre 2026 al 22 Febbraio 2027</

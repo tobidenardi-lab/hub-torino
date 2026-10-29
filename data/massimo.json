@@ -1,29 +1,6 @@
 {
  "shows": [
   {
-   "date": "2026-10-28",
-   "times": [
-    "16:00",
-    "21:00"
-   ],
-   "title": "Fatherland",
-   "director": "P. Pawlikowski",
-   "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-10-28",
-   "times": [
-    "18:00"
-   ],
-   "title": "Sentieri selvaggi",
-   "director": "J. Ford",
-   "year": 1956,
-   "room": null,
-   "note": "Il film è introdotto da Giaime Alonge"
-  },
-  {
    "date": "2026-10-29",
    "times": [
     "16:00",
@@ -119,69 +96,25 @@
    "note": "Il film è introdotto da Silvio Alovisio"
   },
   {
-   "date": "2026-10-28",
-   "times": [
-    "16:30"
-   ],
-   "title": "Possible Love",
-   "director": "L. Chang-dong",
-   "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-10-28",
-   "times": [
-    "20:00"
-   ],
-   "title": "Alberi erranti",
-   "director": "S. Mereu",
-   "year": 2026,
-   "room": null,
-   "note": "Al termine incontro con il regista"
-  },
-  {
-   "date": "2026-10-28",
+   "date": "2026-11-04",
    "times": [
     "16:00"
    ],
    "title": "Possible Love",
    "director": "L. Chang-dong",
    "year": 2026,
-   "room": null,
+   "room": "Sala 2",
    "note": ""
   },
   {
-   "date": "2026-10-28",
+   "date": "2026-11-04",
    "times": [
     "20:00"
    ],
    "title": "Alberi erranti",
    "director": "S. Mereu",
    "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-10-28",
-   "times": [
-    "16:00"
-   ],
-   "title": "La vita di Adele",
-   "director": "A. Kechiche",
-   "year": 2013,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-10-28",
-   "times": [
-    "20:00"
-   ],
-   "title": "Mektub, My Love – Canto Uno",
-   "director": "A. Kechiche",
-   "year": 2017,
-   "room": null,
+   "room": "Sala 2",
    "note": ""
   },
   {
