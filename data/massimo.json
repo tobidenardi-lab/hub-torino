@@ -1,19 +1,6 @@
 {
  "shows": [
   {
-   "date": "2026-10-29",
-   "times": [
-    "16:00",
-    "18:00",
-    "21:00"
-   ],
-   "title": "Fatherland",
-   "director": "P. Pawlikowski",
-   "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
    "date": "2026-10-30",
    "times": [
     "16:00",
@@ -118,39 +105,6 @@
    "note": ""
   },
   {
-   "date": "2026-10-29",
-   "times": [
-    "15:30"
-   ],
-   "title": "Cous Cous",
-   "director": "A. Kechiche",
-   "year": 2007,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-10-29",
-   "times": [
-    "18:30"
-   ],
-   "title": "The Rocky Horror Picture Show",
-   "director": "J. Sharman",
-   "year": 1975,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-10-29",
-   "times": [
-    "20:45"
-   ],
-   "title": "Strange Journey: The Story of Rocky Horror",
-   "director": "L. O’Brian",
-   "year": 2025,
-   "room": null,
-   "note": ""
-  },
-  {
    "date": "2026-10-30",
    "times": [
     "16:00"
@@ -202,6 +156,765 @@
    "title": "The Rocky Horror Picture Show",
    "director": "J. Sharman",
    "year": 1975,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-31",
+   "times": [
+    "16:00"
+   ],
+   "title": "Il diario di Sueko/Il secondo fratello",
+   "director": "S. Imamura",
+   "year": 1959,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-31",
+   "times": [
+    "18:00"
+   ],
+   "title": "Porci, geishe e marinai",
+   "director": "S. Imamura",
+   "year": 1961,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-10-31",
+   "times": [
+    "20:30"
+   ],
+   "title": "Desiderio d’omicidio",
+   "director": "S. Imamura",
+   "year": 1964,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-02",
+   "times": [
+    "16:00"
+   ],
+   "title": "La vendetta è mia",
+   "director": "S. Imamura",
+   "year": 1979,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-02",
+   "times": [
+    "20:00"
+   ],
+   "title": "ijanaika",
+   "director": "S. Imamura",
+   "year": 1981,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-03",
+   "times": [
+    "15:30"
+   ],
+   "title": "La ballata di Narayama",
+   "director": "S. Imamura",
+   "year": 1983,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-03",
+   "times": [
+    "18:00"
+   ],
+   "title": "Il mezzano",
+   "director": "S. Imamura",
+   "year": 1987,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-03",
+   "times": [
+    "20:30"
+   ],
+   "title": "La ragazza di Bube",
+   "director": "L. Comencini",
+   "year": 1963,
+   "room": null,
+   "note": "Il film è introdotto da Fulvio Paganin"
+  },
+  {
+   "date": "2026-11-04",
+   "times": [
+    "16:00"
+   ],
+   "title": "Pioggia nera",
+   "director": "S. Imamura",
+   "year": 1989,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-04",
+   "times": [
+    "18:30"
+   ],
+   "title": "BLRW – The scar of Adwa",
+   "director": "H. Gerima",
+   "year": 2026,
+   "room": null,
+   "note": "Il film è introdotto da Haile Gerima, Shirikiana Aina, Daniela Ricci, Micaela Veronesi"
+  },
+  {
+   "date": "2026-11-04",
+   "times": [
+    "20:30"
+   ],
+   "title": "BLRW – Invasion",
+   "director": "H. Gerima",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-04",
+   "times": [
+    "18:00"
+   ],
+   "title": "Sala 1 Fino all’ultimo respiro",
+   "director": "J.L. Godard",
+   "year": 1960,
+   "room": null,
+   "note": "Il film è introdotto da Silvio Alovisio"
+  },
+  {
+   "date": "2026-11-05",
+   "times": [
+    "16:00"
+   ],
+   "title": "L’anguilla",
+   "director": "S. Imamura",
+   "year": 1997,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-05",
+   "times": [
+    "18:30"
+   ],
+   "title": "Il diario di Sueko/Il secondo fratello",
+   "director": "S. Imamura",
+   "year": 1959,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-05",
+   "times": [
+    "20:30"
+   ],
+   "title": "BLRW – Italian Occupation",
+   "director": "H. Gerima",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-06",
+   "times": [
+    "15:15"
+   ],
+   "title": "Il profondo desiderio degli dèi",
+   "director": "S. Imamura",
+   "year": 1968,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-06",
+   "times": [
+    "18:30"
+   ],
+   "title": "BLRW – Guerrilla Warfare",
+   "director": "H. Gerima",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-06",
+   "times": [
+    "20:30"
+   ],
+   "title": "BLRW – Victory",
+   "director": "H. Gerima",
+   "year": 2026,
+   "room": null,
+   "note": "Al termine incontro con Haile Gerima, Shirikiana Aina, Valentina Fusari"
+  },
+  {
+   "date": "2026-11-07",
+   "times": [
+    "16:00"
+   ],
+   "title": "La vendetta è mia",
+   "director": "S. Imamura",
+   "year": 1979,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-07",
+   "times": [
+    "20:00"
+   ],
+   "title": "ijanaika",
+   "director": "S. Imamura",
+   "year": 1981,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-08",
+   "times": [
+    "15:30"
+   ],
+   "title": "La ballata di Narayama",
+   "director": "S. Imamura",
+   "year": 1983,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-08",
+   "times": [
+    "18:00"
+   ],
+   "title": "Il mezzano",
+   "director": "S. Imamura",
+   "year": 1987,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-08",
+   "times": [
+    "20:30"
+   ],
+   "title": "Pioggia nera",
+   "director": "S. Imamura",
+   "year": 1989,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-09",
+   "times": [
+    "16:00"
+   ],
+   "title": "BLRW – The scar of Adwa",
+   "director": "H. Gerima",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-09",
+   "times": [
+    "18:00"
+   ],
+   "title": "BLRW – Invasion",
+   "director": "H. Gerima",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-09",
+   "times": [
+    "20:30"
+   ],
+   "title": "BLRW – Italian Occupation",
+   "director": "H. Gerima",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-10",
+   "times": [
+    "16:00"
+   ],
+   "title": "BLRW – Guerrilla Warfare",
+   "director": "H. Gerima",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-10",
+   "times": [
+    "18:30"
+   ],
+   "title": "BLRW – Victory",
+   "director": "H. Gerima",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-10",
+   "times": [
+    "20:30"
+   ],
+   "title": "Il canto di Alina",
+   "director": "Ilaria Braccialini e Federica Oriente",
+   "year": 2025,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-11",
+   "times": [
+    "16:00"
+   ],
+   "title": "Film: The Living Record of Our Memory",
+   "director": "I. Toharia Terán",
+   "year": 2021,
+   "room": null,
+   "note": "Il film è introdotto da Sabrina Negri"
+  },
+  {
+   "date": "2026-11-11",
+   "times": [
+    "18:30"
+   ],
+   "title": "Il canto di Alina",
+   "director": "I. Braccialini e F. Oriente",
+   "year": 2025,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-11",
+   "times": [
+    "20:30"
+   ],
+   "title": "Porci, geishe e marinai",
+   "director": "S. Imamura",
+   "year": 1961,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-11",
+   "times": [
+    "18:00"
+   ],
+   "title": "Sala 1 Zabriskie Point",
+   "director": "M. Antonioni",
+   "year": 1970,
+   "room": null,
+   "note": "Il film è introdotto da Bruno Surace"
+  },
+  {
+   "date": "2026-11-12",
+   "times": [
+    "15:30"
+   ],
+   "title": "Minnie and Moscowitz",
+   "director": "J. Cassavetes",
+   "year": 1971,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-12",
+   "times": [
+    "18:00"
+   ],
+   "title": "I dieci comandamenti",
+   "director": "Cecil B. De Mille",
+   "year": 1956,
+   "room": null,
+   "note": "Il film è introdotto da un incontro con Cristian Greco e Carlo Chatrian"
+  },
+  {
+   "date": "2026-11-13",
+   "times": [
+    "15:30"
+   ],
+   "title": "Desiderio d’omicidio",
+   "director": "S. Imamura",
+   "year": 1964,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-13",
+   "times": [
+    "18:00"
+   ],
+   "title": "L’anguilla",
+   "director": "S. Imamura",
+   "year": 1997,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-13",
+   "times": [
+    "20:30"
+   ],
+   "title": "Psycho",
+   "director": "A. Hitchcock",
+   "year": 1960,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-14",
+   "times": [
+    "16:00"
+   ],
+   "title": "Minnie and Moscowitz",
+   "director": "J. Cassavetes",
+   "year": 1971,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-14",
+   "times": [
+    "18:30"
+   ],
+   "title": "Non desiderare la donna d’altri",
+   "director": "K. Kieślowski",
+   "year": 1988,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-14",
+   "times": [
+    "20:30"
+   ],
+   "title": "Bleak Moments",
+   "director": "M. Leigh",
+   "year": 1971,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-15",
+   "times": [
+    "16:00"
+   ],
+   "title": "Non desiderare la donna d’altri",
+   "director": "K. Kieślowski",
+   "year": 1988,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-15",
+   "times": [
+    "18:30"
+   ],
+   "title": "The Short and the Curlies",
+   "director": "M. Leigh",
+   "year": 1987,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-15",
+   "times": [
+    "20:30"
+   ],
+   "title": "Belle speranze",
+   "director": "M. Leigh",
+   "year": 1988,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-16",
+   "times": [
+    "15:45"
+   ],
+   "title": "Non desiderare la donna d’altri",
+   "director": "K. Kieślowski",
+   "year": 1988,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-16",
+   "times": [
+    "18:00"
+   ],
+   "title": "La battaglia di Algeri",
+   "director": "G. Pontecorvo",
+   "year": 1966,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-16",
+   "times": [
+    "20:30"
+   ],
+   "title": "Le notti bianche",
+   "director": "L. Visconti",
+   "year": 1957,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-17",
+   "times": [
+    "16:00"
+   ],
+   "title": "Dolce è la vita",
+   "director": "M. Leigh",
+   "year": 1990,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-17",
+   "times": [
+    "18:00"
+   ],
+   "title": "Naked – Nudo",
+   "director": "M. Leigh",
+   "year": 1993,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-17",
+   "times": [
+    "20:30"
+   ],
+   "title": "Panni sporchi",
+   "director": "G. Bertolucci",
+   "year": 1980,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-18",
+   "times": [
+    "16:00"
+   ],
+   "title": "Segreti & bugie",
+   "director": "M. Leigh",
+   "year": 1996,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-18",
+   "times": [
+    "19:00"
+   ],
+   "title": "Ragazze",
+   "director": "M. Leigh",
+   "year": 1997,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-18",
+   "times": [
+    "21:00"
+   ],
+   "title": "La mia droga si chiama Julie",
+   "director": "F. Truffaut",
+   "year": 1969,
+   "room": null,
+   "note": "Il film è introdotto da Giorgio Astengo"
+  },
+  {
+   "date": "2026-11-18",
+   "times": [
+    "18:00"
+   ],
+   "title": "Sala 1 Solaris",
+   "director": "A. Tarkovskij",
+   "year": 1972,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-19",
+   "times": [
+    "15:30"
+   ],
+   "title": "Topsy-Turvy – Sotto-sopra",
+   "director": "M. Leigh",
+   "year": 1996,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-19",
+   "times": [
+    "18:30"
+   ],
+   "title": "The Short and the Curlies",
+   "director": "M. Leigh",
+   "year": 1987,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-19",
+   "times": [
+    "20:30"
+   ],
+   "title": "Minnie and Moscowitz",
+   "director": "J. Cassavetes",
+   "year": 1971,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-20",
+   "times": [
+    "16:00"
+   ],
+   "title": "Scomode verità",
+   "director": "M. Leigh",
+   "year": 2024,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-20",
+   "times": [
+    "18:00"
+   ],
+   "title": "Bleak Moments",
+   "director": "M. Leigh",
+   "year": 1971,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-20",
+   "times": [
+    "20:30"
+   ],
+   "title": "Minnie and Moscowitz",
+   "director": "J. Cassavetes",
+   "year": 1971,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-20",
+   "times": [
+    "20:30"
+   ],
+   "title": "Sala 2 Wax & Gold",
+   "director": "R. Beckermann",
+   "year": 2026,
+   "room": null,
+   "note": "Il film è introdotto da Massimiliano e Gianluca De Serio"
+  },
+  {
+   "date": "2026-11-21",
+   "times": [
+    "15:30"
+   ],
+   "title": "Belle speranze",
+   "director": "M. Leigh",
+   "year": 1988,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-21",
+   "times": [
+    "18:00"
+   ],
+   "title": "Dolce è la vita",
+   "director": "M. Leigh",
+   "year": 1990,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-21",
+   "times": [
+    "20:30"
+   ],
+   "title": "Naked – Nudo",
+   "director": "M. Leigh",
+   "year": 1993,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-22",
+   "times": [
+    "15:30"
+   ],
+   "title": "Segreti & bugie",
+   "director": "M. Leigh",
+   "year": 1996,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-22",
+   "times": [
+    "18:30"
+   ],
+   "title": "Ragazze",
+   "director": "M. Leigh",
+   "year": 1997,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-22",
+   "times": [
+    "20:30"
+   ],
+   "title": "Scomode verità",
+   "director": "M. Leigh",
+   "year": 2024,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-23",
+   "times": [
+    "16:30"
+   ],
+   "title": "Topsy-Turvy – Sotto-sopra",
+   "director": "M. Leigh",
+   "year": 1996,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-23",
+   "times": [
+    "20:30"
+   ],
+   "title": "Minnie and Moscowitz",
+   "director": "J. Cassavetes",
+   "year": 1971,
    "room": null,
    "note": ""
   }

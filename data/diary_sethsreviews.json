@@ -1618,5 +1618,29 @@
   "tmdb": 47504,
   "url": "https://letterboxd.com/sethsreviews/film/little-odessa/",
   "review": "obviously a precursor to\nPaper Tiger\nin many ways; not as refined or fully realised, but still with a ton of style. Incredibly measured for a debut feature. Loved the opening cinema moment."
+ },
+ "letterboxd-review-1561047811": {
+  "guid": "letterboxd-review-1561047811",
+  "title": "Grizzly Man",
+  "year": 2005,
+  "rating": null,
+  "like": true,
+  "rewatch": true,
+  "watched": "2026-10-29",
+  "tmdb": 501,
+  "url": "https://letterboxd.com/sethsreviews/film/grizzly-man/2/",
+  "review": "I believe the common denominator of the universe is not harmony, but chaos, hostility, and murder."
+ },
+ "letterboxd-review-1560907453": {
+  "guid": "letterboxd-review-1560907453",
+  "title": "Begotten",
+  "year": 1989,
+  "rating": null,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-10-28",
+  "tmdb": 1483,
+  "url": "https://letterboxd.com/sethsreviews/film/begotten/",
+  "review": "nightmare."
  }
 }

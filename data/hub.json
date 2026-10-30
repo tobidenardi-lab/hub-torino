@@ -1,6 +1,6 @@
 {
- "generated": "29/10/2026 11:03 UTC",
- "today": "2026-10-29",
+ "generated": "30/10/2026 11:00 UTC",
+ "today": "2026-10-30",
  "title": "Torino Culturale",
  "me": "tobi_2117",
  "friends": [
@@ -176,29 +176,321 @@
    "lb_url": "https://letterboxd.com/tmdb/1123892/"
   },
   {
-   "title": "The Bibi Files",
-   "year": 2024,
-   "slug": "the-bibi-files",
-   "director": "",
+   "title": "La ballata di Narayama",
+   "year": 1983,
+   "slug": null,
+   "director": "S. Imamura",
    "showings": [
     {
-     "cinema": "Centrale",
-     "date": "2026-10-29",
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-03",
      "times": [
       {
-       "t": "17:40",
-       "vo": true
+       "t": "15:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-08",
+     "times": [
+      {
+       "t": "15:30",
+       "vo": false
       }
      ],
      "room": null
     }
    ],
    "notes": [],
-   "tmdb": 1353263,
+   "tmdb": 42113,
    "seen_by": [],
    "watchlist": false,
    "i_seen": false,
-   "lb_url": "https://letterboxd.com/tmdb/1353263/"
+   "lb_url": "https://letterboxd.com/tmdb/42113/"
+  },
+  {
+   "title": "La battaglia di Algeri",
+   "year": 1966,
+   "slug": null,
+   "director": "G. Pontecorvo",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-16",
+     "times": [
+      {
+       "t": "18:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 17295,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/17295/"
+  },
+  {
+   "title": "Belle speranze",
+   "year": 1988,
+   "slug": null,
+   "director": "M. Leigh",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-15",
+     "times": [
+      {
+       "t": "20:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-21",
+     "times": [
+      {
+       "t": "15:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 47870,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/47870/"
+  },
+  {
+   "title": "Bleak Moments",
+   "year": 1971,
+   "slug": null,
+   "director": "M. Leigh",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-14",
+     "times": [
+      {
+       "t": "20:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-20",
+     "times": [
+      {
+       "t": "18:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 122271,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/122271/"
+  },
+  {
+   "title": "BLRW – Guerrilla Warfare",
+   "year": 2026,
+   "slug": null,
+   "director": "H. Gerima",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-06",
+     "times": [
+      {
+       "t": "18:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-10",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": null,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": null
+  },
+  {
+   "title": "BLRW – Invasion",
+   "year": 2026,
+   "slug": null,
+   "director": "H. Gerima",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-04",
+     "times": [
+      {
+       "t": "20:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-09",
+     "times": [
+      {
+       "t": "18:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": null,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": null
+  },
+  {
+   "title": "BLRW – Italian Occupation",
+   "year": 2026,
+   "slug": null,
+   "director": "H. Gerima",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-05",
+     "times": [
+      {
+       "t": "20:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-09",
+     "times": [
+      {
+       "t": "20:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": null,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": null
+  },
+  {
+   "title": "BLRW – The scar of Adwa",
+   "year": 2026,
+   "slug": null,
+   "director": "H. Gerima",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-04",
+     "times": [
+      {
+       "t": "18:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-09",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [
+    "Il film è introdotto da Haile Gerima, Shirikiana Aina, Daniela Ricci, Micaela Veronesi"
+   ],
+   "tmdb": null,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": null
+  },
+  {
+   "title": "BLRW – Victory",
+   "year": 2026,
+   "slug": null,
+   "director": "H. Gerima",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-06",
+     "times": [
+      {
+       "t": "20:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-10",
+     "times": [
+      {
+       "t": "18:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [
+    "Al termine incontro con Haile Gerima, Shirikiana Aina, Valentina Fusari"
+   ],
+   "tmdb": null,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": null
   },
   {
    "title": "Calle Malaga",
@@ -208,7 +500,7 @@
    "showings": [
     {
      "cinema": "Greenwich Village",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "15:30",
@@ -230,6 +522,42 @@
    "lb_url": "https://letterboxd.com/tmdb/1399462/"
   },
   {
+   "title": "Il canto di Alina",
+   "year": 2025,
+   "slug": null,
+   "director": "Ilaria Braccialini e Federica Oriente",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-10",
+     "times": [
+      {
+       "t": "20:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-11",
+     "times": [
+      {
+       "t": "18:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1531121,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1531121/"
+  },
+  {
    "title": "Caro Mondo Crudele",
    "year": 2026,
    "slug": "caro-mondo-crudele",
@@ -237,7 +565,7 @@
    "showings": [
     {
      "cinema": "Nazionale",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "19:00",
@@ -262,7 +590,7 @@
    "showings": [
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "15:20",
@@ -277,10 +605,14 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
-       "t": "19:10",
+       "t": "18:10",
+       "vo": false
+      },
+      {
+       "t": "22:15",
        "vo": false
       }
      ],
@@ -288,10 +620,10 @@
     },
     {
      "cinema": "Movie Planet Lux",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
-       "t": "21:10",
+       "t": "22:15",
        "vo": false
       }
      ],
@@ -299,14 +631,14 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
-       "t": "15:00",
+       "t": "21:15",
        "vo": false
       },
       {
-       "t": "21:30",
+       "t": "23:20",
        "vo": false
       }
      ],
@@ -314,14 +646,14 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "14:20",
        "vo": true
       },
       {
-       "t": "20:10",
+       "t": "20:20",
        "vo": false
       },
       {
@@ -368,14 +700,25 @@
    "lb_url": "https://letterboxd.com/tmdb/1400940/"
   },
   {
-   "title": "Cous Cous",
-   "year": 2007,
+   "title": "Desiderio d’omicidio",
+   "year": 1964,
    "slug": null,
-   "director": "A. Kechiche",
+   "director": "S. Imamura",
    "showings": [
     {
      "cinema": "Massimo (MNC)",
-     "date": "2026-10-29",
+     "date": "2026-10-31",
+     "times": [
+      {
+       "t": "20:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-13",
      "times": [
       {
        "t": "15:30",
@@ -386,11 +729,74 @@
     }
    ],
    "notes": [],
-   "tmdb": 8280,
+   "tmdb": 49571,
    "seen_by": [],
    "watchlist": false,
    "i_seen": false,
-   "lb_url": "https://letterboxd.com/tmdb/8280/"
+   "lb_url": "https://letterboxd.com/tmdb/49571/"
+  },
+  {
+   "title": "Il diario di Sueko/Il secondo fratello",
+   "year": 1959,
+   "slug": null,
+   "director": "S. Imamura",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-31",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-05",
+     "times": [
+      {
+       "t": "18:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 49569,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/49569/"
+  },
+  {
+   "title": "I dieci comandamenti",
+   "year": 1956,
+   "slug": null,
+   "director": "Cecil B. De Mille",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-12",
+     "times": [
+      {
+       "t": "18:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [
+    "Il film è introdotto da un incontro con Cristian Greco e Carlo Chatrian"
+   ],
+   "tmdb": 6844,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/6844/"
   },
   {
    "title": "Digger",
@@ -400,7 +806,7 @@
    "showings": [
     {
      "cinema": "Eliseo",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "16:15",
@@ -419,7 +825,7 @@
     },
     {
      "cinema": "Greenwich Village",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "15:30",
@@ -438,7 +844,7 @@
     },
     {
      "cinema": "Nazionale",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "21:00",
@@ -518,7 +924,7 @@
    "showings": [
     {
      "cinema": "Eliseo",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "16:00",
@@ -537,7 +943,7 @@
     },
     {
      "cinema": "Fratelli Marx",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "16:15",
@@ -556,7 +962,7 @@
     },
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "15:00",
@@ -579,10 +985,10 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
-       "t": "16:45",
+       "t": "17:00",
        "vo": false
       },
       {
@@ -590,7 +996,7 @@
        "vo": false
       },
       {
-       "t": "21:15",
+       "t": "21:30",
        "vo": false
       }
      ],
@@ -598,14 +1004,18 @@
     },
     {
      "cinema": "Movie Planet Lux",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
-       "t": "18:20",
+       "t": "17:20",
        "vo": false
       },
       {
-       "t": "21:15",
+       "t": "19:30",
+       "vo": false
+      },
+      {
+       "t": "22:00",
        "vo": false
       }
      ],
@@ -613,7 +1023,7 @@
     },
     {
      "cinema": "Reposi",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "15:30",
@@ -636,7 +1046,7 @@
     },
     {
      "cinema": "Romano",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "16:15",
@@ -655,18 +1065,22 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
-       "t": "14:25",
+       "t": "15:05",
        "vo": false
       },
       {
-       "t": "16:25",
+       "t": "17:50",
        "vo": false
       },
       {
-       "t": "21:50",
+       "t": "18:30",
+       "vo": false
+      },
+      {
+       "t": "20:35",
        "vo": false
       }
      ],
@@ -674,10 +1088,10 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
-       "t": "21:10",
+       "t": "21:20",
        "vo": false
       }
      ],
@@ -692,25 +1106,57 @@
    "lb_url": "https://letterboxd.com/tmdb/1506710/"
   },
   {
-   "title": "L'Estranea",
-   "year": 2026,
-   "slug": "lestranea",
+   "title": "Dolce è la vita",
+   "year": 1990,
+   "slug": null,
+   "director": "M. Leigh",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-17",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-21",
+     "times": [
+      {
+       "t": "18:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 36843,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/36843/"
+  },
+  {
+   "title": "Dracula Di Bram Stoker",
+   "year": 1992,
+   "slug": "draculadibramstoker",
    "director": "",
    "showings": [
     {
      "cinema": "Due Giardini",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
-       "t": "16:15",
+       "t": "16:00",
        "vo": false
       },
       {
-       "t": "18:30",
-       "vo": false
-      },
-      {
-       "t": "20:45",
+       "t": "21:00",
        "vo": false
       }
      ],
@@ -718,7 +1164,113 @@
     },
     {
      "cinema": "Fratelli Marx",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
+     "times": [
+      {
+       "t": "19:00",
+       "vo": false
+      },
+      {
+       "t": "21:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massaua Cityplex",
+     "date": "2026-10-30",
+     "times": [
+      {
+       "t": "20:10",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "The Space Torino",
+     "date": "2026-10-30",
+     "times": [
+      {
+       "t": "22:20",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "UCI Lingotto",
+     "date": "2026-10-30",
+     "times": [
+      {
+       "t": "18:30",
+       "vo": false
+      },
+      {
+       "t": "21:40",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 6114,
+   "seen_by": [],
+   "watchlist": true,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/6114/"
+  },
+  {
+   "title": "Era Meglio Domani",
+   "year": 2025,
+   "slug": "era-meglio-domani",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Teatro Monterosa",
+     "date": "2026-10-30",
+     "times": [
+      {
+       "t": "21:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1284496,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1284496/"
+  },
+  {
+   "title": "L'Estranea",
+   "year": 2026,
+   "slug": "lestranea",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Due Giardini",
+     "date": "2026-10-30",
+     "times": [
+      {
+       "t": "18:30",
+       "vo": false
+      },
+      {
+       "t": "21:15",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Fratelli Marx",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "15:30",
@@ -737,10 +1289,10 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
-       "t": "20:00",
+       "t": "20:10",
        "vo": false
       }
      ],
@@ -748,7 +1300,7 @@
     },
     {
      "cinema": "Nazionale",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "16:15",
@@ -767,7 +1319,7 @@
     },
     {
      "cinema": "Reposi",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "15:30",
@@ -790,10 +1342,10 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
-       "t": "22:00",
+       "t": "18:45",
        "vo": false
       }
      ],
@@ -801,10 +1353,10 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
-       "t": "18:30",
+       "t": "15:30",
        "vo": false
       }
      ],
@@ -854,7 +1406,7 @@
    "showings": [
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "19:35",
@@ -865,10 +1417,10 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
-       "t": "20:00",
+       "t": "19:30",
        "vo": false
       }
      ],
@@ -876,18 +1428,18 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
-       "t": "14:00",
+       "t": "14:35",
        "vo": false
       },
       {
-       "t": "16:20",
+       "t": "17:25",
        "vo": false
       },
       {
-       "t": "19:10",
+       "t": "19:30",
        "vo": false
       },
       {
@@ -895,7 +1447,7 @@
        "vo": false
       },
       {
-       "t": "22:00",
+       "t": "23:20",
        "vo": false
       }
      ],
@@ -903,7 +1455,7 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "16:50",
@@ -936,7 +1488,7 @@
    "showings": [
     {
      "cinema": "Massimo (MNC)",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "16:00",
@@ -945,17 +1497,13 @@
       {
        "t": "18:00",
        "vo": false
-      },
-      {
-       "t": "21:00",
-       "vo": false
       }
      ],
      "room": null
     },
     {
      "cinema": "Nazionale",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "15:45",
@@ -971,21 +1519,6 @@
       },
       {
        "t": "21:00",
-       "vo": false
-      }
-     ],
-     "room": null
-    },
-    {
-     "cinema": "Massimo (MNC)",
-     "date": "2026-10-30",
-     "times": [
-      {
-       "t": "16:00",
-       "vo": false
-      },
-      {
-       "t": "18:00",
        "vo": false
       }
      ],
@@ -1057,6 +1590,33 @@
    "lb_url": "https://letterboxd.com/tmdb/1437696/"
   },
   {
+   "title": "Film: The Living Record of Our Memory",
+   "year": 2021,
+   "slug": null,
+   "director": "I. Toharia Terán",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-11",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [
+    "Il film è introdotto da Sabrina Negri"
+   ],
+   "tmdb": 882844,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/882844/"
+  },
+  {
    "title": "Fino all’ultimo respiro",
    "year": 1960,
    "slug": null,
@@ -1091,7 +1651,7 @@
    "showings": [
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "14:30",
@@ -1140,50 +1700,6 @@
    "lb_url": "https://letterboxd.com/tmdb/1154730/"
   },
   {
-   "title": "Heart Of The Beast - Nel Profondo Selvaggio",
-   "year": 2026,
-   "slug": "heart-of-the-beast",
-   "director": "",
-   "showings": [
-    {
-     "cinema": "Reposi",
-     "date": "2026-10-29",
-     "times": [
-      {
-       "t": "15:30",
-       "vo": false
-      }
-     ],
-     "room": null
-    }
-   ],
-   "notes": [],
-   "tmdb": 1263337,
-   "seen_by": [
-    {
-     "user": "benjisdiary",
-     "rating": 3.5,
-     "review": "Odin is the goat\nGot me thinking about a lot of my kitten who passed away last year, tiikeri(tiger) she was the goat as well\n\n7.5/10",
-     "slug": "heart-of-the-beast-2026",
-     "like": false,
-     "url": "https://letterboxd.com/benjisdiary/film/heart-of-the-beast-2026/",
-     "watched": "2026-10-10"
-    },
-    {
-     "user": "pippega",
-     "rating": 2.5,
-     "review": "There is no review for this diary entry. Add a review?",
-     "slug": "heart-of-the-beast-2026",
-     "like": false,
-     "url": "https://letterboxd.com/pippega/film/heart-of-the-beast-2026/",
-     "watched": "2026-10-11"
-    }
-   ],
-   "watchlist": false,
-   "i_seen": false,
-   "lb_url": "https://letterboxd.com/tmdb/1263337/"
-  },
-  {
    "title": "Hybe Cheering Party",
    "year": 2026,
    "slug": "hybe-cheering-party",
@@ -1191,7 +1707,7 @@
    "showings": [
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "18:00",
@@ -1216,7 +1732,7 @@
    "showings": [
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "21:40",
@@ -1227,14 +1743,14 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
-       "t": "16:40",
+       "t": "16:30",
        "vo": false
       },
       {
-       "t": "21:55",
+       "t": "22:30",
        "vo": false
       }
      ],
@@ -1242,18 +1758,22 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
-       "t": "14:10",
+       "t": "14:00",
        "vo": false
       },
       {
-       "t": "19:30",
+       "t": "17:10",
        "vo": false
       },
       {
-       "t": "21:50",
+       "t": "21:30",
+       "vo": false
+      },
+      {
+       "t": "23:50",
        "vo": false
       }
      ],
@@ -1261,7 +1781,7 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "17:00",
@@ -1287,17 +1807,68 @@
    "lb_url": "https://letterboxd.com/tmdb/1477712/"
   },
   {
+   "title": "ijanaika",
+   "year": 1981,
+   "slug": null,
+   "director": "S. Imamura",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-02",
+     "times": [
+      {
+       "t": "20:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-07",
+     "times": [
+      {
+       "t": "20:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": null,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": null
+  },
+  {
    "title": "The Invite - Il Piacere È Tutto Nostro",
    "year": 2026,
    "slug": "the-invite",
    "director": "",
    "showings": [
     {
-     "cinema": "Movie Planet Lux",
-     "date": "2026-10-29",
+     "cinema": "Esedra",
+     "date": "2026-10-30",
      "times": [
       {
-       "t": "18:30",
+       "t": "21:15",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Movie Planet Lux",
+     "date": "2026-10-30",
+     "times": [
+      {
+       "t": "17:15",
+       "vo": false
+      },
+      {
+       "t": "20:00",
        "vo": false
       }
      ],
@@ -1365,7 +1936,7 @@
    "showings": [
     {
      "cinema": "Greenwich Village",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "21:00",
@@ -1376,7 +1947,7 @@
     },
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "17:20",
@@ -1395,14 +1966,14 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
-       "t": "18:10",
+       "t": "18:30",
        "vo": false
       },
       {
-       "t": "22:05",
+       "t": "22:30",
        "vo": false
       }
      ],
@@ -1410,14 +1981,14 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
-       "t": "17:10",
+       "t": "16:05",
        "vo": false
       },
       {
-       "t": "19:40",
+       "t": "22:10",
        "vo": false
       }
      ],
@@ -1425,7 +1996,7 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "16:40",
@@ -1462,7 +2033,7 @@
    "showings": [
     {
      "cinema": "Eliseo",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "16:30",
@@ -1481,7 +2052,7 @@
     },
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "15:20",
@@ -1495,8 +2066,31 @@
      "room": null
     },
     {
+     "cinema": "Reposi",
+     "date": "2026-10-30",
+     "times": [
+      {
+       "t": "15:30",
+       "vo": false
+      },
+      {
+       "t": "17:40",
+       "vo": false
+      },
+      {
+       "t": "19:50",
+       "vo": false
+      },
+      {
+       "t": "22:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
      "cinema": "Romano",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "21:30",
@@ -1507,10 +2101,10 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
-       "t": "18:55",
+       "t": "19:45",
        "vo": false
       }
      ],
@@ -1518,12 +2112,8 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
-      {
-       "t": "15:30",
-       "vo": false
-      },
       {
        "t": "19:00",
        "vo": false
@@ -1550,6 +2140,42 @@
    "lb_url": "https://letterboxd.com/tmdb/1438966/"
   },
   {
+   "title": "L’anguilla",
+   "year": 1997,
+   "slug": null,
+   "director": "S. Imamura",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-05",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-13",
+     "times": [
+      {
+       "t": "18:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 20506,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/20506/"
+  },
+  {
    "title": "Mammina",
    "year": 2026,
    "slug": "other-mommy",
@@ -1557,14 +2183,14 @@
    "showings": [
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
-       "t": "20:00",
+       "t": "14:10",
        "vo": false
       },
       {
-       "t": "22:25",
+       "t": "23:35",
        "vo": false
       }
      ],
@@ -1572,7 +2198,7 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "22:40",
@@ -1615,6 +2241,138 @@
    "lb_url": "https://letterboxd.com/tmdb/661568/"
   },
   {
+   "title": "Il mezzano",
+   "year": 1987,
+   "slug": null,
+   "director": "S. Imamura",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-03",
+     "times": [
+      {
+       "t": "18:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-08",
+     "times": [
+      {
+       "t": "18:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 78691,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/78691/"
+  },
+  {
+   "title": "La mia droga si chiama Julie",
+   "year": 1969,
+   "slug": null,
+   "director": "F. Truffaut",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-18",
+     "times": [
+      {
+       "t": "21:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [
+    "Il film è introdotto da Giorgio Astengo"
+   ],
+   "tmdb": 1651,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1651/"
+  },
+  {
+   "title": "Minnie and Moscowitz",
+   "year": 1971,
+   "slug": null,
+   "director": "J. Cassavetes",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-12",
+     "times": [
+      {
+       "t": "15:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-14",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-19",
+     "times": [
+      {
+       "t": "20:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-20",
+     "times": [
+      {
+       "t": "20:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-23",
+     "times": [
+      {
+       "t": "20:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": null,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": null
+  },
+  {
    "title": "Minotaur",
    "year": 2026,
    "slug": "minotaur",
@@ -1622,7 +2380,7 @@
    "showings": [
     {
      "cinema": "Greenwich Village",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "15:30",
@@ -1641,7 +2399,7 @@
     },
     {
      "cinema": "Nazionale",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "16:00",
@@ -1694,14 +2452,61 @@
    "lb_url": "https://letterboxd.com/tmdb/336804/"
   },
   {
+   "title": "Naked – Nudo",
+   "year": 1993,
+   "slug": null,
+   "director": "M. Leigh",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-17",
+     "times": [
+      {
+       "t": "18:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-21",
+     "times": [
+      {
+       "t": "20:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 21450,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/21450/"
+  },
+  {
    "title": "Naza",
    "year": 2026,
    "slug": "naza",
    "director": "",
    "showings": [
     {
+     "cinema": "Centrale",
+     "date": "2026-10-30",
+     "times": [
+      {
+       "t": "19:30",
+       "vo": true
+      }
+     ],
+     "room": null
+    },
+    {
      "cinema": "Fratelli Marx",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "17:40",
@@ -1745,7 +2550,7 @@
    "showings": [
     {
      "cinema": "Romano",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "15:30",
@@ -1778,10 +2583,10 @@
    "showings": [
     {
      "cinema": "Centrale",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
-       "t": "21:15",
+       "t": "15:45",
        "vo": true
       }
      ],
@@ -1796,40 +2601,198 @@
    "lb_url": "https://letterboxd.com/tmdb/1527449/"
   },
   {
-   "title": "Ozzy & Black Sabbath - Back To The Beginning",
-   "year": 2026,
-   "slug": "ozzy-black-sabbath-back-to-the-beginning",
-   "director": "",
+   "title": "Non desiderare la donna d’altri",
+   "year": 1988,
+   "slug": null,
+   "director": "K. Kieślowski",
    "showings": [
     {
-     "cinema": "Reposi",
-     "date": "2026-10-29",
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-14",
      "times": [
       {
-       "t": "21:00",
+       "t": "18:30",
        "vo": false
       }
      ],
      "room": null
     },
     {
-     "cinema": "UCI Lingotto",
-     "date": "2026-10-29",
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-15",
      "times": [
       {
-       "t": "21:20",
-       "vo": true
+       "t": "16:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-16",
+     "times": [
+      {
+       "t": "15:45",
+       "vo": false
       }
      ],
      "room": null
     }
    ],
    "notes": [],
-   "tmdb": 1515139,
+   "tmdb": 31056,
    "seen_by": [],
    "watchlist": false,
    "i_seen": false,
-   "lb_url": "https://letterboxd.com/tmdb/1515139/"
+   "lb_url": "https://letterboxd.com/tmdb/31056/"
+  },
+  {
+   "title": "Le notti bianche",
+   "year": 1957,
+   "slug": null,
+   "director": "L. Visconti",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-16",
+     "times": [
+      {
+       "t": "20:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 43231,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/43231/"
+  },
+  {
+   "title": "Panni sporchi",
+   "year": 1980,
+   "slug": null,
+   "director": "G. Bertolucci",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-17",
+     "times": [
+      {
+       "t": "20:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 502938,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/502938/"
+  },
+  {
+   "title": "Pioggia nera",
+   "year": 1989,
+   "slug": null,
+   "director": "S. Imamura",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-04",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-08",
+     "times": [
+      {
+       "t": "20:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 185987,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/185987/"
+  },
+  {
+   "title": "Un Po' Di Luce",
+   "year": 2026,
+   "slug": "un-po-di-luce",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Baretti",
+     "date": "2026-10-30",
+     "times": [
+      {
+       "t": "10:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1736490,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1736490/"
+  },
+  {
+   "title": "Porci, geishe e marinai",
+   "year": 1961,
+   "slug": null,
+   "director": "S. Imamura",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-10-31",
+     "times": [
+      {
+       "t": "18:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-11",
+     "times": [
+      {
+       "t": "20:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 31104,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/31104/"
   },
   {
    "title": "Possible Love",
@@ -1874,10 +2837,10 @@
    "showings": [
     {
      "cinema": "Centrale",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
-       "t": "19:15",
+       "t": "21:10",
        "vo": true
       }
      ],
@@ -1885,7 +2848,7 @@
     },
     {
      "cinema": "Greenwich Village",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "16:00",
@@ -1904,10 +2867,10 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
-       "t": "18:15",
+       "t": "15:50",
        "vo": false
       }
      ],
@@ -1915,7 +2878,7 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "14:00",
@@ -1974,6 +2937,119 @@
    "lb_url": "https://letterboxd.com/tmdb/1375441/"
   },
   {
+   "title": "Il profondo desiderio degli dèi",
+   "year": 1968,
+   "slug": null,
+   "director": "S. Imamura",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-06",
+     "times": [
+      {
+       "t": "15:15",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 50696,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/50696/"
+  },
+  {
+   "title": "Psycho",
+   "year": 1960,
+   "slug": null,
+   "director": "A. Hitchcock",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-13",
+     "times": [
+      {
+       "t": "20:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 539,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": true,
+   "lb_url": "https://letterboxd.com/tmdb/539/"
+  },
+  {
+   "title": "La ragazza di Bube",
+   "year": 1963,
+   "slug": null,
+   "director": "L. Comencini",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-03",
+     "times": [
+      {
+       "t": "20:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [
+    "Il film è introdotto da Fulvio Paganin"
+   ],
+   "tmdb": 58000,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/58000/"
+  },
+  {
+   "title": "Ragazze",
+   "year": 1997,
+   "slug": null,
+   "director": "M. Leigh",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-18",
+     "times": [
+      {
+       "t": "19:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-22",
+     "times": [
+      {
+       "t": "18:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 11287,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/11287/"
+  },
+  {
    "title": "Ragione E Sentimento",
    "year": 2026,
    "slug": "ragione-e-sentimento",
@@ -1981,7 +3057,7 @@
    "showings": [
     {
      "cinema": "Classico",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "15:30",
@@ -2000,18 +3076,14 @@
     },
     {
      "cinema": "Due Giardini",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
-       "t": "15:45",
+       "t": "16:15",
        "vo": false
       },
       {
-       "t": "18:15",
-       "vo": false
-      },
-      {
-       "t": "20:45",
+       "t": "18:45",
        "vo": false
       }
      ],
@@ -2019,7 +3091,7 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "16:50",
@@ -2033,8 +3105,19 @@
      "room": null
     },
     {
+     "cinema": "Movie Planet Lux",
+     "date": "2026-10-30",
+     "times": [
+      {
+       "t": "19:40",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
      "cinema": "Romano",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "15:30",
@@ -2043,16 +3126,20 @@
       {
        "t": "18:00",
        "vo": false
+      },
+      {
+       "t": "20:30",
+       "vo": false
       }
      ],
      "room": null
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
-       "t": "15:10",
+       "t": "16:40",
        "vo": false
       }
      ],
@@ -2060,7 +3147,7 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "16:00",
@@ -2099,17 +3186,6 @@
    "showings": [
     {
      "cinema": "Massimo (MNC)",
-     "date": "2026-10-29",
-     "times": [
-      {
-       "t": "18:30",
-       "vo": false
-      }
-     ],
-     "room": null
-    },
-    {
-     "cinema": "Massimo (MNC)",
      "date": "2026-10-30",
      "times": [
       {
@@ -2139,6 +3215,184 @@
    "lb_url": "https://letterboxd.com/tmdb/36685/"
   },
   {
+   "title": "Sala 1 Fino all’ultimo respiro",
+   "year": 1960,
+   "slug": null,
+   "director": "J.L. Godard",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-04",
+     "times": [
+      {
+       "t": "18:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [
+    "Il film è introdotto da Silvio Alovisio"
+   ],
+   "tmdb": null,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": null
+  },
+  {
+   "title": "Sala 1 Solaris",
+   "year": 1972,
+   "slug": null,
+   "director": "A. Tarkovskij",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-18",
+     "times": [
+      {
+       "t": "18:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": null,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": null
+  },
+  {
+   "title": "Sala 1 Zabriskie Point",
+   "year": 1970,
+   "slug": null,
+   "director": "M. Antonioni",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-11",
+     "times": [
+      {
+       "t": "18:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [
+    "Il film è introdotto da Bruno Surace"
+   ],
+   "tmdb": null,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": null
+  },
+  {
+   "title": "Sala 2 Wax & Gold",
+   "year": 2026,
+   "slug": null,
+   "director": "R. Beckermann",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-20",
+     "times": [
+      {
+       "t": "20:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [
+    "Il film è introdotto da Massimiliano e Gianluca De Serio"
+   ],
+   "tmdb": null,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": null
+  },
+  {
+   "title": "Scomode verità",
+   "year": 2024,
+   "slug": null,
+   "director": "M. Leigh",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-20",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-22",
+     "times": [
+      {
+       "t": "20:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": null,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": null
+  },
+  {
+   "title": "Segreti & bugie",
+   "year": 1996,
+   "slug": null,
+   "director": "M. Leigh",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-18",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-22",
+     "times": [
+      {
+       "t": "15:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 998334,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/998334/"
+  },
+  {
    "title": "Seventeen World Tour New",
    "year": 2026,
    "slug": "seventeen-world-tour-new",
@@ -2146,7 +3400,7 @@
    "showings": [
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "20:00",
@@ -2171,7 +3425,7 @@
    "showings": [
     {
      "cinema": "Fratelli Marx",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "15:30",
@@ -2180,21 +3434,13 @@
       {
        "t": "17:15",
        "vo": false
-      },
-      {
-       "t": "19:00",
-       "vo": false
-      },
-      {
-       "t": "21:30",
-       "vo": false
       }
      ],
      "room": null
     },
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "15:50",
@@ -2209,14 +3455,10 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "17:00",
-       "vo": false
-      },
-      {
-       "t": "18:20",
        "vo": false
       }
      ],
@@ -2224,18 +3466,18 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
-       "t": "14:10",
+       "t": "14:50",
        "vo": false
       },
       {
-       "t": "16:40",
+       "t": "16:30",
        "vo": false
       },
       {
-       "t": "17:45",
+       "t": "18:50",
        "vo": false
       }
      ],
@@ -2243,7 +3485,7 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "15:10",
@@ -2254,7 +3496,7 @@
        "vo": false
       },
       {
-       "t": "17:20",
+       "t": "17:21",
        "vo": false
       }
      ],
@@ -2269,17 +3511,28 @@
    "lb_url": "https://letterboxd.com/tmdb/1477104/"
   },
   {
-   "title": "Strange Journey: The Story of Rocky Horror",
-   "year": 2025,
+   "title": "The Short and the Curlies",
+   "year": 1987,
    "slug": null,
-   "director": "L. O’Brian",
+   "director": "M. Leigh",
    "showings": [
     {
      "cinema": "Massimo (MNC)",
-     "date": "2026-10-29",
+     "date": "2026-11-15",
      "times": [
       {
-       "t": "20:45",
+       "t": "18:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-19",
+     "times": [
+      {
+       "t": "18:30",
        "vo": false
       }
      ],
@@ -2287,11 +3540,11 @@
     }
    ],
    "notes": [],
-   "tmdb": 1422600,
+   "tmdb": null,
    "seen_by": [],
    "watchlist": false,
    "i_seen": false,
-   "lb_url": "https://letterboxd.com/tmdb/1422600/"
+   "lb_url": null
   },
   {
    "title": "Street Fighter",
@@ -2301,10 +3554,10 @@
    "showings": [
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
-       "t": "22:35",
+       "t": "22:50",
        "vo": false
       }
      ],
@@ -2329,6 +3582,42 @@
    "lb_url": "https://letterboxd.com/tmdb/1153576/"
   },
   {
+   "title": "Topsy-Turvy – Sotto-sopra",
+   "year": 1996,
+   "slug": null,
+   "director": "M. Leigh",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-19",
+     "times": [
+      {
+       "t": "15:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-23",
+     "times": [
+      {
+       "t": "16:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": null,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": null
+  },
+  {
    "title": "Un Tranquillo Funerale Di Famiglia",
    "year": 2026,
    "slug": "un-tranquillo-funerale-di-famiglia",
@@ -2336,7 +3625,7 @@
    "showings": [
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "15:10",
@@ -2355,14 +3644,14 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "16:30",
        "vo": false
       },
       {
-       "t": "19:30",
+       "t": "20:45",
        "vo": false
       }
      ],
@@ -2370,7 +3659,7 @@
     },
     {
      "cinema": "Reposi",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "15:30",
@@ -2393,26 +3682,26 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
-       "t": "14:30",
+       "t": "14:00",
        "vo": false
       },
       {
-       "t": "17:00",
+       "t": "16:20",
        "vo": false
       },
       {
-       "t": "19:00",
-       "vo": false
-      },
-      {
-       "t": "19:30",
+       "t": "20:05",
        "vo": false
       },
       {
        "t": "21:00",
+       "vo": false
+      },
+      {
+       "t": "22:35",
        "vo": false
       }
      ],
@@ -2420,7 +3709,7 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "15:20",
@@ -2482,10 +3771,10 @@
    "showings": [
     {
      "cinema": "Centrale",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
-       "t": "15:45",
+       "t": "17:40",
        "vo": false
       }
      ],
@@ -2498,6 +3787,42 @@
    "watchlist": false,
    "i_seen": false,
    "lb_url": null
+  },
+  {
+   "title": "La vendetta è mia",
+   "year": 1979,
+   "slug": null,
+   "director": "S. Imamura",
+   "showings": [
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-02",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massimo (MNC)",
+     "date": "2026-11-07",
+     "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 42170,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/42170/"
   },
   {
    "title": "La vita di Adele",
@@ -2532,7 +3857,7 @@
    "showings": [
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "17:05",
@@ -2547,10 +3872,10 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
-       "t": "21:10",
+       "t": "18:20",
        "vo": false
       }
      ],
@@ -2558,14 +3883,14 @@
     },
     {
      "cinema": "Movie Planet Lux",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
-       "t": "18:40",
+       "t": "17:00",
        "vo": false
       },
       {
-       "t": "21:15",
+       "t": "22:10",
        "vo": false
       }
      ],
@@ -2573,10 +3898,10 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
-       "t": "16:30",
+       "t": "18:25",
        "vo": false
       }
      ],
@@ -2584,7 +3909,7 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "14:10",
@@ -2653,7 +3978,7 @@
    "showings": [
     {
      "cinema": "Nazionale",
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "times": [
       {
        "t": "16:30",
@@ -2763,8 +4088,8 @@
   {
    "title": "Effetto VR!",
    "venue": "Il Cinema in Virtual Reality",
-   "start": "2026-10-31",
-   "end": "2026-10-31",
+   "start": "2026-11-01",
+   "end": "2026-11-01",
    "kind": "evento",
    "tag": "cinema",
    "desc": "",
@@ -2780,28 +4105,6 @@
    "tag": "arte",
    "desc": "",
    "url": "https://turismotorino.org/it/visita/eventi/diffusissima-2026",
-   "source": "Turismo Torino"
-  },
-  {
-   "title": "Una Notte a Paratissima // Art Week Opening Party",
-   "venue": "Torino",
-   "start": "2026-10-29",
-   "end": "2026-10-29",
-   "kind": "evento",
-   "tag": "arte",
-   "desc": "",
-   "url": "https://turismotorino.org/it/visita/eventi/una-notte-a-paratissima-art-week-opening-party",
-   "source": "Turismo Torino"
-  },
-  {
-   "title": "Diwali Festival 2026",
-   "venue": "Torino",
-   "start": "2026-10-25",
-   "end": "2026-10-29",
-   "kind": "evento",
-   "tag": "arte",
-   "desc": "",
-   "url": "https://turismotorino.org/it/visita/eventi/diwali-festival-2026",
    "source": "Turismo Torino"
   },
   {
@@ -2926,14 +4229,14 @@
    "source": "Turismo Torino"
   },
   {
-   "title": "Campionati Europei di Majorette",
+   "title": "Cirié Halloween Experience",
    "venue": "Torino",
-   "start": "2026-10-29",
+   "start": "2026-10-31",
    "end": "2026-11-01",
    "kind": "evento",
    "tag": "arte",
    "desc": "",
-   "url": "https://turismotorino.org/it/visita/eventi/campionati-europei-di-majorette",
+   "url": "https://turismotorino.org/it/visita/eventi/cirie-halloween-experience",
    "source": "Turismo Torino"
   },
   {
@@ -2973,80 +4276,80 @@
  "health": {
   "mymovies_cinema": {
    "ok": true,
-   "count": 94,
+   "count": 102,
    "note": "",
-   "checked": "2026-10-29 11:02 UTC",
-   "last_ok": "2026-10-29"
+   "checked": "2026-10-30 10:59 UTC",
+   "last_ok": "2026-10-30"
   },
   "massimo_calendario": {
    "ok": true,
-   "count": 18,
+   "count": 83,
    "note": "",
-   "checked": "2026-10-29 11:02 UTC",
-   "last_ok": "2026-10-29"
+   "checked": "2026-10-30 10:59 UTC",
+   "last_ok": "2026-10-30"
   },
   "letterboxd_seguiti": {
    "ok": true,
    "count": 24,
    "note": "",
-   "checked": "2026-10-29 11:02 UTC",
-   "last_ok": "2026-10-29"
+   "checked": "2026-10-30 10:59 UTC",
+   "last_ok": "2026-10-30"
   },
   "letterboxd_diari": {
    "ok": true,
    "count": 25,
    "note": "",
-   "checked": "2026-10-29 11:02 UTC",
-   "last_ok": "2026-10-29"
+   "checked": "2026-10-30 10:59 UTC",
+   "last_ok": "2026-10-30"
   },
   "letterboxd_watchlist": {
    "ok": true,
    "count": 163,
    "note": "",
-   "checked": "2026-10-29 11:02 UTC",
-   "last_ok": "2026-10-29"
+   "checked": "2026-10-30 10:59 UTC",
+   "last_ok": "2026-10-30"
   },
   "eventi: Museo Nazionale del Cinema": {
    "ok": true,
    "count": 9,
    "note": "",
-   "checked": "2026-10-29 11:03 UTC",
-   "last_ok": "2026-10-29"
+   "checked": "2026-10-30 11:00 UTC",
+   "last_ok": "2026-10-30"
   },
   "letterboxd_storico": {
    "ok": true,
    "count": 5,
    "note": "0 film importati oggi; completi 5/25; Letterboxd ha rifiutato richieste, riprovo domani",
-   "checked": "2026-10-29 11:02 UTC",
-   "last_ok": "2026-10-29"
+   "checked": "2026-10-30 10:59 UTC",
+   "last_ok": "2026-10-30"
   },
   "eventi: arte.it": {
    "ok": false,
    "count": 0,
-   "note": "nessun evento riconosciuto. 69215 byte; titolo: Mostre d'arte - Torino - Eventi d'arte - Esposizio; link totali: 105; link mostra/evento: 26",
-   "checked": "2026-10-29 11:03 UTC",
+   "note": "nessun evento riconosciuto. 70001 byte; titolo: Mostre d'arte - Torino - Eventi d'arte - Esposizio; link totali: 106; link mostra/evento: 27",
+   "checked": "2026-10-30 11:00 UTC",
    "last_ok": "2026-10-20"
   },
   "eventi: CAMERA - mostre": {
    "ok": true,
    "count": 3,
    "note": "",
-   "checked": "2026-10-29 11:03 UTC",
-   "last_ok": "2026-10-29"
+   "checked": "2026-10-30 11:00 UTC",
+   "last_ok": "2026-10-30"
   },
   "eventi: Turismo Torino": {
    "ok": true,
-   "count": 15,
+   "count": 13,
    "note": "",
-   "checked": "2026-10-29 11:03 UTC",
-   "last_ok": "2026-10-29"
+   "checked": "2026-10-30 11:00 UTC",
+   "last_ok": "2026-10-30"
   },
   "eventi: CAMERA - incontri": {
    "ok": true,
    "count": 5,
    "note": "",
-   "checked": "2026-10-29 11:03 UTC",
-   "last_ok": "2026-10-29"
+   "checked": "2026-10-30 11:00 UTC",
+   "last_ok": "2026-10-30"
   }
  }
 }

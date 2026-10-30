@@ -61,6 +61,20 @@ obre 2026</span>
 							Tutte le <span class="mostre-portal-big">Mostre</span> di Dicembre 2026 a Torino						</h2>
 						<ul class="event-list">
 							<li class="clearfix">
+	    <a href="/calendario-arte/torino/mostra-the-quantum-effect-yayoi-kusama-the-eternally-infinite-light-of-the-universe-illuminating-the-quest-for-truth-104219" class="link_mostre_list">
+    	<span class="thumb"><img src="https://www.arte.it/foto/138x138/dd/160966-01_The_Quantum_Effect_Jacqui_Davies_Cinematic_Blossoming_IV_Dark_Matter_2025.jpg"  alt="The Quantum Effect - Yayoi Kusama. The Eternally Infinite Light of the Universe Illuminating the Quest for Truth" /></span>
+        <span class="cont_txt">
+			<span class="data">Dal 30 Ottobre 2026 al 28 Febbraio 2027</span>             <span class="occhiello">
+            	<span class="citta">Torino</span>				 | 				OGR Torino | Binario 1            </span>
+            <span class="title">
+				<h2>The Quantum Effect - Yayoi Kusama. The Eternally Infinite Light of the Universe Illuminating the Quest for Truth</h2>
+			</span>            <span class="sommario">Dal 31 ottobre 2026 al 28 febbraio 2027, le OGR Torino, l&rsquo;hub della Fondazione CRT, presentano The Quantum Effect, una grande mostra sull&rsquo;...</span>
+            <span class="l_tutto">&nbsp;</span>
+        </span>
+    </a>
+    
+</li>
+<li class="clearfix">
 	    <a href="/calendario-arte/torino/mostra-marisa-merz-la-danza-delle-ore-104555" class="link_mostre_list">
     	<span class="thumb"><img src="https://www.arte.it/foto/138x138/76/161412-Marisa-Merz-indossa-_Scarpette_-Galleria-L_Attico-1975_Photo-Abate-1.jpg"  alt="Marisa Merz. La danza delle ore" /></span>
         <span class="cont_txt">
@@ -118,20 +132,4 @@ obre 2026</span>
 </li>
 <li class="clearfix">
 	    <a href="/calendario-arte/torino/mostra-letizia-battaglia-l-opera-1970-2020-davide-tranchina-lightyears-away-104142" class="link_mostre_list">
-    	<span class="thumb"><img src="https://www.arte.it/foto/138x138/2d/160880-02_Letizia_Battaglia_Pier_Paolo_Pasolini_al_Circolo_Turati_Milano_1972_Archivio_Letizia_Battaglia.jpg"  alt="LETIZIA BATTAGLIA. L’OPERA, 1970 – 2020 / DAVIDE TRANCHINA. LIGHTYEARS AWAY" /></span>
-        <span class="cont_txt">
-			<span class="data">Dal 17 Ottobre 2026 al 7 Febbraio 2027</span>             <span class="occhiello">
-            	<span class="citta">Torino</span>				 | 				CAMERA - Centro Italiano per la Fotografia            </span>
-            <span class="title">
-				<h2>LETIZIA BATTAGLIA. L’OPERA, 1970 – 2020 / DAVIDE TRANCHINA. LIGHTYEARS AWAY</h2>
-			</span>            <span class="sommario">Una grande retrospettiva dedicata a Letizia Battaglia, tra le figure pi&ugrave; importanti della fotografia del Novecento, e una mostra personale di D...</span>
-            <span class="l_tutto">&nbsp;</span>
-        </span>
-    </a>
-    
-</li>
-<li class="clearfix">
-	    <a href="/calendario-arte/torino/mostra-il-corpo-della-città-moda-e-arti-tra-liberty-e-modernità-1884-1961-104572" class="link_mostre_list">
-    	<span class="thumb"><img src="https://www.arte.it/foto/138x138/b1/161459-unnamed_1_.jpg"  alt="Il corpo della città. Moda e arti tra Liberty e modernità 1884 – 1961" /></span>
-        <span class="cont_txt">
-			<span class="data">Dal 15 Ottobre 2026 al 22 Febbraio 2027</
+    	<span class="thumb"><img src="https://www.arte.it/foto/138x138/2d/160880-02_Letizia_Battaglia_Pier_Paolo_Pasolini_al_Circolo_Turati_Milano_1972_Archivio_Letizia_Battaglia.jpg"  alt="LETIZIA BATT

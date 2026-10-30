@@ -1,31 +1,44 @@
 {
- "date": "2026-10-29",
+ "date": "2026-10-30",
  "showings": [
+  {
+   "title": "Un Po' Di Luce",
+   "year": 2026,
+   "slug": "un-po-di-luce",
+   "times": [
+    {
+     "t": "10:30",
+     "vo": false
+    }
+   ],
+   "cinema": "Baretti",
+   "date": "2026-10-30"
+  },
   {
    "title": "Primetime",
    "year": 2026,
    "slug": "primetime",
    "times": [
     {
-     "t": "19:15",
+     "t": "21:10",
      "vo": true
     }
    ],
    "cinema": "Centrale",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
-   "title": "The Bibi Files",
-   "year": 2024,
-   "slug": "the-bibi-files",
+   "title": "Naza",
+   "year": 2026,
+   "slug": "naza",
    "times": [
     {
-     "t": "17:40",
+     "t": "19:30",
      "vo": true
     }
    ],
    "cinema": "Centrale",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Nina Roza",
@@ -33,12 +46,12 @@
    "slug": "nina-roza",
    "times": [
     {
-     "t": "21:15",
+     "t": "15:45",
      "vo": true
     }
    ],
    "cinema": "Centrale",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Va' Sentiero",
@@ -46,12 +59,12 @@
    "slug": "va-sentiero",
    "times": [
     {
-     "t": "15:45",
+     "t": "17:40",
      "vo": false
     }
    ],
    "cinema": "Centrale",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Ragione E Sentimento",
@@ -72,7 +85,7 @@
     }
    ],
    "cinema": "Classico",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Ragione E Sentimento",
@@ -80,20 +93,16 @@
    "slug": "ragione-e-sentimento",
    "times": [
     {
-     "t": "15:45",
+     "t": "16:15",
      "vo": false
     },
     {
-     "t": "18:15",
-     "vo": false
-    },
-    {
-     "t": "20:45",
+     "t": "18:45",
      "vo": false
     }
    ],
    "cinema": "Due Giardini",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "L'Estranea",
@@ -101,20 +110,33 @@
    "slug": "lestranea",
    "times": [
     {
-     "t": "16:15",
-     "vo": false
-    },
-    {
      "t": "18:30",
      "vo": false
     },
     {
-     "t": "20:45",
+     "t": "21:15",
      "vo": false
     }
    ],
    "cinema": "Due Giardini",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
+  },
+  {
+   "title": "Dracula Di Bram Stoker",
+   "year": 1992,
+   "slug": "draculadibramstoker",
+   "times": [
+    {
+     "t": "16:00",
+     "vo": false
+    },
+    {
+     "t": "21:00",
+     "vo": false
+    }
+   ],
+   "cinema": "Due Giardini",
+   "date": "2026-10-30"
   },
   {
    "title": "Dio Ride",
@@ -135,7 +157,7 @@
     }
    ],
    "cinema": "Eliseo",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Je So' Pazzo",
@@ -156,7 +178,7 @@
     }
    ],
    "cinema": "Eliseo",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Digger",
@@ -177,7 +199,20 @@
     }
    ],
    "cinema": "Eliseo",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
+  },
+  {
+   "title": "The Invite - Il Piacere È Tutto Nostro",
+   "year": 2026,
+   "slug": "the-invite",
+   "times": [
+    {
+     "t": "21:15",
+     "vo": false
+    }
+   ],
+   "cinema": "Esedra",
+   "date": "2026-10-30"
   },
   {
    "title": "Dio Ride",
@@ -198,7 +233,7 @@
     }
    ],
    "cinema": "Fratelli Marx",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Shaun, Vita Da Pecora: Operazione Z.U.C.C.A.",
@@ -212,18 +247,10 @@
     {
      "t": "17:15",
      "vo": false
-    },
-    {
-     "t": "19:00",
-     "vo": false
-    },
-    {
-     "t": "21:30",
-     "vo": false
     }
    ],
    "cinema": "Fratelli Marx",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Naza",
@@ -236,7 +263,7 @@
     }
    ],
    "cinema": "Fratelli Marx",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "L'Estranea",
@@ -257,7 +284,24 @@
     }
    ],
    "cinema": "Fratelli Marx",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
+  },
+  {
+   "title": "Dracula Di Bram Stoker",
+   "year": 1992,
+   "slug": "draculadibramstoker",
+   "times": [
+    {
+     "t": "19:00",
+     "vo": false
+    },
+    {
+     "t": "21:30",
+     "vo": false
+    }
+   ],
+   "cinema": "Fratelli Marx",
+   "date": "2026-10-30"
   },
   {
    "title": "It Ends",
@@ -270,7 +314,7 @@
     }
    ],
    "cinema": "Greenwich Village",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Minotaur",
@@ -291,7 +335,7 @@
     }
    ],
    "cinema": "Greenwich Village",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Primetime",
@@ -312,7 +356,7 @@
     }
    ],
    "cinema": "Greenwich Village",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Digger",
@@ -333,7 +377,7 @@
     }
    ],
    "cinema": "Greenwich Village",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Calle Malaga",
@@ -350,7 +394,7 @@
     }
    ],
    "cinema": "Greenwich Village",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Dio Ride",
@@ -375,7 +419,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "It Ends",
@@ -396,7 +440,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Un Tranquillo Funerale Di Famiglia",
@@ -417,7 +461,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Ice Cream Man",
@@ -430,7 +474,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Shaun, Vita Da Pecora: Operazione Z.U.C.C.A.",
@@ -447,7 +491,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Je So' Pazzo",
@@ -464,7 +508,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Clayface",
@@ -481,7 +525,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Fast & Furious",
@@ -494,7 +538,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Wildwood - I Segreti Del Bosco Proibito",
@@ -511,7 +555,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Dio Ride",
@@ -519,7 +563,7 @@
    "slug": "dio-ride",
    "times": [
     {
-     "t": "16:45",
+     "t": "17:00",
      "vo": false
     },
     {
@@ -527,12 +571,12 @@
      "vo": false
     },
     {
-     "t": "21:15",
+     "t": "21:30",
      "vo": false
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "It Ends",
@@ -540,16 +584,16 @@
    "slug": "it-ends",
    "times": [
     {
-     "t": "18:10",
+     "t": "18:30",
      "vo": false
     },
     {
-     "t": "22:05",
+     "t": "22:30",
      "vo": false
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Un Tranquillo Funerale Di Famiglia",
@@ -561,12 +605,12 @@
      "vo": false
     },
     {
-     "t": "19:30",
+     "t": "20:45",
      "vo": false
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Ice Cream Man",
@@ -574,16 +618,16 @@
    "slug": "ice-cream-man",
    "times": [
     {
-     "t": "16:40",
+     "t": "16:30",
      "vo": false
     },
     {
-     "t": "21:55",
+     "t": "22:30",
      "vo": false
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Shaun, Vita Da Pecora: Operazione Z.U.C.C.A.",
@@ -593,14 +637,10 @@
     {
      "t": "17:00",
      "vo": false
-    },
-    {
-     "t": "18:20",
-     "vo": false
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Ragione E Sentimento",
@@ -617,7 +657,7 @@
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Clayface",
@@ -625,12 +665,16 @@
    "slug": "clayface",
    "times": [
     {
-     "t": "19:10",
+     "t": "18:10",
+     "vo": false
+    },
+    {
+     "t": "22:15",
      "vo": false
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Fast & Furious",
@@ -638,12 +682,12 @@
    "slug": "fastandfurious",
    "times": [
     {
-     "t": "20:00",
+     "t": "19:30",
      "vo": false
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "L'Estranea",
@@ -651,12 +695,12 @@
    "slug": "lestranea",
    "times": [
     {
-     "t": "20:00",
+     "t": "20:10",
      "vo": false
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Wildwood - I Segreti Del Bosco Proibito",
@@ -664,12 +708,25 @@
    "slug": "wildwood-i-segreti-del-bosco-proibito",
    "times": [
     {
-     "t": "21:10",
+     "t": "18:20",
      "vo": false
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
+  },
+  {
+   "title": "Dracula Di Bram Stoker",
+   "year": 1992,
+   "slug": "draculadibramstoker",
+   "times": [
+    {
+     "t": "20:10",
+     "vo": false
+    }
+   ],
+   "cinema": "Massaua Cityplex",
+   "date": "2026-10-30"
   },
   {
    "title": "Alberi Erranti",
@@ -682,7 +739,7 @@
     }
    ],
    "cinema": "Massimo (MNC)",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Fatherland",
@@ -696,27 +753,10 @@
     {
      "t": "18:00",
      "vo": true
-    },
-    {
-     "t": "21:00",
-     "vo": true
     }
    ],
    "cinema": "Massimo (MNC)",
-   "date": "2026-10-29"
-  },
-  {
-   "title": "Cous Cous",
-   "year": 2007,
-   "slug": "couscous",
-   "times": [
-    {
-     "t": "15:30",
-     "vo": true
-    }
-   ],
-   "cinema": "Massimo (MNC)",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "The Rocky Horror Picture Show",
@@ -724,12 +764,38 @@
    "slug": "therockyhorrorpictureshow",
    "times": [
     {
-     "t": "18:30",
+     "t": "16:00",
      "vo": true
     }
    ],
    "cinema": "Massimo (MNC)",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
+  },
+  {
+   "title": "Tutta Colpa Di Voltaire",
+   "year": 2000,
+   "slug": "tuttacolpadivoltaire",
+   "times": [
+    {
+     "t": "18:00",
+     "vo": true
+    }
+   ],
+   "cinema": "Massimo (MNC)",
+   "date": "2026-10-30"
+  },
+  {
+   "title": "Mektoub. My Love - Canto Due",
+   "year": 2025,
+   "slug": "mektoub-my-love-canto-due",
+   "times": [
+    {
+     "t": "20:45",
+     "vo": true
+    }
+   ],
+   "cinema": "Massimo (MNC)",
+   "date": "2026-10-30"
   },
   {
    "title": "Possible Love",
@@ -742,20 +808,20 @@
     }
    ],
    "cinema": "Massimo (MNC)",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
-   "title": "Strange Journey: The Story Of Rocky Horror",
-   "year": 2025,
-   "slug": "strange-journey-the-story-of-rocky-horror",
+   "title": "Mustang",
+   "year": 2026,
+   "slug": "mustang",
    "times": [
     {
-     "t": "20:45",
-     "vo": true
+     "t": "20:30",
+     "vo": false
     }
    ],
    "cinema": "Massimo (MNC)",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Dio Ride",
@@ -763,16 +829,33 @@
    "slug": "dio-ride",
    "times": [
     {
-     "t": "18:20",
+     "t": "17:20",
      "vo": false
     },
     {
-     "t": "21:15",
+     "t": "19:30",
+     "vo": false
+    },
+    {
+     "t": "22:00",
      "vo": false
     }
    ],
    "cinema": "Movie Planet Lux",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
+  },
+  {
+   "title": "Ragione E Sentimento",
+   "year": 2026,
+   "slug": "ragione-e-sentimento",
+   "times": [
+    {
+     "t": "19:40",
+     "vo": false
+    }
+   ],
+   "cinema": "Movie Planet Lux",
+   "date": "2026-10-30"
   },
   {
    "title": "Clayface",
@@ -780,12 +863,12 @@
    "slug": "clayface",
    "times": [
     {
-     "t": "21:10",
+     "t": "22:15",
      "vo": false
     }
    ],
    "cinema": "Movie Planet Lux",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "The Invite - Il Piacere È Tutto Nostro",
@@ -793,12 +876,16 @@
    "slug": "the-invite",
    "times": [
     {
-     "t": "18:30",
+     "t": "17:15",
+     "vo": false
+    },
+    {
+     "t": "20:00",
      "vo": false
     }
    ],
    "cinema": "Movie Planet Lux",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Wildwood - I Segreti Del Bosco Proibito",
@@ -806,16 +893,16 @@
    "slug": "wildwood-i-segreti-del-bosco-proibito",
    "times": [
     {
-     "t": "18:40",
+     "t": "17:00",
      "vo": false
     },
     {
-     "t": "21:15",
+     "t": "22:10",
      "vo": false
     }
    ],
    "cinema": "Movie Planet Lux",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Minotaur",
@@ -836,7 +923,7 @@
     }
    ],
    "cinema": "Nazionale",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Fatherland",
@@ -861,7 +948,7 @@
     }
    ],
    "cinema": "Nazionale",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Caro Mondo Crudele",
@@ -874,7 +961,7 @@
     }
    ],
    "cinema": "Nazionale",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "L'Estranea",
@@ -895,7 +982,7 @@
     }
    ],
    "cinema": "Nazionale",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Digger",
@@ -908,7 +995,7 @@
     }
    ],
    "cinema": "Nazionale",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Zustissia",
@@ -921,7 +1008,7 @@
     }
    ],
    "cinema": "Nazionale",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Dio Ride",
@@ -946,7 +1033,7 @@
     }
    ],
    "cinema": "Reposi",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Un Tranquillo Funerale Di Famiglia",
@@ -971,20 +1058,32 @@
     }
    ],
    "cinema": "Reposi",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
-   "title": "Ozzy & Black Sabbath - Back To The Beginning",
+   "title": "Je So' Pazzo",
    "year": 2026,
-   "slug": "ozzy-black-sabbath-back-to-the-beginning",
+   "slug": "je-so-pazzo",
    "times": [
     {
-     "t": "21:00",
+     "t": "15:30",
+     "vo": false
+    },
+    {
+     "t": "17:40",
+     "vo": false
+    },
+    {
+     "t": "19:50",
+     "vo": false
+    },
+    {
+     "t": "22:00",
      "vo": false
     }
    ],
    "cinema": "Reposi",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "L'Estranea",
@@ -1009,20 +1108,7 @@
     }
    ],
    "cinema": "Reposi",
-   "date": "2026-10-29"
-  },
-  {
-   "title": "Heart Of The Beast - Nel Profondo Selvaggio",
-   "year": 2026,
-   "slug": "heart-of-the-beast",
-   "times": [
-    {
-     "t": "15:30",
-     "vo": false
-    }
-   ],
-   "cinema": "Reposi",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Dio Ride",
@@ -1043,7 +1129,7 @@
     }
    ],
    "cinema": "Romano",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Nel Silenzio Delle Stanze",
@@ -1064,7 +1150,7 @@
     }
    ],
    "cinema": "Romano",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Je So' Pazzo",
@@ -1077,7 +1163,7 @@
     }
    ],
    "cinema": "Romano",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Ragione E Sentimento",
@@ -1091,10 +1177,27 @@
     {
      "t": "18:00",
      "vo": false
+    },
+    {
+     "t": "20:30",
+     "vo": false
     }
    ],
    "cinema": "Romano",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
+  },
+  {
+   "title": "Era Meglio Domani",
+   "year": 2025,
+   "slug": "era-meglio-domani",
+   "times": [
+    {
+     "t": "21:00",
+     "vo": false
+    }
+   ],
+   "cinema": "Teatro Monterosa",
+   "date": "2026-10-30"
   },
   {
    "title": "Dio Ride",
@@ -1102,20 +1205,24 @@
    "slug": "dio-ride",
    "times": [
     {
-     "t": "14:25",
+     "t": "15:05",
      "vo": false
     },
     {
-     "t": "16:25",
+     "t": "17:50",
      "vo": false
     },
     {
-     "t": "21:50",
+     "t": "18:30",
+     "vo": false
+    },
+    {
+     "t": "20:35",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "It Ends",
@@ -1123,135 +1230,21 @@
    "slug": "it-ends",
    "times": [
     {
-     "t": "17:10",
+     "t": "16:05",
      "vo": false
     },
     {
-     "t": "19:40",
+     "t": "22:10",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Un Tranquillo Funerale Di Famiglia",
    "year": 2026,
    "slug": "un-tranquillo-funerale-di-famiglia",
-   "times": [
-    {
-     "t": "14:30",
-     "vo": false
-    },
-    {
-     "t": "17:00",
-     "vo": false
-    },
-    {
-     "t": "19:00",
-     "vo": false
-    },
-    {
-     "t": "19:30",
-     "vo": false
-    },
-    {
-     "t": "21:00",
-     "vo": false
-    }
-   ],
-   "cinema": "The Space Torino",
-   "date": "2026-10-29"
-  },
-  {
-   "title": "Ice Cream Man",
-   "year": 2026,
-   "slug": "ice-cream-man",
-   "times": [
-    {
-     "t": "14:10",
-     "vo": false
-    },
-    {
-     "t": "19:30",
-     "vo": false
-    },
-    {
-     "t": "21:50",
-     "vo": false
-    }
-   ],
-   "cinema": "The Space Torino",
-   "date": "2026-10-29"
-  },
-  {
-   "title": "Shaun, Vita Da Pecora: Operazione Z.U.C.C.A.",
-   "year": 2026,
-   "slug": "shaun-vita-da-pecora-operazione-zucca",
-   "times": [
-    {
-     "t": "14:10",
-     "vo": false
-    },
-    {
-     "t": "16:40",
-     "vo": false
-    },
-    {
-     "t": "17:45",
-     "vo": false
-    }
-   ],
-   "cinema": "The Space Torino",
-   "date": "2026-10-29"
-  },
-  {
-   "title": "Je So' Pazzo",
-   "year": 2026,
-   "slug": "je-so-pazzo",
-   "times": [
-    {
-     "t": "18:55",
-     "vo": false
-    }
-   ],
-   "cinema": "The Space Torino",
-   "date": "2026-10-29"
-  },
-  {
-   "title": "Ragione E Sentimento",
-   "year": 2026,
-   "slug": "ragione-e-sentimento",
-   "times": [
-    {
-     "t": "15:10",
-     "vo": false
-    }
-   ],
-   "cinema": "The Space Torino",
-   "date": "2026-10-29"
-  },
-  {
-   "title": "Clayface",
-   "year": 2026,
-   "slug": "clayface",
-   "times": [
-    {
-     "t": "15:00",
-     "vo": false
-    },
-    {
-     "t": "21:30",
-     "vo": false
-    }
-   ],
-   "cinema": "The Space Torino",
-   "date": "2026-10-29"
-  },
-  {
-   "title": "Fast & Furious",
-   "year": 2001,
-   "slug": "fastandfurious",
    "times": [
     {
      "t": "14:00",
@@ -1262,7 +1255,32 @@
      "vo": false
     },
     {
-     "t": "19:10",
+     "t": "20:05",
+     "vo": false
+    },
+    {
+     "t": "21:00",
+     "vo": false
+    },
+    {
+     "t": "22:35",
+     "vo": false
+    }
+   ],
+   "cinema": "The Space Torino",
+   "date": "2026-10-30"
+  },
+  {
+   "title": "Ice Cream Man",
+   "year": 2026,
+   "slug": "ice-cream-man",
+   "times": [
+    {
+     "t": "14:00",
+     "vo": false
+    },
+    {
+     "t": "17:10",
      "vo": false
     },
     {
@@ -1270,12 +1288,105 @@
      "vo": false
     },
     {
-     "t": "22:00",
+     "t": "23:50",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
+  },
+  {
+   "title": "Shaun, Vita Da Pecora: Operazione Z.U.C.C.A.",
+   "year": 2026,
+   "slug": "shaun-vita-da-pecora-operazione-zucca",
+   "times": [
+    {
+     "t": "14:50",
+     "vo": false
+    },
+    {
+     "t": "16:30",
+     "vo": false
+    },
+    {
+     "t": "18:50",
+     "vo": false
+    }
+   ],
+   "cinema": "The Space Torino",
+   "date": "2026-10-30"
+  },
+  {
+   "title": "Je So' Pazzo",
+   "year": 2026,
+   "slug": "je-so-pazzo",
+   "times": [
+    {
+     "t": "19:45",
+     "vo": false
+    }
+   ],
+   "cinema": "The Space Torino",
+   "date": "2026-10-30"
+  },
+  {
+   "title": "Ragione E Sentimento",
+   "year": 2026,
+   "slug": "ragione-e-sentimento",
+   "times": [
+    {
+     "t": "16:40",
+     "vo": false
+    }
+   ],
+   "cinema": "The Space Torino",
+   "date": "2026-10-30"
+  },
+  {
+   "title": "Clayface",
+   "year": 2026,
+   "slug": "clayface",
+   "times": [
+    {
+     "t": "21:15",
+     "vo": false
+    },
+    {
+     "t": "23:20",
+     "vo": false
+    }
+   ],
+   "cinema": "The Space Torino",
+   "date": "2026-10-30"
+  },
+  {
+   "title": "Fast & Furious",
+   "year": 2001,
+   "slug": "fastandfurious",
+   "times": [
+    {
+     "t": "14:35",
+     "vo": false
+    },
+    {
+     "t": "17:25",
+     "vo": false
+    },
+    {
+     "t": "19:30",
+     "vo": false
+    },
+    {
+     "t": "21:30",
+     "vo": false
+    },
+    {
+     "t": "23:20",
+     "vo": false
+    }
+   ],
+   "cinema": "The Space Torino",
+   "date": "2026-10-30"
   },
   {
    "title": "Primetime",
@@ -1283,12 +1394,12 @@
    "slug": "primetime",
    "times": [
     {
-     "t": "18:15",
+     "t": "15:50",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "L'Estranea",
@@ -1296,12 +1407,12 @@
    "slug": "lestranea",
    "times": [
     {
-     "t": "22:00",
+     "t": "18:45",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Mammina",
@@ -1309,16 +1420,16 @@
    "slug": "other-mommy",
    "times": [
     {
-     "t": "20:00",
+     "t": "14:10",
      "vo": false
     },
     {
-     "t": "22:25",
+     "t": "23:35",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Wildwood - I Segreti Del Bosco Proibito",
@@ -1326,12 +1437,25 @@
    "slug": "wildwood-i-segreti-del-bosco-proibito",
    "times": [
     {
-     "t": "16:30",
+     "t": "18:25",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
+  },
+  {
+   "title": "Dracula Di Bram Stoker",
+   "year": 1992,
+   "slug": "draculadibramstoker",
+   "times": [
+    {
+     "t": "22:20",
+     "vo": false
+    }
+   ],
+   "cinema": "The Space Torino",
+   "date": "2026-10-30"
   },
   {
    "title": "Dio Ride",
@@ -1339,12 +1463,12 @@
    "slug": "dio-ride",
    "times": [
     {
-     "t": "21:10",
+     "t": "21:20",
      "vo": false
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "It Ends",
@@ -1369,7 +1493,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Un Tranquillo Funerale Di Famiglia",
@@ -1394,7 +1518,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Ice Cream Man",
@@ -1415,7 +1539,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Shaun, Vita Da Pecora: Operazione Z.U.C.C.A.",
@@ -1431,12 +1555,12 @@
      "vo": false
     },
     {
-     "t": "17:20",
+     "t": "17:21",
      "vo": false
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Je So' Pazzo",
@@ -1444,16 +1568,12 @@
    "slug": "je-so-pazzo",
    "times": [
     {
-     "t": "15:30",
-     "vo": false
-    },
-    {
      "t": "19:00",
      "vo": false
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Ragione E Sentimento",
@@ -1470,7 +1590,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Clayface",
@@ -1482,7 +1602,7 @@
      "vo": true
     },
     {
-     "t": "20:10",
+     "t": "20:20",
      "vo": false
     },
     {
@@ -1491,20 +1611,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-10-29"
-  },
-  {
-   "title": "Ozzy & Black Sabbath - Back To The Beginning",
-   "year": 2026,
-   "slug": "ozzy-black-sabbath-back-to-the-beginning",
-   "times": [
-    {
-     "t": "21:20",
-     "vo": true
-    }
-   ],
-   "cinema": "UCI Lingotto",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Fast & Furious",
@@ -1525,7 +1632,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Primetime",
@@ -1542,7 +1649,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "L'Estranea",
@@ -1550,12 +1657,12 @@
    "slug": "lestranea",
    "times": [
     {
-     "t": "18:30",
+     "t": "15:30",
      "vo": false
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Mammina",
@@ -1568,7 +1675,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Wildwood - I Segreti Del Bosco Proibito",
@@ -1597,7 +1704,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Street Fighter",
@@ -1605,12 +1712,12 @@
    "slug": "street-fighter",
    "times": [
     {
-     "t": "22:35",
+     "t": "22:50",
      "vo": false
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Frankie E Le Creature Dimenticate",
@@ -1627,7 +1734,24 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
+  },
+  {
+   "title": "Dracula Di Bram Stoker",
+   "year": 1992,
+   "slug": "draculadibramstoker",
+   "times": [
+    {
+     "t": "18:30",
+     "vo": false
+    },
+    {
+     "t": "21:40",
+     "vo": false
+    }
+   ],
+   "cinema": "UCI Lingotto",
+   "date": "2026-10-30"
   },
   {
    "title": "Seventeen World Tour New",
@@ -1640,7 +1764,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   },
   {
    "title": "Hybe Cheering Party",
@@ -1653,7 +1777,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-10-29"
+   "date": "2026-10-30"
   }
  ]
 }
