@@ -1642,5 +1642,29 @@
   "tmdb": 1483,
   "url": "https://letterboxd.com/sethsreviews/film/begotten/",
   "review": "nightmare."
+ },
+ "letterboxd-review-1564211102": {
+  "guid": "letterboxd-review-1564211102",
+  "title": "Ali",
+  "year": 2001,
+  "rating": null,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-10-30",
+  "tmdb": 8489,
+  "url": "https://letterboxd.com/sethsreviews/film/ali/",
+  "review": "pretty brilliant throughout, but the Foreman knockout is where it truly taps into Ali’s mythos: personal defiance on every page, pushing beyond the ideas of limitation. A ring used as a vehicle for resistance both inside and out. Adored the final frame. The start of Mann’s digital world."
+ },
+ "letterboxd-watch-1564166154": {
+  "guid": "letterboxd-watch-1564166154",
+  "title": "Wildwood",
+  "year": 2026,
+  "rating": 4.5,
+  "like": false,
+  "rewatch": true,
+  "watched": "2026-10-30",
+  "tmdb": 791523,
+  "url": "https://letterboxd.com/sethsreviews/film/wildwood-2026/1/",
+  "review": ""
  }
 }

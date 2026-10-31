@@ -90,13 +90,24 @@
  {
   "title": "Effetto VR!",
   "venue": "Il Cinema in Virtual Reality",
-  "start": "2026-11-01",
-  "end": "2026-11-01",
+  "start": "2026-11-02",
+  "end": "2026-11-02",
   "kind": "evento",
   "tag": "cinema",
   "desc": "",
-  "url": "https://www.museocinema.it/it/attivita/alla-scoperta-del-museo",
+  "url": "https://www.museocinema.it/it/attivita/black-lions-roman-wolves-haile-gerima-al-cinema-massimo",
   "source": "Museo Nazionale del Cinema"
+ },
+ {
+  "title": "Samonios: La Vera Storia di Halloween 2026",
+  "venue": "Torino",
+  "start": "2026-10-31",
+  "end": "2026-10-31",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/samonios-la-vera-storia-di-halloween-2026",
+  "source": "Turismo Torino"
  },
  {
   "title": "Diffusissima 2026",
@@ -110,6 +121,17 @@
   "source": "Turismo Torino"
  },
  {
+  "title": "Notte delle Arti Contemporanee 2026",
+  "venue": "Torino",
+  "start": "2026-10-31",
+  "end": "2026-10-31",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/notte-delle-arti-contemporanee-2026",
+  "source": "Turismo Torino"
+ },
+ {
   "title": "Moncalieri Jazz Festival 2026",
   "venue": "Torino",
   "start": "2026-10-24",
@@ -118,6 +140,17 @@
   "tag": "arte",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/moncalieri-jazz-festival-2026",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "XXIII Giornata Nazionale del Trekking Urbano. Sulle orme di San Francesco - Volpiano",
+  "venue": "Torino",
+  "start": "2026-10-31",
+  "end": "2026-10-31",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/xxiii-giornata-nazionale-del-trekking-urbano-sulle-orme-di-san-francesco-volpiano",
   "source": "Turismo Torino"
  },
  {
@@ -151,6 +184,28 @@
   "tag": "fotografia",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/world-press-photo-exhibition-2026",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Yayoi Kusama. Infinity Mirrored Room",
+  "venue": "Torino",
+  "start": "2026-10-31",
+  "end": "2026-10-31",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/yayoi-kusama-infinity-mirrored-room",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Tennis in Città - 2026",
+  "venue": "Torino",
+  "start": "2026-10-31",
+  "end": "2026-10-31",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/tennis-in-citta-2026",
   "source": "Turismo Torino"
  },
  {
@@ -195,50 +250,6 @@
   "tag": "arte",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/estate-reale-2026-una-sera-al-museo",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Club To Club — C2c Festival 2026",
-  "venue": "Torino",
-  "start": "2026-10-29",
-  "end": "2026-11-01",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/club-to-club-c2c-festival-2026",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Di padre in figlio. L'universo grafico di Giambattista e Giandomenico Tiepolo",
-  "venue": "Torino",
-  "start": "2026-10-15",
-  "end": "2027-01-17",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/di-padre-in-figlio-l-universo-grafico-di-giambattista-e-giandomenico-tiepolo",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Luci d'Artista",
-  "venue": "Torino",
-  "start": "2026-10-23",
-  "end": "2027-01-10",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/luci-dartista",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Cirié Halloween Experience",
-  "venue": "Torino",
-  "start": "2026-10-31",
-  "end": "2026-11-01",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/cirie-halloween-experience",
   "source": "Turismo Torino"
  },
  {

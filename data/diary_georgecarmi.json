@@ -1738,5 +1738,29 @@
   "tmdb": 1765072,
   "url": "https://letterboxd.com/georgecarmi/film/you-can-see-everything/1/",
   "review": "saw it again. saw a lot more."
+ },
+ "letterboxd-review-1564751921": {
+  "guid": "letterboxd-review-1564751921",
+  "title": "Wild Horse Nine",
+  "year": 2026,
+  "rating": 4.0,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-10-30",
+  "tmdb": 891621,
+  "url": "https://letterboxd.com/georgecarmi/film/wild-horse-nine/",
+  "review": "dragged us to hell."
+ },
+ "letterboxd-review-1563421712": {
+  "guid": "letterboxd-review-1563421712",
+  "title": "Malignant",
+  "year": 2021,
+  "rating": 5.0,
+  "like": true,
+  "rewatch": true,
+  "watched": "2026-10-29",
+  "tmdb": 619778,
+  "url": "https://letterboxd.com/georgecarmi/film/malignant-2021/4/",
+  "review": "#perfecthorror"
  }
 }

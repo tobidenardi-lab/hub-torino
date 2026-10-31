@@ -61,6 +61,20 @@ obre 2026</span>
 							Tutte le <span class="mostre-portal-big">Mostre</span> di Dicembre 2026 a Torino						</h2>
 						<ul class="event-list">
 							<li class="clearfix">
+	    <a href="/calendario-arte/torino/mostra-declinazioni-contemporanee-4-residenze-d-artista-e-nuove-installazioni-site-specific-104637" class="link_mostre_list">
+    	<span class="thumb"><img src="https://www.arte.it/foto/138x138/e2/161552-14.jpg"  alt="DECLINAZIONI CONTEMPORANEE #4. Residenze d’artista e nuove installazioni site-specific" /></span>
+        <span class="cont_txt">
+			<span class="data">Dal 31 Ottobre 2026 al 31 Gennaio 2027</span>             <span class="occhiello">
+            	<span class="citta">Torino</span>				 | 				MAO – Museo d'Arte Orientale            </span>
+            <span class="title">
+				<h2>DECLINAZIONI CONTEMPORANEE #4. Residenze d’artista e nuove installazioni site-specific</h2>
+			</span>            <span class="sommario">Dal 31 ottobre 2026, in occasione di&nbsp;Artissima, il MAO Museo d&rsquo;Arte Orientale di Torino presenta la&nbsp;quarta edizione di&nbsp;Declinazio...</span>
+            <span class="l_tutto">&nbsp;</span>
+        </span>
+    </a>
+    
+</li>
+<li class="clearfix">
 	    <a href="/calendario-arte/torino/mostra-the-quantum-effect-yayoi-kusama-the-eternally-infinite-light-of-the-universe-illuminating-the-quest-for-truth-104219" class="link_mostre_list">
     	<span class="thumb"><img src="https://www.arte.it/foto/138x138/dd/160966-01_The_Quantum_Effect_Jacqui_Davies_Cinematic_Blossoming_IV_Dark_Matter_2025.jpg"  alt="The Quantum Effect - Yayoi Kusama. The Eternally Infinite Light of the Universe Illuminating the Quest for Truth" /></span>
         <span class="cont_txt">
@@ -118,18 +132,4 @@ obre 2026</span>
 </li>
 <li class="clearfix">
 	    <a href="/calendario-arte/torino/mostra-banksy-street-is-the-museum-104585" class="link_mostre_list">
-    	<span class="thumb"><img src="https://www.arte.it/foto/138x138/d8/161481-image002.jpg"  alt="Banksy – Street is the Museum" /></span>
-        <span class="cont_txt">
-			<span class="data">Dal 22 Ottobre 2026 al 31 Gennaio 2027</span>             <span class="occhiello">
-            	<span class="citta">Torino</span>				 | 				Palazzo Faletti di Barolo            </span>
-            <span class="title">
-				<h2>Banksy – Street is the Museum</h2>
-			</span>            <span class="sommario">Dopo aver conquistato oltre 3,5 milioni di visitatori nel mondo e aver fatto tappa nelle principali citt&agrave; europee e internazionali,&nbsp;il pro...</span>
-            <span class="l_tutto">&nbsp;</span>
-        </span>
-    </a>
-    
-</li>
-<li class="clearfix">
-	    <a href="/calendario-arte/torino/mostra-letizia-battaglia-l-opera-1970-2020-davide-tranchina-lightyears-away-104142" class="link_mostre_list">
-    	<span class="thumb"><img src="https://www.arte.it/foto/138x138/2d/160880-02_Letizia_Battaglia_Pier_Paolo_Pasolini_al_Circolo_Turati_Milano_1972_Archivio_Letizia_Battaglia.jpg"  alt="LETIZIA BATT
+    	<span class="thumb"><img src="https://www.arte.it/foto/138x138/d8/1
