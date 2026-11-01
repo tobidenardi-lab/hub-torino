@@ -1,4 +1,4 @@
-obre 2026</span>
+embre 2026</span>
 
 		</div>
 	</div>
@@ -58,7 +58,7 @@ obre 2026</span>
 								<div class="primary-column mostre">
 					
 											<h2 class="francois-one portal-title">
-							Tutte le <span class="mostre-portal-big">Mostre</span> di Dicembre 2026 a Torino						</h2>
+							Tutte le <span class="mostre-portal-big">Mostre</span> di Gennaio 2027 a Torino						</h2>
 						<ul class="event-list">
 							<li class="clearfix">
 	    <a href="/calendario-arte/torino/mostra-declinazioni-contemporanee-4-residenze-d-artista-e-nuove-installazioni-site-specific-104637" class="link_mostre_list">
