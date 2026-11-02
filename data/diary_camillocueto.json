@@ -1546,5 +1546,17 @@
   "tmdb": 1412795,
   "url": "https://letterboxd.com/camillocueto/film/the-spiral-2026/",
   "review": ""
+ },
+ "letterboxd-watch-1568241094": {
+  "guid": "letterboxd-watch-1568241094",
+  "title": "Risky Business",
+  "year": 1983,
+  "rating": 3.0,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-11-01",
+  "tmdb": 9346,
+  "url": "https://letterboxd.com/camillocueto/film/risky-business/",
+  "review": ""
  }
 }

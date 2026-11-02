@@ -1582,5 +1582,17 @@
   "tmdb": 2501,
   "url": "https://letterboxd.com/dedecxz/film/the-bourne-identity-2002/",
   "review": ""
+ },
+ "letterboxd-watch-1568603829": {
+  "guid": "letterboxd-watch-1568603829",
+  "title": "Clayface",
+  "year": 2026,
+  "rating": 3.5,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-11-02",
+  "tmdb": 1400940,
+  "url": "https://letterboxd.com/dedecxz/film/clayface/",
+  "review": ""
  }
 }

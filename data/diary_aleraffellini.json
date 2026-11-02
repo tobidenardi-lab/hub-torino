@@ -1558,5 +1558,17 @@
   "tmdb": 1437696,
   "url": "https://letterboxd.com/aleraffellini/film/fatherland-2026/",
   "review": ""
+ },
+ "letterboxd-watch-1567738557": {
+  "guid": "letterboxd-watch-1567738557",
+  "title": "Bram Stoker's Dracula",
+  "year": 1992,
+  "rating": 3.0,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-11-01",
+  "tmdb": 6114,
+  "url": "https://letterboxd.com/aleraffellini/film/bram-stokers-dracula/",
+  "review": ""
  }
 }
