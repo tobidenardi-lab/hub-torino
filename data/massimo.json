@@ -26,6 +26,52 @@
   {
    "date": "2026-11-04",
    "times": [
+    "16:00",
+    "18:00",
+    "21:00"
+   ],
+   "title": "Fatherland",
+   "director": "P. Pawlikowski",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-11",
+   "times": [
+    "16:00"
+   ],
+   "title": "Fatherland",
+   "director": "P. Pawlikowski",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-11",
+   "times": [
+    "18:00"
+   ],
+   "title": "Zabriskie Point",
+   "director": "M. Antonioni",
+   "year": 1970,
+   "room": null,
+   "note": "Il film è introdotto da Bruno Surace"
+  },
+  {
+   "date": "2026-11-11",
+   "times": [
+    "21:00"
+   ],
+   "title": "Glocal Film Festival",
+   "director": "",
+   "year": null,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-11",
+   "times": [
     "16:00"
    ],
    "title": "Possible Love",
@@ -35,7 +81,29 @@
    "note": ""
   },
   {
-   "date": "2026-11-04",
+   "date": "2026-11-11",
+   "times": [
+    "20:00"
+   ],
+   "title": "Alberi erranti",
+   "director": "S. Mereu",
+   "year": 2026,
+   "room": "Sala 2",
+   "note": ""
+  },
+  {
+   "date": "2026-11-11",
+   "times": [
+    "16:00"
+   ],
+   "title": "Possible Love",
+   "director": "L. Chang-dong",
+   "year": 2026,
+   "room": "Sala 2",
+   "note": ""
+  },
+  {
+   "date": "2026-11-11",
    "times": [
     "20:00"
    ],
@@ -132,17 +200,6 @@
    "year": 2026,
    "room": null,
    "note": ""
-  },
-  {
-   "date": "2026-11-04",
-   "times": [
-    "18:00"
-   ],
-   "title": "Sala 1 Fino all’ultimo respiro",
-   "director": "J.L. Godard",
-   "year": 1960,
-   "room": null,
-   "note": "Il film è introdotto da Silvio Alovisio"
   },
   {
    "date": "2026-11-05",
@@ -363,17 +420,6 @@
    "year": 1961,
    "room": null,
    "note": ""
-  },
-  {
-   "date": "2026-11-11",
-   "times": [
-    "18:00"
-   ],
-   "title": "Sala 1 Zabriskie Point",
-   "director": "M. Antonioni",
-   "year": 1970,
-   "room": null,
-   "note": "Il film è introdotto da Bruno Surace"
   },
   {
    "date": "2026-11-12",

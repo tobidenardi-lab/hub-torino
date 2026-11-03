@@ -77,14 +77,14 @@
   "source": "CAMERA - incontri"
  },
  {
-  "title": "Black Lions, Roman Wolves: Haile Gerima al Cinema Massimo",
-  "venue": "Black Lions, Roman Wolves: Haile Gerima al Cinema Massimo",
-  "start": "2026-11-04",
-  "end": "2026-11-04",
+  "title": "Effetto VR!",
+  "venue": "Il Cinema in Virtual Reality",
+  "start": "2026-11-05",
+  "end": "2026-11-05",
   "kind": "evento",
   "tag": "cinema",
   "desc": "",
-  "url": "https://www.museocinema.it/it/attivita/black-lions-roman-wolves-haile-gerima-al-cinema-massimo",
+  "url": "https://www.museocinema.it/it/attivita/effetti-speciali-del-sabato-laboratorio-sul-set",
   "source": "Museo Nazionale del Cinema"
  },
  {
@@ -110,6 +110,17 @@
   "source": "Turismo Torino"
  },
  {
+  "title": "Banksy. Street is the Museum",
+  "venue": "Torino",
+  "start": "2026-10-22",
+  "end": "2027-01-31",
+  "kind": "mostra",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/banksy-street-is-the-museum",
+  "source": "Turismo Torino"
+ },
+ {
   "title": "World Press Photo Exhibition 2026",
   "venue": "Torino",
   "start": "2026-09-18",
@@ -118,17 +129,6 @@
   "tag": "fotografia",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/world-press-photo-exhibition-2026",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Yayoi Kusama. Infinity Mirrored Room",
-  "venue": "Torino",
-  "start": "2026-10-31",
-  "end": "2027-02-25",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/yayoi-kusama-infinity-mirrored-room",
   "source": "Turismo Torino"
  },
  {
@@ -156,8 +156,8 @@
  {
   "title": "Di padre in figlio. L'universo grafico di Giambattista e Giandomenico Tiepolo",
   "venue": "Torino",
-  "start": "2026-10-15",
-  "end": "2027-01-17",
+  "start": "2026-11-03",
+  "end": "2026-11-03",
   "kind": "evento",
   "tag": "arte",
   "desc": "",
@@ -198,6 +198,17 @@
   "source": "Turismo Torino"
  },
  {
+  "title": "Effetto Marilyn",
+  "venue": "Torino",
+  "start": "2026-11-03",
+  "end": "2026-11-04",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/effetto-marilyn",
+  "source": "Turismo Torino"
+ },
+ {
   "title": "Road To Torino 2026",
   "venue": "Torino",
   "start": "2026-11-02",
@@ -209,6 +220,28 @@
   "source": "Turismo Torino"
  },
  {
+  "title": "Quartetto Ardeo. Omaggio a Beethoven",
+  "venue": "Torino",
+  "start": "2026-11-03",
+  "end": "2026-11-03",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/quartetto-ardeo-omaggio-a-beethoven",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Contemporanea Film Festival",
+  "venue": "Torino",
+  "start": "2026-11-03",
+  "end": "2026-11-07",
+  "kind": "evento",
+  "tag": "cinema",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/contemporanea-film-festival",
+  "source": "Turismo Torino"
+ },
+ {
   "title": "Luci D'Artista City Tour 2026",
   "venue": "Torino",
   "start": "2026-11-01",
@@ -217,39 +250,6 @@
   "tag": "arte",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/luci-d-artista-city-tour-2026",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Halloween, il varietà dell'orrore",
-  "venue": "Torino",
-  "start": "2026-10-31",
-  "end": "2026-11-02",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/halloween-il-varieta-dell-orrore",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Preshow",
-  "venue": "Torino",
-  "start": "2026-10-09",
-  "end": "2027-01-03",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/preshow",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Art Site Fest 2026",
-  "venue": "Torino",
-  "start": "2026-10-14",
-  "end": "2026-11-20",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/art-site-fest-2026",
   "source": "Turismo Torino"
  },
  {

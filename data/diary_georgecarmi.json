@@ -1762,5 +1762,17 @@
   "tmdb": 619778,
   "url": "https://letterboxd.com/georgecarmi/film/malignant-2021/4/",
   "review": "#perfecthorror"
+ },
+ "letterboxd-review-1570182972": {
+  "guid": "letterboxd-review-1570182972",
+  "title": "The Hunger Games: Mockingjay – Part 2",
+  "year": 2015,
+  "rating": 2.5,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-11-02",
+  "tmdb": 131634,
+  "url": "https://letterboxd.com/georgecarmi/film/the-hunger-games-mockingjay-part-2/",
+  "review": "ladies and gentlemen, welcome to the 76th hunger games."
  }
 }

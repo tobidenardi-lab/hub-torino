@@ -1,18 +1,18 @@
 {
- "date": "2026-11-02",
+ "date": "2026-11-03",
  "showings": [
   {
-   "title": "Calle Malaga",
-   "year": 2025,
-   "slug": "calle-malaga",
+   "title": "Comme Un Fils",
+   "year": 2023,
+   "slug": "comme-un-fils",
    "times": [
     {
-     "t": "10:30",
-     "vo": false
+     "t": "21:00",
+     "vo": true
     }
    ],
    "cinema": "Baretti",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Primetime",
@@ -20,17 +20,17 @@
    "slug": "primetime",
    "times": [
     {
-     "t": "21:10",
+     "t": "15:45",
      "vo": true
     }
    ],
    "cinema": "Centrale",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
-   "title": "Naza",
-   "year": 2026,
-   "slug": "naza",
+   "title": "The Bibi Files",
+   "year": 2024,
+   "slug": "the-bibi-files",
    "times": [
     {
      "t": "19:30",
@@ -38,7 +38,7 @@
     }
    ],
    "cinema": "Centrale",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Nina Roza",
@@ -46,12 +46,12 @@
    "slug": "nina-roza",
    "times": [
     {
-     "t": "15:45",
+     "t": "17:40",
      "vo": true
     }
    ],
    "cinema": "Centrale",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Va' Sentiero",
@@ -59,12 +59,12 @@
    "slug": "va-sentiero",
    "times": [
     {
-     "t": "17:40",
+     "t": "21:10",
      "vo": false
     }
    ],
    "cinema": "Centrale",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Palestina 36 - Quando Tutto Ebbe Inizio",
@@ -77,7 +77,7 @@
     }
    ],
    "cinema": "Agnelli",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Ragione E Sentimento",
@@ -98,7 +98,49 @@
     }
    ],
    "cinema": "Classico",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
+  },
+  {
+   "title": "Ragione E Sentimento",
+   "year": 2026,
+   "slug": "ragione-e-sentimento",
+   "times": [
+    {
+     "t": "15:45",
+     "vo": false
+    },
+    {
+     "t": "18:15",
+     "vo": false
+    },
+    {
+     "t": "20:45",
+     "vo": false
+    }
+   ],
+   "cinema": "Due Giardini",
+   "date": "2026-11-03"
+  },
+  {
+   "title": "L'Estranea",
+   "year": 2026,
+   "slug": "lestranea",
+   "times": [
+    {
+     "t": "16:15",
+     "vo": false
+    },
+    {
+     "t": "18:30",
+     "vo": false
+    },
+    {
+     "t": "20:45",
+     "vo": false
+    }
+   ],
+   "cinema": "Due Giardini",
+   "date": "2026-11-03"
   },
   {
    "title": "Dio Ride",
@@ -119,7 +161,7 @@
     }
    ],
    "cinema": "Eliseo",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Je So' Pazzo",
@@ -140,7 +182,7 @@
     }
    ],
    "cinema": "Eliseo",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Digger",
@@ -161,7 +203,7 @@
     }
    ],
    "cinema": "Eliseo",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Dio Ride",
@@ -182,7 +224,7 @@
     }
    ],
    "cinema": "Fratelli Marx",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Shaun, Vita Da Pecora: Operazione Z.U.C.C.A.",
@@ -203,7 +245,7 @@
     }
    ],
    "cinema": "Fratelli Marx",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Naza",
@@ -216,7 +258,7 @@
     }
    ],
    "cinema": "Fratelli Marx",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "L'Estranea",
@@ -237,7 +279,7 @@
     }
    ],
    "cinema": "Fratelli Marx",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "La Maison Des Femmes - La Casa Delle Donne",
@@ -250,7 +292,7 @@
     }
    ],
    "cinema": "Fratelli Marx",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "It Ends",
@@ -263,7 +305,7 @@
     }
    ],
    "cinema": "Greenwich Village",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Minotaur",
@@ -284,7 +326,7 @@
     }
    ],
    "cinema": "Greenwich Village",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Primetime",
@@ -305,7 +347,7 @@
     }
    ],
    "cinema": "Greenwich Village",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Digger",
@@ -326,7 +368,7 @@
     }
    ],
    "cinema": "Greenwich Village",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Calle Malaga",
@@ -343,7 +385,7 @@
     }
    ],
    "cinema": "Greenwich Village",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Dio Ride",
@@ -368,7 +410,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "It Ends",
@@ -389,7 +431,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Un Tranquillo Funerale Di Famiglia",
@@ -406,7 +448,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Ice Cream Man",
@@ -419,7 +461,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Shaun, Vita Da Pecora: Operazione Z.U.C.C.A.",
@@ -436,7 +478,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Je So' Pazzo",
@@ -453,7 +495,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Clayface",
@@ -461,12 +503,16 @@
    "slug": "clayface",
    "times": [
     {
+     "t": "15:20",
+     "vo": false
+    },
+    {
      "t": "21:30",
      "vo": false
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Fast & Furious",
@@ -479,7 +525,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Wildwood - I Segreti Del Bosco Proibito",
@@ -492,7 +538,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Dio Ride",
@@ -513,7 +559,7 @@
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "It Ends",
@@ -525,12 +571,12 @@
      "vo": false
     },
     {
-     "t": "19:50",
+     "t": "19:20",
      "vo": false
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Un Tranquillo Funerale Di Famiglia",
@@ -538,7 +584,7 @@
    "slug": "un-tranquillo-funerale-di-famiglia",
    "times": [
     {
-     "t": "16:40",
+     "t": "17:00",
      "vo": false
     },
     {
@@ -547,7 +593,7 @@
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Ice Cream Man",
@@ -555,16 +601,12 @@
    "slug": "ice-cream-man",
    "times": [
     {
-     "t": "18:25",
-     "vo": false
-    },
-    {
      "t": "21:45",
      "vo": false
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Shaun, Vita Da Pecora: Operazione Z.U.C.C.A.",
@@ -576,12 +618,12 @@
      "vo": false
     },
     {
-     "t": "18:15",
+     "t": "18:20",
      "vo": false
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Ragione E Sentimento",
@@ -594,7 +636,7 @@
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Clayface",
@@ -602,12 +644,12 @@
    "slug": "clayface",
    "times": [
     {
-     "t": "21:30",
+     "t": "19:00",
      "vo": false
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "L'Estranea",
@@ -615,16 +657,12 @@
    "slug": "lestranea",
    "times": [
     {
-     "t": "19:00",
-     "vo": false
-    },
-    {
-     "t": "21:05",
+     "t": "21:00",
      "vo": false
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Wildwood - I Segreti Del Bosco Proibito",
@@ -632,7 +670,7 @@
    "slug": "wildwood-i-segreti-del-bosco-proibito",
    "times": [
     {
-     "t": "16:40",
+     "t": "16:50",
      "vo": false
     },
     {
@@ -641,7 +679,20 @@
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
+  },
+  {
+   "title": "Hope",
+   "year": 2026,
+   "slug": "hope",
+   "times": [
+    {
+     "t": "21:15",
+     "vo": false
+    }
+   ],
+   "cinema": "Massaua Cityplex",
+   "date": "2026-11-03"
   },
   {
    "title": "Alberi Erranti",
@@ -654,7 +705,7 @@
     }
    ],
    "cinema": "Massimo (MNC)",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Fatherland",
@@ -675,7 +726,33 @@
     }
    ],
    "cinema": "Massimo (MNC)",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
+  },
+  {
+   "title": "La Ragazza Di Bube",
+   "year": 1963,
+   "slug": "la-ragazza-di-bube",
+   "times": [
+    {
+     "t": "20:30",
+     "vo": false
+    }
+   ],
+   "cinema": "Massimo (MNC)",
+   "date": "2026-11-03"
+  },
+  {
+   "title": "La Ballata Di Narayama",
+   "year": 1983,
+   "slug": "la-ballata-di-narayama",
+   "times": [
+    {
+     "t": "15:30",
+     "vo": true
+    }
+   ],
+   "cinema": "Massimo (MNC)",
+   "date": "2026-11-03"
   },
   {
    "title": "Possible Love",
@@ -688,20 +765,20 @@
     }
    ],
    "cinema": "Massimo (MNC)",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
-   "title": "La Vendetta È Mia",
-   "year": 1979,
-   "slug": "la-vendetta-e-mia",
+   "title": "Il Mezzano",
+   "year": 1987,
+   "slug": "il-mezzano",
    "times": [
     {
-     "t": "16:00",
+     "t": "18:00",
      "vo": true
     }
    ],
    "cinema": "Massimo (MNC)",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Dio Ride",
@@ -718,7 +795,20 @@
     }
    ],
    "cinema": "Movie Planet Lux",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
+  },
+  {
+   "title": "Clayface",
+   "year": 2026,
+   "slug": "clayface",
+   "times": [
+    {
+     "t": "21:10",
+     "vo": false
+    }
+   ],
+   "cinema": "Movie Planet Lux",
+   "date": "2026-11-03"
   },
   {
    "title": "The Invite - Il Piacere È Tutto Nostro",
@@ -731,7 +821,7 @@
     }
    ],
    "cinema": "Movie Planet Lux",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Wildwood - I Segreti Del Bosco Proibito",
@@ -748,7 +838,7 @@
     }
    ],
    "cinema": "Movie Planet Lux",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Minotaur",
@@ -769,7 +859,7 @@
     }
    ],
    "cinema": "Nazionale",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Fatherland",
@@ -794,7 +884,7 @@
     }
    ],
    "cinema": "Nazionale",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Caro Mondo Crudele",
@@ -807,7 +897,7 @@
     }
    ],
    "cinema": "Nazionale",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "L'Estranea",
@@ -828,7 +918,7 @@
     }
    ],
    "cinema": "Nazionale",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Digger",
@@ -841,7 +931,7 @@
     }
    ],
    "cinema": "Nazionale",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Zustissia",
@@ -854,7 +944,7 @@
     }
    ],
    "cinema": "Nazionale",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Dio Ride",
@@ -879,7 +969,7 @@
     }
    ],
    "cinema": "Reposi",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Un Tranquillo Funerale Di Famiglia",
@@ -904,7 +994,7 @@
     }
    ],
    "cinema": "Reposi",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Je So' Pazzo",
@@ -925,7 +1015,7 @@
     }
    ],
    "cinema": "Reposi",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "L'Estranea",
@@ -950,7 +1040,7 @@
     }
    ],
    "cinema": "Reposi",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Heart Of The Beast - Nel Profondo Selvaggio",
@@ -975,7 +1065,7 @@
     }
    ],
    "cinema": "Reposi",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "L'Assurda Storia Della Gialappa's Band",
@@ -988,7 +1078,7 @@
     }
    ],
    "cinema": "Reposi",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Dio Ride",
@@ -1009,7 +1099,7 @@
     }
    ],
    "cinema": "Romano",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Nel Silenzio Delle Stanze",
@@ -1030,7 +1120,7 @@
     }
    ],
    "cinema": "Romano",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Je So' Pazzo",
@@ -1043,7 +1133,7 @@
     }
    ],
    "cinema": "Romano",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Ragione E Sentimento",
@@ -1064,20 +1154,7 @@
     }
    ],
    "cinema": "Romano",
-   "date": "2026-11-02"
-  },
-  {
-   "title": "Santiago - Un Cammino Per Ricominciare",
-   "year": 2026,
-   "slug": "santiago-un-cammino-per-ricominciare",
-   "times": [
-    {
-     "t": "21:00",
-     "vo": false
-    }
-   ],
-   "cinema": "Teatro Monterosa",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Dio Ride",
@@ -1085,20 +1162,24 @@
    "slug": "dio-ride",
    "times": [
     {
-     "t": "14:00",
+     "t": "14:30",
      "vo": false
     },
     {
-     "t": "16:15",
+     "t": "16:25",
      "vo": false
     },
     {
-     "t": "21:20",
+     "t": "18:30",
+     "vo": false
+    },
+    {
+     "t": "21:00",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "It Ends",
@@ -1106,16 +1187,16 @@
    "slug": "it-ends",
    "times": [
     {
-     "t": "16:20",
+     "t": "17:20",
      "vo": false
     },
     {
-     "t": "22:35",
+     "t": "22:00",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Un Tranquillo Funerale Di Famiglia",
@@ -1123,11 +1204,11 @@
    "slug": "un-tranquillo-funerale-di-famiglia",
    "times": [
     {
-     "t": "14:50",
+     "t": "14:35",
      "vo": false
     },
     {
-     "t": "16:50",
+     "t": "17:05",
      "vo": false
     },
     {
@@ -1140,7 +1221,7 @@
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Ice Cream Man",
@@ -1148,15 +1229,11 @@
    "slug": "ice-cream-man",
    "times": [
     {
-     "t": "14:00",
+     "t": "14:05",
      "vo": false
     },
     {
-     "t": "17:35",
-     "vo": false
-    },
-    {
-     "t": "19:00",
+     "t": "19:40",
      "vo": false
     },
     {
@@ -1165,7 +1242,7 @@
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Shaun, Vita Da Pecora: Operazione Z.U.C.C.A.",
@@ -1177,12 +1254,16 @@
      "vo": false
     },
     {
-     "t": "17:20",
+     "t": "16:15",
+     "vo": false
+    },
+    {
+     "t": "17:30",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Je So' Pazzo",
@@ -1190,12 +1271,12 @@
    "slug": "je-so-pazzo",
    "times": [
     {
-     "t": "19:20",
+     "t": "18:50",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Ragione E Sentimento",
@@ -1203,16 +1284,12 @@
    "slug": "ragione-e-sentimento",
    "times": [
     {
-     "t": "15:20",
-     "vo": false
-    },
-    {
-     "t": "18:25",
+     "t": "15:45",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Clayface",
@@ -1220,20 +1297,20 @@
    "slug": "clayface",
    "times": [
     {
-     "t": "15:05",
+     "t": "14:00",
      "vo": false
     },
     {
-     "t": "20:45",
+     "t": "19:10",
      "vo": false
     },
     {
-     "t": "21:55",
+     "t": "21:15",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Fast & Furious",
@@ -1245,11 +1322,11 @@
      "vo": false
     },
     {
-     "t": "17:50",
+     "t": "16:35",
      "vo": false
     },
     {
-     "t": "19:50",
+     "t": "19:10",
      "vo": false
     },
     {
@@ -1257,12 +1334,12 @@
      "vo": false
     },
     {
-     "t": "22:20",
+     "t": "21:55",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Primetime",
@@ -1270,25 +1347,12 @@
    "slug": "primetime",
    "times": [
     {
-     "t": "14:25",
+     "t": "15:15",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-11-02"
-  },
-  {
-   "title": "L'Estranea",
-   "year": 2026,
-   "slug": "lestranea",
-   "times": [
-    {
-     "t": "17:05",
-     "vo": false
-    }
-   ],
-   "cinema": "The Space Torino",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Mammina",
@@ -1296,12 +1360,16 @@
    "slug": "other-mommy",
    "times": [
     {
-     "t": "19:55",
+     "t": "19:45",
+     "vo": false
+    },
+    {
+     "t": "22:10",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Wildwood - I Segreti Del Bosco Proibito",
@@ -1309,12 +1377,12 @@
    "slug": "wildwood-i-segreti-del-bosco-proibito",
    "times": [
     {
-     "t": "18:45",
+     "t": "17:55",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Dio Ride",
@@ -1327,7 +1395,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "It Ends",
@@ -1352,7 +1420,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Un Tranquillo Funerale Di Famiglia",
@@ -1360,11 +1428,11 @@
    "slug": "un-tranquillo-funerale-di-famiglia",
    "times": [
     {
-     "t": "15:10",
+     "t": "15:20",
      "vo": false
     },
     {
-     "t": "17:30",
+     "t": "17:40",
      "vo": false
     },
     {
@@ -1377,7 +1445,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Ice Cream Man",
@@ -1398,7 +1466,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Shaun, Vita Da Pecora: Operazione Z.U.C.C.A.",
@@ -1419,7 +1487,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Je So' Pazzo",
@@ -1432,7 +1500,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Ragione E Sentimento",
@@ -1440,7 +1508,7 @@
    "slug": "ragione-e-sentimento",
    "times": [
     {
-     "t": "15:45",
+     "t": "16:10",
      "vo": false
     },
     {
@@ -1449,7 +1517,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Clayface",
@@ -1474,7 +1542,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Fast & Furious",
@@ -1495,7 +1563,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Primetime",
@@ -1512,20 +1580,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-02"
-  },
-  {
-   "title": "Fatherland",
-   "year": 2026,
-   "slug": "fatherland",
-   "times": [
-    {
-     "t": "20:30",
-     "vo": false
-    }
-   ],
-   "cinema": "UCI Lingotto",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "L'Estranea",
@@ -1542,7 +1597,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Mammina",
@@ -1555,7 +1610,20 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
+  },
+  {
+   "title": "Digger",
+   "year": 2026,
+   "slug": "digger-1",
+   "times": [
+    {
+     "t": "20:30",
+     "vo": false
+    }
+   ],
+   "cinema": "UCI Lingotto",
+   "date": "2026-11-03"
   },
   {
    "title": "Wildwood - I Segreti Del Bosco Proibito",
@@ -1584,7 +1652,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   },
   {
    "title": "Frankie E Le Creature Dimenticate",
@@ -1596,12 +1664,12 @@
      "vo": false
     },
     {
-     "t": "17:40",
+     "t": "17:30",
      "vo": false
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-02"
+   "date": "2026-11-03"
   }
  ]
 }

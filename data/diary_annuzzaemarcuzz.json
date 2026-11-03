@@ -1044,5 +1044,17 @@
   "tmdb": 791177,
   "url": "https://letterboxd.com/annuzzaemarcuzz/film/bones-and-all/",
   "review": ""
+ },
+ "letterboxd-watch-1569387427": {
+  "guid": "letterboxd-watch-1569387427",
+  "title": "The Spiral",
+  "year": 2026,
+  "rating": 4.0,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-11-02",
+  "tmdb": 1412795,
+  "url": "https://letterboxd.com/annuzzaemarcuzz/film/the-spiral-2026/",
+  "review": ""
  }
 }
