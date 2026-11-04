@@ -1546,5 +1546,17 @@
   "tmdb": 116,
   "url": "https://letterboxd.com/giuliabissi/film/match-point/",
   "review": ""
+ },
+ "letterboxd-watch-1570457183": {
+  "guid": "letterboxd-watch-1570457183",
+  "title": "The King of Laughter",
+  "year": 2021,
+  "rating": 4.0,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-11-03",
+  "tmdb": 668408,
+  "url": "https://letterboxd.com/giuliabissi/film/the-king-of-laughter/",
+  "review": ""
  }
 }
