@@ -1,42 +1,6 @@
 {
  "shows": [
   {
-   "date": "2026-11-04",
-   "times": [
-    "16:00",
-    "21:00"
-   ],
-   "title": "Fatherland",
-   "director": "P. Pawlikowski",
-   "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-04",
-   "times": [
-    "18:00"
-   ],
-   "title": "Fino all’ultimo respiro",
-   "director": "J.L. Godard",
-   "year": 1960,
-   "room": null,
-   "note": "Il film è introdotto da Silvio Alovisio"
-  },
-  {
-   "date": "2026-11-04",
-   "times": [
-    "16:00",
-    "18:00",
-    "21:00"
-   ],
-   "title": "Fatherland",
-   "director": "P. Pawlikowski",
-   "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
    "date": "2026-11-11",
    "times": [
     "16:00"
@@ -70,80 +34,25 @@
    "note": ""
   },
   {
-   "date": "2026-11-04",
+   "date": "2026-11-11",
    "times": [
     "16:00"
    ],
    "title": "Possible Love",
    "director": "L. Chang-dong",
    "year": 2026,
-   "room": null,
+   "room": "Sala 2",
    "note": ""
   },
   {
-   "date": "2026-11-04",
+   "date": "2026-11-11",
    "times": [
     "20:00"
    ],
    "title": "Alberi erranti",
    "director": "S. Mereu",
    "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-04",
-   "times": [
-    "16:00"
-   ],
-   "title": "Possible Love",
-   "director": "L. Chang-dong",
-   "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-04",
-   "times": [
-    "20:00"
-   ],
-   "title": "Alberi erranti",
-   "director": "S. Mereu",
-   "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-04",
-   "times": [
-    "16:00"
-   ],
-   "title": "Pioggia nera",
-   "director": "S. Imamura",
-   "year": 1989,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-04",
-   "times": [
-    "18:30"
-   ],
-   "title": "BLRW – The scar of Adwa",
-   "director": "H. Gerima",
-   "year": 2026,
-   "room": null,
-   "note": "Il film è introdotto da Haile Gerima, Shirikiana Aina, Daniela Ricci, Micaela Veronesi"
-  },
-  {
-   "date": "2026-11-04",
-   "times": [
-    "20:30"
-   ],
-   "title": "BLRW – Invasion",
-   "director": "H. Gerima",
-   "year": 2026,
-   "room": null,
+   "room": "Sala 2",
    "note": ""
   },
   {

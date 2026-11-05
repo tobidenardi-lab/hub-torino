@@ -1558,5 +1558,17 @@
   "tmdb": 668408,
   "url": "https://letterboxd.com/giuliabissi/film/the-king-of-laughter/",
   "review": ""
+ },
+ "letterboxd-watch-1572887825": {
+  "guid": "letterboxd-watch-1572887825",
+  "title": "Digger",
+  "year": 2026,
+  "rating": 4.0,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-11-05",
+  "tmdb": 1248832,
+  "url": "https://letterboxd.com/giuliabissi/film/digger-2026/",
+  "review": ""
  }
 }

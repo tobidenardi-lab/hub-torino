@@ -79,13 +79,24 @@
  {
   "title": "Effetto VR!",
   "venue": "Il Cinema in Virtual Reality",
-  "start": "2026-11-06",
-  "end": "2026-11-06",
+  "start": "2026-11-07",
+  "end": "2026-11-07",
   "kind": "evento",
   "tag": "cinema",
   "desc": "",
-  "url": "https://www.museocinema.it/it/attivita/effetti-speciali-del-sabato-laboratorio-sul-set",
+  "url": "https://www.museocinema.it/it/attivita/alla-scoperta-del-museo",
   "source": "Museo Nazionale del Cinema"
+ },
+ {
+  "title": "Gabriele Basilico: paesaggio industriale Olivetti",
+  "venue": "Torino",
+  "start": "2026-11-05",
+  "end": "2026-12-31",
+  "kind": "mostra",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/gabriele-basilico-paesaggio-industriale-olivetti",
+  "source": "Turismo Torino"
  },
  {
   "title": "Moncalieri Jazz Festival 2026",
@@ -132,6 +143,17 @@
   "source": "Turismo Torino"
  },
  {
+  "title": "Yayoi Kusama. Infinity Mirrored Room",
+  "venue": "Torino",
+  "start": "2026-10-31",
+  "end": "2027-02-25",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/yayoi-kusama-infinity-mirrored-room",
+  "source": "Turismo Torino"
+ },
+ {
   "title": "Still image. Fotografie di Jessica Lange",
   "venue": "Torino",
   "start": "2026-10-07",
@@ -154,6 +176,17 @@
   "source": "Turismo Torino"
  },
  {
+  "title": "Di padre in figlio. L'universo grafico di Giambattista e Giandomenico Tiepolo",
+  "venue": "Torino",
+  "start": "2026-10-15",
+  "end": "2027-01-17",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/di-padre-in-figlio-l-universo-grafico-di-giambattista-e-giandomenico-tiepolo",
+  "source": "Turismo Torino"
+ },
+ {
   "title": "Luci d'Artista",
   "venue": "Torino",
   "start": "2026-10-23",
@@ -165,47 +198,14 @@
   "source": "Turismo Torino"
  },
  {
-  "title": "Courts Of Champions 2026",
+  "title": "Frais, dove la montagna è casa",
   "venue": "Torino",
-  "start": "2026-11-02",
-  "end": "2026-11-22",
+  "start": "2026-11-05",
+  "end": "2026-11-05",
   "kind": "evento",
   "tag": "arte",
   "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/courts-of-champions-2026",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Best Of Torino 2026",
-  "venue": "Torino",
-  "start": "2026-11-02",
-  "end": "2026-11-22",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/best-of-torino-2026",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Effetto Marilyn",
-  "venue": "Torino",
-  "start": "2026-11-03",
-  "end": "2026-11-04",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/effetto-marilyn",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Road To Torino 2026",
-  "venue": "Torino",
-  "start": "2026-11-02",
-  "end": "2026-11-22",
-  "kind": "evento",
-  "tag": "fotografia",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/road-to-torino-2026",
+  "url": "https://turismotorino.org/it/visita/eventi/frais-dove-la-montagna-e-casa",
   "source": "Turismo Torino"
  },
  {
@@ -228,6 +228,28 @@
   "tag": "cinema",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/contemporanea-film-festival",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Luci D'Artista City Tour 2026",
+  "venue": "Torino",
+  "start": "2026-11-01",
+  "end": "2027-01-09",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/luci-d-artista-city-tour-2026",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Preshow",
+  "venue": "Torino",
+  "start": "2026-10-09",
+  "end": "2027-01-03",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/preshow",
   "source": "Turismo Torino"
  },
  {
