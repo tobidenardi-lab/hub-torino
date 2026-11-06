@@ -79,8 +79,8 @@
  {
   "title": "Effetto VR!",
   "venue": "Il Cinema in Virtual Reality",
-  "start": "2026-11-07",
-  "end": "2026-11-07",
+  "start": "2026-11-08",
+  "end": "2026-11-08",
   "kind": "evento",
   "tag": "cinema",
   "desc": "",
@@ -110,6 +110,17 @@
   "source": "Turismo Torino"
  },
  {
+  "title": "Fiera Nazionale di San Martino 2026",
+  "venue": "Torino",
+  "start": "2026-11-06",
+  "end": "2026-11-10",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/fiera-nazionale-di-san-martino-2026",
+  "source": "Turismo Torino"
+ },
+ {
   "title": "Saetta McQueen al Museo",
   "venue": "Torino",
   "start": "2026-09-10",
@@ -129,6 +140,17 @@
   "tag": "arte",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/banksy-street-is-the-museum",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Fiera Nazionale del Tartufo Bianco d'Alba delle Colline Torinesi",
+  "venue": "Torino",
+  "start": "2026-11-06",
+  "end": "2026-11-08",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/fiera-nazionale-del-tartufo-bianco-d-alba-delle-colline-torinesi",
   "source": "Turismo Torino"
  },
  {
@@ -198,14 +220,25 @@
   "source": "Turismo Torino"
  },
  {
-  "title": "Frais, dove la montagna è casa",
+  "title": "I Venerdì de L'Circul 2026",
   "venue": "Torino",
-  "start": "2026-11-05",
-  "end": "2026-11-05",
+  "start": "2026-11-06",
+  "end": "2026-12-18",
   "kind": "evento",
   "tag": "arte",
   "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/frais-dove-la-montagna-e-casa",
+  "url": "https://turismotorino.org/it/visita/eventi/i-venerdi-de-l-circul-2026",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "We are making a film about Mark Fisher",
+  "venue": "Torino",
+  "start": "2026-11-06",
+  "end": "2026-11-06",
+  "kind": "evento",
+  "tag": "cinema",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/we-are-making-a-film-about-mark-fisher",
   "source": "Turismo Torino"
  },
  {
@@ -217,39 +250,6 @@
   "tag": "arte",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/sguardi-contemporanei-sull-antico",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Contemporanea Film Festival",
-  "venue": "Torino",
-  "start": "2026-11-03",
-  "end": "2026-11-07",
-  "kind": "evento",
-  "tag": "cinema",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/contemporanea-film-festival",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Luci D'Artista City Tour 2026",
-  "venue": "Torino",
-  "start": "2026-11-01",
-  "end": "2027-01-09",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/luci-d-artista-city-tour-2026",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Preshow",
-  "venue": "Torino",
-  "start": "2026-10-09",
-  "end": "2027-01-03",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/preshow",
   "source": "Turismo Torino"
  },
  {
