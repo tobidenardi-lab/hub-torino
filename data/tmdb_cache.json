@@ -1026,5 +1026,33 @@
   "titles": [
    "se domani non torno"
   ]
- }
+ },
+ "dear you|2026": {
+  "id": 1800906,
+  "titles": [
+   "dear you"
+  ]
+ },
+ "guerra dei prezzi|2026": {
+  "id": 1376412,
+  "titles": [
+   "guerra dei prezzi",
+   "guerre des prix",
+   "price to pay"
+  ]
+ },
+ "rammstein live in mexico city|2026": {
+  "id": 1753205,
+  "titles": [
+   "rammstein live in mexico city"
+  ]
+ },
+ "stray kids world tour run it live viewing|2026": {
+  "id": 1738187,
+  "titles": [
+   "beyond live stray kids world tour run it seoul",
+   "stray kids world tour run it live viewing"
+  ]
+ },
+ "voce del sorriso|2026": null
 }

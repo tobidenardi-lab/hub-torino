@@ -1539,7 +1539,7 @@
   "guid": "letterboxd-watch-1549462806",
   "title": "The Spiral",
   "year": 2026,
-  "rating": 4.5,
+  "rating": 4.0,
   "like": true,
   "rewatch": false,
   "watched": "2026-10-22",
@@ -1557,6 +1557,18 @@
   "watched": "2026-11-01",
   "tmdb": 9346,
   "url": "https://letterboxd.com/camillocueto/film/risky-business/",
+  "review": ""
+ },
+ "letterboxd-watch-1574844625": {
+  "guid": "letterboxd-watch-1574844625",
+  "title": "Wild Horse Nine",
+  "year": 2026,
+  "rating": 4.5,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-11-06",
+  "tmdb": 891621,
+  "url": "https://letterboxd.com/camillocueto/film/wild-horse-nine/",
   "review": ""
  }
 }

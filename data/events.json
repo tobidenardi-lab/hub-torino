@@ -79,12 +79,12 @@
  {
   "title": "Effetto VR!",
   "venue": "Il Cinema in Virtual Reality",
-  "start": "2026-11-08",
-  "end": "2026-11-08",
+  "start": "2026-11-09",
+  "end": "2026-11-09",
   "kind": "evento",
   "tag": "cinema",
   "desc": "",
-  "url": "https://www.museocinema.it/it/attivita/alla-scoperta-del-museo",
+  "url": "https://www.museocinema.it/it/attivita/salita-piedi-della-cupola-visita-autonoma-accompagnata",
   "source": "Museo Nazionale del Cinema"
  },
  {
@@ -96,6 +96,17 @@
   "tag": "arte",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/gabriele-basilico-paesaggio-industriale-olivetti",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Foliage a Sauze di Cesana",
+  "venue": "Torino",
+  "start": "2026-11-07",
+  "end": "2026-11-07",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/foliage-a-sauze-di-cesana",
   "source": "Turismo Torino"
  },
  {
@@ -198,6 +209,17 @@
   "source": "Turismo Torino"
  },
  {
+  "title": "Rugby: Italia vs Sudafrica - Nations Championship",
+  "venue": "Torino",
+  "start": "2026-11-07",
+  "end": "2026-11-07",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/rugby-italia-v-sudafrica-nations-championship",
+  "source": "Turismo Torino"
+ },
+ {
   "title": "Di padre in figlio. L'universo grafico di Giambattista e Giandomenico Tiepolo",
   "venue": "Torino",
   "start": "2026-10-15",
@@ -206,50 +228,6 @@
   "tag": "arte",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/di-padre-in-figlio-l-universo-grafico-di-giambattista-e-giandomenico-tiepolo",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Luci d'Artista",
-  "venue": "Torino",
-  "start": "2026-10-23",
-  "end": "2027-01-10",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/luci-dartista",
-  "source": "Turismo Torino"
- },
- {
-  "title": "I Venerdì de L'Circul 2026",
-  "venue": "Torino",
-  "start": "2026-11-06",
-  "end": "2026-12-18",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/i-venerdi-de-l-circul-2026",
-  "source": "Turismo Torino"
- },
- {
-  "title": "We are making a film about Mark Fisher",
-  "venue": "Torino",
-  "start": "2026-11-06",
-  "end": "2026-11-06",
-  "kind": "evento",
-  "tag": "cinema",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/we-are-making-a-film-about-mark-fisher",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Sguardi contemporanei sull’antico",
-  "venue": "Torino",
-  "start": "2026-10-13",
-  "end": "2027-01-11",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/sguardi-contemporanei-sull-antico",
   "source": "Turismo Torino"
  },
  {
