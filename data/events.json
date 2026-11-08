@@ -79,8 +79,8 @@
  {
   "title": "Effetto VR!",
   "venue": "Il Cinema in Virtual Reality",
-  "start": "2026-11-09",
-  "end": "2026-11-09",
+  "start": "2026-11-10",
+  "end": "2026-11-10",
   "kind": "evento",
   "tag": "cinema",
   "desc": "",
@@ -96,17 +96,6 @@
   "tag": "arte",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/gabriele-basilico-paesaggio-industriale-olivetti",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Foliage a Sauze di Cesana",
-  "venue": "Torino",
-  "start": "2026-11-07",
-  "end": "2026-11-07",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/foliage-a-sauze-di-cesana",
   "source": "Turismo Torino"
  },
  {
@@ -209,17 +198,6 @@
   "source": "Turismo Torino"
  },
  {
-  "title": "Rugby: Italia vs Sudafrica - Nations Championship",
-  "venue": "Torino",
-  "start": "2026-11-07",
-  "end": "2026-11-07",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/rugby-italia-v-sudafrica-nations-championship",
-  "source": "Turismo Torino"
- },
- {
   "title": "Di padre in figlio. L'universo grafico di Giambattista e Giandomenico Tiepolo",
   "venue": "Torino",
   "start": "2026-10-15",
@@ -228,6 +206,28 @@
   "tag": "arte",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/di-padre-in-figlio-l-universo-grafico-di-giambattista-e-giandomenico-tiepolo",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Luci d'Artista",
+  "venue": "Torino",
+  "start": "2026-10-23",
+  "end": "2027-01-10",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/luci-dartista",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Sagra della Rapa 2026",
+  "venue": "Torino",
+  "start": "2026-11-07",
+  "end": "2026-11-14",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/sagra-della-rapa-2026",
   "source": "Turismo Torino"
  },
  {

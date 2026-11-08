@@ -1546,5 +1546,17 @@
   "tmdb": 4922,
   "url": "https://letterboxd.com/helmy2005/film/the-curious-case-of-benjamin-button/",
   "review": ""
+ },
+ "letterboxd-watch-1576707208": {
+  "guid": "letterboxd-watch-1576707208",
+  "title": "Sense and Sensibility",
+  "year": 2026,
+  "rating": 4.5,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-11-07",
+  "tmdb": 1503762,
+  "url": "https://letterboxd.com/helmy2005/film/sense-and-sensibility-2026/",
+  "review": ""
  }
 }
