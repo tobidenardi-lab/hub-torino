@@ -1714,5 +1714,29 @@
   "tmdb": 12143,
   "url": "https://letterboxd.com/sethsreviews/film/bad-lieutenant/1/",
   "review": "the church scene is definitive Ferrara: the purest clash of his core ideas. Harvey Keitel’s best work also."
+ },
+ "letterboxd-review-1579274987": {
+  "guid": "letterboxd-review-1579274987",
+  "title": "Monster Hunter",
+  "year": 2020,
+  "rating": null,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-11-08",
+  "tmdb": 458576,
+  "url": "https://letterboxd.com/sethsreviews/film/monster-hunter-2020/",
+  "review": "pwsa always has a great eye for a vast wasteland, and this is certainly full of his standard energetic rhythms, but contrary to my usual feelings on his work, I found this a touch too chaotic, even for him."
+ },
+ "letterboxd-watch-1579269724": {
+  "guid": "letterboxd-watch-1579269724",
+  "title": "Cam",
+  "year": 2018,
+  "rating": null,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-11-08",
+  "tmdb": 521935,
+  "url": "https://letterboxd.com/sethsreviews/film/cam/",
+  "review": ""
  }
 }

@@ -1,5 +1,5 @@
 {
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "showings": [
   {
    "title": "La Guerra Dei Prezzi",
@@ -7,29 +7,12 @@
    "slug": "la-guerra-dei-prezzi",
    "times": [
     {
-     "t": "18:00",
-     "vo": false
-    },
-    {
-     "t": "21:00",
-     "vo": true
-    }
-   ],
-   "cinema": "Baretti",
-   "date": "2026-11-08"
-  },
-  {
-   "title": "N-Ego",
-   "year": 2024,
-   "slug": "nego",
-   "times": [
-    {
-     "t": "15:30",
+     "t": "10:30",
      "vo": false
     }
    ],
    "cinema": "Baretti",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Nel Silenzio Delle Stanze",
@@ -37,16 +20,12 @@
    "slug": "nel-silenzio-delle-stanze",
    "times": [
     {
-     "t": "11:30",
-     "vo": true
-    },
-    {
      "t": "15:30",
      "vo": true
     }
    ],
    "cinema": "Centrale",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Primetime",
@@ -59,20 +38,7 @@
     }
    ],
    "cinema": "Centrale",
-   "date": "2026-11-08"
-  },
-  {
-   "title": "Naza",
-   "year": 2026,
-   "slug": "naza",
-   "times": [
-    {
-     "t": "17:30",
-     "vo": true
-    }
-   ],
-   "cinema": "Centrale",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "La Pantera Delle Nevi",
@@ -80,12 +46,12 @@
    "slug": "la-panthere-des-neiges",
    "times": [
     {
-     "t": "13:30",
+     "t": "17:30",
      "vo": false
     }
    ],
    "cinema": "Centrale",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Va' Sentiero",
@@ -98,7 +64,7 @@
     }
    ],
    "cinema": "Centrale",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "La Guerra Dei Prezzi",
@@ -106,29 +72,12 @@
    "slug": "la-guerra-dei-prezzi",
    "times": [
     {
-     "t": "18:00",
-     "vo": false
-    },
-    {
      "t": "21:00",
      "vo": false
     }
    ],
    "cinema": "Agnelli",
-   "date": "2026-11-08"
-  },
-  {
-   "title": "L'Isola Dei Ricordi",
-   "year": 2026,
-   "slug": "lisola-dei-ricordi",
-   "times": [
-    {
-     "t": "15:30",
-     "vo": false
-    }
-   ],
-   "cinema": "Agnelli",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Wild Horse Nine",
@@ -149,58 +98,7 @@
     }
    ],
    "cinema": "Classico",
-   "date": "2026-11-08"
-  },
-  {
-   "title": "Wild Horse Nine",
-   "year": 2026,
-   "slug": "wild-horse-nine",
-   "times": [
-    {
-     "t": "16:30",
-     "vo": false
-    },
-    {
-     "t": "18:50",
-     "vo": false
-    },
-    {
-     "t": "21:15",
-     "vo": false
-    }
-   ],
-   "cinema": "Due Giardini",
-   "date": "2026-11-08"
-  },
-  {
-   "title": "Ragione E Sentimento",
-   "year": 2026,
-   "slug": "ragione-e-sentimento",
-   "times": [
-    {
-     "t": "16:00",
-     "vo": false
-    },
-    {
-     "t": "18:45",
-     "vo": false
-    }
-   ],
-   "cinema": "Due Giardini",
-   "date": "2026-11-08"
-  },
-  {
-   "title": "L'Estranea",
-   "year": 2026,
-   "slug": "lestranea",
-   "times": [
-    {
-     "t": "21:15",
-     "vo": false
-    }
-   ],
-   "cinema": "Due Giardini",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Wild Horse Nine",
@@ -221,7 +119,7 @@
     }
    ],
    "cinema": "Eliseo",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Dio Ride",
@@ -242,7 +140,7 @@
     }
    ],
    "cinema": "Eliseo",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Je So' Pazzo",
@@ -255,7 +153,7 @@
     }
    ],
    "cinema": "Eliseo",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Digger",
@@ -272,37 +170,7 @@
     }
    ],
    "cinema": "Eliseo",
-   "date": "2026-11-08"
-  },
-  {
-   "title": "Santiago - Un Cammino Per Ricominciare",
-   "year": 2026,
-   "slug": "santiago-un-cammino-per-ricominciare",
-   "times": [
-    {
-     "t": "18:30",
-     "vo": false
-    }
-   ],
-   "cinema": "Esedra",
-   "date": "2026-11-08"
-  },
-  {
-   "title": "Calle Malaga",
-   "year": 2025,
-   "slug": "calle-malaga",
-   "times": [
-    {
-     "t": "16:00",
-     "vo": false
-    },
-    {
-     "t": "21:15",
-     "vo": false
-    }
-   ],
-   "cinema": "Esedra",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Se Domani Non Torno",
@@ -327,7 +195,7 @@
     }
    ],
    "cinema": "Fratelli Marx",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Dio Ride",
@@ -348,7 +216,7 @@
     }
    ],
    "cinema": "Fratelli Marx",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Shaun, Vita Da Pecora: Operazione Z.U.C.C.A.",
@@ -365,24 +233,20 @@
     }
    ],
    "cinema": "Fratelli Marx",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
-   "title": "L'Estranea",
-   "year": 2026,
-   "slug": "lestranea",
+   "title": "L'Impero Dei Sensi",
+   "year": 1976,
+   "slug": "limpero-dei-sensi",
    "times": [
-    {
-     "t": "19:00",
-     "vo": false
-    },
     {
      "t": "21:15",
      "vo": false
     }
    ],
    "cinema": "Fratelli Marx",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Hope",
@@ -403,7 +267,7 @@
     }
    ],
    "cinema": "Greenwich Village",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Minotaur",
@@ -424,7 +288,7 @@
     }
    ],
    "cinema": "Greenwich Village",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Ragione E Sentimento",
@@ -441,7 +305,7 @@
     }
    ],
    "cinema": "Greenwich Village",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Primetime",
@@ -454,7 +318,7 @@
     }
    ],
    "cinema": "Greenwich Village",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Digger",
@@ -471,7 +335,7 @@
     }
    ],
    "cinema": "Greenwich Village",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Calle Malaga",
@@ -484,7 +348,7 @@
     }
    ],
    "cinema": "Greenwich Village",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Wild Horse Nine",
@@ -505,7 +369,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Se Domani Non Torno",
@@ -526,7 +390,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Dio Ride",
@@ -547,7 +411,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Un Tranquillo Funerale Di Famiglia",
@@ -568,7 +432,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "It Ends",
@@ -581,7 +445,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Il Gatto Col Cappello",
@@ -589,11 +453,7 @@
    "slug": "il-gatto-col-cappello",
    "times": [
     {
-     "t": "15:00",
-     "vo": false
-    },
-    {
-     "t": "17:10",
+     "t": "15:20",
      "vo": false
     },
     {
@@ -602,7 +462,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "George Michael - The Faith Tour",
@@ -615,7 +475,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Clayface",
@@ -628,20 +488,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-11-08"
-  },
-  {
-   "title": "Shaun, Vita Da Pecora: Operazione Z.U.C.C.A.",
-   "year": 2026,
-   "slug": "shaun-vita-da-pecora-operazione-zucca",
-   "times": [
-    {
-     "t": "15:40",
-     "vo": false
-    }
-   ],
-   "cinema": "Ideal Cityplex",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Wildwood - I Segreti Del Bosco Proibito",
@@ -654,7 +501,7 @@
     }
    ],
    "cinema": "Ideal Cityplex",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Wild Horse Nine",
@@ -662,7 +509,37 @@
    "slug": "wild-horse-nine",
    "times": [
     {
-     "t": "15:20",
+     "t": "19:00",
+     "vo": false
+    }
+   ],
+   "cinema": "Massaua Cityplex",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "Hope",
+   "year": 2026,
+   "slug": "hope",
+   "times": [
+    {
+     "t": "21:00",
+     "vo": false
+    }
+   ],
+   "cinema": "Massaua Cityplex",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "Se Domani Non Torno",
+   "year": 2026,
+   "slug": "se-domani-non-torno",
+   "times": [
+    {
+     "t": "16:40",
+     "vo": false
+    },
+    {
+     "t": "19:15",
      "vo": false
     },
     {
@@ -671,41 +548,7 @@
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-11-08"
-  },
-  {
-   "title": "Hope",
-   "year": 2026,
-   "slug": "hope",
-   "times": [
-    {
-     "t": "20:45",
-     "vo": false
-    }
-   ],
-   "cinema": "Massaua Cityplex",
-   "date": "2026-11-08"
-  },
-  {
-   "title": "Se Domani Non Torno",
-   "year": 2026,
-   "slug": "se-domani-non-torno",
-   "times": [
-    {
-     "t": "16:25",
-     "vo": false
-    },
-    {
-     "t": "18:00",
-     "vo": false
-    },
-    {
-     "t": "20:45",
-     "vo": false
-    }
-   ],
-   "cinema": "Massaua Cityplex",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Dio Ride",
@@ -713,16 +556,16 @@
    "slug": "dio-ride",
    "times": [
     {
-     "t": "16:15",
+     "t": "16:45",
      "vo": false
     },
     {
-     "t": "20:00",
+     "t": "21:15",
      "vo": false
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Un Tranquillo Funerale Di Famiglia",
@@ -730,20 +573,16 @@
    "slug": "un-tranquillo-funerale-di-famiglia",
    "times": [
     {
-     "t": "14:30",
+     "t": "16:50",
      "vo": false
     },
     {
-     "t": "16:40",
-     "vo": false
-    },
-    {
-     "t": "19:40",
+     "t": "19:45",
      "vo": false
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Il Gatto Col Cappello",
@@ -751,16 +590,12 @@
    "slug": "il-gatto-col-cappello",
    "times": [
     {
-     "t": "14:30",
-     "vo": false
-    },
-    {
-     "t": "17:30",
+     "t": "17:10",
      "vo": false
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "George Michael - The Faith Tour",
@@ -773,20 +608,7 @@
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-11-08"
-  },
-  {
-   "title": "Ragione E Sentimento",
-   "year": 2026,
-   "slug": "ragione-e-sentimento",
-   "times": [
-    {
-     "t": "18:25",
-     "vo": false
-    }
-   ],
-   "cinema": "Massaua Cityplex",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Ice Cream Man",
@@ -794,16 +616,12 @@
    "slug": "ice-cream-man",
    "times": [
     {
-     "t": "14:30",
-     "vo": false
-    },
-    {
-     "t": "22:05",
+     "t": "18:10",
      "vo": false
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Shaun, Vita Da Pecora: Operazione Z.U.C.C.A.",
@@ -811,38 +629,25 @@
    "slug": "shaun-vita-da-pecora-operazione-zucca",
    "times": [
     {
-     "t": "14:50",
+     "t": "16:40",
      "vo": false
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
-   "title": "L'Estranea",
-   "year": 2026,
-   "slug": "lestranea",
+   "title": "L'Uomo Delle Stelle",
+   "year": 1995,
+   "slug": "luomodellestelle",
    "times": [
     {
-     "t": "18:30",
+     "t": "19:00",
      "vo": false
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-11-08"
-  },
-  {
-   "title": "Heart Of The Beast - Nel Profondo Selvaggio",
-   "year": 2026,
-   "slug": "heart-of-the-beast",
-   "times": [
-    {
-     "t": "16:00",
-     "vo": false
-    }
-   ],
-   "cinema": "Massaua Cityplex",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Wildwood - I Segreti Del Bosco Proibito",
@@ -850,12 +655,16 @@
    "slug": "wildwood-i-segreti-del-bosco-proibito",
    "times": [
     {
-     "t": "18:25",
+     "t": "18:40",
+     "vo": false
+    },
+    {
+     "t": "21:10",
      "vo": false
     }
    ],
    "cinema": "Massaua Cityplex",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Fatherland",
@@ -876,7 +685,7 @@
     }
    ],
    "cinema": "Massimo (MNC)",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Alberi Erranti",
@@ -889,7 +698,7 @@
     }
    ],
    "cinema": "Massimo (MNC)",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Possible Love",
@@ -902,33 +711,28 @@
     }
    ],
    "cinema": "Massimo (MNC)",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
-   "title": "La Ballata Di Narayama",
-   "year": 1983,
-   "slug": "la-ballata-di-narayama",
+   "title": "Black Lions - Roman Wolves",
+   "year": 2026,
+   "slug": "black-lions-roman-wolves",
    "times": [
     {
-     "t": "15:30",
+     "t": "16:00",
      "vo": true
-    }
-   ],
-   "cinema": "Massimo (MNC)",
-   "date": "2026-11-08"
-  },
-  {
-   "title": "Pioggia Nera",
-   "year": 1989,
-   "slug": "pioggia-nera",
-   "times": [
+    },
+    {
+     "t": "18:00",
+     "vo": true
+    },
     {
      "t": "20:30",
      "vo": true
     }
    ],
    "cinema": "Massimo (MNC)",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Wild Horse Nine",
@@ -936,20 +740,20 @@
    "slug": "wild-horse-nine",
    "times": [
     {
-     "t": "15:00",
+     "t": "18:30",
      "vo": false
     },
     {
-     "t": "17:30",
-     "vo": false
+     "t": "21:00",
+     "vo": true
     },
     {
-     "t": "20:15",
+     "t": "21:15",
      "vo": false
     }
    ],
    "cinema": "Movie Planet Lux",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Dio Ride",
@@ -957,20 +761,12 @@
    "slug": "dio-ride",
    "times": [
     {
-     "t": "15:30",
-     "vo": false
-    },
-    {
-     "t": "17:45",
-     "vo": false
-    },
-    {
-     "t": "20:00",
+     "t": "18:20",
      "vo": false
     }
    ],
    "cinema": "Movie Planet Lux",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "The Invite - Il Piacere È Tutto Nostro",
@@ -978,12 +774,12 @@
    "slug": "the-invite",
    "times": [
     {
-     "t": "17:30",
+     "t": "18:30",
      "vo": false
     }
    ],
    "cinema": "Movie Planet Lux",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Wildwood - I Segreti Del Bosco Proibito",
@@ -991,16 +787,12 @@
    "slug": "wildwood-i-segreti-del-bosco-proibito",
    "times": [
     {
-     "t": "15:00",
-     "vo": false
-    },
-    {
-     "t": "20:30",
+     "t": "21:10",
      "vo": false
     }
    ],
    "cinema": "Movie Planet Lux",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Wild Horse Nine",
@@ -1025,7 +817,7 @@
     }
    ],
    "cinema": "Nazionale",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Fatherland",
@@ -1050,7 +842,7 @@
     }
    ],
    "cinema": "Nazionale",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Minotaur",
@@ -1071,7 +863,7 @@
     }
    ],
    "cinema": "Nazionale",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "L'Estranea",
@@ -1092,7 +884,7 @@
     }
    ],
    "cinema": "Nazionale",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Wild Horse Nine",
@@ -1117,7 +909,7 @@
     }
    ],
    "cinema": "Reposi",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Se Domani Non Torno",
@@ -1138,7 +930,7 @@
     }
    ],
    "cinema": "Reposi",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Dio Ride",
@@ -1159,7 +951,7 @@
     }
    ],
    "cinema": "Reposi",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Un Tranquillo Funerale Di Famiglia",
@@ -1180,7 +972,7 @@
     }
    ],
    "cinema": "Reposi",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Il Gatto Col Cappello",
@@ -1197,7 +989,7 @@
     }
    ],
    "cinema": "Reposi",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Ferine",
@@ -1205,12 +997,16 @@
    "slug": "ferine",
    "times": [
     {
-     "t": "21:00",
-     "vo": true
+     "t": "19:55",
+     "vo": false
+    },
+    {
+     "t": "22:00",
+     "vo": false
     }
    ],
    "cinema": "Reposi",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "L'Estranea",
@@ -1231,7 +1027,7 @@
     }
    ],
    "cinema": "Reposi",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Dio Ride",
@@ -1252,7 +1048,7 @@
     }
    ],
    "cinema": "Romano",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Nel Silenzio Delle Stanze",
@@ -1277,7 +1073,7 @@
     }
    ],
    "cinema": "Romano",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Ragione E Sentimento",
@@ -1298,7 +1094,7 @@
     }
    ],
    "cinema": "Romano",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "La Guerra Dei Prezzi",
@@ -1311,24 +1107,7 @@
     }
    ],
    "cinema": "Teatro Monterosa",
-   "date": "2026-11-08"
-  },
-  {
-   "title": "Calle Malaga",
-   "year": 2025,
-   "slug": "calle-malaga",
-   "times": [
-    {
-     "t": "16:00",
-     "vo": false
-    },
-    {
-     "t": "18:30",
-     "vo": false
-    }
-   ],
-   "cinema": "Teatro Monterosa",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Wild Horse Nine",
@@ -1336,19 +1115,15 @@
    "slug": "wild-horse-nine",
    "times": [
     {
-     "t": "11:10",
+     "t": "14:55",
      "vo": false
     },
     {
-     "t": "14:50",
+     "t": "17:00",
      "vo": false
     },
     {
-     "t": "16:50",
-     "vo": false
-    },
-    {
-     "t": "18:35",
+     "t": "18:50",
      "vo": false
     },
     {
@@ -1357,7 +1132,7 @@
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Hope",
@@ -1365,28 +1140,24 @@
    "slug": "hope",
    "times": [
     {
-     "t": "14:25",
+     "t": "15:00",
      "vo": false
     },
     {
-     "t": "17:30",
+     "t": "18:30",
      "vo": false
     },
     {
-     "t": "19:55",
+     "t": "20:00",
      "vo": false
     },
     {
-     "t": "20:25",
-     "vo": false
-    },
-    {
-     "t": "21:25",
+     "t": "21:40",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "The Nameless Ballad",
@@ -1399,7 +1170,7 @@
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Se Domani Non Torno",
@@ -1407,32 +1178,28 @@
    "slug": "se-domani-non-torno",
    "times": [
     {
-     "t": "11:45",
+     "t": "14:20",
      "vo": false
     },
     {
-     "t": "14:35",
+     "t": "16:25",
      "vo": false
     },
     {
-     "t": "16:35",
-     "vo": false
-    },
-    {
-     "t": "17:45",
-     "vo": false
-    },
-    {
-     "t": "19:15",
+     "t": "19:05",
      "vo": false
     },
     {
      "t": "21:00",
      "vo": false
+    },
+    {
+     "t": "22:30",
+     "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Dio Ride",
@@ -1440,20 +1207,12 @@
    "slug": "dio-ride",
    "times": [
     {
-     "t": "12:45",
-     "vo": false
-    },
-    {
-     "t": "17:10",
-     "vo": false
-    },
-    {
-     "t": "21:55",
+     "t": "17:20",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Un Tranquillo Funerale Di Famiglia",
@@ -1461,39 +1220,18 @@
    "slug": "un-tranquillo-funerale-di-famiglia",
    "times": [
     {
-     "t": "14:00",
-     "vo": false
-    },
-    {
-     "t": "19:40",
+     "t": "14:50",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-11-08"
-  },
-  {
-   "title": "It Ends",
-   "year": 2025,
-   "slug": "it-ends",
-   "times": [
-    {
-     "t": "23:35",
-     "vo": false
-    }
-   ],
-   "cinema": "The Space Torino",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Il Gatto Col Cappello",
    "year": 2026,
    "slug": "il-gatto-col-cappello",
    "times": [
-    {
-     "t": "13:15",
-     "vo": false
-    },
     {
      "t": "15:30",
      "vo": false
@@ -1504,7 +1242,7 @@
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "George Michael - The Faith Tour",
@@ -1512,16 +1250,20 @@
    "slug": "george-michael-the-faith-tour",
    "times": [
     {
-     "t": "15:50",
+     "t": "15:15",
      "vo": true
     },
     {
      "t": "18:00",
      "vo": true
+    },
+    {
+     "t": "19:50",
+     "vo": true
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Clayface",
@@ -1529,12 +1271,12 @@
    "slug": "clayface",
    "times": [
     {
-     "t": "21:10",
+     "t": "21:55",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Ice Cream Man",
@@ -1542,12 +1284,12 @@
    "slug": "ice-cream-man",
    "times": [
     {
-     "t": "23:25",
+     "t": "22:45",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Shaun, Vita Da Pecora: Operazione Z.U.C.C.A.",
@@ -1555,42 +1297,25 @@
    "slug": "shaun-vita-da-pecora-operazione-zucca",
    "times": [
     {
-     "t": "11:00",
-     "vo": false
-    },
-    {
-     "t": "15:20",
+     "t": "17:45",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
-   "title": "Le Cose Non Dette",
-   "year": 2026,
-   "slug": "le-cose-non-dette",
+   "title": "Fast & Furious",
+   "year": 2001,
+   "slug": "fastandfurious",
    "times": [
     {
-     "t": "11:20",
+     "t": "20:10",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-11-08"
-  },
-  {
-   "title": "Goat - Sogna In Grande",
-   "year": 2026,
-   "slug": "goat-sogna-in-grande",
-   "times": [
-    {
-     "t": "11:00",
-     "vo": false
-    }
-   ],
-   "cinema": "The Space Torino",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Wildwood - I Segreti Del Bosco Proibito",
@@ -1598,12 +1323,12 @@
    "slug": "wildwood-i-segreti-del-bosco-proibito",
    "times": [
     {
-     "t": "12:15",
+     "t": "15:45",
      "vo": false
     }
    ],
    "cinema": "The Space Torino",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Wild Horse Nine",
@@ -1611,23 +1336,15 @@
    "slug": "wild-horse-nine",
    "times": [
     {
-     "t": "10:30",
-     "vo": false
-    },
-    {
-     "t": "10:50",
-     "vo": true
-    },
-    {
      "t": "15:45",
      "vo": false
     },
     {
-     "t": "18:30",
-     "vo": false
+     "t": "17:10",
+     "vo": true
     },
     {
-     "t": "20:30",
+     "t": "18:30",
      "vo": false
     },
     {
@@ -1636,7 +1353,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Hope",
@@ -1644,20 +1361,16 @@
    "slug": "hope",
    "times": [
     {
-     "t": "13:45",
+     "t": "17:30",
      "vo": false
     },
     {
-     "t": "17:20",
-     "vo": false
-    },
-    {
-     "t": "20:45",
+     "t": "20:50",
      "vo": false
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "The Nameless Ballad",
@@ -1670,7 +1383,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Se Domani Non Torno",
@@ -1678,19 +1391,7 @@
    "slug": "se-domani-non-torno",
    "times": [
     {
-     "t": "11:00",
-     "vo": false
-    },
-    {
-     "t": "13:40",
-     "vo": false
-    },
-    {
      "t": "14:00",
-     "vo": false
-    },
-    {
-     "t": "15:10",
      "vo": false
     },
     {
@@ -1698,15 +1399,11 @@
      "vo": false
     },
     {
-     "t": "17:40",
-     "vo": false
-    },
-    {
      "t": "19:00",
      "vo": false
     },
     {
-     "t": "20:10",
+     "t": "19:50",
      "vo": false
     },
     {
@@ -1715,7 +1412,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Dio Ride",
@@ -1728,13 +1425,17 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Un Tranquillo Funerale Di Famiglia",
    "year": 2026,
    "slug": "un-tranquillo-funerale-di-famiglia",
    "times": [
+    {
+     "t": "14:30",
+     "vo": false
+    },
     {
      "t": "19:30",
      "vo": false
@@ -1745,7 +1446,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "It Ends",
@@ -1753,12 +1454,12 @@
    "slug": "it-ends",
    "times": [
     {
-     "t": "22:30",
+     "t": "19:30",
      "vo": false
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Il Gatto Col Cappello",
@@ -1766,19 +1467,7 @@
    "slug": "il-gatto-col-cappello",
    "times": [
     {
-     "t": "11:20",
-     "vo": false
-    },
-    {
-     "t": "13:00",
-     "vo": false
-    },
-    {
      "t": "14:20",
-     "vo": false
-    },
-    {
-     "t": "16:00",
      "vo": false
     },
     {
@@ -1791,7 +1480,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Ferine",
@@ -1799,12 +1488,12 @@
    "slug": "ferine",
    "times": [
     {
-     "t": "21:20",
+     "t": "18:00",
      "vo": false
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "George Michael - The Faith Tour",
@@ -1812,16 +1501,12 @@
    "slug": "george-michael-the-faith-tour",
    "times": [
     {
-     "t": "16:20",
-     "vo": true
-    },
-    {
      "t": "21:00",
-     "vo": false
+     "vo": true
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Ragione E Sentimento",
@@ -1834,13 +1519,17 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Clayface",
    "year": 2026,
    "slug": "clayface",
    "times": [
+    {
+     "t": "16:00",
+     "vo": false
+    },
     {
      "t": "19:40",
      "vo": false
@@ -1851,7 +1540,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Ice Cream Man",
@@ -1859,12 +1548,12 @@
    "slug": "ice-cream-man",
    "times": [
     {
-     "t": "22:40",
+     "t": "22:20",
      "vo": false
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Shaun, Vita Da Pecora: Operazione Z.U.C.C.A.",
@@ -1872,24 +1561,33 @@
    "slug": "shaun-vita-da-pecora-operazione-zucca",
    "times": [
     {
-     "t": "11:45",
-     "vo": false
-    },
-    {
      "t": "15:00",
      "vo": false
     },
     {
      "t": "17:30",
      "vo": false
+    }
+   ],
+   "cinema": "UCI Lingotto",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "Hunger Games",
+   "year": 2012,
+   "slug": "thehungergames",
+   "times": [
+    {
+     "t": "16:20",
+     "vo": false
     },
     {
-     "t": "18:00",
+     "t": "20:30",
      "vo": false
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Fast & Furious",
@@ -1902,24 +1600,33 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
-   "title": "Il Gruffalò & Gruffalò E La Sua Piccolina",
-   "year": 2009,
-   "slug": "il-gruffalo",
+   "title": "Verity",
+   "year": 2026,
+   "slug": "verity",
    "times": [
     {
-     "t": "10:40",
-     "vo": false
-    },
-    {
-     "t": "10:45",
+     "t": "21:50",
      "vo": false
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
+  },
+  {
+   "title": "Rider",
+   "year": 2026,
+   "slug": "rider",
+   "times": [
+    {
+     "t": "21:20",
+     "vo": false
+    }
+   ],
+   "cinema": "UCI Lingotto",
+   "date": "2026-11-09"
   },
   {
    "title": "Wildwood - I Segreti Del Bosco Proibito",
@@ -1927,50 +1634,16 @@
    "slug": "wildwood-i-segreti-del-bosco-proibito",
    "times": [
     {
-     "t": "11:30",
+     "t": "14:10",
      "vo": true
-    },
-    {
-     "t": "13:10",
-     "vo": false
     },
     {
      "t": "16:45",
      "vo": false
-    },
-    {
-     "t": "19:10",
-     "vo": false
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-08"
-  },
-  {
-   "title": "Frankie E Le Creature Dimenticate",
-   "year": 2025,
-   "slug": "frankie-e-le-creature-dimenticate",
-   "times": [
-    {
-     "t": "11:10",
-     "vo": false
-    }
-   ],
-   "cinema": "UCI Lingotto",
-   "date": "2026-11-08"
-  },
-  {
-   "title": "Taddeo L'Esploratore E La Lampada Magica",
-   "year": 2026,
-   "slug": "taddeo-lesploratore-e-la-lampada-magica",
-   "times": [
-    {
-     "t": "11:50",
-     "vo": false
-    }
-   ],
-   "cinema": "UCI Lingotto",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Quello Che Resta Di Noi",
@@ -1983,7 +1656,7 @@
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   },
   {
    "title": "Dear You",
@@ -1991,12 +1664,12 @@
    "slug": "dear-you",
    "times": [
     {
-     "t": "11:15",
+     "t": "14:40",
      "vo": false
     }
    ],
    "cinema": "UCI Lingotto",
-   "date": "2026-11-08"
+   "date": "2026-11-09"
   }
  ]
 }

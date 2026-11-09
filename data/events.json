@@ -79,35 +79,13 @@
  {
   "title": "Effetto VR!",
   "venue": "Il Cinema in Virtual Reality",
-  "start": "2026-11-10",
-  "end": "2026-11-10",
+  "start": "2026-11-11",
+  "end": "2026-11-11",
   "kind": "evento",
   "tag": "cinema",
   "desc": "",
-  "url": "https://www.museocinema.it/it/attivita/salita-piedi-della-cupola-visita-autonoma-accompagnata",
+  "url": "https://www.museocinema.it/it/attivita/salita-piedi-della-cupola-percorso-guidato",
   "source": "Museo Nazionale del Cinema"
- },
- {
-  "title": "Gabriele Basilico: paesaggio industriale Olivetti",
-  "venue": "Torino",
-  "start": "2026-11-05",
-  "end": "2026-12-31",
-  "kind": "mostra",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/gabriele-basilico-paesaggio-industriale-olivetti",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Moncalieri Jazz Festival 2026",
-  "venue": "Torino",
-  "start": "2026-10-24",
-  "end": "2026-11-08",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/moncalieri-jazz-festival-2026",
-  "source": "Turismo Torino"
  },
  {
   "title": "Fiera Nazionale di San Martino 2026",
@@ -129,28 +107,6 @@
   "tag": "cinema",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/saetta-mc-queen-al-museo",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Banksy. Street is the Museum",
-  "venue": "Torino",
-  "start": "2026-10-22",
-  "end": "2027-01-31",
-  "kind": "mostra",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/banksy-street-is-the-museum",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Fiera Nazionale del Tartufo Bianco d'Alba delle Colline Torinesi",
-  "venue": "Torino",
-  "start": "2026-11-06",
-  "end": "2026-11-08",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/fiera-nazionale-del-tartufo-bianco-d-alba-delle-colline-torinesi",
   "source": "Turismo Torino"
  },
  {
@@ -220,6 +176,17 @@
   "source": "Turismo Torino"
  },
  {
+  "title": "L'uomo e il libro - Mostra delle fotografie premiate all'Eporedia Photo Contest 2022",
+  "venue": "Torino",
+  "start": "2026-11-09",
+  "end": "2026-12-04",
+  "kind": "mostra",
+  "tag": "fotografia",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/l-uomo-e-il-libro-mostra-delle-fotografie-premiate-all-eporedia-photo-contest-2022",
+  "source": "Turismo Torino"
+ },
+ {
   "title": "Sagra della Rapa 2026",
   "venue": "Torino",
   "start": "2026-11-07",
@@ -228,6 +195,61 @@
   "tag": "arte",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/sagra-della-rapa-2026",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Courts Of Champions 2026",
+  "venue": "Torino",
+  "start": "2026-11-02",
+  "end": "2026-11-22",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/courts-of-champions-2026",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Best Of Torino 2026",
+  "venue": "Torino",
+  "start": "2026-11-02",
+  "end": "2026-11-22",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/best-of-torino-2026",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Road To Torino 2026",
+  "venue": "Torino",
+  "start": "2026-11-02",
+  "end": "2026-11-22",
+  "kind": "evento",
+  "tag": "fotografia",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/road-to-torino-2026",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "CIURMA! Quattro domeniche a teatro in famiglia a novembre",
+  "venue": "Torino",
+  "start": "2026-11-08",
+  "end": "2026-11-29",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/ciurma-quattro-domeniche-a-teatro-in-famiglia-a-novembre",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Sguardi contemporanei sull’antico",
+  "venue": "Torino",
+  "start": "2026-10-13",
+  "end": "2027-01-11",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/sguardi-contemporanei-sull-antico",
   "source": "Turismo Torino"
  },
  {

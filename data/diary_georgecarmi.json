@@ -1774,5 +1774,17 @@
   "tmdb": 131634,
   "url": "https://letterboxd.com/georgecarmi/film/the-hunger-games-mockingjay-part-2/",
   "review": "ladies and gentlemen, welcome to the 76th hunger games."
+ },
+ "letterboxd-review-1578860964": {
+  "guid": "letterboxd-review-1578860964",
+  "title": "Resident Evil",
+  "year": 2026,
+  "rating": 4.0,
+  "like": true,
+  "rewatch": true,
+  "watched": "2026-11-08",
+  "tmdb": 1423191,
+  "url": "https://letterboxd.com/georgecarmi/film/resident-evil-2026/2/",
+  "review": "this is arousing."
  }
 }

@@ -1558,5 +1558,17 @@
   "tmdb": 1503762,
   "url": "https://letterboxd.com/helmy2005/film/sense-and-sensibility-2026/",
   "review": ""
+ },
+ "letterboxd-watch-1578125642": {
+  "guid": "letterboxd-watch-1578125642",
+  "title": "Pride & Prejudice",
+  "year": 2005,
+  "rating": 5.0,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-11-08",
+  "tmdb": 4348,
+  "url": "https://letterboxd.com/helmy2005/film/pride-prejudice/",
+  "review": ""
  }
 }

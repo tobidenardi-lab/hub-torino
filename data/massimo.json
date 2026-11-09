@@ -36,6 +36,95 @@
   {
    "date": "2026-11-11",
    "times": [
+    "15:45"
+   ],
+   "title": "Look Back",
+   "director": "Kore-eda Hirokazu",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-11",
+   "times": [
+    "17:45"
+   ],
+   "title": "La Gradiva",
+   "director": "M. Atlan",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-11",
+   "times": [
+    "20:45"
+   ],
+   "title": "Look Back",
+   "director": "Kore-eda Hirokazu",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-11",
+   "times": [
+    "15:45"
+   ],
+   "title": "Look Back",
+   "director": "Kore-eda Hirokazu",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-11",
+   "times": [
+    "18:00",
+    "20:45"
+   ],
+   "title": "Look Back",
+   "director": "Kore-eda Hirokazu",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-18",
+   "times": [
+    "15:45"
+   ],
+   "title": "Look Back",
+   "director": "Kore-eda Hirokazu",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-18",
+   "times": [
+    "18:00"
+   ],
+   "title": "Solaris",
+   "director": "A. Tarkovskij",
+   "year": 1972,
+   "room": null,
+   "note": "Il film è introdotto da Silvio Alovisio"
+  },
+  {
+   "date": "2026-11-18",
+   "times": [
+    "21:15"
+   ],
+   "title": "Look Back",
+   "director": "Kore-eda Hirokazu",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-18",
+   "times": [
     "16:00"
    ],
    "title": "Possible Love",
@@ -45,7 +134,7 @@
    "note": ""
   },
   {
-   "date": "2026-11-11",
+   "date": "2026-11-18",
    "times": [
     "20:00"
    ],
@@ -56,124 +145,26 @@
    "note": ""
   },
   {
-   "date": "2026-11-05",
+   "date": "2026-11-18",
    "times": [
-    "16:00"
+    "15:45"
    ],
-   "title": "L’anguilla",
-   "director": "S. Imamura",
-   "year": 1997,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-05",
-   "times": [
-    "18:30"
-   ],
-   "title": "Il diario di Sueko/Il secondo fratello",
-   "director": "S. Imamura",
-   "year": 1959,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-05",
-   "times": [
-    "20:30"
-   ],
-   "title": "BLRW – Italian Occupation",
-   "director": "H. Gerima",
+   "title": "Fatherland",
+   "director": "P. Pawlikowski",
    "year": 2026,
-   "room": null,
+   "room": "Sala 2",
    "note": ""
   },
   {
-   "date": "2026-11-06",
+   "date": "2026-11-18",
    "times": [
-    "15:15"
+    "17:30",
+    "20:45"
    ],
-   "title": "Il profondo desiderio degli dèi",
-   "director": "S. Imamura",
-   "year": 1968,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-06",
-   "times": [
-    "18:30"
-   ],
-   "title": "BLRW – Guerrilla Warfare",
-   "director": "H. Gerima",
+   "title": "La Gradiva",
+   "director": "M. Atlan",
    "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-06",
-   "times": [
-    "20:30"
-   ],
-   "title": "BLRW – Victory",
-   "director": "H. Gerima",
-   "year": 2026,
-   "room": null,
-   "note": "Al termine incontro con Haile Gerima, Shirikiana Aina, Valentina Fusari"
-  },
-  {
-   "date": "2026-11-07",
-   "times": [
-    "16:00"
-   ],
-   "title": "La vendetta è mia",
-   "director": "S. Imamura",
-   "year": 1979,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-07",
-   "times": [
-    "20:00"
-   ],
-   "title": "ijanaika",
-   "director": "S. Imamura",
-   "year": 1981,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-08",
-   "times": [
-    "15:30"
-   ],
-   "title": "La ballata di Narayama",
-   "director": "S. Imamura",
-   "year": 1983,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-08",
-   "times": [
-    "18:00"
-   ],
-   "title": "Il mezzano",
-   "director": "S. Imamura",
-   "year": 1987,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-08",
-   "times": [
-    "20:30"
-   ],
-   "title": "Pioggia nera",
-   "director": "S. Imamura",
-   "year": 1989,
-   "room": null,
+   "room": "Sala 2",
    "note": ""
   },
   {
@@ -494,17 +485,6 @@
    "year": 1969,
    "room": null,
    "note": "Il film è introdotto da Giorgio Astengo"
-  },
-  {
-   "date": "2026-11-18",
-   "times": [
-    "18:00"
-   ],
-   "title": "Sala 1 Solaris",
-   "director": "A. Tarkovskij",
-   "year": 1972,
-   "room": null,
-   "note": ""
   },
   {
    "date": "2026-11-19",

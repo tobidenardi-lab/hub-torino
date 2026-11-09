@@ -1074,5 +1074,49 @@
   "titles": [
    "n ego"
   ]
+ },
+ "hunger games|2012": {
+  "id": 70160,
+  "titles": [
+   "hunger games"
+  ]
+ },
+ "impero dei sensi|1976": {
+  "id": 5879,
+  "titles": [
+   "",
+   "ecco l impero dei sensi",
+   "impero dei sensi",
+   "in the realm of the senses"
+  ]
+ },
+ "look back|2026": {
+  "id": 1244492,
+  "titles": [
+   "",
+   "look back"
+  ]
+ },
+ "rider|2026": {
+  "id": 523366,
+  "titles": [
+   "drago argentato",
+   "dragon rider",
+   "rider"
+  ]
+ },
+ "solaris|1972": {
+  "id": 593,
+  "titles": [
+   "",
+   "solaris"
+  ]
+ },
+ "uomo delle stelle|1995": {
+  "id": 37975,
+  "titles": [
+   "star maker",
+   "uomo delle stelle"
+  ]
  }
 }
