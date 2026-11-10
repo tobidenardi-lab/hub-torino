@@ -1786,5 +1786,41 @@
   "tmdb": 1423191,
   "url": "https://letterboxd.com/georgecarmi/film/resident-evil-2026/2/",
   "review": "this is arousing."
+ },
+ "letterboxd-review-1580307793": {
+  "guid": "letterboxd-review-1580307793",
+  "title": "MORA",
+  "year": 2024,
+  "rating": null,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-11-09",
+  "tmdb": 1322219,
+  "url": "https://letterboxd.com/georgecarmi/film/mora-2024/",
+  "review": "charming."
+ },
+ "letterboxd-review-1580282694": {
+  "guid": "letterboxd-review-1580282694",
+  "title": "Meet the Fockers",
+  "year": 2004,
+  "rating": 1.5,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-11-09",
+  "tmdb": 693,
+  "url": "https://letterboxd.com/georgecarmi/film/meet-the-fockers/",
+  "review": "gotchu"
+ },
+ "letterboxd-review-1579597620": {
+  "guid": "letterboxd-review-1579597620",
+  "title": "Rye Lane",
+  "year": 2023,
+  "rating": 3.5,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-11-09",
+  "tmdb": 1049638,
+  "url": "https://letterboxd.com/georgecarmi/film/rye-lane/",
+  "review": "that\nvossi bop\nneedle-drop really moved me."
  }
 }
