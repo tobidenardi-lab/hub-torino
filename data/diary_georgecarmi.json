@@ -1822,5 +1822,29 @@
   "tmdb": 1049638,
   "url": "https://letterboxd.com/georgecarmi/film/rye-lane/",
   "review": "that\nvossi bop\nneedle-drop really moved me."
+ },
+ "letterboxd-review-1581602319": {
+  "guid": "letterboxd-review-1581602319",
+  "title": "Doctor Sleep",
+  "year": 2019,
+  "rating": null,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-11-10",
+  "tmdb": 501170,
+  "url": "https://letterboxd.com/georgecarmi/film/doctor-sleep/",
+  "review": "i am so unbelievably indifferent."
+ },
+ "letterboxd-review-1581146836": {
+  "guid": "letterboxd-review-1581146836",
+  "title": "Sunset Boulevard",
+  "year": 1950,
+  "rating": 4.5,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-11-10",
+  "tmdb": 599,
+  "url": "https://letterboxd.com/georgecarmi/film/sunset-boulevard/",
+  "review": "is it not true, the things that we did?"
  }
 }
