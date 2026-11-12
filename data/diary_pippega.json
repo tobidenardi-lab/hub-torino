@@ -1606,5 +1606,17 @@
   "tmdb": 3034,
   "url": "https://letterboxd.com/pippega/film/young-frankenstein/",
   "review": ""
+ },
+ "letterboxd-watch-1582831680": {
+  "guid": "letterboxd-watch-1582831680",
+  "title": "The Revenant",
+  "year": 2015,
+  "rating": 3.5,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-11-11",
+  "tmdb": 281957,
+  "url": "https://letterboxd.com/pippega/film/the-revenant-2015/",
+  "review": ""
  }
 }

@@ -1827,7 +1827,7 @@
   "guid": "letterboxd-review-1581602319",
   "title": "Doctor Sleep",
   "year": 2019,
-  "rating": null,
+  "rating": 2.5,
   "like": false,
   "rewatch": false,
   "watched": "2026-11-10",
@@ -1846,5 +1846,41 @@
   "tmdb": 599,
   "url": "https://letterboxd.com/georgecarmi/film/sunset-boulevard/",
   "review": "is it not true, the things that we did?"
+ },
+ "letterboxd-review-1583129649": {
+  "guid": "letterboxd-review-1583129649",
+  "title": "Focker-in-Law",
+  "year": 2026,
+  "rating": 1.0,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-11-11",
+  "tmdb": 1400336,
+  "url": "https://letterboxd.com/georgecarmi/film/focker-in-law/",
+  "review": "bet."
+ },
+ "letterboxd-review-1582540266": {
+  "guid": "letterboxd-review-1582540266",
+  "title": "Tampopo",
+  "year": 1985,
+  "rating": 4.5,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-11-11",
+  "tmdb": 11830,
+  "url": "https://letterboxd.com/georgecarmi/film/tampopo/",
+  "review": "i, too, gaze at my food with deep affection whilst eating."
+ },
+ "letterboxd-review-1582235898": {
+  "guid": "letterboxd-review-1582235898",
+  "title": "Paper Trail",
+  "year": 2026,
+  "rating": null,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-11-11",
+  "tmdb": 1598822,
+  "url": "https://letterboxd.com/georgecarmi/film/paper-trail-2026/",
+  "review": "ha.ha.ha.ha.this depressed me.so so fun."
  }
 }

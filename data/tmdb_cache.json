@@ -1134,5 +1134,60 @@
    "chant des forets",
    "whispers in the woods"
   ]
+ },
+ "come rapinare una banca|2026": {
+  "id": 1437511,
+  "titles": [
+   "come rapinare una banca",
+   "how to rob a bank"
+  ]
+ },
+ "dal nulla|2026": {
+  "id": 1438963,
+  "titles": [
+   "dal nulla",
+   "from the dark"
+  ]
+ },
+ "essere amato|2026": {
+  "id": 1074074,
+  "titles": [
+   "beloved",
+   "el ser querido",
+   "essere amato"
+  ]
+ },
+ "godzilla minus zero|2026": {
+  "id": 1381071,
+  "titles": [
+   "0 0",
+   "godzilla minus zero"
+  ]
+ },
+ "hope|2013": {
+  "id": 255709,
+  "titles": [
+   "",
+   "hope"
+  ]
+ },
+ "rumore delle cose nuove|2026": {
+  "id": 1544126,
+  "titles": [
+   "rumore delle cose nuove"
+  ]
+ },
+ "scrooge e gli spiriti del natale|2026": {
+  "id": 1567605,
+  "titles": [
+   "ebenezer",
+   "scrooge e gli spiriti del natale"
+  ]
+ },
+ "weekend artificiale|2026": {
+  "id": 1723882,
+  "titles": [
+   "weekend artificiale"
+  ]
  }
 }

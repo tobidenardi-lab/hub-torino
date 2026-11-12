@@ -1,95 +1,6 @@
 {
  "shows": [
   {
-   "date": "2026-11-11",
-   "times": [
-    "16:00"
-   ],
-   "title": "Fatherland",
-   "director": "P. Pawlikowski",
-   "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-11",
-   "times": [
-    "18:00"
-   ],
-   "title": "Zabriskie Point",
-   "director": "M. Antonioni",
-   "year": 1970,
-   "room": null,
-   "note": "Il film è introdotto da Bruno Surace"
-  },
-  {
-   "date": "2026-11-11",
-   "times": [
-    "21:00"
-   ],
-   "title": "Glocal Film Festival",
-   "director": "",
-   "year": null,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-11",
-   "times": [
-    "15:45"
-   ],
-   "title": "Look Back",
-   "director": "Kore-eda Hirokazu",
-   "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-11",
-   "times": [
-    "17:45"
-   ],
-   "title": "La Gradiva",
-   "director": "M. Atlan",
-   "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-11",
-   "times": [
-    "20:45"
-   ],
-   "title": "Look Back",
-   "director": "Kore-eda Hirokazu",
-   "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-11",
-   "times": [
-    "15:45"
-   ],
-   "title": "Look Back",
-   "director": "Kore-eda Hirokazu",
-   "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-11",
-   "times": [
-    "18:00",
-    "20:45"
-   ],
-   "title": "Look Back",
-   "director": "Kore-eda Hirokazu",
-   "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
    "date": "2026-11-18",
    "times": [
     "15:45"
@@ -123,40 +34,18 @@
    "note": ""
   },
   {
-   "date": "2026-11-11",
-   "times": [
-    "16:00"
-   ],
-   "title": "Possible Love",
-   "director": "L. Chang-dong",
-   "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-11",
-   "times": [
-    "20:00"
-   ],
-   "title": "Alberi erranti",
-   "director": "S. Mereu",
-   "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-11",
+   "date": "2026-11-18",
    "times": [
     "15:45"
    ],
    "title": "Fatherland",
    "director": "P. Pawlikowski",
    "year": 2026,
-   "room": null,
+   "room": "Sala 2",
    "note": ""
   },
   {
-   "date": "2026-11-11",
+   "date": "2026-11-18",
    "times": [
     "17:30",
     "20:45"
@@ -164,40 +53,7 @@
    "title": "La Gradiva",
    "director": "M. Atlan",
    "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-11",
-   "times": [
-    "16:00"
-   ],
-   "title": "Film: The Living Record of Our Memory",
-   "director": "I. Toharia Terán",
-   "year": 2021,
-   "room": null,
-   "note": "Il film è introdotto da Sabrina Negri"
-  },
-  {
-   "date": "2026-11-11",
-   "times": [
-    "18:30"
-   ],
-   "title": "Il canto di Alina",
-   "director": "I. Braccialini e F. Oriente",
-   "year": 2025,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-11",
-   "times": [
-    "20:30"
-   ],
-   "title": "Porci, geishe e marinai",
-   "director": "S. Imamura",
-   "year": 1961,
-   "room": null,
+   "room": "Sala 2",
    "note": ""
   },
   {
