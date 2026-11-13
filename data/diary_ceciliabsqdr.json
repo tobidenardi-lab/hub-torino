@@ -1594,5 +1594,41 @@
   "tmdb": 6957,
   "url": "https://letterboxd.com/ceciliabsqdr/film/the-40-year-old-virgin/",
   "review": ""
+ },
+ "letterboxd-watch-1584507844": {
+  "guid": "letterboxd-watch-1584507844",
+  "title": "The Kidnapping of Arabella",
+  "year": 2025,
+  "rating": 2.5,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-11-12",
+  "tmdb": 1339666,
+  "url": "https://letterboxd.com/ceciliabsqdr/film/the-kidnapping-of-arabella/",
+  "review": ""
+ },
+ "letterboxd-review-1583527506": {
+  "guid": "letterboxd-review-1583527506",
+  "title": "Il rumore delle cose nuove",
+  "year": 2026,
+  "rating": 2.5,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-11-12",
+  "tmdb": 1544126,
+  "url": "https://letterboxd.com/ceciliabsqdr/film/il-rumore-delle-cose-nuove/",
+  "review": "Claudio Santamaria per te ascolterei tutta la musica classica del mondo"
+ },
+ "letterboxd-watch-1583524833": {
+  "guid": "letterboxd-watch-1583524833",
+  "title": "Vivre Sa Vie",
+  "year": 1962,
+  "rating": 3.5,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-11-11",
+  "tmdb": 1626,
+  "url": "https://letterboxd.com/ceciliabsqdr/film/vivre-sa-vie/",
+  "review": ""
  }
 }

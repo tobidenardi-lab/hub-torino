@@ -1882,5 +1882,29 @@
   "tmdb": 1598822,
   "url": "https://letterboxd.com/georgecarmi/film/paper-trail-2026/",
   "review": "ha.ha.ha.ha.this depressed me.so so fun."
+ },
+ "letterboxd-review-1584345998": {
+  "guid": "letterboxd-review-1584345998",
+  "title": "Werwulf",
+  "year": 2026,
+  "rating": null,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-11-12",
+  "tmdb": 1421903,
+  "url": "https://letterboxd.com/georgecarmi/film/werwulf/",
+  "review": "embargo."
+ },
+ "letterboxd-review-1583929971": {
+  "guid": "letterboxd-review-1583929971",
+  "title": "PlayTime",
+  "year": 1967,
+  "rating": 4.0,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-11-12",
+  "tmdb": 10227,
+  "url": "https://letterboxd.com/georgecarmi/film/playtime/",
+  "review": "there's something so remarkably elegant and relaxing about this entire experience in film. even its comedy has a very endearing aura around it. could get lost in this world."
  }
 }

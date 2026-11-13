@@ -79,13 +79,24 @@
  {
   "title": "Effetto VR!",
   "venue": "Il Cinema in Virtual Reality",
-  "start": "2026-11-14",
-  "end": "2026-11-14",
+  "start": "2026-11-15",
+  "end": "2026-11-15",
   "kind": "evento",
   "tag": "cinema",
   "desc": "",
   "url": "https://www.museocinema.it/it/attivita/alla-scoperta-del-museo",
   "source": "Museo Nazionale del Cinema"
+ },
+ {
+  "title": "Blue Carpet 2026",
+  "venue": "Torino",
+  "start": "2026-11-13",
+  "end": "2026-11-13",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/blue-carpet-2026",
+  "source": "Turismo Torino"
  },
  {
   "title": "Gabriele Basilico: paesaggio industriale Olivetti",
@@ -118,17 +129,6 @@
   "tag": "arte",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/banksy-street-is-the-museum",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Grand Opening Show Nitto ATP Finals 2026",
-  "venue": "Torino",
-  "start": "2026-11-12",
-  "end": "2026-11-12",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/grand-opening-show-nitto-atp-finals",
   "source": "Turismo Torino"
  },
  {
