@@ -1186,5 +1186,17 @@
   "tmdb": 891621,
   "url": "https://letterboxd.com/federicomellace/film/wild-horse-nine/",
   "review": ""
+ },
+ "letterboxd-watch-1585358158": {
+  "guid": "letterboxd-watch-1585358158",
+  "title": "The Silence of the Lambs",
+  "year": 1991,
+  "rating": 4.0,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-11-14",
+  "tmdb": 274,
+  "url": "https://letterboxd.com/federicomellace/film/the-silence-of-the-lambs/",
+  "review": ""
  }
 }

@@ -1606,5 +1606,17 @@
   "tmdb": 1544126,
   "url": "https://letterboxd.com/giuliabissi/film/il-rumore-delle-cose-nuove/",
   "review": ""
+ },
+ "letterboxd-watch-1585836166": {
+  "guid": "letterboxd-watch-1585836166",
+  "title": "The Matrix",
+  "year": 1999,
+  "rating": 4.0,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-11-14",
+  "tmdb": 603,
+  "url": "https://letterboxd.com/giuliabissi/film/the-matrix/",
+  "review": ""
  }
 }

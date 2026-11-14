@@ -1906,5 +1906,29 @@
   "tmdb": 10227,
   "url": "https://letterboxd.com/georgecarmi/film/playtime/",
   "review": "there's something so remarkably elegant and relaxing about this entire experience in film. even its comedy has a very endearing aura around it. could get lost in this world."
+ },
+ "letterboxd-review-1585779680": {
+  "guid": "letterboxd-review-1585779680",
+  "title": "Dune: Part Two",
+  "year": 2024,
+  "rating": 5.0,
+  "like": true,
+  "rewatch": true,
+  "watched": "2026-11-13",
+  "tmdb": 693134,
+  "url": "https://letterboxd.com/georgecarmi/film/dune-part-two/8/",
+  "review": "the holy war begins."
+ },
+ "letterboxd-review-1585537314": {
+  "guid": "letterboxd-review-1585537314",
+  "title": "Dune",
+  "year": 2021,
+  "rating": 5.0,
+  "like": true,
+  "rewatch": true,
+  "watched": "2026-11-13",
+  "tmdb": 438631,
+  "url": "https://letterboxd.com/georgecarmi/film/dune-2021/10/",
+  "review": "aura."
  }
 }

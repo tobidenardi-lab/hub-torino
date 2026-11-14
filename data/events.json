@@ -79,24 +79,13 @@
  {
   "title": "Effetto VR!",
   "venue": "Il Cinema in Virtual Reality",
-  "start": "2026-11-15",
-  "end": "2026-11-15",
+  "start": "2026-11-16",
+  "end": "2026-11-16",
   "kind": "evento",
   "tag": "cinema",
   "desc": "",
-  "url": "https://www.museocinema.it/it/attivita/alla-scoperta-del-museo",
+  "url": "https://www.museocinema.it/it/attivita/salita-piedi-della-cupola-visita-autonoma-accompagnata",
   "source": "Museo Nazionale del Cinema"
- },
- {
-  "title": "Blue Carpet 2026",
-  "venue": "Torino",
-  "start": "2026-11-13",
-  "end": "2026-11-13",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/blue-carpet-2026",
-  "source": "Turismo Torino"
  },
  {
   "title": "Gabriele Basilico: paesaggio industriale Olivetti",
@@ -220,36 +209,25 @@
   "source": "Turismo Torino"
  },
  {
-  "title": "Novembre in Biblioteca Civica di Susa",
+  "title": "25 novembre 2026, Giornata internazionale per l’eliminazione della violenza contro le donne",
   "venue": "Torino",
   "start": "2026-11-11",
   "end": "2026-11-28",
   "kind": "evento",
   "tag": "arte",
   "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/novembre-in-biblioteca-civica-di-susa",
+  "url": "https://turismotorino.org/it/visita/eventi/25-novembre-2026-giornata-internazionale-per-l-eliminazione-della-violenza-contro-le-donne",
   "source": "Turismo Torino"
  },
  {
-  "title": "Arte Povera. Capolavori dalla Collezione",
+  "title": "Festa Patronale San Giovanni Vincenzo 2026",
   "venue": "Torino",
-  "start": "2026-07-01",
-  "end": "2027-02-28",
+  "start": "2026-11-13",
+  "end": "2026-11-27",
   "kind": "evento",
   "tag": "arte",
   "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/arte-povera-capolavori-dalla-collezione",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Il castello incantato",
-  "venue": "Torino",
-  "start": "2026-09-02",
-  "end": "2027-02-28",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/il-castello-incantato",
+  "url": "https://turismotorino.org/it/visita/eventi/festa-patronale-san-giovanni-vincenzo-2026",
   "source": "Turismo Torino"
  },
  {
