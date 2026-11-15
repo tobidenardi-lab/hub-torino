@@ -1347,5 +1347,41 @@
   "tmdb": 1412795,
   "url": "https://letterboxd.com/marcodenardi/film/the-spiral-2026/",
   "review": ""
+ },
+ "letterboxd-watch-1587157784": {
+  "guid": "letterboxd-watch-1587157784",
+  "title": "28 Years Later",
+  "year": 2025,
+  "rating": 4.0,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-11-15",
+  "tmdb": 1100988,
+  "url": "https://letterboxd.com/marcodenardi/film/28-years-later/",
+  "review": ""
+ },
+ "letterboxd-watch-1586964629": {
+  "guid": "letterboxd-watch-1586964629",
+  "title": "Sinners",
+  "year": 2025,
+  "rating": 2.5,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-11-15",
+  "tmdb": 1233413,
+  "url": "https://letterboxd.com/marcodenardi/film/sinners-2025/",
+  "review": ""
+ },
+ "letterboxd-watch-1586958962": {
+  "guid": "letterboxd-watch-1586958962",
+  "title": "Possible Love",
+  "year": 2026,
+  "rating": 4.0,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-11-15",
+  "tmdb": 1483525,
+  "url": "https://letterboxd.com/marcodenardi/film/possible-love/",
+  "review": ""
  }
 }

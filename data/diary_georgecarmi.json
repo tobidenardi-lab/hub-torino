@@ -1930,5 +1930,29 @@
   "tmdb": 438631,
   "url": "https://letterboxd.com/georgecarmi/film/dune-2021/10/",
   "review": "aura."
+ },
+ "letterboxd-review-1587463362": {
+  "guid": "letterboxd-review-1587463362",
+  "title": "Boiling Point",
+  "year": 2021,
+  "rating": 4.0,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-11-14",
+  "tmdb": 807196,
+  "url": "https://letterboxd.com/georgecarmi/film/boiling-point-2021/",
+  "review": "almost feels operatic in its sustained tension. just one big, bold, uncomfortably intimate dance through self-destruction and fragility."
+ },
+ "letterboxd-review-1587267209": {
+  "guid": "letterboxd-review-1587267209",
+  "title": "Resurrection",
+  "year": 2025,
+  "rating": 4.5,
+  "like": true,
+  "rewatch": true,
+  "watched": "2026-11-14",
+  "tmdb": 878608,
+  "url": "https://letterboxd.com/georgecarmi/film/resurrection-2025/1/",
+  "review": "can I waste all your time here on the sidewalk?\ncan I stand in your light just for a while?"
  }
 }

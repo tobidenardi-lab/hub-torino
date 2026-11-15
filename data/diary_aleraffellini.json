@@ -1582,5 +1582,17 @@
   "tmdb": 76492,
   "url": "https://letterboxd.com/aleraffellini/film/hotel-transylvania/",
   "review": ""
+ },
+ "letterboxd-watch-1586271831": {
+  "guid": "letterboxd-watch-1586271831",
+  "title": "The Revenant",
+  "year": 2015,
+  "rating": 3.0,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-11-14",
+  "tmdb": 281957,
+  "url": "https://letterboxd.com/aleraffellini/film/the-revenant-2015/",
+  "review": ""
  }
 }

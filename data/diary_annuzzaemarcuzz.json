@@ -1056,5 +1056,29 @@
   "tmdb": 1412795,
   "url": "https://letterboxd.com/annuzzaemarcuzz/film/the-spiral-2026/",
   "review": ""
+ },
+ "letterboxd-watch-1587096173": {
+  "guid": "letterboxd-watch-1587096173",
+  "title": "Possible Love",
+  "year": 2026,
+  "rating": 4.0,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-11-15",
+  "tmdb": 1483525,
+  "url": "https://letterboxd.com/annuzzaemarcuzz/film/possible-love/",
+  "review": ""
+ },
+ "letterboxd-watch-1587095701": {
+  "guid": "letterboxd-watch-1587095701",
+  "title": "Don't Look Up",
+  "year": 2021,
+  "rating": 4.0,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-11-15",
+  "tmdb": 646380,
+  "url": "https://letterboxd.com/annuzzaemarcuzz/film/dont-look-up-2021/",
+  "review": ""
  }
 }

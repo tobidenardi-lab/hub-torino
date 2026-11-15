@@ -79,8 +79,8 @@
  {
   "title": "Effetto VR!",
   "venue": "Il Cinema in Virtual Reality",
-  "start": "2026-11-16",
-  "end": "2026-11-16",
+  "start": "2026-11-17",
+  "end": "2026-11-17",
   "kind": "evento",
   "tag": "cinema",
   "desc": "",
@@ -228,6 +228,17 @@
   "tag": "arte",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/festa-patronale-san-giovanni-vincenzo-2026",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Novembre in Biblioteca Civica di Susa",
+  "venue": "Torino",
+  "start": "2026-11-11",
+  "end": "2026-11-28",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/novembre-in-biblioteca-civica-di-susa",
   "source": "Turismo Torino"
  },
  {
