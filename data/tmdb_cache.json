@@ -1210,5 +1210,39 @@
    "cime tempestose",
    "wuthering heights"
   ]
+ },
+ "2001 odissea nello spazio|1968": {
+  "id": 62,
+  "titles": [
+   "2001 a space odyssey",
+   "2001 odissea nello spazio"
+  ]
+ },
+ "born to die in berlin|2025": null,
+ "in un battito|2026": {
+  "id": 1795686,
+  "titles": [
+   "in un battito"
+  ]
+ },
+ "storia infinita|1984": {
+  "id": 34584,
+  "titles": [
+   "die unendliche geschichte",
+   "neverending story",
+   "storia infinita"
+  ]
+ },
+ "unicorni|2025": {
+  "id": 1438969,
+  "titles": [
+   "unicorni"
+  ]
+ },
+ "wax and gold|2026": {
+  "id": 1616130,
+  "titles": [
+   "wax and gold"
+  ]
  }
 }

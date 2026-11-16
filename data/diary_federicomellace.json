@@ -1191,12 +1191,24 @@
   "guid": "letterboxd-watch-1585358158",
   "title": "The Silence of the Lambs",
   "year": 1991,
-  "rating": 4.0,
+  "rating": 5.0,
   "like": false,
   "rewatch": false,
   "watched": "2026-11-14",
   "tmdb": 274,
   "url": "https://letterboxd.com/federicomellace/film/the-silence-of-the-lambs/",
+  "review": ""
+ },
+ "letterboxd-watch-1588143798": {
+  "guid": "letterboxd-watch-1588143798",
+  "title": "Casino",
+  "year": 1995,
+  "rating": 4.5,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-11-15",
+  "tmdb": 524,
+  "url": "https://letterboxd.com/federicomellace/film/casino/",
   "review": ""
  }
 }

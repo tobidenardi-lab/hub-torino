@@ -36,6 +36,52 @@
   {
    "date": "2026-11-18",
    "times": [
+    "16:30"
+   ],
+   "title": "Fatherland",
+   "director": "P. Pawlikowski",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-18",
+   "times": [
+    "18:15"
+   ],
+   "title": "La Gradiva",
+   "director": "M. Atlan",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-18",
+   "times": [
+    "21:00"
+   ],
+   "title": "Look Back",
+   "director": "Kore-eda Hirokazu",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-23",
+   "times": [
+    "15:00",
+    "17:30",
+    "20:00"
+   ],
+   "title": "Unicorni",
+   "director": "M. Andreozzi",
+   "year": 2025,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-24",
+   "times": [
     "15:45"
    ],
    "title": "Fatherland",
@@ -45,7 +91,7 @@
    "note": ""
   },
   {
-   "date": "2026-11-18",
+   "date": "2026-11-24",
    "times": [
     "17:30",
     "20:45"
@@ -57,101 +103,101 @@
    "note": ""
   },
   {
-   "date": "2026-11-13",
+   "date": "2026-11-19",
    "times": [
-    "15:30"
+    "16:45"
    ],
-   "title": "Desiderio d’omicidio",
-   "director": "S. Imamura",
-   "year": 1964,
+   "title": "Look Back",
+   "director": "Kore-eda Hirokazu",
+   "year": 2026,
    "room": null,
    "note": ""
   },
   {
-   "date": "2026-11-13",
+   "date": "2026-11-19",
    "times": [
-    "18:00"
+    "18:45"
    ],
-   "title": "L’anguilla",
-   "director": "S. Imamura",
-   "year": 1997,
+   "title": "Fatherland",
+   "director": "P. Pawlikowski",
+   "year": 2026,
    "room": null,
    "note": ""
   },
   {
-   "date": "2026-11-13",
+   "date": "2026-11-19",
    "times": [
     "20:30"
    ],
-   "title": "Psycho",
-   "director": "A. Hitchcock",
-   "year": 1960,
+   "title": "La Gradiva",
+   "director": "M. Atlan",
+   "year": 2026,
    "room": null,
    "note": ""
   },
   {
-   "date": "2026-11-14",
+   "date": "2026-11-20",
    "times": [
-    "16:00"
+    "16:45"
    ],
-   "title": "Minnie and Moscowitz",
-   "director": "J. Cassavetes",
-   "year": 1971,
+   "title": "Look Back",
+   "director": "Kore-eda Hirokazu",
+   "year": 2026,
    "room": null,
    "note": ""
   },
   {
-   "date": "2026-11-14",
+   "date": "2026-11-20",
    "times": [
-    "18:30"
+    "18:45"
    ],
-   "title": "Non desiderare la donna d’altri",
-   "director": "K. Kieślowski",
-   "year": 1988,
+   "title": "Fatherland",
+   "director": "P. Pawlikowski",
+   "year": 2026,
    "room": null,
    "note": ""
   },
   {
-   "date": "2026-11-14",
-   "times": [
-    "20:30"
-   ],
-   "title": "Bleak Moments",
-   "director": "M. Leigh",
-   "year": 1971,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-15",
-   "times": [
-    "16:00"
-   ],
-   "title": "Non desiderare la donna d’altri",
-   "director": "K. Kieślowski",
-   "year": 1988,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-15",
-   "times": [
-    "18:30"
-   ],
-   "title": "The Short and the Curlies",
-   "director": "M. Leigh",
-   "year": 1987,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-15",
+   "date": "2026-11-20",
    "times": [
     "20:30"
    ],
-   "title": "Belle speranze",
-   "director": "M. Leigh",
-   "year": 1988,
+   "title": "Wax & Gold",
+   "director": "R. Beckermann",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-20",
+   "times": [
+    "16:45"
+   ],
+   "title": "Look Back",
+   "director": "Kore-eda Hirokazu",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-20",
+   "times": [
+    "18:45"
+   ],
+   "title": "Fatherland",
+   "director": "P. Pawlikowski",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-11-20",
+   "times": [
+    "20:30"
+   ],
+   "title": "La Gradiva",
+   "director": "M. Atlan",
+   "year": 2026,
    "room": null,
    "note": ""
   },

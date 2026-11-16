@@ -1762,5 +1762,29 @@
   "tmdb": 501170,
   "url": "https://letterboxd.com/sethsreviews/film/doctor-sleep/1/",
   "review": "Sturdy at points and the first hour is compelling enough, but doesn't straddle the nostalgia all that well; essentially plays\nThe Shining's\ngreatest hits in a pretty inoffensive way. It’s fine. Rebecca Ferguson’s cool."
+ },
+ "letterboxd-review-1589473171": {
+  "guid": "letterboxd-review-1589473171",
+  "title": "Donnie Darko",
+  "year": 2001,
+  "rating": 4.5,
+  "like": false,
+  "rewatch": true,
+  "watched": "2026-11-16",
+  "tmdb": 141,
+  "url": "https://letterboxd.com/sethsreviews/film/donnie-darko/",
+  "review": "Why are you wearing that stupid bunny suit?\nWhy are you wearing that stupid man suit?"
+ },
+ "letterboxd-watch-1589459617": {
+  "guid": "letterboxd-watch-1589459617",
+  "title": "Paper Trail",
+  "year": 2026,
+  "rating": null,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-11-15",
+  "tmdb": 1598822,
+  "url": "https://letterboxd.com/sethsreviews/film/paper-trail-2026/",
+  "review": ""
  }
 }

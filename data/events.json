@@ -44,6 +44,17 @@
   "source": "CAMERA - incontri"
  },
  {
+  "title": "Partire o restare? Giovani, mobilità e futuro in Europa",
+  "venue": "CAMERA",
+  "start": "2026-12-02",
+  "end": "2026-12-02",
+  "kind": "conferenza",
+  "tag": "fotografia",
+  "desc": "",
+  "url": "https://camera.to/incontri/partire-o-restare-giovani-mobilita-e-futuro-in-europa/",
+  "source": "CAMERA - incontri"
+ },
+ {
   "title": "Light-years Away",
   "venue": "CAMERA",
   "start": "2026-12-03",
@@ -52,6 +63,17 @@
   "tag": "fotografia",
   "desc": "",
   "url": "https://camera.to/incontri/light-years-away/",
+  "source": "CAMERA - incontri"
+ },
+ {
+  "title": "The Yokohama Project",
+  "venue": "CAMERA",
+  "start": "2026-12-14",
+  "end": "2026-12-14",
+  "kind": "conferenza",
+  "tag": "fotografia",
+  "desc": "",
+  "url": "https://camera.to/incontri/the-yokohama-project/",
   "source": "CAMERA - incontri"
  },
  {
@@ -77,25 +99,36 @@
   "source": "CAMERA - incontri"
  },
  {
+  "title": "Euforia. Fotografia come terapia",
+  "venue": "CAMERA",
+  "start": "2027-01-28",
+  "end": "2027-01-28",
+  "kind": "conferenza",
+  "tag": "fotografia",
+  "desc": "",
+  "url": "https://camera.to/incontri/euforia-fotografia-come-terapia/",
+  "source": "CAMERA - incontri"
+ },
+ {
   "title": "Effetto VR!",
   "venue": "Il Cinema in Virtual Reality",
-  "start": "2026-11-17",
-  "end": "2026-11-17",
+  "start": "2026-11-18",
+  "end": "2026-11-18",
   "kind": "evento",
   "tag": "cinema",
   "desc": "",
-  "url": "https://www.museocinema.it/it/attivita/salita-piedi-della-cupola-visita-autonoma-accompagnata",
+  "url": "https://www.museocinema.it/it/attivita/salita-piedi-della-cupola-percorso-guidato",
   "source": "Museo Nazionale del Cinema"
  },
  {
-  "title": "Gabriele Basilico: paesaggio industriale Olivetti",
+  "title": "Sotto18 + Film Fesival 2026",
   "venue": "Torino",
-  "start": "2026-11-05",
-  "end": "2026-12-31",
-  "kind": "mostra",
-  "tag": "arte",
+  "start": "2026-11-16",
+  "end": "2026-12-21",
+  "kind": "evento",
+  "tag": "cinema",
   "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/gabriele-basilico-paesaggio-industriale-olivetti",
+  "url": "https://turismotorino.org/it/visita/eventi/sotto18-film-fesival-2026",
   "source": "Turismo Torino"
  },
  {
@@ -107,17 +140,6 @@
   "tag": "cinema",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/saetta-mc-queen-al-museo",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Banksy. Street is the Museum",
-  "venue": "Torino",
-  "start": "2026-10-22",
-  "end": "2027-01-31",
-  "kind": "mostra",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/banksy-street-is-the-museum",
   "source": "Turismo Torino"
  },
  {
@@ -143,17 +165,6 @@
   "source": "Turismo Torino"
  },
  {
-  "title": "25° Glocal Film Festival",
-  "venue": "Torino",
-  "start": "2026-11-11",
-  "end": "2026-11-15",
-  "kind": "evento",
-  "tag": "cinema",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/25-glocal-film-festival",
-  "source": "Turismo Torino"
- },
- {
   "title": "Still image. Fotografie di Jessica Lange",
   "venue": "Torino",
   "start": "2026-10-07",
@@ -176,17 +187,6 @@
   "source": "Turismo Torino"
  },
  {
-  "title": "DolcissimArte 2026",
-  "venue": "Torino",
-  "start": "2026-11-12",
-  "end": "2026-11-15",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/dolcissim-arte-2026",
-  "source": "Turismo Torino"
- },
- {
   "title": "Di padre in figlio. L'universo grafico di Giambattista e Giandomenico Tiepolo",
   "venue": "Torino",
   "start": "2026-10-15",
@@ -206,6 +206,28 @@
   "tag": "arte",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/luci-dartista",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Game set light: lo spettacolo in Piazza San Carlo",
+  "venue": "Torino",
+  "start": "2026-11-13",
+  "end": "2026-11-22",
+  "kind": "evento",
+  "tag": "cinema",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/game-set-light-lo-spettacolo-in-piazza-san-carlo",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Ivrea On Ice - Pista di Pattinaggio 2026",
+  "venue": "Torino",
+  "start": "2026-11-14",
+  "end": "2027-01-17",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/ivrea-on-ice-pista-di-pattinaggio-2026",
   "source": "Turismo Torino"
  },
  {
@@ -239,6 +261,17 @@
   "tag": "arte",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/novembre-in-biblioteca-civica-di-susa",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Active Days 2026. Sport e salute al centro",
+  "venue": "Torino",
+  "start": "2026-11-16",
+  "end": "2026-11-24",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/active-days-2026-sport-e-salute-al-centro",
   "source": "Turismo Torino"
  },
  {
