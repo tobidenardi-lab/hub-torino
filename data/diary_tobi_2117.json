@@ -1534,5 +1534,41 @@
   "slug": "jurassic-world-dominion",
   "url": "https://letterboxd.com/tobi_2117/film/jurassic-world-dominion/",
   "review": ""
+ },
+ "letterboxd-watch-1590487809": {
+  "guid": "letterboxd-watch-1590487809",
+  "title": "The Olympic Champ",
+  "year": 1942,
+  "rating": null,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-11-17",
+  "tmdb": 58527,
+  "url": "https://letterboxd.com/tobi_2117/film/the-olympic-champ/",
+  "review": ""
+ },
+ "letterboxd-watch-1590485869": {
+  "guid": "letterboxd-watch-1590485869",
+  "title": "Mickey's Christmas Carol",
+  "year": 1983,
+  "rating": null,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-11-17",
+  "tmdb": 14813,
+  "url": "https://letterboxd.com/tobi_2117/film/mickeys-christmas-carol/",
+  "review": ""
+ },
+ "letterboxd-watch-1590232599": {
+  "guid": "letterboxd-watch-1590232599",
+  "title": "Ebenezer",
+  "year": 2026,
+  "rating": 3.5,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-11-16",
+  "tmdb": 1567605,
+  "url": "https://letterboxd.com/tobi_2117/film/ebenezer-2026/",
+  "review": ""
  }
 }

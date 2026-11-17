@@ -1966,5 +1966,17 @@
   "tmdb": 4523,
   "url": "https://letterboxd.com/georgecarmi/film/enchanted/",
   "review": "essential new york city film."
+ },
+ "letterboxd-review-1590566595": {
+  "guid": "letterboxd-review-1590566595",
+  "title": "Brief Encounter",
+  "year": 1945,
+  "rating": 4.5,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-11-16",
+  "tmdb": 851,
+  "url": "https://letterboxd.com/georgecarmi/film/brief-encounter/",
+  "review": "nothing lasts really. neither happiness nor despair. not even life lasts very long."
  }
 }
