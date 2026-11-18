@@ -101,13 +101,24 @@
  {
   "title": "Effetto VR!",
   "venue": "Il Cinema in Virtual Reality",
-  "start": "2026-11-19",
-  "end": "2026-11-19",
+  "start": "2026-11-20",
+  "end": "2026-11-20",
   "kind": "evento",
   "tag": "cinema",
   "desc": "",
-  "url": "https://www.museocinema.it/it/attivita/salita-piedi-della-cupola-percorso-guidato",
+  "url": "https://www.museocinema.it/it/attivita/alla-scoperta-del-museo",
   "source": "Museo Nazionale del Cinema"
+ },
+ {
+  "title": "Gabriele Basilico: paesaggio industriale Olivetti",
+  "venue": "Torino",
+  "start": "2026-11-05",
+  "end": "2026-12-31",
+  "kind": "mostra",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/gabriele-basilico-paesaggio-industriale-olivetti",
+  "source": "Turismo Torino"
  },
  {
   "title": "Sotto18 + Film Fesival 2026",
@@ -132,6 +143,17 @@
   "source": "Turismo Torino"
  },
  {
+  "title": "Banksy. Street is the Museum",
+  "venue": "Torino",
+  "start": "2026-10-22",
+  "end": "2027-01-31",
+  "kind": "mostra",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/banksy-street-is-the-museum",
+  "source": "Turismo Torino"
+ },
+ {
   "title": "World Press Photo Exhibition 2026",
   "venue": "Torino",
   "start": "2026-09-18",
@@ -140,17 +162,6 @@
   "tag": "fotografia",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/world-press-photo-exhibition-2026",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Yayoi Kusama. Infinity Mirrored Room",
-  "venue": "Torino",
-  "start": "2026-10-31",
-  "end": "2027-02-25",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/yayoi-kusama-infinity-mirrored-room",
   "source": "Turismo Torino"
  },
  {
@@ -250,17 +261,6 @@
   "tag": "arte",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/novembre-in-biblioteca-civica-di-susa",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Active Days 2026. Sport e salute al centro",
-  "venue": "Torino",
-  "start": "2026-11-16",
-  "end": "2026-11-24",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/active-days-2026-sport-e-salute-al-centro",
   "source": "Turismo Torino"
  },
  {

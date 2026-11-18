@@ -1630,5 +1630,17 @@
   "tmdb": 34584,
   "url": "https://letterboxd.com/pippega/film/the-neverending-story/",
   "review": ""
+ },
+ "letterboxd-watch-1591375925": {
+  "guid": "letterboxd-watch-1591375925",
+  "title": "Zodiac",
+  "year": 2007,
+  "rating": 3.0,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-11-17",
+  "tmdb": 1949,
+  "url": "https://letterboxd.com/pippega/film/zodiac/",
+  "review": ""
  }
 }

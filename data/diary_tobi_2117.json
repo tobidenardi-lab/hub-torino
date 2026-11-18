@@ -1570,5 +1570,17 @@
   "tmdb": 1567605,
   "url": "https://letterboxd.com/tobi_2117/film/ebenezer-2026/",
   "review": ""
+ },
+ "letterboxd-watch-1591402392": {
+  "guid": "letterboxd-watch-1591402392",
+  "title": "Black Mirror: Hated in the Nation",
+  "year": 2016,
+  "rating": 3.5,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-11-17",
+  "tmdb": 495881,
+  "url": "https://letterboxd.com/tobi_2117/film/black-mirror-hated-in-the-nation/",
+  "review": ""
  }
 }

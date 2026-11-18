@@ -80,18 +80,18 @@
    "note": ""
   },
   {
-   "date": "2026-11-24",
+   "date": "2026-11-18",
    "times": [
     "15:45"
    ],
    "title": "Fatherland",
    "director": "P. Pawlikowski",
    "year": 2026,
-   "room": "Sala 2",
+   "room": null,
    "note": ""
   },
   {
-   "date": "2026-11-24",
+   "date": "2026-11-18",
    "times": [
     "17:30",
     "20:45"
@@ -99,7 +99,7 @@
    "title": "La Gradiva",
    "director": "M. Atlan",
    "year": 2026,
-   "room": "Sala 2",
+   "room": null,
    "note": ""
   },
   {
@@ -198,72 +198,6 @@
    "title": "La Gradiva",
    "director": "M. Atlan",
    "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-16",
-   "times": [
-    "15:45"
-   ],
-   "title": "Non desiderare la donna d’altri",
-   "director": "K. Kieślowski",
-   "year": 1988,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-16",
-   "times": [
-    "18:00"
-   ],
-   "title": "La battaglia di Algeri",
-   "director": "G. Pontecorvo",
-   "year": 1966,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-16",
-   "times": [
-    "20:30"
-   ],
-   "title": "Le notti bianche",
-   "director": "L. Visconti",
-   "year": 1957,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-17",
-   "times": [
-    "16:00"
-   ],
-   "title": "Dolce è la vita",
-   "director": "M. Leigh",
-   "year": 1990,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-17",
-   "times": [
-    "18:00"
-   ],
-   "title": "Naked – Nudo",
-   "director": "M. Leigh",
-   "year": 1993,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-17",
-   "times": [
-    "20:30"
-   ],
-   "title": "Panni sporchi",
-   "director": "G. Bertolucci",
-   "year": 1980,
    "room": null,
    "note": ""
   },

@@ -1888,7 +1888,7 @@
   "title": "Werwulf",
   "year": 2026,
   "rating": null,
-  "like": false,
+  "like": true,
   "rewatch": false,
   "watched": "2026-11-12",
   "tmdb": 1421903,
@@ -1978,5 +1978,17 @@
   "tmdb": 851,
   "url": "https://letterboxd.com/georgecarmi/film/brief-encounter/",
   "review": "nothing lasts really. neither happiness nor despair. not even life lasts very long."
+ },
+ "letterboxd-review-1591772693": {
+  "guid": "letterboxd-review-1591772693",
+  "title": "The Further Mis-Adventures of Cliff Booth",
+  "year": 2026,
+  "rating": null,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-11-17",
+  "tmdb": 1457866,
+  "url": "https://letterboxd.com/georgecarmi/film/the-further-mis-adventures-of-cliff-booth/",
+  "review": "oh how much i want to be smoking a cig walking around hollywood right now."
  }
 }
