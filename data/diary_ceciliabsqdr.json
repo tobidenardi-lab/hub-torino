@@ -1609,14 +1609,14 @@
  },
  "letterboxd-review-1583527506": {
   "guid": "letterboxd-review-1583527506",
-  "title": "Il rumore delle cose nuove",
+  "title": "The Noise of New Things",
   "year": 2026,
   "rating": 2.5,
   "like": false,
   "rewatch": false,
   "watched": "2026-11-12",
   "tmdb": 1544126,
-  "url": "https://letterboxd.com/ceciliabsqdr/film/il-rumore-delle-cose-nuove/",
+  "url": "https://letterboxd.com/ceciliabsqdr/film/the-noise-of-new-things/",
   "review": "Claudio Santamaria per te ascolterei tutta la musica classica del mondo"
  },
  "letterboxd-watch-1583524833": {
@@ -1654,5 +1654,17 @@
   "tmdb": 5511,
   "url": "https://letterboxd.com/ceciliabsqdr/film/le-samourai/",
   "review": "Alain Delon sei l’uomo della mia vita"
+ },
+ "letterboxd-review-1593225727": {
+  "guid": "letterboxd-review-1593225727",
+  "title": "Love Actually",
+  "year": 2003,
+  "rating": 3.5,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-11-19",
+  "tmdb": 508,
+  "url": "https://letterboxd.com/ceciliabsqdr/film/love-actually/",
+  "review": "Mancavo solo io a non aver mai visto IL film natalizio per eccellenza…super comfort, un film che potrei rivedere tutti i natali a seguire e commuovermi ogni singola volta non appena vedo una coppia che si ama.\n\nP. S.: Andrew Lincoln THE MAN YOU ARE"
  }
 }

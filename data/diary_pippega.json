@@ -1642,5 +1642,41 @@
   "tmdb": 1949,
   "url": "https://letterboxd.com/pippega/film/zodiac/",
   "review": ""
+ },
+ "letterboxd-watch-1593344829": {
+  "guid": "letterboxd-watch-1593344829",
+  "title": "Pride & Prejudice",
+  "year": 2005,
+  "rating": 4.0,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-11-19",
+  "tmdb": 4348,
+  "url": "https://letterboxd.com/pippega/film/pride-prejudice/",
+  "review": ""
+ },
+ "letterboxd-watch-1592902956": {
+  "guid": "letterboxd-watch-1592902956",
+  "title": "Billy Elliot",
+  "year": 2000,
+  "rating": 3.5,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-11-19",
+  "tmdb": 71,
+  "url": "https://letterboxd.com/pippega/film/billy-elliot/",
+  "review": ""
+ },
+ "letterboxd-watch-1592901412": {
+  "guid": "letterboxd-watch-1592901412",
+  "title": "When Harry Met Sally...",
+  "year": 1989,
+  "rating": 5.0,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-11-19",
+  "tmdb": 639,
+  "url": "https://letterboxd.com/pippega/film/when-harry-met-sally/",
+  "review": ""
  }
 }

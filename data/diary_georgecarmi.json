@@ -1990,5 +1990,41 @@
   "tmdb": 1457866,
   "url": "https://letterboxd.com/georgecarmi/film/the-further-mis-adventures-of-cliff-booth/",
   "review": "oh how much i want to be smoking a cig walking around hollywood right now."
+ },
+ "letterboxd-review-1593064564": {
+  "guid": "letterboxd-review-1593064564",
+  "title": "The Pacifier",
+  "year": 2005,
+  "rating": null,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-11-18",
+  "tmdb": 10022,
+  "url": "https://letterboxd.com/georgecarmi/film/the-pacifier/",
+  "review": "sumn nostalgic."
+ },
+ "letterboxd-review-1592987847": {
+  "guid": "letterboxd-review-1592987847",
+  "title": "10 Things I Hate About You",
+  "year": 1999,
+  "rating": 4.0,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-11-18",
+  "tmdb": 4951,
+  "url": "https://letterboxd.com/georgecarmi/film/10-things-i-hate-about-you/",
+  "review": "so so charming. loveeeee."
+ },
+ "letterboxd-review-1592843503": {
+  "guid": "letterboxd-review-1592843503",
+  "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+  "year": 2023,
+  "rating": 3.0,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-11-18",
+  "tmdb": 695721,
+  "url": "https://letterboxd.com/georgecarmi/film/the-hunger-games-the-ballad-of-songbirds-snakes/1/",
+  "review": "ready for sunrise on the reaping."
  }
 }

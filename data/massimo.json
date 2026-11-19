@@ -1,72 +1,6 @@
 {
  "shows": [
   {
-   "date": "2026-11-18",
-   "times": [
-    "15:45"
-   ],
-   "title": "Look Back",
-   "director": "Kore-eda Hirokazu",
-   "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-18",
-   "times": [
-    "18:00"
-   ],
-   "title": "Solaris",
-   "director": "A. Tarkovskij",
-   "year": 1972,
-   "room": null,
-   "note": "Il film è introdotto da Silvio Alovisio"
-  },
-  {
-   "date": "2026-11-18",
-   "times": [
-    "21:15"
-   ],
-   "title": "Look Back",
-   "director": "Kore-eda Hirokazu",
-   "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-18",
-   "times": [
-    "16:30"
-   ],
-   "title": "Fatherland",
-   "director": "P. Pawlikowski",
-   "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-18",
-   "times": [
-    "18:15"
-   ],
-   "title": "La Gradiva",
-   "director": "M. Atlan",
-   "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-18",
-   "times": [
-    "21:00"
-   ],
-   "title": "Look Back",
-   "director": "Kore-eda Hirokazu",
-   "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
    "date": "2026-11-23",
    "times": [
     "15:00",
@@ -76,29 +10,6 @@
    "title": "Unicorni",
    "director": "M. Andreozzi",
    "year": 2025,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-18",
-   "times": [
-    "15:45"
-   ],
-   "title": "Fatherland",
-   "director": "P. Pawlikowski",
-   "year": 2026,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-18",
-   "times": [
-    "17:30",
-    "20:45"
-   ],
-   "title": "La Gradiva",
-   "director": "M. Atlan",
-   "year": 2026,
    "room": null,
    "note": ""
   },
@@ -200,39 +111,6 @@
    "year": 2026,
    "room": null,
    "note": ""
-  },
-  {
-   "date": "2026-11-18",
-   "times": [
-    "16:00"
-   ],
-   "title": "Segreti & bugie",
-   "director": "M. Leigh",
-   "year": 1996,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-18",
-   "times": [
-    "19:00"
-   ],
-   "title": "Ragazze",
-   "director": "M. Leigh",
-   "year": 1997,
-   "room": null,
-   "note": ""
-  },
-  {
-   "date": "2026-11-18",
-   "times": [
-    "21:00"
-   ],
-   "title": "La mia droga si chiama Julie",
-   "director": "F. Truffaut",
-   "year": 1969,
-   "room": null,
-   "note": "Il film è introdotto da Giorgio Astengo"
   },
   {
    "date": "2026-11-19",

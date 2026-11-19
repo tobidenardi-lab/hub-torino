@@ -101,13 +101,24 @@
  {
   "title": "Effetto VR!",
   "venue": "Il Cinema in Virtual Reality",
-  "start": "2026-11-20",
-  "end": "2026-11-20",
+  "start": "2026-11-21",
+  "end": "2026-11-21",
   "kind": "evento",
   "tag": "cinema",
   "desc": "",
   "url": "https://www.museocinema.it/it/attivita/alla-scoperta-del-museo",
   "source": "Museo Nazionale del Cinema"
+ },
+ {
+  "title": "Sagra del Cavolo Verza - 30ª Edizione",
+  "venue": "Torino",
+  "start": "2026-11-18",
+  "end": "2026-11-22",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/sagra-del-cavolo-verza-30-edizione",
+  "source": "Turismo Torino"
  },
  {
   "title": "Gabriele Basilico: paesaggio industriale Olivetti",
@@ -165,14 +176,14 @@
   "source": "Turismo Torino"
  },
  {
-  "title": "Still image. Fotografie di Jessica Lange",
+  "title": "Yayoi Kusama. Infinity Mirrored Room",
   "venue": "Torino",
-  "start": "2026-10-07",
-  "end": "2027-02-07",
+  "start": "2026-10-31",
+  "end": "2027-02-25",
   "kind": "evento",
-  "tag": "fotografia",
+  "tag": "arte",
   "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/still-image-fotografie-di-jessica-lange",
+  "url": "https://turismotorino.org/it/visita/eventi/yayoi-kusama-infinity-mirrored-room",
   "source": "Turismo Torino"
  },
  {
@@ -184,17 +195,6 @@
   "tag": "arte",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/teatro-colosseo-stagione-2026-2027",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Di padre in figlio. L'universo grafico di Giambattista e Giandomenico Tiepolo",
-  "venue": "Torino",
-  "start": "2026-10-15",
-  "end": "2027-01-17",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/di-padre-in-figlio-l-universo-grafico-di-giambattista-e-giandomenico-tiepolo",
   "source": "Turismo Torino"
  },
  {
@@ -261,6 +261,17 @@
   "tag": "arte",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/novembre-in-biblioteca-civica-di-susa",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Arte Povera. Capolavori dalla Collezione",
+  "venue": "Torino",
+  "start": "2026-07-01",
+  "end": "2027-02-28",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/arte-povera-capolavori-dalla-collezione",
   "source": "Turismo Torino"
  },
  {
