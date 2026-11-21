@@ -90,12 +90,12 @@
  {
   "title": "Effetto VR!",
   "venue": "Il Cinema in Virtual Reality",
-  "start": "2026-11-22",
-  "end": "2026-11-22",
+  "start": "2026-11-23",
+  "end": "2026-11-23",
   "kind": "evento",
   "tag": "cinema",
   "desc": "",
-  "url": "https://www.museocinema.it/it/attivita/alla-scoperta-del-museo",
+  "url": "https://www.museocinema.it/it/attivita/salita-piedi-della-cupola-visita-autonoma-accompagnata",
   "source": "Museo Nazionale del Cinema"
  },
  {
@@ -129,6 +129,17 @@
   "tag": "cinema",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/sotto18-film-fesival-2026",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Bagna Cauda Day 2026/2027",
+  "venue": "Torino",
+  "start": "2026-11-20",
+  "end": "2026-11-22",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/bagna-cauda-day-2026-2027",
   "source": "Turismo Torino"
  },
  {
@@ -220,36 +231,14 @@
   "source": "Turismo Torino"
  },
  {
-  "title": "Game set light: lo spettacolo in Piazza San Carlo",
+  "title": "Stagione Concertistica Giovani 2026",
   "venue": "Torino",
-  "start": "2026-11-13",
-  "end": "2026-11-22",
-  "kind": "evento",
-  "tag": "cinema",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/game-set-light-lo-spettacolo-in-piazza-san-carlo",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Ivrea On Ice - Pista di Pattinaggio 2026",
-  "venue": "Torino",
-  "start": "2026-11-14",
-  "end": "2027-01-17",
+  "start": "2026-11-20",
+  "end": "2026-12-18",
   "kind": "evento",
   "tag": "arte",
   "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/ivrea-on-ice-pista-di-pattinaggio-2026",
-  "source": "Turismo Torino"
- },
- {
-  "title": "25 novembre 2026, Giornata internazionale per l’eliminazione della violenza contro le donne",
-  "venue": "Torino",
-  "start": "2026-11-11",
-  "end": "2026-11-28",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/25-novembre-2026-giornata-internazionale-per-l-eliminazione-della-violenza-contro-le-donne",
+  "url": "https://turismotorino.org/it/visita/eventi/stagione-concertistica-giovani-2026",
   "source": "Turismo Torino"
  },
  {
