@@ -90,13 +90,24 @@
  {
   "title": "Effetto VR!",
   "venue": "Il Cinema in Virtual Reality",
-  "start": "2026-11-23",
-  "end": "2026-11-23",
+  "start": "2026-11-24",
+  "end": "2026-11-24",
   "kind": "evento",
   "tag": "cinema",
   "desc": "",
   "url": "https://www.museocinema.it/it/attivita/salita-piedi-della-cupola-visita-autonoma-accompagnata",
   "source": "Museo Nazionale del Cinema"
+ },
+ {
+  "title": "The Final Set. Closing Party Nitto ATP Finals 2026",
+  "venue": "Torino",
+  "start": "2026-11-22",
+  "end": "2026-11-22",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/the-final-set-closing-party-nitto-atp-finals-2026",
+  "source": "Turismo Torino"
  },
  {
   "title": "Sagra del Cavolo Verza - 30ª Edizione",
@@ -107,6 +118,28 @@
   "tag": "arte",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/sagra-del-cavolo-verza-30-edizione",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Swap Party",
+  "venue": "Torino",
+  "start": "2026-11-22",
+  "end": "2026-11-22",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/swap-party",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Giorgio De Chirico",
+  "venue": "Torino",
+  "start": "2026-11-14",
+  "end": "2026-12-20",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/giorgio-de-chirico",
   "source": "Turismo Torino"
  },
  {
@@ -165,6 +198,17 @@
   "source": "Turismo Torino"
  },
  {
+  "title": "La nuova stagione del Teatro Sociale 2026-2027",
+  "venue": "Torino",
+  "start": "2026-11-21",
+  "end": "2027-05-02",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/la-nuova-stagione-del-teatro-sociale-2026-2027",
+  "source": "Turismo Torino"
+ },
+ {
   "title": "World Press Photo Exhibition 2026",
   "venue": "Torino",
   "start": "2026-09-18",
@@ -217,28 +261,6 @@
   "tag": "arte",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/di-padre-in-figlio-l-universo-grafico-di-giambattista-e-giandomenico-tiepolo",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Luci d'Artista",
-  "venue": "Torino",
-  "start": "2026-10-23",
-  "end": "2027-01-10",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/luci-dartista",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Stagione Concertistica Giovani 2026",
-  "venue": "Torino",
-  "start": "2026-11-20",
-  "end": "2026-12-18",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/stagione-concertistica-giovani-2026",
   "source": "Turismo Torino"
  },
  {
