@@ -1383,5 +1383,41 @@
   "tmdb": 1483525,
   "url": "https://letterboxd.com/marcodenardi/film/possible-love/",
   "review": ""
+ },
+ "letterboxd-watch-1598738419": {
+  "guid": "letterboxd-watch-1598738419",
+  "title": "Once Upon a Time... in Hollywood",
+  "year": 2019,
+  "rating": 5.0,
+  "like": true,
+  "rewatch": true,
+  "watched": "2026-11-23",
+  "tmdb": 466272,
+  "url": "https://letterboxd.com/marcodenardi/film/once-upon-a-time-in-hollywood/1/",
+  "review": ""
+ },
+ "letterboxd-watch-1598735823": {
+  "guid": "letterboxd-watch-1598735823",
+  "title": "Don't Look Up",
+  "year": 2021,
+  "rating": 5.0,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-11-22",
+  "tmdb": 646380,
+  "url": "https://letterboxd.com/marcodenardi/film/dont-look-up-2021/",
+  "review": ""
+ },
+ "letterboxd-watch-1598733617": {
+  "guid": "letterboxd-watch-1598733617",
+  "title": "La Gradiva",
+  "year": 2026,
+  "rating": 4.0,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-11-22",
+  "tmdb": 1154730,
+  "url": "https://letterboxd.com/marcodenardi/film/la-gradiva/",
+  "review": ""
  }
 }

@@ -1582,5 +1582,17 @@
   "tmdb": 14537,
   "url": "https://letterboxd.com/camillocueto/film/harakiri/",
   "review": ""
+ },
+ "letterboxd-watch-1598353049": {
+  "guid": "letterboxd-watch-1598353049",
+  "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+  "year": 1964,
+  "rating": 4.5,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-11-22",
+  "tmdb": 935,
+  "url": "https://letterboxd.com/camillocueto/film/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/",
+  "review": ""
  }
 }
