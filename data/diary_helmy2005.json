@@ -1570,5 +1570,17 @@
   "tmdb": 4348,
   "url": "https://letterboxd.com/helmy2005/film/pride-prejudice/",
   "review": ""
+ },
+ "letterboxd-watch-1600689857": {
+  "guid": "letterboxd-watch-1600689857",
+  "title": "Dune",
+  "year": 2021,
+  "rating": 4.5,
+  "like": true,
+  "rewatch": true,
+  "watched": "2026-11-24",
+  "tmdb": 438631,
+  "url": "https://letterboxd.com/helmy2005/film/dune-2021/1/",
+  "review": ""
  }
 }

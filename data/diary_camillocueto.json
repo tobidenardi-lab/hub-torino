@@ -1594,5 +1594,17 @@
   "tmdb": 935,
   "url": "https://letterboxd.com/camillocueto/film/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/",
   "review": ""
+ },
+ "letterboxd-watch-1599680718": {
+  "guid": "letterboxd-watch-1599680718",
+  "title": "No Country for Old Men",
+  "year": 2007,
+  "rating": 4.5,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-11-23",
+  "tmdb": 6977,
+  "url": "https://letterboxd.com/camillocueto/film/no-country-for-old-men/",
+  "review": ""
  }
 }

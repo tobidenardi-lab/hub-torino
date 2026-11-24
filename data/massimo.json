@@ -1,70 +1,873 @@
 {
  "shows": [
   {
-   "date": "2026-11-23",
+   "date": "2026-12-03",
    "times": [
-    "15:00",
-    "17:30",
+    "15:45"
+   ],
+   "title": "Cenere e diamanti",
+   "director": "A. Wajda",
+   "year": 1958,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-03",
+   "times": [
+    "18:00"
+   ],
+   "title": "Girl in the Night",
+   "director": "L. Marčetić",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-03",
+   "times": [
     "20:00"
    ],
-   "title": "Unicorni",
-   "director": "M. Andreozzi",
+   "title": "Sala 1 Reel Rock",
+   "director": "",
+   "year": null,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-04",
+   "times": [
+    "16:00"
+   ],
+   "title": "Città dolente",
+   "director": "Hou Hsiao-hsien",
+   "year": 1989,
+   "room": null,
+   "note": "Il film è introdotto da Shih Wei-Chu (Su Ui-tiok)"
+  },
+  {
+   "date": "2026-12-04",
+   "times": [
+    "20:30"
+   ],
+   "title": "A Foggy Tale",
+   "director": "Chen Yu-hsun",
+   "year": 2025,
+   "room": null,
+   "note": "Il film è introdotto da Yeh Ju-fen (produttrice) e Chen Yu-hsun (regista)"
+  },
+  {
+   "date": "2026-12-04",
+   "times": [
+    "20:30"
+   ],
+   "title": "Sala 2 Alice nel paese dei coloni",
+   "director": "Yanis Mhamdi",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-05",
+   "times": [
+    "16:00"
+   ],
+   "title": "Super Citizen Ko",
+   "director": "Wan Jen",
+   "year": 1995,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-05",
+   "times": [
+    "18:30"
+   ],
+   "title": "Tavola rotonda con Chen Yu-hsun, John Hsu, Wan Jen, Yeh Ju-feng, Lee Lieh, Shih Wei-Chu e il curatore Stefano Centini",
+   "director": "",
+   "year": null,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-05",
+   "times": [
+    "20:30"
+   ],
+   "title": "Detention",
+   "director": "John Hsu",
+   "year": 2019,
+   "room": null,
+   "note": "Il film è introdotto da Lee Lieh (produttrice) e John Hsu (regista)"
+  },
+  {
+   "date": "2026-12-06",
+   "times": [
+    "16:00"
+   ],
+   "title": "La terra della grande promessa",
+   "director": "A. Wajda",
+   "year": 1975,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-06",
+   "times": [
+    "20:30"
+   ],
+   "title": "A Foggy Tale",
+   "director": "Chen Yu-hsun",
    "year": 2025,
    "room": null,
    "note": ""
   },
   {
-   "date": "2026-11-23",
+   "date": "2026-12-07",
    "times": [
-    "16:45"
+    "16:00"
    ],
-   "title": "Look Back",
-   "director": "Kore-eda Hirokazu",
-   "year": 2026,
+   "title": "Detention",
+   "director": "John Hsu",
+   "year": 2019,
    "room": null,
    "note": ""
   },
   {
-   "date": "2026-11-23",
+   "date": "2026-12-07",
    "times": [
-    "18:45"
+    "18:00"
    ],
-   "title": "Fatherland",
-   "director": "P. Pawlikowski",
-   "year": 2026,
+   "title": "Super Citizen Ko",
+   "director": "Wan Jen",
+   "year": 1995,
    "room": null,
    "note": ""
   },
   {
-   "date": "2026-11-23",
+   "date": "2026-12-07",
    "times": [
     "20:30"
    ],
-   "title": "La Gradiva",
-   "director": "M. Atlan",
+   "title": "Le signorine di Wilko",
+   "director": "A. Wajda",
+   "year": 1979,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-07",
+   "times": [
+    "20:30"
+   ],
+   "title": "Sala 2 Hans Clemer- Biografia non autorizzata",
+   "director": "F. Valla",
+   "year": 2026,
+   "room": null,
+   "note": "Al termine incontro con Fredo Valla e Fabio Ferrero"
+  },
+  {
+   "date": "2026-12-08",
+   "times": [
+    "16:00"
+   ],
+   "title": "La terra della grande promessa",
+   "director": "A. Wajda",
+   "year": 1975,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-08",
+   "times": [
+    "20:30"
+   ],
+   "title": "Danton",
+   "director": "A. Wajda",
+   "year": 1983,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-09",
+   "times": [
+    "16:00"
+   ],
+   "title": "L’uomo di marmo",
+   "director": "A. Wajda",
+   "year": 1977,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-09",
+   "times": [
+    "20:30"
+   ],
+   "title": "Ragazzi al cinema",
+   "director": "V. Sabel",
+   "year": 1952,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-09",
+   "times": [
+    "18:00"
+   ],
+   "title": "Sala 1 La notte dei morti viventi",
+   "director": "G. A. Romero",
+   "year": 1968,
+   "room": null,
+   "note": "Il film è introdotto da Sabrina Negri"
+  },
+  {
+   "date": "2026-12-10",
+   "times": [
+    "16:00"
+   ],
+   "title": "Le signorine di Wilko",
+   "director": "A. Wajda",
+   "year": 1979,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-10",
+   "times": [
+    "18:30"
+   ],
+   "title": "I dannati di Varsavia",
+   "director": "A. Wajda",
+   "year": 1957,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-10",
+   "times": [
+    "20:30"
+   ],
+   "title": "Cenere e diamanti",
+   "director": "A. Wajda",
+   "year": 1958,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-10",
+   "times": [
+    "20:30"
+   ],
+   "title": "Sala 2 Giulio Regeni – Tutto il male del mondo",
+   "director": "S. Manetti",
    "year": 2026,
    "room": null,
    "note": ""
   },
   {
-   "date": "2026-11-23",
+   "date": "2026-12-11",
+   "times": [
+    "16:00"
+   ],
+   "title": "L’uomo di marmo",
+   "director": "A. Wajda",
+   "year": 1977,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-11",
+   "times": [
+    "20:30"
+   ],
+   "title": "Lost Paradise",
+   "director": "P. Coulebeuf",
+   "year": 2002,
+   "room": null,
+   "note": "Al termine incontro con Pierre Coulebeuf e Bruno di Marino"
+  },
+  {
+   "date": "2026-12-12",
+   "times": [
+    "16:00"
+   ],
+   "title": "Danton",
+   "director": "A. Wajda",
+   "year": 1983,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-12",
+   "times": [
+    "18:30"
+   ],
+   "title": "Cadaveri eccellenti",
+   "director": "F Rosi",
+   "year": 1976,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-12",
+   "times": [
+    "21:00"
+   ],
+   "title": "Brutti, sporchi e cattivi",
+   "director": "E. Scola",
+   "year": 1976,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-13",
    "times": [
     "16:30"
    ],
-   "title": "Topsy-Turvy – Sotto-sopra",
-   "director": "M. Leigh",
-   "year": 1996,
+   "title": "Novecento Atto I",
+   "director": "B. Bertolucci",
+   "year": 1976,
    "room": null,
    "note": ""
   },
   {
-   "date": "2026-11-23",
+   "date": "2026-12-13",
+   "times": [
+    "20:00"
+   ],
+   "title": "Novecento Atto II",
+   "director": "B. Bertolucci",
+   "year": 1976,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-14",
+   "times": [
+    "15:30"
+   ],
+   "title": "Marcia trionfale",
+   "director": "M. Bellocchio",
+   "year": 1976,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-14",
+   "times": [
+    "18:00"
+   ],
+   "title": "La battaglia di Algeri",
+   "director": "G. Pontecorvo",
+   "year": 1966,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-14",
    "times": [
     "20:30"
    ],
-   "title": "Minnie and Moscowitz",
-   "director": "J. Cassavetes",
-   "year": 1971,
+   "title": "L’innocente",
+   "director": "L. Visconti",
+   "year": 1976,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-14",
+   "times": [
+    "20:30"
+   ],
+   "title": "Sala 1 L’incontro",
+   "director": "F. Galatea",
+   "year": 2026,
+   "room": null,
+   "note": "Al termine incontro con Fabrizio Galatea"
+  },
+  {
+   "date": "2026-12-15",
+   "times": [
+    "15:00"
+   ],
+   "title": "Il Casanova di federico Fellini",
+   "director": "F. Fellini",
+   "year": 1976,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-15",
+   "times": [
+    "18:00"
+   ],
+   "title": "L’Agnese va a morire",
+   "director": "G. Montaldo",
+   "year": 1976,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-15",
+   "times": [
+    "20:30"
+   ],
+   "title": "Il postino suona sempre due volte",
+   "director": "B. Rafelson",
+   "year": 1981,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-15",
+   "times": [
+    "20:30"
+   ],
+   "title": "Sala 1 Jurassic World",
+   "director": "C. Trevorrow",
+   "year": 2015,
+   "room": null,
+   "note": "Il film è introdotto da Glen McIntosh"
+  },
+  {
+   "date": "2026-12-15",
+   "times": [
+    "20:30"
+   ],
+   "title": "Sala 2 Controvento",
+   "director": "F. Conti e M. Bosco",
+   "year": 2026,
+   "room": null,
+   "note": "Al termine incontro con i registi e Sea Watch Italia"
+  },
+  {
+   "date": "2026-12-16",
+   "times": [
+    "15:30"
+   ],
+   "title": "Todo modo",
+   "director": "E. Petri",
+   "year": 1976,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-16",
+   "times": [
+    "18:00"
+   ],
+   "title": "Il postino suona sempre due volte",
+   "director": "B. Rafelson",
+   "year": 1981,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-16",
+   "times": [
+    "21:00"
+   ],
+   "title": "Cha fine ha fatto Baby Jane?",
+   "director": "R. Aldrich",
+   "year": 1962,
+   "room": null,
+   "note": "Il film è introdotto da Stefania Pandolfo"
+  },
+  {
+   "date": "2026-12-16",
+   "times": [
+    "18:00"
+   ],
+   "title": "Sala 1 Blade Runner",
+   "director": "R. Scott",
+   "year": 1982,
+   "room": null,
+   "note": "Il film è introdotto da Giaime Alonge, Silvio Alovisio, Giovanna Maina, Sabrina Negri, Bruno Surace, Paola Valentini"
+  },
+  {
+   "date": "2026-12-22",
+   "times": [
+    "16:00"
+   ],
+   "title": "Pesciolino",
+   "director": "J. Hamman e S. Scrimgeour",
+   "year": 2024,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-22",
+   "times": [
+    "18:00"
+   ],
+   "title": "Susanna!",
+   "director": "H. Hawks",
+   "year": 1938,
+   "room": null,
+   "note": "Il film è introdotto da Giaime Alonge"
+  },
+  {
+   "date": "2026-12-22",
+   "times": [
+    "20:30"
+   ],
+   "title": "Sul sentiero dei mostri",
+   "director": "H. Roach",
+   "year": 1940,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-23",
+   "times": [
+    "16:00"
+   ],
+   "title": "Pesciolino",
+   "director": "J. Hamman e S. Scrimgeour",
+   "year": 2024,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-23",
+   "times": [
+    "18:00"
+   ],
+   "title": "La fine di Oak Street",
+   "director": "D. R. Mitchell",
+   "year": 2026,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-23",
+   "times": [
+    "20:30"
+   ],
+   "title": "Un milione",
+   "director": "anni fa D. Chaffey",
+   "year": 1966,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-24",
+   "times": [
+    "16:00",
+    "18:00",
+    "20:30"
+   ],
+   "title": "Prima visione",
+   "director": "",
+   "year": null,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-25",
+   "times": [
+    "16:00"
+   ],
+   "title": "Il viaggio di Arlo",
+   "director": "P. Sohn",
+   "year": 1988,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-25",
+   "times": [
+    "18:00",
+    "20:30"
+   ],
+   "title": "Prima visione",
+   "director": "",
+   "year": null,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-26",
+   "times": [
+    "16:00"
+   ],
+   "title": "Doraemon – Il film: Nobita e il nuovo dinosauro",
+   "director": "K. Imai",
+   "year": 2020,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-26",
+   "times": [
+    "18:00",
+    "20:30"
+   ],
+   "title": "Prima visione",
+   "director": "",
+   "year": null,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-27",
+   "times": [
+    "16:00"
+   ],
+   "title": "Scooby Doo e la leggenda del Fantosauro",
+   "director": "E. Spaulding",
+   "year": 2011,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-27",
+   "times": [
+    "18:00",
+    "20:30"
+   ],
+   "title": "Prima visione",
+   "director": "",
+   "year": null,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-28",
+   "times": [
+    "16:00"
+   ],
+   "title": "Toy Story – Il mondo dei giocattoli",
+   "director": "J. Lasseter",
+   "year": 1995,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-28",
+   "times": [
+    "18:00",
+    "20:30"
+   ],
+   "title": "Prima visione",
+   "director": "",
+   "year": null,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-29",
+   "times": [
+    "16:00"
+   ],
+   "title": "I predatori dell’arca perduta",
+   "director": "S. Spielberg",
+   "year": 1981,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-29",
+   "times": [
+    "18:30",
+    "20:30"
+   ],
+   "title": "Prima visione",
+   "director": "",
+   "year": null,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-30",
+   "times": [
+    "18:30",
+    "20:30"
+   ],
+   "title": "Prima visione",
+   "director": "",
+   "year": null,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-30",
+   "times": [
+    "20:30"
+   ],
+   "title": "I predatori dell’arca perduta",
+   "director": "S. Spielberg",
+   "year": 1981,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-31",
+   "times": [
+    "16:00"
+   ],
+   "title": "A spasso con i dinosauri",
+   "director": "B. Cook, N. Nightingale",
+   "year": 2013,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-31",
+   "times": [
+    "18:00"
+   ],
+   "title": "Prima visione",
+   "director": "",
+   "year": null,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-31",
+   "times": [
+    "16:00"
+   ],
+   "title": "Dinosauri",
+   "director": "E. Leighton, R. Zondag",
+   "year": 2000,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2026-12-31",
+   "times": [
+    "18:00",
+    "20:30"
+   ],
+   "title": "Prima visione",
+   "director": "",
+   "year": null,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2027-01-02",
+   "times": [
+    "16:00"
+   ],
+   "title": "Baby. Il segreto della leggenda perduta",
+   "director": "B. W. L. Norton",
+   "year": 1985,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2027-01-02",
+   "times": [
+    "18:00",
+    "20:30"
+   ],
+   "title": "Prima visione",
+   "director": "",
+   "year": null,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2027-01-03",
+   "times": [
+    "16:00"
+   ],
+   "title": "Pesciolino",
+   "director": "J. Hamman e S. Scrimgeour",
+   "year": 2024,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2027-01-03",
+   "times": [
+    "18:00",
+    "20:30"
+   ],
+   "title": "Prima visione",
+   "director": "",
+   "year": null,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2027-01-04",
+   "times": [
+    "16:00"
+   ],
+   "title": "65 – Fuga dalla Terra",
+   "director": "S. Beck, B. Woods",
+   "year": 2022,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2027-01-04",
+   "times": [
+    "18:00"
+   ],
+   "title": "Gojira",
+   "director": "I. Honda",
+   "year": 1954,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2027-01-04",
+   "times": [
+    "20:30"
+   ],
+   "title": "Gojira il re dei mostri",
+   "director": "M. Hoda",
+   "year": 1955,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2027-01-05",
+   "times": [
+    "16:00"
+   ],
+   "title": "Pesciolino",
+   "director": "J. Hamman e S. Scrimgeour",
+   "year": 2024,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2027-01-05",
+   "times": [
+    "18:30",
+    "20:30"
+   ],
+   "title": "Prima visione",
+   "director": "",
+   "year": null,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2027-01-06",
+   "times": [
+    "16:00"
+   ],
+   "title": "Pesciolino",
+   "director": "J. Hamman e S. Scrimgeour",
+   "year": 2024,
+   "room": null,
+   "note": ""
+  },
+  {
+   "date": "2027-01-06",
+   "times": [
+    "18:30",
+    "20:30"
+   ],
+   "title": "Prima visione",
+   "director": "",
+   "year": null,
    "room": null,
    "note": ""
   }

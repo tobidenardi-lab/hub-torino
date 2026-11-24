@@ -1678,5 +1678,17 @@
   "tmdb": 128,
   "url": "https://letterboxd.com/ceciliabsqdr/film/princess-mononoke/",
   "review": "Bello bello bello"
+ },
+ "letterboxd-watch-1600732435": {
+  "guid": "letterboxd-watch-1600732435",
+  "title": "Cellular",
+  "year": 2004,
+  "rating": 2.0,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-11-22",
+  "tmdb": 9759,
+  "url": "https://letterboxd.com/ceciliabsqdr/film/cellular/",
+  "review": ""
  }
 }

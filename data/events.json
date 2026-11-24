@@ -101,13 +101,46 @@
  {
   "title": "Effetto VR!",
   "venue": "Il Cinema in Virtual Reality",
-  "start": "2026-11-25",
-  "end": "2026-11-25",
+  "start": "2026-11-26",
+  "end": "2026-11-26",
   "kind": "evento",
   "tag": "cinema",
   "desc": "",
   "url": "https://www.museocinema.it/it/attivita/salita-piedi-della-cupola-percorso-guidato",
   "source": "Museo Nazionale del Cinema"
+ },
+ {
+  "title": "Tff - Torino Film Festival - 44ª Edizione",
+  "venue": "Torino",
+  "start": "2026-11-24",
+  "end": "2026-12-02",
+  "kind": "evento",
+  "tag": "cinema",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/tff-torino-film-festival-44-edizione",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Giorgio De Chirico",
+  "venue": "Torino",
+  "start": "2026-11-14",
+  "end": "2026-12-20",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/giorgio-de-chirico",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Gabriele Basilico: paesaggio industriale Olivetti",
+  "venue": "Torino",
+  "start": "2026-11-05",
+  "end": "2026-12-31",
+  "kind": "mostra",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/gabriele-basilico-paesaggio-industriale-olivetti",
+  "source": "Turismo Torino"
  },
  {
   "title": "Sotto18 + Film Fesival 2026",
@@ -132,6 +165,17 @@
   "source": "Turismo Torino"
  },
  {
+  "title": "Banksy. Street is the Museum",
+  "venue": "Torino",
+  "start": "2026-10-22",
+  "end": "2027-01-31",
+  "kind": "mostra",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/banksy-street-is-the-museum",
+  "source": "Turismo Torino"
+ },
+ {
   "title": "La nuova stagione del Teatro Sociale 2026-2027",
   "venue": "Torino",
   "start": "2026-11-21",
@@ -151,17 +195,6 @@
   "tag": "fotografia",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/world-press-photo-exhibition-2026",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Yayoi Kusama. Infinity Mirrored Room",
-  "venue": "Torino",
-  "start": "2026-10-31",
-  "end": "2027-02-25",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/yayoi-kusama-infinity-mirrored-room",
   "source": "Turismo Torino"
  },
  {
@@ -209,6 +242,17 @@
   "source": "Turismo Torino"
  },
  {
+  "title": "Vivi le Feste a Settimo Torinese",
+  "venue": "Torino",
+  "start": "2026-11-24",
+  "end": "2027-01-10",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/vivi-le-feste-a-settimo-torinese",
+  "source": "Turismo Torino"
+ },
+ {
   "title": "Presepe Meccanico della Ss Annunziata - Via Po - 2026",
   "venue": "Torino",
   "start": "2026-11-07",
@@ -220,58 +264,14 @@
   "source": "Turismo Torino"
  },
  {
-  "title": "Stagione Concertistica Giovani 2026",
+  "title": "Storie e rime della natura",
   "venue": "Torino",
-  "start": "2026-11-20",
-  "end": "2026-12-18",
+  "start": "2026-11-24",
+  "end": "2026-11-24",
   "kind": "evento",
   "tag": "arte",
   "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/stagione-concertistica-giovani-2026",
-  "source": "Turismo Torino"
- },
- {
-  "title": "XXL-Mas Village 2027 - Shopville Le Gru",
-  "venue": "Torino",
-  "start": "2026-11-21",
-  "end": "2026-12-24",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/xxl-mas-village-2027-shopville-le-gru",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Giornata Internazionale contro la violenza sulle Donne",
-  "venue": "Torino",
-  "start": "2026-11-21",
-  "end": "2026-11-25",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/giornata-internazionale-contro-la-violenza-sulle-donne",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Ivrea On Ice - Pista di Pattinaggio 2026",
-  "venue": "Torino",
-  "start": "2026-11-14",
-  "end": "2027-01-17",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/ivrea-on-ice-pista-di-pattinaggio-2026",
-  "source": "Turismo Torino"
- },
- {
-  "title": "25 novembre 2026, Giornata internazionale per l’eliminazione della violenza contro le donne",
-  "venue": "Torino",
-  "start": "2026-11-11",
-  "end": "2026-11-28",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/25-novembre-2026-giornata-internazionale-per-l-eliminazione-della-violenza-contro-le-donne",
+  "url": "https://turismotorino.org/it/visita/eventi/storie-e-rime-della-natura",
   "source": "Turismo Torino"
  },
  {
