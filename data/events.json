@@ -101,12 +101,12 @@
  {
   "title": "Effetto VR!",
   "venue": "Il Cinema in Virtual Reality",
-  "start": "2026-11-26",
-  "end": "2026-11-26",
+  "start": "2026-11-27",
+  "end": "2026-11-27",
   "kind": "evento",
   "tag": "cinema",
   "desc": "",
-  "url": "https://www.museocinema.it/it/attivita/salita-piedi-della-cupola-percorso-guidato",
+  "url": "https://www.museocinema.it/it/attivita/alla-scoperta-del-museo",
   "source": "Museo Nazionale del Cinema"
  },
  {
@@ -118,6 +118,17 @@
   "tag": "cinema",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/tff-torino-film-festival-44-edizione",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Insieme per contare",
+  "venue": "Torino",
+  "start": "2026-11-25",
+  "end": "2026-11-25",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/insieme-per-contare",
   "source": "Turismo Torino"
  },
  {
@@ -198,14 +209,14 @@
   "source": "Turismo Torino"
  },
  {
-  "title": "Still image. Fotografie di Jessica Lange",
+  "title": "Yayoi Kusama. Infinity Mirrored Room",
   "venue": "Torino",
-  "start": "2026-10-07",
-  "end": "2027-02-07",
+  "start": "2026-10-31",
+  "end": "2027-02-25",
   "kind": "evento",
-  "tag": "fotografia",
+  "tag": "arte",
   "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/still-image-fotografie-di-jessica-lange",
+  "url": "https://turismotorino.org/it/visita/eventi/yayoi-kusama-infinity-mirrored-room",
   "source": "Turismo Torino"
  },
  {
@@ -217,17 +228,6 @@
   "tag": "arte",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/teatro-colosseo-stagione-2026-2027",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Di padre in figlio. L'universo grafico di Giambattista e Giandomenico Tiepolo",
-  "venue": "Torino",
-  "start": "2026-10-15",
-  "end": "2027-01-17",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/di-padre-in-figlio-l-universo-grafico-di-giambattista-e-giandomenico-tiepolo",
   "source": "Turismo Torino"
  },
  {
@@ -264,14 +264,14 @@
   "source": "Turismo Torino"
  },
  {
-  "title": "Storie e rime della natura",
+  "title": "Un bravo ragazzo - Borgaro Torinese",
   "venue": "Torino",
-  "start": "2026-11-24",
-  "end": "2026-11-24",
+  "start": "2026-11-25",
+  "end": "2026-11-25",
   "kind": "evento",
   "tag": "arte",
   "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/storie-e-rime-della-natura",
+  "url": "https://turismotorino.org/it/visita/eventi/un-bravo-ragazzo-borgaro-torinese",
   "source": "Turismo Torino"
  },
  {

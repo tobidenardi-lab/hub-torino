@@ -1786,5 +1786,17 @@
   "tmdb": 1598822,
   "url": "https://letterboxd.com/sethsreviews/film/paper-trail-2026/",
   "review": ""
+ },
+ "letterboxd-review-1601179031": {
+  "guid": "letterboxd-review-1601179031",
+  "title": "Monsters University",
+  "year": 2013,
+  "rating": null,
+  "like": true,
+  "rewatch": true,
+  "watched": "2026-11-24",
+  "tmdb": 62211,
+  "url": "https://letterboxd.com/sethsreviews/film/monsters-university/1/",
+  "review": "I am alive."
  }
 }

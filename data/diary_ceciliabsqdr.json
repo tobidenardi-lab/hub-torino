@@ -1690,5 +1690,17 @@
   "tmdb": 9759,
   "url": "https://letterboxd.com/ceciliabsqdr/film/cellular/",
   "review": ""
+ },
+ "letterboxd-watch-1602065075": {
+  "guid": "letterboxd-watch-1602065075",
+  "title": "The Sweet East",
+  "year": 2023,
+  "rating": 3.5,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-11-24",
+  "tmdb": 1010639,
+  "url": "https://letterboxd.com/ceciliabsqdr/film/the-sweet-east/",
+  "review": ""
  }
 }
