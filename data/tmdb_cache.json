@@ -1667,5 +1667,45 @@
    "fire",
    "fuoco"
   ]
+ },
+ "e andata cosi|2026": {
+  "id": 1329664,
+  "titles": [
+   "e andata cosi"
+  ]
+ },
+ "hexe il regno delle streghe|2026": {
+  "id": 1538497,
+  "titles": [
+   "hexe il regno delle streghe",
+   "hexed"
+  ]
+ },
+ "lorenzo l incredibile avventura di jovanotti|2026": {
+  "id": 1726926,
+  "titles": [
+   "lorenzo l incredibile avventura di jovanotti",
+   "lorenzo lincredibile avventura di jovanotti"
+  ]
+ },
+ "notte delle fragole|2026": {
+  "id": 1708090,
+  "titles": [
+   "notte delle fragole"
+  ]
+ },
+ "sospesi|2022": {
+  "id": 1061574,
+  "titles": [
+   "sospesi"
+  ]
+ },
+ "storie parallele|2026": {
+  "id": 1157869,
+  "titles": [
+   "histoires paralleles",
+   "parallel tales",
+   "storie parallele"
+  ]
  }
 }

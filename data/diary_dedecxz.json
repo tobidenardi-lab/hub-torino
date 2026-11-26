@@ -1594,5 +1594,17 @@
   "tmdb": 1400940,
   "url": "https://letterboxd.com/dedecxz/film/clayface/",
   "review": ""
+ },
+ "letterboxd-watch-1602966436": {
+  "guid": "letterboxd-watch-1602966436",
+  "title": "Vermiglio",
+  "year": 2024,
+  "rating": 3.5,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-11-25",
+  "tmdb": 1151244,
+  "url": "https://letterboxd.com/dedecxz/film/vermiglio/",
+  "review": ""
  }
 }

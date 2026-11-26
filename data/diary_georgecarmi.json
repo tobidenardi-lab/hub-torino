@@ -2110,5 +2110,17 @@
   "tmdb": 62211,
   "url": "https://letterboxd.com/georgecarmi/film/monsters-university/",
   "review": "no very bueno."
+ },
+ "letterboxd-review-1602857112": {
+  "guid": "letterboxd-review-1602857112",
+  "title": "Clashing Through the Snow",
+  "year": 2026,
+  "rating": 1.0,
+  "like": false,
+  "rewatch": false,
+  "watched": "2026-11-25",
+  "tmdb": 1611767,
+  "url": "https://letterboxd.com/georgecarmi/film/clashing-through-the-snow/",
+  "review": "buns."
  }
 }

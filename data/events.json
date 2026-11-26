@@ -101,8 +101,8 @@
  {
   "title": "Effetto VR!",
   "venue": "Il Cinema in Virtual Reality",
-  "start": "2026-11-27",
-  "end": "2026-11-27",
+  "start": "2026-11-28",
+  "end": "2026-11-28",
   "kind": "evento",
   "tag": "cinema",
   "desc": "",
@@ -118,17 +118,6 @@
   "tag": "cinema",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/tff-torino-film-festival-44-edizione",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Insieme per contare",
-  "venue": "Torino",
-  "start": "2026-11-25",
-  "end": "2026-11-25",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/insieme-per-contare",
   "source": "Turismo Torino"
  },
  {
@@ -154,7 +143,7 @@
   "source": "Turismo Torino"
  },
  {
-  "title": "Sotto18 + Film Fesival 2026",
+  "title": "Sotto18+ Film Fesival 2026",
   "venue": "Torino",
   "start": "2026-11-16",
   "end": "2026-12-21",
@@ -220,6 +209,17 @@
   "source": "Turismo Torino"
  },
  {
+  "title": "Still image. Fotografie di Jessica Lange",
+  "venue": "Torino",
+  "start": "2026-10-07",
+  "end": "2027-02-07",
+  "kind": "evento",
+  "tag": "fotografia",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/still-image-fotografie-di-jessica-lange",
+  "source": "Turismo Torino"
+ },
+ {
   "title": "Teatro Colosseo Stagione 2026/2027",
   "venue": "Torino",
   "start": "2026-10-03",
@@ -228,6 +228,17 @@
   "tag": "arte",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/teatro-colosseo-stagione-2026-2027",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Di padre in figlio. L'universo grafico di Giambattista e Giandomenico Tiepolo",
+  "venue": "Torino",
+  "start": "2026-10-15",
+  "end": "2027-01-17",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/di-padre-in-figlio-l-universo-grafico-di-giambattista-e-giandomenico-tiepolo",
   "source": "Turismo Torino"
  },
  {
@@ -253,25 +264,14 @@
   "source": "Turismo Torino"
  },
  {
-  "title": "Presepe Meccanico della Ss Annunziata - Via Po - 2026",
+  "title": "Il metodo scientifico per affrontare la complessità",
   "venue": "Torino",
-  "start": "2026-11-07",
-  "end": "2027-01-01",
+  "start": "2026-11-26",
+  "end": "2026-11-26",
   "kind": "evento",
   "tag": "arte",
   "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/presepe-meccanico-della-ss-annunziata-via-po-2026",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Un bravo ragazzo - Borgaro Torinese",
-  "venue": "Torino",
-  "start": "2026-11-25",
-  "end": "2026-11-25",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/un-bravo-ragazzo-borgaro-torinese",
+  "url": "https://turismotorino.org/it/visita/eventi/il-metodo-scientifico-per-affrontare-la-complessita",
   "source": "Turismo Torino"
  },
  {
