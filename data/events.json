@@ -101,8 +101,8 @@
  {
   "title": "Effetto VR!",
   "venue": "Il Cinema in Virtual Reality",
-  "start": "2026-11-28",
-  "end": "2026-11-28",
+  "start": "2026-11-29",
+  "end": "2026-11-29",
   "kind": "evento",
   "tag": "cinema",
   "desc": "",
@@ -118,6 +118,17 @@
   "tag": "cinema",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/tff-torino-film-festival-44-edizione",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Musica in Prossimità 2026",
+  "venue": "Torino",
+  "start": "2026-11-27",
+  "end": "2026-11-29",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/musica-in-prossimita-2026",
   "source": "Turismo Torino"
  },
  {
@@ -143,14 +154,14 @@
   "source": "Turismo Torino"
  },
  {
-  "title": "Sotto18+ Film Fesival 2026",
+  "title": "Sotto18+ Film Festival 2026",
   "venue": "Torino",
   "start": "2026-11-16",
   "end": "2026-12-21",
   "kind": "evento",
   "tag": "cinema",
   "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/sotto18-film-fesival-2026",
+  "url": "https://turismotorino.org/it/visita/eventi/sotto18-film-festival-2026",
   "source": "Turismo Torino"
  },
  {
@@ -173,6 +184,17 @@
   "tag": "arte",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/banksy-street-is-the-museum",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Una Mole di Panettoni 2026",
+  "venue": "Torino",
+  "start": "2026-11-27",
+  "end": "2026-11-28",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/una-mole-di-panettoni-2026",
   "source": "Turismo Torino"
  },
  {
@@ -239,39 +261,6 @@
   "tag": "arte",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/di-padre-in-figlio-l-universo-grafico-di-giambattista-e-giandomenico-tiepolo",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Luci d'Artista",
-  "venue": "Torino",
-  "start": "2026-10-23",
-  "end": "2027-01-10",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/luci-dartista",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Vivi le Feste a Settimo Torinese",
-  "venue": "Torino",
-  "start": "2026-11-24",
-  "end": "2027-01-10",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/vivi-le-feste-a-settimo-torinese",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Il metodo scientifico per affrontare la complessità",
-  "venue": "Torino",
-  "start": "2026-11-26",
-  "end": "2026-11-26",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/il-metodo-scientifico-per-affrontare-la-complessita",
   "source": "Turismo Torino"
  },
  {
