@@ -101,12 +101,12 @@
  {
   "title": "Effetto VR!",
   "venue": "Il Cinema in Virtual Reality",
-  "start": "2026-11-29",
-  "end": "2026-11-29",
+  "start": "2026-11-30",
+  "end": "2026-11-30",
   "kind": "evento",
   "tag": "cinema",
   "desc": "",
-  "url": "https://www.museocinema.it/it/attivita/alla-scoperta-del-museo",
+  "url": "https://www.museocinema.it/it/attivita/salita-piedi-della-cupola-visita-autonoma-accompagnata-0",
   "source": "Museo Nazionale del Cinema"
  },
  {
@@ -118,6 +118,17 @@
   "tag": "cinema",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/tff-torino-film-festival-44-edizione",
+  "source": "Turismo Torino"
+ },
+ {
+  "title": "Pinerolo accende il Natale: luci, spettacoli, mercatini e iniziative per tutta la città",
+  "venue": "Torino",
+  "start": "2026-11-28",
+  "end": "2027-01-10",
+  "kind": "evento",
+  "tag": "arte",
+  "desc": "",
+  "url": "https://turismotorino.org/it/visita/eventi/pinerolo-accende-il-natale-luci-spettacoli-mercatini-e-iniziative-per-tutta-la-citta",
   "source": "Turismo Torino"
  },
  {
@@ -250,17 +261,6 @@
   "tag": "arte",
   "desc": "",
   "url": "https://turismotorino.org/it/visita/eventi/teatro-colosseo-stagione-2026-2027",
-  "source": "Turismo Torino"
- },
- {
-  "title": "Di padre in figlio. L'universo grafico di Giambattista e Giandomenico Tiepolo",
-  "venue": "Torino",
-  "start": "2026-10-15",
-  "end": "2027-01-17",
-  "kind": "evento",
-  "tag": "arte",
-  "desc": "",
-  "url": "https://turismotorino.org/it/visita/eventi/di-padre-in-figlio-l-universo-grafico-di-giambattista-e-giandomenico-tiepolo",
   "source": "Turismo Torino"
  },
  {

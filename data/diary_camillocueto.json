@@ -1606,5 +1606,17 @@
   "tmdb": 6977,
   "url": "https://letterboxd.com/camillocueto/film/no-country-for-old-men/",
   "review": ""
+ },
+ "letterboxd-watch-1606331088": {
+  "guid": "letterboxd-watch-1606331088",
+  "title": "Life of Pi",
+  "year": 2012,
+  "rating": 4.0,
+  "like": true,
+  "rewatch": true,
+  "watched": "2026-11-28",
+  "tmdb": 87827,
+  "url": "https://letterboxd.com/camillocueto/film/life-of-pi/",
+  "review": ""
  }
 }

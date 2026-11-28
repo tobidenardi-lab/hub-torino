@@ -1,6 +1,6 @@
 {
- "generated": "27/11/2026 14:11 UTC",
- "today": "2026-11-27",
+ "generated": "28/11/2026 13:29 UTC",
+ "today": "2026-11-28",
  "title": "Torino Culturale",
  "me": "tobi_2117",
  "friends": [
@@ -183,10 +183,10 @@
    "showings": [
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
-       "t": "14:05",
+       "t": "13:45",
        "vo": false
       }
      ],
@@ -233,7 +233,7 @@
    "showings": [
     {
      "cinema": "Nazionale",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "16:15",
@@ -337,7 +337,7 @@
    "showings": [
     {
      "cinema": "Greenwich Village",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "15:30",
@@ -487,10 +487,10 @@
    "showings": [
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
-       "t": "22:50",
+       "t": "23:50",
        "vo": false
       }
      ],
@@ -673,10 +673,21 @@
    "showings": [
     {
      "cinema": "Fratelli Marx",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "16:15",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "Massaua Cityplex",
+     "date": "2026-11-28",
+     "times": [
+      {
+       "t": "14:50",
        "vo": false
       }
      ],
@@ -723,7 +734,7 @@
    "showings": [
     {
      "cinema": "Fratelli Marx",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "16:00",
@@ -742,7 +753,7 @@
     },
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "17:10",
@@ -771,7 +782,7 @@
    "showings": [
     {
      "cinema": "Greenwich Village",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "15:30",
@@ -862,7 +873,7 @@
    "showings": [
     {
      "cinema": "Eliseo",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "15:30",
@@ -881,7 +892,7 @@
     },
     {
      "cinema": "Greenwich Village",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "15:30",
@@ -900,7 +911,7 @@
     },
     {
      "cinema": "Nazionale",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "15:30",
@@ -912,6 +923,17 @@
       },
       {
        "t": "20:45",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "UCI Lingotto",
+     "date": "2026-11-28",
+     "times": [
+      {
+       "t": "13:10",
        "vo": false
       }
      ],
@@ -971,7 +993,7 @@
    "showings": [
     {
      "cinema": "Due Giardini",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "15:30",
@@ -994,7 +1016,7 @@
     },
     {
      "cinema": "Reposi",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "17:40",
@@ -1019,10 +1041,21 @@
    "showings": [
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "15:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "The Space Torino",
+     "date": "2026-11-28",
+     "times": [
+      {
+       "t": "14:15",
        "vo": false
       }
      ],
@@ -1060,6 +1093,59 @@
    "watchlist": false,
    "i_seen": false,
    "lb_url": "https://letterboxd.com/tmdb/1739598/"
+  },
+  {
+   "title": "Godzilla Minus Zero",
+   "year": 2026,
+   "slug": "godzilla-minus-zero",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "UCI Lingotto",
+     "date": "2026-11-28",
+     "times": [
+      {
+       "t": "23:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1381071,
+   "seen_by": [
+    {
+     "user": "sethsreviews",
+     "rating": 4.5,
+     "review": "lives rebuilt from the rubble, an attempt to climb back to the surface while the devastation of what has been lost remains. Interweaves flashbacks in such a remarkable way: alternating between myth and real-world - there’s one scene in particular that is just so striking. The rare case of both bigger and better. I couldn't breathe during so many of its most thunderous moments; the destruction between Ghidorah and Godzilla is truly otherworldly. I had tears in my eyes during the entire final act. The quickest 135 minutes of all time.",
+     "slug": "godzilla-minus-zero",
+     "like": false,
+     "url": "https://letterboxd.com/sethsreviews/film/godzilla-minus-zero/",
+     "watched": "2026-11-02"
+    },
+    {
+     "user": "georgecarmi",
+     "rating": 4.5,
+     "review": "3rd act flow state hit me like a magnitude 9 earthquake.",
+     "slug": "godzilla-minus-zero",
+     "like": true,
+     "url": "https://letterboxd.com/georgecarmi/film/godzilla-minus-zero/",
+     "watched": "2026-09-26"
+    },
+    {
+     "user": "watchedbyadrien",
+     "rating": 2.5,
+     "review": "let’s get the negative out of the way. it mostly has the same flaws as the first one. the writing is still unbelievably subpar. no subtext, no poetry, just pure plot recital.\nthe acting gets pretty atrocious at times, especially from the two leads, and even more specifically from him. he either severely overacts or underacts.\nall of that makes the emotional core of the film (the most important part) not believable, and actually quite weak.\nso even though Min Tanaka stole the show, had the better sequences of the film, and gave arguably the best performance, the overall storytelling doesn’t work, which makes the whole highly forgettable.\n\nnow unto the positive. the fight sequences were fantastic. especially that midpoint battle with ghidorah and the pilots. we felt real stakes. real danger with fantastic pacing.\nthat filmmaker does not understand dramaturgy but goddamn does he understand scale!\nevery shot of these scenes, especially during the final confrontation, was almost a masterclass in action cinema. the editing perfectly matching the intensity of the score. the visual effects were astounding! the monsters don’t just look real. they have texture and grittiness on every one of their scale. all that stuff was edge of your seat filmmaking.\nthe ending scene was well done as well.\n\nother than that, it’s pretty much a nothing burger, and I’m certainly not looking forward to the third volume.",
+     "slug": "godzilla-minus-zero",
+     "like": false,
+     "url": "https://letterboxd.com/watchedbyadrien/film/godzilla-minus-zero/",
+     "watched": "2026-11-12"
+    }
+   ],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1381071/"
   },
   {
    "title": "Gojira",
@@ -1119,7 +1205,7 @@
    "showings": [
     {
      "cinema": "Nazionale",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "18:45",
@@ -1147,6 +1233,56 @@
    "lb_url": "https://letterboxd.com/tmdb/1154730/"
   },
   {
+   "title": "La Guerra Dei Prezzi",
+   "year": 2026,
+   "slug": "la-guerra-dei-prezzi",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Esedra",
+     "date": "2026-11-28",
+     "times": [
+      {
+       "t": "18:30",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1376412,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1376412/"
+  },
+  {
+   "title": "L'Hangar Rosso",
+   "year": 2026,
+   "slug": "lhangar-rosso",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Baretti",
+     "date": "2026-11-28",
+     "times": [
+      {
+       "t": "18:00",
+       "vo": true
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1563588,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1563588/"
+  },
+  {
    "title": "Hexe - Il Regno Delle Streghe",
    "year": 2026,
    "slug": "hexe-il-regno-delle-streghe",
@@ -1154,7 +1290,7 @@
    "showings": [
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "15:00",
@@ -1173,8 +1309,12 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
+      {
+       "t": "14:50",
+       "vo": false
+      },
       {
        "t": "17:00",
        "vo": false
@@ -1188,7 +1328,7 @@
     },
     {
      "cinema": "Reposi",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "15:30",
@@ -1207,10 +1347,14 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "14:30",
+       "vo": false
+      },
+      {
+       "t": "16:25",
        "vo": false
       },
       {
@@ -1220,40 +1364,44 @@
       {
        "t": "20:00",
        "vo": false
-      },
-      {
-       "t": "21:20",
-       "vo": false
       }
      ],
      "room": null
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
+      {
+       "t": "13:30",
+       "vo": true
+      },
+      {
+       "t": "14:00",
+       "vo": false
+      },
       {
        "t": "15:00",
        "vo": false
       },
       {
        "t": "16:00",
-       "vo": true
-      },
-      {
-       "t": "18:00",
        "vo": false
       },
       {
-       "t": "18:30",
+       "t": "16:40",
        "vo": false
       },
       {
-       "t": "20:00",
+       "t": "17:30",
        "vo": false
       },
       {
-       "t": "21:00",
+       "t": "18:20",
+       "vo": false
+      },
+      {
+       "t": "19:50",
        "vo": false
       }
      ],
@@ -1275,7 +1423,7 @@
    "showings": [
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "15:15",
@@ -1294,7 +1442,7 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "16:50",
@@ -1313,14 +1461,18 @@
     },
     {
      "cinema": "Movie Planet Lux",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
+      {
+       "t": "15:00",
+       "vo": false
+      },
       {
        "t": "18:00",
        "vo": false
       },
       {
-       "t": "21:15",
+       "t": "21:30",
        "vo": false
       }
      ],
@@ -1328,7 +1480,7 @@
     },
     {
      "cinema": "Reposi",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "15:30",
@@ -1347,10 +1499,10 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
-       "t": "15:05",
+       "t": "15:20",
        "vo": false
       },
       {
@@ -1358,15 +1510,15 @@
        "vo": false
       },
       {
-       "t": "18:10",
-       "vo": false
-      },
-      {
        "t": "20:50",
        "vo": false
       },
       {
-       "t": "21:40",
+       "t": "22:00",
+       "vo": false
+      },
+      {
+       "t": "23:15",
        "vo": false
       }
      ],
@@ -1374,8 +1526,16 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
+      {
+       "t": "11:30",
+       "vo": false
+      },
+      {
+       "t": "13:00",
+       "vo": false
+      },
       {
        "t": "14:20",
        "vo": true
@@ -1397,11 +1557,23 @@
        "vo": false
       },
       {
+       "t": "20:10",
+       "vo": false
+      },
+      {
        "t": "21:10",
        "vo": false
       },
       {
+       "t": "21:30",
+       "vo": false
+      },
+      {
        "t": "22:30",
+       "vo": false
+      },
+      {
+       "t": "23:00",
        "vo": false
       }
      ],
@@ -1411,6 +1583,15 @@
    "notes": [],
    "tmdb": 1300968,
    "seen_by": [
+    {
+     "user": "helmy2005",
+     "rating": 4.0,
+     "review": "There is no review for this diary entry. Add a review?",
+     "slug": "the-hunger-games-sunrise-on-the-reaping",
+     "like": true,
+     "url": "https://letterboxd.com/helmy2005/film/the-hunger-games-sunrise-on-the-reaping/",
+     "watched": "2026-11-27"
+    },
     {
      "user": "georgecarmi",
      "rating": 3.0,
@@ -1492,7 +1673,7 @@
    "showings": [
     {
      "cinema": "Nazionale",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "16:30",
@@ -1531,7 +1712,7 @@
    "showings": [
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "19:45",
@@ -1542,8 +1723,12 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
+      {
+       "t": "14:30",
+       "vo": false
+      },
       {
        "t": "19:50",
        "vo": false
@@ -1553,16 +1738,8 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
-      {
-       "t": "14:20",
-       "vo": false
-      },
-      {
-       "t": "16:35",
-       "vo": false
-      },
       {
        "t": "18:40",
        "vo": false
@@ -1576,7 +1753,7 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "17:40",
@@ -1718,7 +1895,7 @@
    "showings": [
     {
      "cinema": "Fratelli Marx",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "18:45",
@@ -1729,7 +1906,7 @@
     },
     {
      "cinema": "Nazionale",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "21:15",
@@ -1740,10 +1917,10 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
-       "t": "18:50",
+       "t": "18:40",
        "vo": false
       }
      ],
@@ -1758,6 +1935,31 @@
    "lb_url": "https://letterboxd.com/tmdb/336804/"
   },
   {
+   "title": "Nel Silenzio Delle Stanze",
+   "year": 2025,
+   "slug": "nel-silenzio-delle-stanze",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Baretti",
+     "date": "2026-11-28",
+     "times": [
+      {
+       "t": "21:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1119548,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1119548/"
+  },
+  {
    "title": "La Notte Delle Fragole",
    "year": 2026,
    "slug": "la-notte-delle-fragole",
@@ -1765,10 +1967,10 @@
    "showings": [
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
-       "t": "16:00",
+       "t": "16:05",
        "vo": false
       },
       {
@@ -1784,7 +1986,7 @@
     },
     {
      "cinema": "Reposi",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "15:30",
@@ -1803,18 +2005,18 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "14:55",
        "vo": false
       },
       {
-       "t": "16:05",
+       "t": "16:55",
        "vo": false
       },
       {
-       "t": "18:05",
+       "t": "19:05",
        "vo": false
       },
       {
@@ -1826,7 +2028,7 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "15:10",
@@ -1834,6 +2036,10 @@
       },
       {
        "t": "16:10",
+       "vo": false
+      },
+      {
+       "t": "19:10",
        "vo": false
       },
       {
@@ -2277,8 +2483,12 @@
    "showings": [
     {
      "cinema": "Esedra",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
+      {
+       "t": "16:00",
+       "vo": false
+      },
       {
        "t": "21:15",
        "vo": false
@@ -2321,7 +2531,7 @@
    "showings": [
     {
      "cinema": "Fratelli Marx",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "18:45",
@@ -2336,7 +2546,7 @@
     },
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "17:35",
@@ -2351,10 +2561,10 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
-       "t": "17:00",
+       "t": "15:10",
        "vo": false
       }
      ],
@@ -2362,7 +2572,7 @@
     },
     {
      "cinema": "Reposi",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "15:30",
@@ -2672,7 +2882,7 @@
    "showings": [
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "17:10",
@@ -2687,10 +2897,10 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
-       "t": "17:40",
+       "t": "17:50",
        "vo": false
       },
       {
@@ -2702,8 +2912,12 @@
     },
     {
      "cinema": "Movie Planet Lux",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
+      {
+       "t": "15:15",
+       "vo": false
+      },
       {
        "t": "22:15",
        "vo": false
@@ -2713,7 +2927,7 @@
     },
     {
      "cinema": "Reposi",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "17:40",
@@ -2728,14 +2942,14 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
-       "t": "15:20",
+       "t": "15:40",
        "vo": false
       },
       {
-       "t": "18:25",
+       "t": "17:40",
        "vo": false
       },
       {
@@ -2747,8 +2961,12 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
+      {
+       "t": "11:10",
+       "vo": false
+      },
       {
        "t": "14:10",
        "vo": false
@@ -2790,7 +3008,7 @@
    "showings": [
     {
      "cinema": "Fratelli Marx",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "16:30",
@@ -2805,7 +3023,7 @@
     },
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "15:30",
@@ -2820,10 +3038,10 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
-       "t": "17:55",
+       "t": "17:20",
        "vo": false
       },
       {
@@ -2835,7 +3053,7 @@
     },
     {
      "cinema": "Reposi",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "17:40",
@@ -2850,10 +3068,14 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
-       "t": "15:20",
+       "t": "15:00",
+       "vo": false
+      },
+      {
+       "t": "18:55",
        "vo": false
       }
      ],
@@ -2861,8 +3083,12 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
+      {
+       "t": "11:20",
+       "vo": false
+      },
       {
        "t": "14:30",
        "vo": false
@@ -2947,7 +3173,7 @@
    "showings": [
     {
      "cinema": "Eliseo",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "15:45",
@@ -3129,7 +3355,7 @@
    "showings": [
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "15:00",
@@ -3144,14 +3370,14 @@
     },
     {
      "cinema": "Massaua Cityplex",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
-       "t": "16:00",
+       "t": "16:05",
        "vo": false
       },
       {
-       "t": "19:50",
+       "t": "19:45",
        "vo": false
       },
       {
@@ -3163,7 +3389,7 @@
     },
     {
      "cinema": "Movie Planet Lux",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "17:30",
@@ -3178,7 +3404,7 @@
     },
     {
      "cinema": "Reposi",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "15:30",
@@ -3197,14 +3423,14 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
-       "t": "15:40",
+       "t": "16:00",
        "vo": false
       },
       {
-       "t": "18:50",
+       "t": "19:20",
        "vo": false
       },
       {
@@ -3216,7 +3442,7 @@
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "16:20",
@@ -3316,6 +3542,31 @@
    "lb_url": "https://letterboxd.com/tmdb/862/"
   },
   {
+   "title": "Un Tranquillo Funerale Di Famiglia",
+   "year": 2026,
+   "slug": "un-tranquillo-funerale-di-famiglia",
+   "director": "",
+   "showings": [
+    {
+     "cinema": "Massaua Cityplex",
+     "date": "2026-11-28",
+     "times": [
+      {
+       "t": "18:00",
+       "vo": false
+      }
+     ],
+     "room": null
+    }
+   ],
+   "notes": [],
+   "tmdb": 1678120,
+   "seen_by": [],
+   "watchlist": false,
+   "i_seen": false,
+   "lb_url": "https://letterboxd.com/tmdb/1678120/"
+  },
+  {
    "title": "Il viaggio di Arlo",
    "year": 1988,
    "slug": null,
@@ -3347,11 +3598,22 @@
    "director": "",
    "showings": [
     {
-     "cinema": "The Space Torino",
-     "date": "2026-11-27",
+     "cinema": "Massaua Cityplex",
+     "date": "2026-11-28",
      "times": [
       {
-       "t": "23:15",
+       "t": "14:25",
+       "vo": false
+      }
+     ],
+     "room": null
+    },
+    {
+     "cinema": "The Space Torino",
+     "date": "2026-11-28",
+     "times": [
+      {
+       "t": "14:00",
        "vo": false
       }
      ],
@@ -3373,7 +3635,7 @@
    "showings": [
     {
      "cinema": "Classico",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "15:45",
@@ -3392,7 +3654,7 @@
     },
     {
      "cinema": "Due Giardini",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "16:00",
@@ -3411,7 +3673,7 @@
     },
     {
      "cinema": "Eliseo",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "16:00",
@@ -3430,7 +3692,7 @@
     },
     {
      "cinema": "Greenwich Village",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "18:15",
@@ -3445,7 +3707,7 @@
     },
     {
      "cinema": "Ideal Cityplex",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "21:30",
@@ -3456,7 +3718,7 @@
     },
     {
      "cinema": "Nazionale",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "16:00",
@@ -3544,7 +3806,7 @@
    "showings": [
     {
      "cinema": "Greenwich Village",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "20:30",
@@ -3555,7 +3817,7 @@
     },
     {
      "cinema": "The Space Torino",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
        "t": "18:30",
@@ -3564,20 +3826,28 @@
       {
        "t": "20:30",
        "vo": true
+      },
+      {
+       "t": "21:40",
+       "vo": true
       }
      ],
      "room": null
     },
     {
      "cinema": "UCI Lingotto",
-     "date": "2026-11-27",
+     "date": "2026-11-28",
      "times": [
       {
-       "t": "15:30",
+       "t": "11:45",
        "vo": true
       },
       {
-       "t": "21:00",
+       "t": "15:30",
+       "vo": false
+      },
+      {
+       "t": "20:40",
        "vo": false
       },
       {
@@ -3601,6 +3871,24 @@
      "watched": "2026-11-22"
     },
     {
+     "user": "dedecxz",
+     "rating": 5.0,
+     "review": "",
+     "slug": "you-can-see-everything",
+     "like": true,
+     "url": "https://letterboxd.com/dedecxz/film/you-can-see-everything/1/",
+     "watched": "2026-11-28"
+    },
+    {
+     "user": "sethsreviews",
+     "rating": 5.0,
+     "review": "It almost feels redundant to say at this point (especially given I’m the last person on earth to see this now), but this is a genuine wrecking ball. Couldn’t believe what I was seeing. A doc-deconstruction unlike any other, switching between what is perceived vs what is seen. One of the most bizarrely intimate creations I’ve ever seen, the moments that follow every single one of Fielder’s starkly honest confrontations are otherworldly. The staging is so so heavy, positioned mostly like an inescapable narrative thriller at times, blurring the lines between sincerity and fluidity. There’s always limits to how much we actually know; no matter the amount of wide-eyed gazes and micro-expressions. How far can a performance really stretch until the line between collapses? We will never truly see everything.",
+     "slug": "you-can-see-everything",
+     "like": false,
+     "url": "https://letterboxd.com/sethsreviews/film/you-can-see-everything/",
+     "watched": "2026-11-27"
+    },
+    {
      "user": "georgecarmi",
      "rating": 5.0,
      "review": "saw it again. saw a lot more.",
@@ -3622,31 +3910,6 @@
    "watchlist": true,
    "i_seen": false,
    "lb_url": "https://letterboxd.com/tmdb/1765072/"
-  },
-  {
-   "title": "Zustissia",
-   "year": 2026,
-   "slug": "zustissia",
-   "director": "",
-   "showings": [
-    {
-     "cinema": "Teatro Monterosa",
-     "date": "2026-11-27",
-     "times": [
-      {
-       "t": "21:00",
-       "vo": false
-      }
-     ],
-     "room": null
-    }
-   ],
-   "notes": [],
-   "tmdb": 1639616,
-   "seen_by": [],
-   "watchlist": false,
-   "i_seen": false,
-   "lb_url": "https://letterboxd.com/tmdb/1639616/"
   }
  ],
  "events": [
@@ -3752,12 +4015,12 @@
   {
    "title": "Effetto VR!",
    "venue": "Il Cinema in Virtual Reality",
-   "start": "2026-11-29",
-   "end": "2026-11-29",
+   "start": "2026-11-30",
+   "end": "2026-11-30",
    "kind": "evento",
    "tag": "cinema",
    "desc": "",
-   "url": "https://www.museocinema.it/it/attivita/alla-scoperta-del-museo",
+   "url": "https://www.museocinema.it/it/attivita/salita-piedi-della-cupola-visita-autonoma-accompagnata-0",
    "source": "Museo Nazionale del Cinema"
   },
   {
@@ -3769,6 +4032,17 @@
    "tag": "cinema",
    "desc": "",
    "url": "https://turismotorino.org/it/visita/eventi/tff-torino-film-festival-44-edizione",
+   "source": "Turismo Torino"
+  },
+  {
+   "title": "Pinerolo accende il Natale: luci, spettacoli, mercatini e iniziative per tutta la città",
+   "venue": "Torino",
+   "start": "2026-11-28",
+   "end": "2027-01-10",
+   "kind": "evento",
+   "tag": "arte",
+   "desc": "",
+   "url": "https://turismotorino.org/it/visita/eventi/pinerolo-accende-il-natale-luci-spettacoli-mercatini-e-iniziative-per-tutta-la-citta",
    "source": "Turismo Torino"
   },
   {
@@ -3904,17 +4178,6 @@
    "source": "Turismo Torino"
   },
   {
-   "title": "Di padre in figlio. L'universo grafico di Giambattista e Giandomenico Tiepolo",
-   "venue": "Torino",
-   "start": "2026-10-15",
-   "end": "2027-01-17",
-   "kind": "evento",
-   "tag": "arte",
-   "desc": "",
-   "url": "https://turismotorino.org/it/visita/eventi/di-padre-in-figlio-l-universo-grafico-di-giambattista-e-giandomenico-tiepolo",
-   "source": "Turismo Torino"
-  },
-  {
    "title": "mercoledì 21 ottobre 2026 Home Notizie Guide Mostre Foto Video Speciali Archivio home > Mostre Tutte le Mostre di Ottobre 2026 a Torino",
    "venue": " – CAMERA - Centro Italiano per la Fotografia",
    "start": "2026-10-17",
@@ -3951,80 +4214,80 @@
  "health": {
   "mymovies_cinema": {
    "ok": true,
-   "count": 73,
+   "count": 81,
    "note": "",
-   "checked": "2026-11-27 14:10 UTC",
-   "last_ok": "2026-11-27"
+   "checked": "2026-11-28 13:27 UTC",
+   "last_ok": "2026-11-28"
   },
   "massimo_calendario": {
    "ok": true,
    "count": 78,
    "note": "",
-   "checked": "2026-11-27 14:10 UTC",
-   "last_ok": "2026-11-27"
+   "checked": "2026-11-28 13:27 UTC",
+   "last_ok": "2026-11-28"
   },
   "letterboxd_seguiti": {
    "ok": true,
    "count": 24,
    "note": "",
-   "checked": "2026-11-27 14:10 UTC",
-   "last_ok": "2026-11-27"
+   "checked": "2026-11-28 13:27 UTC",
+   "last_ok": "2026-11-28"
   },
   "letterboxd_diari": {
    "ok": true,
    "count": 25,
    "note": "",
-   "checked": "2026-11-27 14:10 UTC",
-   "last_ok": "2026-11-27"
+   "checked": "2026-11-28 13:28 UTC",
+   "last_ok": "2026-11-28"
   },
   "letterboxd_watchlist": {
    "ok": true,
    "count": 164,
    "note": "",
-   "checked": "2026-11-27 14:11 UTC",
-   "last_ok": "2026-11-27"
+   "checked": "2026-11-28 13:28 UTC",
+   "last_ok": "2026-11-28"
   },
   "eventi: Museo Nazionale del Cinema": {
    "ok": true,
    "count": 5,
    "note": "",
-   "checked": "2026-11-27 14:11 UTC",
-   "last_ok": "2026-11-27"
+   "checked": "2026-11-28 13:28 UTC",
+   "last_ok": "2026-11-28"
   },
   "letterboxd_storico": {
    "ok": true,
    "count": 5,
    "note": "0 film importati oggi; completi 5/25; Letterboxd ha rifiutato richieste, riprovo domani",
-   "checked": "2026-11-27 14:10 UTC",
-   "last_ok": "2026-11-27"
+   "checked": "2026-11-28 13:28 UTC",
+   "last_ok": "2026-11-28"
   },
   "eventi: arte.it": {
    "ok": false,
    "count": 0,
-   "note": "nessun evento riconosciuto. 69804 byte; titolo: Mostre d'arte - Torino - Eventi d'arte - Esposizio; link totali: 106; link mostra/evento: 27",
-   "checked": "2026-11-27 14:11 UTC",
+   "note": "nessun evento riconosciuto. 70116 byte; titolo: Mostre d'arte - Torino - Eventi d'arte - Esposizio; link totali: 106; link mostra/evento: 27",
+   "checked": "2026-11-28 13:28 UTC",
    "last_ok": "2026-10-20"
   },
   "eventi: CAMERA - mostre": {
    "ok": true,
    "count": 3,
    "note": "",
-   "checked": "2026-11-27 14:11 UTC",
-   "last_ok": "2026-11-27"
+   "checked": "2026-11-28 13:28 UTC",
+   "last_ok": "2026-11-28"
   },
   "eventi: Turismo Torino": {
    "ok": true,
    "count": 14,
    "note": "",
-   "checked": "2026-11-27 14:11 UTC",
-   "last_ok": "2026-11-27"
+   "checked": "2026-11-28 13:28 UTC",
+   "last_ok": "2026-11-28"
   },
   "eventi: CAMERA - incontri": {
    "ok": true,
    "count": 6,
    "note": "",
-   "checked": "2026-11-27 14:11 UTC",
-   "last_ok": "2026-11-27"
+   "checked": "2026-11-28 13:28 UTC",
+   "last_ok": "2026-11-28"
   }
  }
 }

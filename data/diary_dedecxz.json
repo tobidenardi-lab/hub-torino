@@ -1606,5 +1606,17 @@
   "tmdb": 1151244,
   "url": "https://letterboxd.com/dedecxz/film/vermiglio/",
   "review": ""
+ },
+ "letterboxd-watch-1605774211": {
+  "guid": "letterboxd-watch-1605774211",
+  "title": "You Can See Everything",
+  "year": 2026,
+  "rating": 5.0,
+  "like": true,
+  "rewatch": false,
+  "watched": "2026-11-28",
+  "tmdb": 1765072,
+  "url": "https://letterboxd.com/dedecxz/film/you-can-see-everything/1/",
+  "review": ""
  }
 }
